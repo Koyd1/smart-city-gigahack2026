@@ -1,0 +1,23 @@
+{
+  "category": "district_administration",
+  "content": "Lista schemelor de amplasare (18.02.2022)\n",
+  "content_sha256": "fa8dab63b626d7cafde0c12f8a8719398eba89cf911cb88b8a182e2f42f9d9cd",
+  "document_date": null,
+  "document_id": "doc_7d05551b4b80ae29abbd",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "ff264c9540e6337b5b967e827945ee419d72d03b7793aa046594706dc887ae30",
+    "raw_path": "data/raw/district-botanica/ff264c9540e6337b5b967e827945ee419d72d03b7793aa046594706dc887ae30.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:33:57.556922+00:00",
+  "source_url": "https://botanica.md/transparenta/Scheme-de-amplasare",
+  "title": "Scheme de amplasare",
+  "version_id": "ver_7d05551b_fa8dab63b626"
+}

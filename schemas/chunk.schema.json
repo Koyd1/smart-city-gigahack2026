@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://civic-ai.local/schemas/chunk.schema.json",
+  "title": "Portable document chunk",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "chunk_id",
+    "document_id",
+    "version_id",
+    "source_url",
+    "title",
+    "language",
+    "text"
+  ],
+  "properties": {
+    "chunk_id": {"type": "string", "minLength": 1},
+    "document_id": {"type": "string", "minLength": 1},
+    "version_id": {"type": "string", "minLength": 1},
+    "source_url": {"type": "string", "format": "uri"},
+    "title": {"type": "string"},
+    "category": {"type": ["string", "null"]},
+    "language": {"enum": ["ro", "ru", "en", "mixed", "und"]},
+    "heading_path": {"type": "array", "items": {"type": "string"}},
+    "page_start": {"type": ["integer", "null"], "minimum": 1},
+    "page_end": {"type": ["integer", "null"], "minimum": 1},
+    "anchor": {"type": ["string", "null"]},
+    "text": {"type": "string", "minLength": 1},
+    "token_count": {"type": ["integer", "null"], "minimum": 1},
+    "extraction_quality": {"type": ["number", "null"], "minimum": 0, "maximum": 1},
+    "retrieved_at": {"type": ["string", "null"], "format": "date-time"}
+  }
+}

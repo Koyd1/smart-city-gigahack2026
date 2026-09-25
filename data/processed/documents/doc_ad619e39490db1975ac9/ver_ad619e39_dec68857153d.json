@@ -1,0 +1,23 @@
+{
+  "category": "education",
+  "content": "# Declarația de Buna Guvernare\n\nAccesează toate declarațiile de buna guvernare emise de Direcția Generală Educație, Tineret și Sport a municipiului Chișinău.\n\nExemplu: rapoarte, noutăți, evenimente\n",
+  "content_sha256": "dec68857153d6cdd39096209d02c642f08b3875971dfb2d5f4cacffa014c5b4d",
+  "document_date": null,
+  "document_id": "doc_ad619e39490db1975ac9",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "db335969a3517024399797e2d00cede6cfc1190d0e8d84b6980a111d3bcaaaf5",
+    "raw_path": "data/raw/chisinau-education/db335969a3517024399797e2d00cede6cfc1190d0e8d84b6980a111d3bcaaaf5.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:09:10.081098+00:00",
+  "source_url": "https://chisinauedu.dgets.md/declaratie-buna-guvernare",
+  "title": "Declarația de Buna Guvernare",
+  "version_id": "ver_ad619e39_dec68857153d"
+}

@@ -1,0 +1,23 @@
+{
+  "category": "other_public_services",
+  "content": "Modalităţi de repartizare pot fi solicitate şi expuse printr-un document întocmit de gestionarul fondului locativ\n\nVariante posibile de distribuire a diferenţei de \"Apă potabilă\" şi de \"Apă menajeră\" obţinute din indicaţiile de pe contor comun instalat în bloc şi indicatiile contoarelor individuale din apartamente şi volumele calculate conform normelor sanitare\n\n| Tip distribuire | Explicaţie |\n|---|---|\n| 0 | diferenţa nu se distribuie; |\n| 1 | diferenţa se distribuie la toţi abonaţi (apartamente) (şi cei contorizati şi cei necontorizaţi) proporţional volumului consumat de abonaţi; |\n| 2 | diferenta se distribuie la abonaţi (apartamente) necontorizaţi proportional volumului consumat; |\n| 3 | diferenta se imparte la toţi abonaţi (apartamente) proportional numărului de locatari; |\n| 4 | diferenţa se imparte la abonaţi (apartamente) necontorizaţi proporţional numarului de locatari; |\n| 5 | diferenţa se imparte egal la toti abonaţi (apartamente); |\n| 6 | diferenţa se imparte la toti abonaţi (apartamente) contorizati proporţional numarului de locatari; |\n| 7 | diferenţa se împarte la toţi abonaţi contorizaţi, ce n-au prezentat date ultimele 3 luni; |\n| 8 | diferenţa se imparte la abonaţi contorizaţi şi necontorizaţi în proporţie de 30% /70 %, respectiv; |\n| 9 | diferenţa se imparte la toţi abonaţi contorizaţi, dar volumul care se imparte şi cel de pe contor în sumă, nu poate depăşi norma sanitară; |\n| 10 | diferenţa se imparte la toţi abonaţi contorizaţi, ce n-au prezentat datele ultima luna, dar volumul care se imparte şi cel de pe contor în sumă, nu poate depăşi norma sanitară; |\n| 11 | diferenţa se imparte egal pe toţi abonaţi, care s-au folosit de apă; |\n| 12 | diferenţa se împarte la abonaţi contorizaţi, care s-au folosit de apă proporţional numărului de persoane; |\n| 13 | diferenţa se împarte la toţi, care s-au folosit de apă proporţional numărului de persoane; |\n| 14 | diferenţa se împarte la abonaţi contorizaţi, volumul adaugător nu poate depăşi volumul concret (de exemplu, 1 m3) şi norma sanitară; |\n| 15 | la toate apartamentele se adaugă un volum concret (de exemplu, 1 m3); |\n| 16 | la toate persoanele se adaugă un volum concret (de exemplu, 1 m3); |\n| 17 | proportional volumului consumat, dar volumul repartizat adaugator nu poate depasi o valoare concreta per persoană (de exemplu, 1m3/pes.); |\n| 18 | proportional volumului consumat la apartamente necontorizate, cele cu contoare expirate şi care nu declară volume pe parcursul a 3 luni. În cazul contorizării integrale a blocului - egal pe apartamente; |\n| 19 | proportional volumului consumat la apartamente necontorizate, cele cu contoare expirate şi care nu declară volume pe parcursul a 3 luni. În cazul contorizării integrale a blocului - proporţional volumului consumat; |\n| 20 | la apartamente necontorizate şi la cele cu contoare expirate, proporţional la numărul de locatari; |\n| 21 | la apartamente necontorizate şi la cele cu contoare expirate, proporţional volumului consumat; |\n| 22 | proportional volumului consumat la apartamente necontorizate, cele cu contoare expirate şi care nu declară volume pe parcursul a 3 luni. În cazul contorizării integrale a blocului - egal pe apartamente. Volumul care se imparte şi cel de pe contor în sumă, nu poate depăşi norma sanitară; |\n| 23 | la toate apartamentele un volum fix, indicat de gestionar, proporţional consumului declarat de locatari/normelor de consum (de ex. 0.5 m3*consum real); |\n",
+  "content_sha256": "36bc83516a892564266fa1f2db440aa34608c81eaeace130e72c931d552aae84",
+  "document_date": null,
+  "document_id": "doc_3e9aef0f142aeb87f737",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "674c11d1122b2c0804d9f07b4a7a208469aff077dc8301a9ea45039e040c1cf8",
+    "raw_path": "data/raw/infocom/674c11d1122b2c0804d9f07b4a7a208469aff077dc8301a9ea45039e040c1cf8.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:10:53.785757+00:00",
+  "source_url": "http://www.infocom.md/pagina/program.html",
+  "title": "Î.M. Infocom - Modalităţile de repartizare",
+  "version_id": "ver_3e9aef0f_36bc83516a89"
+}

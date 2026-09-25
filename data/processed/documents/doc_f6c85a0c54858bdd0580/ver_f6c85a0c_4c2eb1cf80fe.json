@@ -1,0 +1,23 @@
+{
+  "category": "district_administration",
+  "content": "Instituțiile de învățământ\n",
+  "content_sha256": "4c2eb1cf80fe56006a76120e8c64f3f62af3742ffda015e4647eaf8e2c76e66d",
+  "document_date": null,
+  "document_id": "doc_f6c85a0c54858bdd0580",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "90b023755aa144830b1084f49d937f021fa5ff67378117c9dcdaa78e4930d27c",
+    "raw_path": "data/raw/district-botanica/90b023755aa144830b1084f49d937f021fa5ff67378117c9dcdaa78e4930d27c.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:23:16.769820+00:00",
+  "source_url": "https://botanica.md/posts?page=67",
+  "title": "Postări",
+  "version_id": "ver_f6c85a0c_4c2eb1cf80fe"
+}

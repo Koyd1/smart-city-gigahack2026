@@ -1,0 +1,23 @@
+{
+  "category": "healthcare",
+  "content": "<!-- page: 1 -->\n\nAnexa nr. 3\n\nla Regulamentul cu privire la regimul juridic al cadourilor\n\nRepublica Moldova\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_IMSP AMT Rîșcani\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n(denumirea entității publice)\n\n## REGISTRUL DE EVIDENȚĂ A CADOURILOR ADMISIBILE\n\n| Nr. de înregistrare   | Data, luna și anul predării   | Numele, prenumele beneficiarului cadoului admisibil, funcția deținută   | Numele, prenumele persoanei/denumirea instituției care a oferit cadoul admisibil   | Descrierea relației (personală, profesională) dintre beneficiar și persoana/ instituția (denumirea) care a oferit cadoul admisibil   | Descrierea împrejurărilor în care a fost primit cadoul admisibil   | Valoarea de piață a cadoului admisibil (lei)   | Decizia luată în raport cu cadoul admisibil (se indică una dintre cele trei decizii luate de Comisie 1 , precum și numărul și data procesului- verbal)   | Soarta cadoului admisibil (se indică, după caz, returnat beneficiarului, returnat beneficiarului ca urmare a răscumpărării sau trecut în proprietatea entității publice 2 ) și data   |\n|-----------------------|-------------------------------|-------------------------------------------------------------------------|------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|\n",
+  "content_sha256": "26feeaee14e17ee09dd45ca33a124a162ea422a0fdecd3e5c4429fc75ab47060",
+  "document_date": null,
+  "document_id": "doc_0cbff81e284da653edff",
+  "document_type": "pdf",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "docling",
+    "page_count": 1,
+    "quality": 1.0,
+    "raw_content_sha256": "affd896ec6568c31d4a985ccd90b268e6585dc0b5ecbe035c701101e0cf42dda",
+    "raw_path": "data/raw/amt-riscani/affd896ec6568c31d4a985ccd90b268e6585dc0b5ecbe035c701101e0cf42dda.pdf",
+    "structure_path": "data/interim/extracted/doc_0cbff81e284da653edff/ver_0cbff81e_26feeaee14e1.structure.json"
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:10:54.161879+00:00",
+  "source_url": "http://amtriscani.md/upload/public_info_files/REGISTRUL%20CADOURILOR.pdf",
+  "title": "REGISTRUL%20CADOURILOR.pdf",
+  "version_id": "ver_0cbff81e_26feeaee14e1"
+}

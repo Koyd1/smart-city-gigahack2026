@@ -1,0 +1,23 @@
+{
+  "category": "other_public_services",
+  "content": "Volumul mediu se calculează conform Hotărîrii Guvernului RM nr.281 din 17.04.2024\n\n                                Dacă locatarii nu prezintă indicii contoarelor din apartament, conform Hotărîrii Guvernului nr.281 din 17.04.2024 (p.9),\n                                primele 2 luni se calculează volumul mediu din lunile precedente, iar începând cu luna a treia – se calculează volumul conform [normelor de consum](http://www.infocom.md/norma.html),\n                                până la înscrierea indicilor de pe contoare în bonurile de plată.\n\nPentru calcularea corectă a volumului consumat, e necesar ca locatarii să prezinte lunar datele de la contor, indiferent de consum şi indiferent de achitare, sau pentru o perioadă îndelungată pot depune la gestionarul fondului locativ o cerere în acest sens, precum nu va fi consum şi să nu fie calculate volume de apă lunare.\n",
+  "content_sha256": "8fc1cec80c11cfdddded013ec3ef33e728f82c4297fc28ea8b52e43c5d69625e",
+  "document_date": null,
+  "document_id": "doc_38808fd02ce7de95318f",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "060b3af7d6a3b7ad9e14d342251d13b2daab4b75423bfc009615bb81106f103b",
+    "raw_path": "data/raw/infocom/060b3af7d6a3b7ad9e14d342251d13b2daab4b75423bfc009615bb81106f103b.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:11:10.225917+00:00",
+  "source_url": "http://www.infocom.md/pagina/media.html",
+  "title": "Î.M. Infocom - Volumul mediu calculat",
+  "version_id": "ver_38808fd0_8fc1cec80c11"
+}

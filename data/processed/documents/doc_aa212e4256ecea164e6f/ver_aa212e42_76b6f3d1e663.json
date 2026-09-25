@@ -1,0 +1,23 @@
+{
+  "category": "district_administration",
+  "content": "Lista unităților de comerț din sectorul Ciocana\n",
+  "content_sha256": "76b6f3d1e6632cf8474d57ab6264e79355cafc3a86758bd8576586a651556f2c",
+  "document_date": null,
+  "document_id": "doc_aa212e4256ecea164e6f",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "4b496da129cfead48134d0bff036e3f65ac81dd16ddfa93f709b0bb473d8aef7",
+    "raw_path": "data/raw/district-ciocana/4b496da129cfead48134d0bff036e3f65ac81dd16ddfa93f709b0bb473d8aef7.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:13:20.182291+00:00",
+  "source_url": "https://ciocana.md/scheme-de-amplasare-eliberate",
+  "title": "Scheme de amplasare eliberate",
+  "version_id": "ver_aa212e42_76b6f3d1e663"
+}

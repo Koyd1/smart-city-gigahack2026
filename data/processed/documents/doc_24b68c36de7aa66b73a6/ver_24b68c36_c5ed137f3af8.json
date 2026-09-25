@@ -1,0 +1,23 @@
+{
+  "category": "urban_mobility",
+  "content": "<iframe src=”https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2718.4950977750013!2d28.887085115806588!3d47.05013753424425!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x40c97cecb6613e13%3A0x4a9a34bd464616c5!2sOficiul%20Po%C8%99tal%20MD-2075!5e0!3m2!1sro!2s!4v1658124752260!5m2!1sro!2s” width=”600″ height=”450″ style=”border:0;” allowfullscreen=”” loading=”lazy” referrerpolicy=”no-referrer-when-downgrade”></iframe>\n\nMD-2004, municipiul Chişinău, Str. Serghei Lazo, 18\n",
+  "content_sha256": "c5ed137f3af88d9ad43ed2bf55067350a4b4b6a7d656514f244226c869476ee9",
+  "document_date": null,
+  "document_id": "doc_24b68c36de7aa66b73a6",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "3f376a302f63a89c55c1fba568909dd5a422cce9723489b975b323e5a544dd98",
+    "raw_path": "data/raw/mobility-chisinau/3f376a302f63a89c55c1fba568909dd5a422cce9723489b975b323e5a544dd98.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:08:26.074014+00:00",
+  "source_url": "https://mobilitatechisinau.md/?page_id=7492",
+  "title": "Abonamente transport public - mobilitatechisinau.md",
+  "version_id": "ver_24b68c36_c5ed137f3af8"
+}

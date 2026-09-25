@@ -1,0 +1,23 @@
+{
+  "category": "healthcare",
+  "content": "# Contacte\n\n                            ## **Telefon/fax: 022 22 80 84**\n\n##   **Adresa : str. Bucureşti, 35**\n\n##   **Email: anticamera@dgams.md**\n",
+  "content_sha256": "327a33f8130630a745ee28f0a4a725b88cd26a63ea02743e7dbe3d64f162b8f5",
+  "document_date": null,
+  "document_id": "doc_dad29f3e1f664f76a66e",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "44e4d4c84cea72ed30ce9985ac31274e5eba796b2d713a48a6029eb80e7e92ee",
+    "raw_path": "data/raw/dgams/44e4d4c84cea72ed30ce9985ac31274e5eba796b2d713a48a6029eb80e7e92ee.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:07:33.335788+00:00",
+  "source_url": "https://dgams.md/contacte",
+  "title": "Contacte",
+  "version_id": "ver_dad29f3e_327a33f81306"
+}

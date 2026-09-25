@@ -1,0 +1,23 @@
+{
+  "category": "district_administration",
+  "content": "Instituțiile de învățământ\n",
+  "content_sha256": "4c2eb1cf80fe56006a76120e8c64f3f62af3742ffda015e4647eaf8e2c76e66d",
+  "document_date": null,
+  "document_id": "doc_9bf586259dcd1e9f6631",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "911116a60d943df55a25e3cb147bff06a7f4cd9da6eb1cab69e45dd241a69e6b",
+    "raw_path": "data/raw/district-botanica/911116a60d943df55a25e3cb147bff06a7f4cd9da6eb1cab69e45dd241a69e6b.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:50:50.055856+00:00",
+  "source_url": "https://botanica.md/insitutii-de-sector",
+  "title": "Insituţii",
+  "version_id": "ver_9bf58625_4c2eb1cf80fe"
+}

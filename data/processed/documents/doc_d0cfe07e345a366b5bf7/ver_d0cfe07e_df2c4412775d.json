@@ -1,0 +1,23 @@
+{
+  "category": "education",
+  "content": "# Registrele cadourilor inadmisibile\n\nConsultă registrul cadourilor inadmisibile publicate în conformitate cu legislația.\n\nExemplu: rapoarte, noutăți, evenimente\n",
+  "content_sha256": "df2c4412775db3cd9fd218dc955bd18dc62d9dc6d7c2965ff46e6da7f3b17fbe",
+  "document_date": null,
+  "document_id": "doc_d0cfe07e345a366b5bf7",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "684045196c1cd39cb7cb6d8d40bbaf14b792c60ba4613405aeb5e2279aa0e237",
+    "raw_path": "data/raw/chisinau-education/684045196c1cd39cb7cb6d8d40bbaf14b792c60ba4613405aeb5e2279aa0e237.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:11:25.472970+00:00",
+  "source_url": "https://chisinauedu.dgets.md/registre-cadouri-inadmisibile",
+  "title": "Registrele cadourilor inadmisibile",
+  "version_id": "ver_d0cfe07e_df2c4412775d"
+}

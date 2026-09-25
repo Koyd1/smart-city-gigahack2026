@@ -1,0 +1,23 @@
+{
+  "category": "education",
+  "content": "# Rapoarte DGETS\n\nAccesează toate rapoartele DGETS emise de Direcția Generală Educație, Tineret și Sport a municipiului Chișinău.\n\nExemplu: rapoarte, noutăți, evenimente\n",
+  "content_sha256": "1ee914436cc8e813f5c3f9a4c50e13b7dabc645873150d2fd792c759e10895d5",
+  "document_date": null,
+  "document_id": "doc_81ad92ba89efc3d6b7d4",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "5b146377e4b9a91a900d0a4d3d568b18ed19ceaa4a4a1200b1ec29b519e10d1f",
+    "raw_path": "data/raw/chisinau-education/5b146377e4b9a91a900d0a4d3d568b18ed19ceaa4a4a1200b1ec29b519e10d1f.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:10:21.822962+00:00",
+  "source_url": "https://chisinauedu.dgets.md/rapoarte-dgets",
+  "title": "Rapoarte DGETS",
+  "version_id": "ver_81ad92ba_1ee914436cc8"
+}

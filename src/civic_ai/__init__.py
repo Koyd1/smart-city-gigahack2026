@@ -1,0 +1,1 @@
+"""Chisinau municipal data parser."""

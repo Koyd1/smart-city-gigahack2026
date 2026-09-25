@@ -1,0 +1,23 @@
+{
+  "category": "healthcare",
+  "content": "<!-- page: 1 -->\n\n## Instituţia Medico-Sanitară Publică Asociația Medicală Teritorială Rîșcani\n\n## COMISIA DE CONCURS A N U N Ț\n\n## Rezultatele concursului\n\n|   nr. d/o | Numele, prenumele   | Învingător al concursului la funcția de   | Subdiviziunea    |\n|-----------|---------------------|-------------------------------------------|------------------|\n|         1 | Popovici Eleonora   | șef secție medicină de familie CCD        | IMSP AMT Rîșcani |\n\nPersoanele învingătoare, sunt invitate să se adreseze în Secția resurse umane pentru a stabili data angajării în funcție.\n\nSecretarul comisiei:\n\nI. Melnic\n",
+  "content_sha256": "9a201de30edd078c960203306c99ba203e98ea452c267939a305e053bce78f83",
+  "document_date": null,
+  "document_id": "doc_178c26061279ff1825e6",
+  "document_type": "pdf",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "docling",
+    "page_count": 1,
+    "quality": 1.0,
+    "raw_content_sha256": "1cad73aec42488f3d255dfdb3c6bfb90a1ff8fd1d6cf48b9b742a8b6e31c804f",
+    "raw_path": "data/raw/amt-riscani/1cad73aec42488f3d255dfdb3c6bfb90a1ff8fd1d6cf48b9b742a8b6e31c804f.pdf",
+    "structure_path": "data/interim/extracted/doc_178c26061279ff1825e6/ver_178c2606_9a201de30edd.structure.json"
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:07:15.312675+00:00",
+  "source_url": "http://amtriscani.md/upload/public_info_files/Rezultatele%20concursului%20sef%20sectie%20MF.pdf",
+  "title": "Rezultatele%20concursului%20sef%20sectie%20MF.pdf",
+  "version_id": "ver_178c2606_9a201de30edd"
+}

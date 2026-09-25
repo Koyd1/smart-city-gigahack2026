@@ -1,0 +1,40 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://civic-ai.local/schemas/document.schema.json",
+  "title": "Normalized document version",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "document_id",
+    "version_id",
+    "title",
+    "source_url",
+    "retrieved_at",
+    "content_sha256",
+    "language",
+    "content"
+  ],
+  "properties": {
+    "document_id": {"type": "string", "minLength": 1},
+    "version_id": {"type": "string", "minLength": 1},
+    "title": {"type": "string"},
+    "source_url": {"type": "string", "format": "uri"},
+    "retrieved_at": {"type": "string", "format": "date-time"},
+    "content_sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "language": {"enum": ["ro", "ru", "en", "mixed", "und"]},
+    "category": {"type": ["string", "null"]},
+    "document_type": {"type": ["string", "null"]},
+    "document_date": {"type": ["string", "null"], "format": "date"},
+    "effective_from": {"type": ["string", "null"], "format": "date"},
+    "effective_to": {"type": ["string", "null"], "format": "date"},
+    "content": {"type": "string"},
+    "extraction": {
+      "type": "object",
+      "additionalProperties": true,
+      "properties": {
+        "method": {"type": "string"},
+        "quality": {"type": ["number", "null"], "minimum": 0, "maximum": 1}
+      }
+    }
+  }
+}

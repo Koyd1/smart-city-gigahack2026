@@ -1,0 +1,26 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+
+# Corpus artifacts can be large, contain duplicates and are reproducible.
+data/raw/**
+data/interim/extracted/**
+data/interim/normalized/**
+data/exports/**
+
+# Keep directory documentation/placeholders.
+!data/raw/.gitkeep
+!data/interim/extracted/.gitkeep
+!data/interim/normalized/.gitkeep
+!data/exports/.gitkeep
+
+# Processed samples may be committed deliberately; local bulk exports are ignored.
+data/processed/**/*.local.*
+
+# Local PDF inspection output.
+tmp/

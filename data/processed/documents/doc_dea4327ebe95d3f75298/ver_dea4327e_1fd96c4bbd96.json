@@ -1,0 +1,23 @@
+{
+  "category": "district_administration",
+  "content": "Completați formularul de mai jos pentru a trimite petiția dumneavoastră. Vă rugăm să vă asigurați că toate câmpurile sunt completate corect, astfel încât să putem procesa cererea cât mai repede posibil.\n",
+  "content_sha256": "1fd96c4bbd9644c186255f95f29ef49b37f9ace38d72fb55f724987f9c32acee",
+  "document_date": null,
+  "document_id": "doc_dea4327ebe95d3f75298",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "77b9ec17bf9c9f26e27c41888acf95642dc8332f4d8d157b5dfb5db37e6f91a3",
+    "raw_path": "data/raw/district-ciocana/77b9ec17bf9c9f26e27c41888acf95642dc8332f4d8d157b5dfb5db37e6f91a3.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:08:25.991655+00:00",
+  "source_url": "https://ciocana.md/petitii-online",
+  "title": "Petiții online",
+  "version_id": "ver_dea4327e_1fd96c4bbd96"
+}

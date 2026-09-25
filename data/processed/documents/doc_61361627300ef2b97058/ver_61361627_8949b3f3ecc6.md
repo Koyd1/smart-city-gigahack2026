@@ -1,0 +1,26 @@
+---
+document_id: "doc_61361627300ef2b97058"
+version_id: "ver_61361627_8949b3f3ecc6"
+title: "Anunț cu privire la desfășurarea probei scrise în cadrul concursului privind ocuparea funcțiilor publice vacante"
+source_url: "https://botanica.md/anunt-cu-privire-la-desfasurarea-probei-scrise-in-cadrul-concursului-privind-ocuparea-functiilor-publice-vacante-509"
+retrieved_at: "2026-09-25T17:25:30.000454+00:00"
+content_sha256: "8949b3f3ecc6a4aafffd8c35469a2a2686a04e642f37bade25316cd86b31706f"
+language: "ro"
+category: "district_administration"
+document_type: "html"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# Anunț cu privire la desfășurarea probei scrise în cadrul concursului privind ocuparea funcțiilor publice vacante
+
+Au fost admiși la proba scrisă a concursului pentru ocuparea funcțiilor publice vacante de specialist superior, Secția social-economică:
+
+- Don Andrei;
+
+- Cojocaru Vitalie;
+
+- Ghidenco Irina;
+
+- Rusnac Valdimir.

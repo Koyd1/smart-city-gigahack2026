@@ -1,0 +1,23 @@
+{
+  "category": "education",
+  "content": "# Achiziții\n",
+  "content_sha256": "0bf8f3d5cc89a295dfa85e88103daed77bc1b6aee79dbcad0d62f1b5f5201c7d",
+  "document_date": null,
+  "document_id": "doc_ae28da6647c8ba6364c2",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "44a2dabbf85222b79e277d878df25d06e1ce3233e09616aa4ac93d0301d9ee1a",
+    "raw_path": "data/raw/dets-riscani/44a2dabbf85222b79e277d878df25d06e1ce3233e09616aa4ac93d0301d9ee1a.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:10:20.020459+00:00",
+  "source_url": "https://detsriscani.md/achizitii",
+  "title": "Achiziții",
+  "version_id": "ver_ae28da66_0bf8f3d5cc89"
+}

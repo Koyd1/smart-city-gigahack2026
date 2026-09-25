@@ -1,0 +1,23 @@
+{
+  "category": "district_administration",
+  "content": "Certificat despre componența familiei (doar pentru case individuale)\n\nPentru eliberarea certificatului este nevoie de următoarele acte:\n\n- Buletinele de identitate a tuturor membrelor familiei, în original și copie;\n- Adeverințe de naștere pentru copii, în original și copie;\n- Certificat de căsătorie/divorț/deces, în original și copie;\n- Documente care confirmă dreptul de trai la adresa solicitată (dreptul de proprietate, locațiune), în original și copie.\n\n[Deschide modelul cererii](https://docs.google.com/document/d/1O545hrTL7rT6apdpXpkXJXTAvcRxW7Rf/edit?usp=sharing&ouid=118303848101563836701&rtpof=true&sd=true)\n",
+  "content_sha256": "951b62caa08c919fe8af6fe1fca045fe61b8c1923f5aa0c167989440a70d4097",
+  "document_date": null,
+  "document_id": "doc_f74e958e9fc1bb739510",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "cac718c745ed34b3388ed926c958a67a347de58d79a667cce2dde0a32f0e9162",
+    "raw_path": "data/raw/district-ciocana/cac718c745ed34b3388ed926c958a67a347de58d79a667cce2dde0a32f0e9162.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:07:33.081589+00:00",
+  "source_url": "https://ciocana.md/certificate-pentru-cetatenii-caselor-individuale",
+  "title": "Certificate pentru cetățenii caselor individuale",
+  "version_id": "ver_f74e958e_951b62caa08c"
+}

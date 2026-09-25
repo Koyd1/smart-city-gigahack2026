@@ -1,0 +1,23 @@
+{
+  "category": "other_public_services",
+  "content": "Contoarele de apă cu termenul de verificare expirat necesită controlul metrologic. Termenul de valabilitate al contorului nu poate depăşi 5 ani\n\n                                    Indicii contoarelor la apă potabilă şi la apă caldă, care sunt neverificate, nu se socot veridice şi nu se iau în consideraţie la efectuarea calculelor.\n                                    Aceste contoare nu se mai afişează în [avizul de plată](http://www.infocom.md/aviz.explicat.html) după expirarea termenului de valabilitate.\n\n                                    În cazul, cînd cel puţin un contor este expirat (la un singur serviciu), atunci pe apartament se expune un volum egal cu [normativul de consum](http://www.infocom.md/norma.html).\n\n                                    Începând cu Decembrie 2013, la serviciul \"Apă potabilă\" se expune [cota-parte](http://www.infocom.md/cota.parte.html) - volum repartizat adaugător pentru fiecare apartament proporțional consumul înregistrat de contoarele instalate în apartament.\n",
+  "content_sha256": "7dfb75271ffb151d16125421f728d2e624c78542fd88c2b269407de9f6373d65",
+  "document_date": null,
+  "document_id": "doc_6d5bc4ab871bc667a16b",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "b467cb99ff20f2bf3a0b12d4a614737ac69c123fd882145ed144d891abaf8a6c",
+    "raw_path": "data/raw/infocom/b467cb99ff20f2bf3a0b12d4a614737ac69c123fd882145ed144d891abaf8a6c.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:13:19.376567+00:00",
+  "source_url": "http://www.infocom.md/pagina/contor.html",
+  "title": "Î.M. Infocom - Contoare la apă potabilă",
+  "version_id": "ver_6d5bc4ab_7dfb75271ffb"
+}

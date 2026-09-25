@@ -1,0 +1,23 @@
+{
+  "category": "district_administration",
+  "content": "Join our subscribers list to get the latest news, updates and special offers directly in your inbox\n",
+  "content_sha256": "81fd09ad78bcb29d75c638a4df169837b024086220ce7ece80f1336bce260aff",
+  "document_date": null,
+  "document_id": "doc_b0b563558ee32d089772",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "01c5685bd039f7ae5f026ca23777c991636d174f976eeb60174abdc3ff8cb97f",
+    "raw_path": "data/raw/district-botanica/01c5685bd039f7ae5f026ca23777c991636d174f976eeb60174abdc3ff8cb97f.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:50:43.042172+00:00",
+  "source_url": "https://botanica.md/transparenta/achizitii-publice",
+  "title": "Achiziţii publice",
+  "version_id": "ver_b0b56355_81fd09ad78bc"
+}

@@ -1,0 +1,23 @@
+{
+  "category": "district_administration",
+  "content": "Join our subscribers list to get the latest news, updates and special offers directly in your inbox\n",
+  "content_sha256": "81fd09ad78bcb29d75c638a4df169837b024086220ce7ece80f1336bce260aff",
+  "document_date": null,
+  "document_id": "doc_5fce89a3c6f6a894fd23",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "98fd9d4593eebe6ccae9418e1955a8191ec28e5c2f940d26fab3ec2826a6aa38",
+    "raw_path": "data/raw/district-botanica/98fd9d4593eebe6ccae9418e1955a8191ec28e5c2f940d26fab3ec2826a6aa38.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:50:33.961256+00:00",
+  "source_url": "https://botanica.md/bradul-de-craciun-al-sectorului-botanica",
+  "title": "Bradul de Crăciun al sectorului Botanica.",
+  "version_id": "ver_5fce89a3_81fd09ad78bc"
+}

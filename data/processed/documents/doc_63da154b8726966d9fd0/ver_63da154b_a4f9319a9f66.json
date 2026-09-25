@@ -1,0 +1,23 @@
+{
+  "category": "district_administration",
+  "content": "Raportul de activitate al Preturii sectorului Botanica pentru semestrul I, al an...\n",
+  "content_sha256": "a4f9319a9f664956e7cd7be1d47d5f54f5d755ad03f6766fc21e2117bfe8445f",
+  "document_date": null,
+  "document_id": "doc_63da154b8726966d9fd0",
+  "document_type": "html",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "trafilatura",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "9243f91bfb19989e9cb21141b9eba40cf00a13dae4dc64dcece6a21fffca202d",
+    "raw_path": "data/raw/district-botanica/9243f91bfb19989e9cb21141b9eba40cf00a13dae4dc64dcece6a21fffca202d.html",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T17:35:28.083724+00:00",
+  "source_url": "https://botanica.md/posts",
+  "title": "Postări",
+  "version_id": "ver_63da154b_a4f9319a9f66"
+}
