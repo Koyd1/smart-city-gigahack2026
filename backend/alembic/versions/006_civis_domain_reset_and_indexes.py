@@ -1,4 +1,4 @@
-"""reset legacy HR content and add query indexes
+"""add query indexes without modifying application data
 
 Revision ID: 006_civis_domain_reset
 Revises: 005_ingest_job_state
@@ -15,13 +15,6 @@ depends_on = None
 
 
 def upgrade() -> None:
-    # The product is now municipal CIVIS. Legacy HR knowledge and suggestions
-    # must not influence answers after deployment.
-    op.execute("DELETE FROM vector_chunks")
-    op.execute("DELETE FROM knowledge_files")
-    op.execute("DELETE FROM prompt_templates")
-    op.execute("DELETE FROM faq_items")
-
     op.execute(
         """
         CREATE INDEX IF NOT EXISTS vector_chunks_content_fts_idx
