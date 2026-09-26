@@ -27,6 +27,13 @@ def project_root(value: str) -> Path:
     return root
 
 
+def page_limit(value: str) -> int:
+    parsed = int(value)
+    if not 1 <= parsed <= 500:
+        raise argparse.ArgumentTypeError("page limit must be between 1 and 500")
+    return parsed
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="civic-parser")
     parser.add_argument("--project-root", default=".", type=project_root)
@@ -35,7 +42,7 @@ def build_parser() -> argparse.ArgumentParser:
     crawl = subparsers.add_parser("crawl", help="Crawl configured municipal sources")
     crawl.add_argument("--profile", choices=("pilot", "all"), default="pilot")
     crawl.add_argument("--source-id", action="append", default=[])
-    crawl.add_argument("--max-pages-per-source", type=int, default=20)
+    crawl.add_argument("--max-pages-per-source", type=page_limit, default=20)
     crawl.add_argument("--depth", type=int, default=2)
 
     local = subparsers.add_parser("parse-file", help="Parse one local document")

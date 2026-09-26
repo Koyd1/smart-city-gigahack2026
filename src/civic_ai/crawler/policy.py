@@ -41,6 +41,21 @@ TRACKING_PARAMETERS = {"fbclid", "gclid", "mc_cid", "mc_eid"}
 
 
 def canonicalize_url(base_url: str, candidate: str) -> str | None:
+    """Normalize a crawl target, retaining only fragments that identify SPA routes."""
+    return _normalize_url(base_url, candidate, keep_content_fragment=False)
+
+
+def resolve_content_url(base_url: str, candidate: str) -> str | None:
+    """Resolve a link for Markdown without discarding meaningful anchors or SPA routes."""
+    stripped = candidate.strip()
+    if stripped.lower().startswith(("mailto:", "tel:")):
+        return stripped
+    return _normalize_url(base_url, candidate, keep_content_fragment=True)
+
+
+def _normalize_url(
+    base_url: str, candidate: str, *, keep_content_fragment: bool
+) -> str | None:
     absolute = urljoin(base_url, candidate.strip())
     parts = urlsplit(absolute)
     if parts.scheme not in {"http", "https"} or not parts.hostname:
@@ -51,8 +66,17 @@ def canonicalize_url(base_url: str, candidate: str) -> str | None:
         if not key.lower().startswith("utm_") and key.lower() not in TRACKING_PARAMETERS
     ]
     path = parts.path.rstrip("/") or "/"
+    fragment = parts.fragment if keep_content_fragment else ""
+    if not keep_content_fragment and parts.fragment.startswith(("/", "!/")):
+        fragment = parts.fragment
     return urlunsplit(
-        (parts.scheme.lower(), parts.netloc.lower(), path, urlencode(query, doseq=True), "")
+        (
+            parts.scheme.lower(),
+            parts.netloc.lower(),
+            path,
+            urlencode(query, doseq=True),
+            fragment,
+        )
     )
 
 

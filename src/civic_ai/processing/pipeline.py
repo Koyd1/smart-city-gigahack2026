@@ -1,6 +1,7 @@
 from __future__ import annotations
 
 import json
+from collections import Counter
 from datetime import UTC, datetime
 from pathlib import Path
 
@@ -63,26 +64,61 @@ class CorpusPipeline:
     def close_spider(self) -> None:
         spider = self.crawler.spider
         finished_at = datetime.now(UTC)
-        seen_sources = {str(row["source_id"]) for row in self.report}
+        self.report.extend(spider.crawl_issues)
         for source in spider.sources:
-            if source.source_id not in seen_sources:
+            missing = spider.scheduled[source.source_id] - spider.responded[source.source_id]
+            reported_urls = {
+                str(row["url"])
+                for row in self.report
+                if row["source_id"] == source.source_id
+                and row["status"] in {"failed", "not_processed"}
+            }
+            for url in sorted(missing - reported_urls):
                 self.report.append(
                     {
                         "status": "not_processed",
                         "source_id": source.source_id,
-                        "url": source.url,
+                        "url": url,
                         "reason": "No response reached the parser; check robots.txt and crawl logs",
                     }
                 )
         report_dir = self.root / "data/processed/reports"
         stamp = self.started_at.strftime("%Y%m%dT%H%M%SZ")
+        per_source: dict[str, object] = {}
+        for source in spider.sources:
+            source_rows = [row for row in self.report if row["source_id"] == source.source_id]
+            statuses = Counter(str(row["status"]) for row in source_rows)
+            technical = spider.technical_events[source.source_id]
+            per_source[source.source_id] = {
+                "limit": spider.max_pages_per_source,
+                "discovered": len(spider.discovered[source.source_id]),
+                "scheduled": len(spider.scheduled[source.source_id]),
+                "responded": len(spider.responded[source.source_id]),
+                "processed": statuses["processed"],
+                "skipped": statuses["skipped"],
+                "failed": statuses["failed"],
+                "partial": statuses["partial"],
+                "not_processed": statuses["not_processed"],
+                "technical_requests": {
+                    "count": len(technical),
+                    "by_kind": dict(Counter(str(item["kind"]) for item in technical)),
+                    "items": technical,
+                    "note": "Technical requests do not consume the per-source content limit.",
+                },
+            }
         payload = {
             "started_at": self.started_at.isoformat(),
             "finished_at": finished_at.isoformat(),
             "sources": [source.source_id for source in spider.sources],
             "summary": {
                 status: sum(row["status"] == status for row in self.report)
-                for status in ("processed", "skipped", "failed", "not_processed")
+                for status in ("processed", "skipped", "failed", "partial", "not_processed")
+            },
+            "per_source": per_source,
+            "crawler_stats": {
+                key: value
+                for key, value in self.crawler.stats.get_stats().items()
+                if isinstance(value, (str, int, float, bool)) or value is None
             },
             "items": self.report,
         }

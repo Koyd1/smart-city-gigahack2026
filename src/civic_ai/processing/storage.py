@@ -16,6 +16,7 @@ from civic_ai.models import ExportedDocument, Extraction, Resource
 from civic_ai.processing.chunking import chunk_id, split_markdown
 
 CONTENT_TYPE_SUFFIXES = {
+    "application/vnd.civic-ai.actpermisiv+json": ".json",
     "application/pdf": ".pdf",
     "application/msword": ".doc",
     "application/vnd.openxmlformats-officedocument.wordprocessingml.document": ".docx",
@@ -23,10 +24,12 @@ CONTENT_TYPE_SUFFIXES = {
     "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet": ".xlsx",
     "application/vnd.openxmlformats-officedocument.presentationml.presentation": ".pptx",
     "application/rtf": ".rtf",
+    "application/vnd.oasis.opendocument.text": ".odt",
     "text/csv": ".csv",
     "text/html": ".html",
     "text/markdown": ".md",
     "text/plain": ".txt",
+    "text/rtf": ".rtf",
 }
 
 

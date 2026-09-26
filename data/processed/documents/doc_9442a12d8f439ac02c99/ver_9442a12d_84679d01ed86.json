@@ -1,0 +1,23 @@
+{
+  "category": "services",
+  "content": "# 54 (c) Notificarea produselor cosmetice.\n\nNotificarea produselor cosmetice reprezintă procedura administrativă prin care producătorii, distribuitorii si importatorii transmit Agenției Naționale pentru Sănătate Publică informațiile obligatorii privind produsul cosmetic, anterior introducerii acestuia pe piață.\n\n## Autoritatea emitentă\n\nAgenția Națională pentru Sănătatea Publica (sediul central)\n\n## Documente însoțitoare\n\n### Eliberare\n\n- Raportul privind siguranță produsului cosmetic\n\n## Procesul de eliberare\n\nDescrierea a procesului de eliberare Pasul 1. Depune cererea Cererea poate fi depusă:\n- online, prin accesarea butonului Solicită online;\nPasul 2. Confirmarea recepției notificării și eliberarea numărului unic de evidență. Confirmarea recepției notificării, este generată online instant și poate fi descărcată din Cabinetul personal al administratorului.\n\n## Perioada de valabilitate\n\nNu se aplică\n",
+  "content_sha256": "84679d01ed86b204b54349fbc5523f39a4b17b314185f2e393603ec5d7595a5a",
+  "document_date": null,
+  "document_id": "doc_9442a12d8f439ac02c99",
+  "document_type": "json",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "actpermisiv-public-api",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "422a44299e2d72f7265e9549c3366b4a7b639127fb4a91bbbfa0478c98df935b",
+    "raw_path": "data/raw/actpermisiv/422a44299e2d72f7265e9549c3366b4a7b639127fb4a91bbbfa0478c98df935b.json",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T22:02:41.554129+00:00",
+  "source_url": "https://actpermisiv.gov.md/#/ep/permit/193",
+  "title": "54 (c) Notificarea produselor cosmetice.",
+  "version_id": "ver_9442a12d_84679d01ed86"
+}

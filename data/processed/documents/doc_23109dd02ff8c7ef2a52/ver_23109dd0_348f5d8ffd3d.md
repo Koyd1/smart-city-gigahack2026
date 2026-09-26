@@ -1,0 +1,75 @@
+---
+document_id: "doc_23109dd02ff8c7ef2a52"
+version_id: "ver_23109dd0_348f5d8ffd3d"
+title: "70 Permis de transfer al armei"
+source_url: "https://actpermisiv.gov.md/#/ep/permit/45"
+retrieved_at: "2026-09-25T22:04:26.245033+00:00"
+content_sha256: "348f5d8ffd3d32be1d416da0fddbfa882d4640f18c0c13c56afc38f969f319d0"
+language: "ro"
+category: "services"
+document_type: "json"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# 70 Permis de transfer al armei
+
+Document, eliberat de autoritățile competente, prin care se permite efectuarea unei operațiuni de transfer de arme şi muniții de pe teritoriul Republicii Moldova către un alt stat.
+
+## Autoritatea emitentă
+
+Ministerul Afacerilor Interne / Inspectoratul General al Poliție / Direcția generală securitate publică / Secția supraveghere circulație armament sau succesorul de drepturi și obligații și Inspectoratele de poliție teritoriale
+
+## Documente însoțitoare
+
+### Eliberare
+
+- Mijloacele de transfer al armelor
+- Împuternicirea de reprezentare din partea întreprinderii în cauză cu privire la persoana care depune documentele şi este responsabilă de operaţiune
+- Data de plecare şi data estimativă de sosire
+- Certificatul de înregistrare a întreprinderii
+- Adresa destinatarului de transfer al armelor
+- Actul constitutiv al întreprinderii, în care să fie menţionate la genul de activitate operaţiunile pe care urmează să le deruleze potrivit declaraţiei; împuternicirea de reprezentare din partea întreprinderii în cauză cu privire la persoana care depune documentele şi este responsabilă de operaţiune
+
+## Cadrul legal
+
+- [Hotărârea Guvernului Nr. 293 din  23.04.2014 pentru aprobarea Regulamentului cu privire la regimul armelor și al munițiilor cu destinație civilă](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=352736)
+- [Legea Nr. 130 din  08.06.2012 privind regimul armelor și al munițiilor cu destinație civilă](http://lex.justice.md/md/345127/)
+- [Legea Nr. 160 din  22.07.2011 privind reglementarea prin autorizare a activităţii de întreprinzător](http://lex.justice.md/md/340497/)
+
+## Procesul de eliberare
+
+1. Solicitantul (sau reprezentantul său legal) intră în sistem (Portalul electronic al serviciilor publice) personal sau cu ajutorul recepționarului de la ghișeu.
+
+2. Solicitantul (sau reprezentantul său legal) achită taxa prin serviciul M-pay sau la bancă. În cazul când taxa se achită la banca, solicitantul prezintă dovada achitării recepționarului de la ghișeu pentru a fi încărcată în sistem, sau o încarcă în sistem personal.
+
+3. Solicitantul (sau reprezentantul său legal) îndeplinește cererea și încarcă documentele necesare, personal sau cu ajutorul recepționarului de la ghișeu În cazul când Solicitantul (sau reprezentantul său legal): a) depune cererea și documentele necesare cu ajutorul recepționarului de la ghișeu, recepționarul:
+- va primi și va înregistra corespunzător cererea de solicitare a certificatului și va primi documentele prezentate de solicitant, și
+- va elibera imediat şi necondiționat solicitantului certificatul constatator conform modelului indicat în anexa nr. 3 la Legea 160 din 22.07.2011, și
+- va expedia cazul (copiile electronice ale cererii și a documentelor prezentate) autorității emitente pentru revizuire.
+Cererea poate fi returnată solicitantului doar în cazul când cererea nu conține informația necesară pentru identificarea solicitantului. b) depune cererea și încarcă documentele personal direct in sistem, sistemul:
+- va genera automat documentul în format electronic de confirmare a primirii cererii și documentelor („certificatul constatator”) și
+- in mod automat va direcționa cererea și setul de documente autorității emitente.
+
+4. Autoritatea emitentă (specialistul) deschide cazul, examinează cererea și documentele însoțitoare, verifică  respectarea condițiilor. În cazul constatării lipsei documentelor/informației necesare prevăzute expres de legislație, autoritatea emitentă (specialistul) va sista termenul de examinare a cererii și va informa imediat despre acest fapt solicitantul cu specificarea și descrierea temeiului suspendării, termenului și acțiunilor de remediere pentru a iniția examinarea cererii.
+
+5. În baza setului complet de documente specialistul  examinează cazul și organizează examinările suplimentare pe interior pentru luarea deciziei de eliberare a certificatului.
+
+6. Specialistul perfectează actul permisiv sau scrie o scrisoare de respingere, cu o justificare corespunzătoare în temeiul prevederilor legii, cu înștiințarea directă a solicitantului și doar în cazul în care solicitantul nu întrunește condițiile expres specificate în lege sau, după caz, nu demonstrează întrunirea acestor condiții în decursul suspendării termenului de examinare a solicitării, care se va examina și semna de directorul autorității emitente.
+
+7. Când actul permisiv (scrisoarea) este gata, solicitantul (sau reprezentantul său legal) primește o  notificare electronică, descarcă actul permisiv și confirmă recepționarea documentului.
+
+8. În cazul când actul permisiv se eliberează pe hârtie (la solicitare sau conform cerințelor autorității emitente), recepționarul tipărește  actul permisiv, îl livrează solicitantului  (sau reprezentantului său legal) și confirmă recepționarea.
+
+## Perioada de valabilitate
+
+30 zile
+
+## Taxa
+
+600 MDL
+
+## Durata de prestare
+
+10 zile

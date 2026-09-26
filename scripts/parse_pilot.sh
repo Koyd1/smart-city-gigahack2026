@@ -16,4 +16,4 @@ fi
 exec "$parser_bin" --project-root "$project_dir" crawl \
   --profile pilot \
   --depth 2 \
-  --max-pages-per-source 20
+  --max-pages-per-source 500

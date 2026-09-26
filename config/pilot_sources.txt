@@ -1,6 +1,5 @@
-# One source_id per line. These three exercise document listings, a portal and a
-# narrow service page before the crawler is expanded to the full allowlist.
-chisinau-transparency
-chisinau-projects
-agsv-tree-works
-
+# The reviewed crawl requested for the RAG corpus. Keep this profile limited to
+# these exact catalog entry points; the spider applies source-specific link scopes.
+actpermisiv
+chisinau-projects-new
+extrascolar-activities

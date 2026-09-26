@@ -1,4 +1,7 @@
 source_id,category,url,crawl_scope,enabled
+actpermisiv,services,https://actpermisiv.gov.md/#/home,same_domain,true
+chisinau-projects-new,transparency_projects,https://proiecte.chisinau.md/ro/newprojects,same_domain,true
+extrascolar-activities,education,https://extrascolar.md/activities,same_domain,true
 chisinau-main,transparency_projects,https://chisinau.md/,same_domain,true
 chisinau-transparency,transparency_projects,https://www.chisinau.md/ro/transparenta,path_prefix,true
 chisinau-suburbs,transparency_projects,https://suburbii.chisinau.md/,same_domain,true
