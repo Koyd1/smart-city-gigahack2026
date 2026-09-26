@@ -1,25 +1,22 @@
 from __future__ import annotations
 
-import asyncio
 import logging
 import mimetypes
 import re
-from io import BytesIO
 from pathlib import Path
-from typing import Any
 from urllib.parse import quote
 from uuid import uuid4
 
 from fastapi import APIRouter, BackgroundTasks, Depends, File, HTTPException, UploadFile, status
 from fastapi.responses import Response
-from PIL import Image
 from sqlalchemy import delete, select
 from sqlalchemy.ext.asyncio import AsyncSession
+from sqlalchemy.orm import load_only
 
 from app.config import settings
 from app.core.rag_pipeline import SUPPORTED_EXTENSIONS, SUPPORTED_IMAGE_EXTENSIONS
 from app.db.models import KnowledgeFile, VectorChunk
-from app.deps import get_db, ingest_pipeline, storage
+from app.deps import get_db, ingest_pipeline
 
 router = APIRouter(prefix="/ingest", tags=["ingest"])
 LOGGER = logging.getLogger(__name__)
@@ -51,7 +48,20 @@ def _guess_mime_type(filename: str, explicit: str | None) -> str:
 @router.get("")
 async def list_ingested_files(db: AsyncSession = Depends(get_db)) -> dict[str, list[dict[str, str | int | None]]]:
     result = await db.scalars(
-        select(KnowledgeFile).order_by(KnowledgeFile.created_at.desc()).limit(200)
+        select(KnowledgeFile)
+        .options(
+            load_only(
+                KnowledgeFile.id,
+                KnowledgeFile.filename,
+                KnowledgeFile.size,
+                KnowledgeFile.status,
+                KnowledgeFile.chunk_count,
+                KnowledgeFile.created_at,
+                KnowledgeFile.updated_at,
+            )
+        )
+        .order_by(KnowledgeFile.created_at.desc())
+        .limit(200)
     )
     files = list(result)
 
@@ -86,8 +96,6 @@ async def create_ingest_job(
 
     mime_type = _guess_mime_type(filename, file.content_type)
 
-    # Image validation
-    image_meta: dict[str, Any] | None = None
     if extension in SUPPORTED_IMAGE_EXTENSIONS:
         if mime_type not in ALLOWED_IMAGE_MIME_TYPES:
             raise HTTPException(status_code=415, detail=f"Unsupported image MIME type: {mime_type}")
@@ -112,27 +120,12 @@ async def create_ingest_job(
         raise HTTPException(status_code=413, detail=f"Image is too large (max {MAX_IMAGE_BYTES/1024/1024:.2f} MB)")
 
     file_id = str(uuid4())
-    object_key = f"knowledge/{file_id}/{filename}"
-
-    try:
-        # Store original bytes in object storage (MinIO)
-        await asyncio.to_thread(
-            storage.upload_bytes,
-            object_name=object_key,
-            content=payload,
-            content_type=mime_type,
-        )
-    except Exception as exc:
-        LOGGER.exception("ingest.storage_error", extra={"file_name": filename, "error": str(exc)})
-        raise HTTPException(status_code=502, detail="Failed to store file in object storage")
-
     entity = KnowledgeFile(
         id=file_id,
         filename=filename,
         mime_type=mime_type,
         size=len(payload),
-        storage_path=object_key,
-        binary_content=None,
+        binary_content=payload,
         status="PENDING",
         uploaded_by="system",
     )
@@ -155,7 +148,18 @@ async def reindex_knowledge_file(
     background_tasks: BackgroundTasks,
     db: AsyncSession = Depends(get_db),
 ) -> dict[str, str]:
-    file = await db.scalar(select(KnowledgeFile).where(KnowledgeFile.id == file_id))
+    file = await db.scalar(
+        select(KnowledgeFile)
+        .options(
+            load_only(
+                KnowledgeFile.id,
+                KnowledgeFile.filename,
+                KnowledgeFile.status,
+                KnowledgeFile.chunk_count,
+            )
+        )
+        .where(KnowledgeFile.id == file_id)
+    )
     if file is None:
         raise HTTPException(status_code=404, detail="Knowledge file not found")
 
@@ -170,7 +174,18 @@ async def reindex_knowledge_file(
 
 @router.get("/{file_id}/status")
 async def get_ingest_status(file_id: str, db: AsyncSession = Depends(get_db)) -> dict[str, str | int | None]:
-    file = await db.scalar(select(KnowledgeFile).where(KnowledgeFile.id == file_id))
+    file = await db.scalar(
+        select(KnowledgeFile)
+        .options(
+            load_only(
+                KnowledgeFile.id,
+                KnowledgeFile.status,
+                KnowledgeFile.chunk_count,
+                KnowledgeFile.updated_at,
+            )
+        )
+        .where(KnowledgeFile.id == file_id)
+    )
     if file is None:
         raise HTTPException(status_code=404, detail="Knowledge file not found")
 
@@ -183,22 +198,27 @@ async def get_ingest_status(file_id: str, db: AsyncSession = Depends(get_db)) ->
 
 
 @router.get("/{file_id}/preview")
-async def get_ingest_preview_url(file_id: str, db: AsyncSession = Depends(get_db)) -> dict[str, str]:
-    file = await db.scalar(select(KnowledgeFile).where(KnowledgeFile.id == file_id))
+async def preview_knowledge_file(file_id: str, db: AsyncSession = Depends(get_db)) -> Response:
+    file = await db.scalar(
+        select(KnowledgeFile)
+        .options(
+            load_only(
+                KnowledgeFile.id,
+                KnowledgeFile.filename,
+                KnowledgeFile.mime_type,
+                KnowledgeFile.binary_content,
+            )
+        )
+        .where(KnowledgeFile.id == file_id)
+    )
     if file is None:
         raise HTTPException(status_code=404, detail="Knowledge file not found")
 
-    try:
-        url = await asyncio.to_thread(
-            storage.generate_presigned_url,
-            file.storage_path,
-            settings.image_preview_expires_seconds,
-        )
-    except Exception as exc:
-        LOGGER.exception("ingest.preview_url_failed", extra={"file_id": file_id, "error": str(exc)})
-        raise HTTPException(status_code=502, detail="Failed to generate preview URL")
-
-    return {"previewUrl": url}
+    return Response(
+        content=file.binary_content,
+        media_type=file.mime_type or "application/octet-stream",
+        headers={"content-disposition": f"inline; filename*=UTF-8''{quote(file.filename)}"},
+    )
 
 
 @router.get("/{file_id}/download")
@@ -206,16 +226,6 @@ async def download_knowledge_file(file_id: str, db: AsyncSession = Depends(get_d
     file = await db.scalar(select(KnowledgeFile).where(KnowledgeFile.id == file_id))
     if file is None:
         raise HTTPException(status_code=404, detail="Knowledge file not found")
-
-    blob = file.binary_content
-    if blob is None:
-        try:
-            blob = await asyncio.to_thread(storage.download_bytes, file.storage_path)
-        except Exception:
-            raise HTTPException(status_code=404, detail="File content not found")
-
-        file.binary_content = blob
-        await db.commit()
 
     ascii_fallback = file.filename.encode("ascii", errors="ignore").decode("ascii").strip()
     if not ascii_fallback or ascii_fallback.startswith("."):
@@ -227,7 +237,7 @@ async def download_knowledge_file(file_id: str, db: AsyncSession = Depends(get_d
     )
 
     return Response(
-        content=blob,
+        content=file.binary_content,
         media_type=file.mime_type or "application/octet-stream",
         headers={"content-disposition": content_disposition},
     )
@@ -235,23 +245,18 @@ async def download_knowledge_file(file_id: str, db: AsyncSession = Depends(get_d
 
 @router.delete("/{file_id}")
 async def delete_knowledge_file(file_id: str, db: AsyncSession = Depends(get_db)) -> dict[str, bool]:
-    file = await db.scalar(select(KnowledgeFile).where(KnowledgeFile.id == file_id))
+    file = await db.scalar(
+        select(KnowledgeFile)
+        .options(load_only(KnowledgeFile.id, KnowledgeFile.filename))
+        .where(KnowledgeFile.id == file_id)
+    )
     if file is None:
         raise HTTPException(status_code=404, detail="Knowledge file not found")
 
     # Delete file chunks from database
     await db.execute(delete(VectorChunk).where(VectorChunk.file_id == file_id))
 
-    # Delete object from storage (if exists)
-    try:
-        await asyncio.to_thread(storage.delete_object, file.storage_path)
-    except Exception:
-        LOGGER.warning(
-            "ingest.storage_delete_failed",
-            extra={"file_id": file_id, "file_name": file.filename, "storage_path": file.storage_path},
-        )
-
-    # Delete file record from database (including binary content)
+    # Deleting the record also deletes its binary content.
     await db.delete(file)
     await db.commit()
     LOGGER.info("ingest.deleted", extra={"file_id": file_id, "file_name": file.filename})

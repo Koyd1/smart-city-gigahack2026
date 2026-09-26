@@ -12,15 +12,6 @@ from app.core.retriever import Retriever
 from app.core.rag_pipeline import RAGIngestPipeline
 from app.core.streamer import ChatStreamer
 from app.db.session import AsyncSessionLocal
-from app.storage.minio import MinioStorage
-
-storage = MinioStorage(
-    endpoint=settings.minio_endpoint,
-    access_key=settings.minio_access_key,
-    secret_key=settings.minio_secret_key,
-    bucket=settings.minio_bucket,
-    use_ssl=settings.minio_use_ssl,
-)
 embedder = Embedder(
     api_key=settings.openai_api_key,
     model=settings.openai_embedding_model,
@@ -50,7 +41,6 @@ image_captioner = ImageCaptioner(
 )
 ingest_pipeline = RAGIngestPipeline(
     session_factory=AsyncSessionLocal,
-    storage=storage,
     embedder=embedder,
     image_captioner=image_captioner,
     tmp_dir=settings.ingest_tmp_dir,

@@ -1,8 +1,4 @@
 services:
-  minio:
-    ports: !reset
-      - "9000:9000"
-
   backend:
     build:
       context: ./backend

@@ -13,7 +13,6 @@ from sqlalchemy.ext.asyncio import async_sessionmaker
 from app.core.embedder import Embedder
 from app.core.image_captioner import ImageCaptioner
 from app.db.models import KnowledgeFile, VectorChunk
-from app.storage.minio import MinioStorage
 
 LOGGER = logging.getLogger(__name__)
 
@@ -31,13 +30,11 @@ class RAGIngestPipeline:
         self,
         *,
         session_factory: async_sessionmaker,
-        storage: MinioStorage,
         embedder: Embedder,
         image_captioner: ImageCaptioner,
         tmp_dir: str,
     ) -> None:
         self._session_factory = session_factory
-        self._storage = storage
         self._embedder = embedder
         self._image_captioner = image_captioner
         self._tmp_dir = tmp_dir
@@ -71,7 +68,7 @@ class RAGIngestPipeline:
                             file_id=file_id,
                             content=chunk,
                             embedding=embedding,
-                            meta={"source": file.storage_path, "filename": file.filename},
+                            meta={"source": file.id, "filename": file.filename},
                         )
                         for chunk, embedding in zip(chunks, embeddings, strict=False)
                     ]
@@ -96,17 +93,6 @@ class RAGIngestPipeline:
                 raise RuntimeError("Knowledge file does not exist")
 
             blob = file.binary_content
-            if blob is None:
-                # Backward compatibility for files uploaded before binary_content
-                # was persisted to the database: fetch from object storage once.
-                try:
-                    blob = await asyncio.to_thread(self._storage.download_bytes, file.storage_path)
-                except Exception as exc:  # pragma: no cover - defensive fallback
-                    raise RuntimeError("File content not found in database or storage") from exc
-
-                file.binary_content = blob
-                await session.commit()
-
             filename = file.filename
 
         with tempfile.TemporaryDirectory(prefix="ingest-", dir=self._tmp_dir) as temp_dir:

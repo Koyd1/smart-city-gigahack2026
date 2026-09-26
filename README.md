@@ -78,8 +78,9 @@ make seed
 
 - Frontend: `http://localhost:3000`
 - Backend health: `http://localhost:8000/health`
-- MinIO API: `http://localhost:9000`
-- MinIO Console (dev only): `http://localhost:9001`
+
+Загруженные документы размером до 15 МБ хранятся в PostgreSQL в колонке
+`knowledge_files.binary_content`.
 
 ## Production запуск (compose override + host frontend)
 
@@ -123,7 +124,6 @@ make prod-down
 - frontend не запускается в Docker (работает как host process)
 - nginx в Docker проксирует трафик на frontend на хосте (`host.docker.internal:3000`)
 - backend доступен на `127.0.0.1:8000`
-- MinIO Console `:9001` скрыт
 - `raganything` вынесен из базового production image (опциональная установка отдельным профилем)
 
 ## Nginx и TLS
@@ -143,7 +143,6 @@ make prod-down
 - `NEXTAUTH_SECRET`
 - `NEXTAUTH_URL`
 - `PUBLIC_SESSION_SECRET`
-- `MINIO_ROOT_USER`, `MINIO_ROOT_PASSWORD`, `MINIO_BUCKET`
 - `REDIS_PASSWORD`
 - `PYTHON_BACKEND_URL` (для host-runtime: `http://127.0.0.1:8000`)
 

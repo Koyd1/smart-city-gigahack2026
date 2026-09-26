@@ -111,7 +111,7 @@ model KnowledgeFile {
   filename    String
   mimeType    String      @map("mime_type")
   size        Int
-  storagePath String      @map("storage_path")
+  binaryContent Bytes     @map("binary_content")
   status      IndexStatus @default(PENDING)
   chunkCount  Int?        @map("chunk_count")
   uploadedBy  String      @map("uploaded_by")

@@ -8,11 +8,6 @@ class Settings(BaseSettings):
     log_json: bool = False
     log_to_file: bool = False
     log_file_path: str = "logs/backend.log"
-    minio_endpoint: str = "minio:9000"
-    minio_access_key: str = "minioadmin"
-    minio_secret_key: str = "CHANGE_ME"
-    minio_bucket: str = "hrbot-documents"
-    minio_use_ssl: bool = False
     redis_url: str = "redis://localhost:6379/0"
     openai_api_key: str = ""
     openai_embedding_model: str = "text-embedding-3-large"
@@ -21,7 +16,6 @@ class Settings(BaseSettings):
     ingest_max_file_size_mb: int = 15
     ingest_image_max_file_size_mb: int = 5
     ingest_allowed_image_mime_types: str = "image/png,image/jpeg,image/webp"
-    image_preview_expires_seconds: int = 3600
     openai_chat_model: str = "gpt-4o"
     openai_chat_fallback_models: str = "gpt-4o"
     openai_judge_model: str = "gpt-4o"

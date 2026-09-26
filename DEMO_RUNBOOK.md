@@ -19,7 +19,6 @@
 DATABASE_URL=...
 DATABASE_URL_ASYNC=...
 OPENAI_API_KEY=...
-MINIO_ROOT_PASSWORD=...
 REDIS_PASSWORD=...
 NEXTAUTH_SECRET=...
 PUBLIC_SESSION_SECRET=...
@@ -33,7 +32,7 @@ NEXTAUTH_URL=http://localhost:3000
 Если `ngrok` еще не привязан к аккаунту:
 
 ```bash
-ngrok config add-authtoken 3BG9QlEBaKj3ZyigBwAFbXR1vh0_6YGgYgXC8n24n9XVpsDxd
+ngrok config add-authtoken 3B------XVpsDxd
 ```
 
 ## Первый запуск
@@ -50,7 +49,7 @@ cd ..
 
 Открой 4 терминала.
 
-### Терминал 1: backend + redis + minio
+### Терминал 1: backend + redis
 
 ```bash
 cd /Users/alexandrmoroz/Peona-Orange-Systems-2026
