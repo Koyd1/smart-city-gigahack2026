@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { LoaderCircle, LogOut } from "lucide-react";
 import { signOut } from "next-auth/react";
 import { Button } from "@/components/ui/button";
 import { useAppTranslation } from "@/lib/i18n/I18nProvider";
@@ -31,12 +32,18 @@ export default function LogoutButton({ callbackUrl = "/login" }: LogoutButtonPro
     <Button
       variant="secondary"
       size="sm"
-      className="whitespace-nowrap px-5"
+      className="h-9 w-9 p-0"
       type="button"
       disabled={busy}
       onClick={() => void handleLogout()}
+      aria-label={t("common.actions.logout")}
+      title={t("common.actions.logout")}
     >
-      {busy ? t("common.actions.loggingOut", "Logging out...") : t("common.actions.logout")}
+      {busy ? (
+        <LoaderCircle aria-hidden="true" size={17} className="animate-spin" />
+      ) : (
+        <LogOut aria-hidden="true" size={17} />
+      )}
     </Button>
   );
 }

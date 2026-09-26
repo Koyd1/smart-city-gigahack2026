@@ -424,11 +424,12 @@ export default function ChatWindow({
   }, [messages, showWelcome, scrollToBottom]);
 
   return (
-    <div className="relative left-1/2 right-1/2 -my-6 h-[calc(100dvh-64px)] w-[100dvw] -ml-[50dvw] -mr-[50dvw] overflow-hidden bg-page">
+    <div className="relative left-1/2 right-1/2 -my-6 h-[calc(100dvh-64px)] w-[100dvw] -ml-[50dvw] -mr-[50dvw] overflow-hidden bg-transparent">
       <div className="pointer-events-none absolute inset-0">
         <div className="absolute bottom-[-120px] left-[-80px] h-72 w-72 rounded-full bg-orange-50/80 blur-3xl" />
       </div>
-      <div className="relative flex h-full w-full flex-col px-4 py-4 sm:px-6">
+      
+      <div className="relative flex h-full w-full flex-col bg-transparent px-2 py-2 sm:px-3">
         <header className="flex items-center justify-between pb-4 pt-2 sm:pb-6">
           {showSessionControls ? (
             <div className="w-fit">
