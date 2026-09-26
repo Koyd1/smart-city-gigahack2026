@@ -1,0 +1,82 @@
+---
+document_id: "doc_6200d1d9e2574643ecf7"
+version_id: "ver_6200d1d9_1821e6f1f530"
+title: "85 Licență pentru activitatea de broker vamal"
+source_url: "https://actpermisiv.gov.md/#/ep/permit/63"
+retrieved_at: "2026-09-25T22:04:05.462116+00:00"
+content_sha256: "1821e6f1f530b825f9e930d4916c4f974240960a0a7eff34939b60ea25829aeb"
+language: "ro"
+category: "services"
+document_type: "json"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# 85 Licență pentru activitatea de broker vamal
+
+Act permisiv, emis în condițiile legii de autoritatea competentă, prin care se atestă dreptul la activitatea de broker vamal.
+
+## Autoritatea emitentă
+
+Agenția Servicii Publice
+
+## Documente însoțitoare
+
+### Eliberare
+
+- Declaraţie/cerere privind eliberarea/prelungirea, reperfectarea licenţei
+### Prelungire
+
+- Declaraţie/cerere privind eliberarea/prelungirea, reperfectarea licenţei
+### Reperfectare
+
+- Declaraţie/cerere privind eliberarea/prelungirea, reperfectarea licenţei
+
+## Cadrul legal
+
+- [CODUL VAMAL al Republicii Moldova](http://lex.justice.md/index.php?action=view&view=doc&id=319745)
+- [Hotărârea Nr. 1140 din 02.11.2005 pentru aprobarea Regulamentului de aplicare a destinațiilor vamale prevăzute de Codul vamal al Republicii Moldova](http://lex.justice.md/document_rom.php?id=8E784CED:D12C4AD8)
+- [Legea Nr. 160 din  22.07.2011 privind reglementarea prin autorizare a activităţii de întreprinzător](http://lex.justice.md/md/340497/)
+
+## Procesul de eliberare
+
+1. Solicitantul (sau reprezentantul său legal) intră în sistem (Portalul electronic al serviciilor publice) personal sau cu ajutorul recepționarului de la  ghișeu.
+
+2. Solicitantul (sau reprezentantul său legal) îndeplinește cererea și încarcă documentele necesare, personal sau cu ajutorul recepționarului de la ghișeu.
+
+3. În cazul când Solicitantul (sau reprezentantul său legal): a) depune cererea și documentele necesare cu ajutorul recepționarului de la ghișeu, recepționarul:
+- va primi și va înregistra corespunzător cererea (declaraţia) pentru obţinerea licenţei și va primi documentele prezentate de solicitant;
+- va elibera imediat și necondiționat solicitantului certificatul constatator conform modelului indicat în anexa nr. 3 la Legea 160 din 22.07.2011;
+- va expedia cazul (copiile electronice ale cererii și a documentelor însoțitoare) autorității emitente pentru revizuire.
+
+Cererea poate fi returnată solicitantului doar în cazul când cererea nu conține informația necesară pentru identificarea solicitantului. b) depune cererea și încarcă documentele personal direct în sistem, sistemul:
+- va genera automat documentul în format electronic de confirmare a primirii cererii și documentelor („certificatul constatator”);
+- în mod automat va direcționa cererea și setul de documente autorității emitente (șefului direcției).
+
+4. Autoritatea emitentă (șeful direcției) remite cererea și setul de documente specialistului din direcție pentru executare.
+
+5. Specialistul deschide cazul, examinează cererea și documentele însoțitoare, verifică  respectarea condițiilor. În cazul constatării lipsei documentelor /informației necesare prevăzute expres de legislație,   specialistul va sista termenul de examinare a cererii și va informa imediat despre acest fapt solicitantul cu specificarea și descrierea temeiului suspendării, termenului și acțiunilor de remediere pentru a iniția examinarea cererii.
+
+6. În baza setului complet de documente specialistul examinează cazul și organizează examinările suplimentare pe interior pentru luarea deciziei de eliberare a licenței și scrie proiectul deciziei de eliberare a Licenței, care este aprobată si semnată (sau respinsă) de șeful direcției.
+
+7. Dacă eliberarea actului permisiv este acceptată, solicitantul (sau reprezentantul său legal) primește o notificare electronică și achită taxa stabilită prin serviciul M-Pay sau la bancă. În cazul în care taxa se achită la bancă, solicitantul prezintă bonul de plată în original cu semnătură/ștampilă umedă.
+
+8. În cazul refuzului cererii specialistul informează solicitantul despre refuz, cu o justificare corespunzătoare în temeiul prevederilor legii, și doar în cazul în care solicitantul nu întrunește condițiile expres specificate în lege sau, după caz, nu demonstrează întrunirea acestor condiții în decursul suspendării termenului de examinare a solicitării.
+
+9. După prezentarea documentului care confirmă achitarea taxei pentru eliberarea/prelungirea sau reperfectarea acesteia, specialistul perfectează actul permisiv care va fi semnat de conducătorul autorității de licențiere sau de adjunctul acestuia.
+
+10. Specialistul/ recepționarul livrează actul permisiv solicitantului (sau reprezentantului său legal), care confirmă recepționarea prin depunerea semnăturii în Registru.
+
+## Perioada de valabilitate
+
+Nelimitat
+
+## Taxa
+
+Eliberarea sau Prelungirea - 3 250 MDL; Reperfectarea licenței și/sau eliberarea copiei de pe aceasta, inclusiv în cazul creării unei noi subdiviziuni (filiale) separate - 325 MDL; Eliberarea licenței solicitanților înregistrați cu cel mult un an înainte de depunerea declarației – 1625 MDL (50%); Duplicatul licenței – 585 MDL
+
+## Durata de prestare
+
+Eliberare / Prelungire - 10  zile lucrătoare din data înregistrării declarației
+Reperfectare - 5 zile lucrătoare din data înregistrării cererii

@@ -1,0 +1,107 @@
+---
+document_id: "doc_f2f20d5744860094ece1"
+version_id: "ver_f2f20d57_19a9132fe994"
+title: "77 Licență pentru importul și păstrarea alcoolului etilic; importul, păstrarea și comercializarea angro a producției alcoolice și/sau a berii importate"
+source_url: "https://actpermisiv.gov.md/#/ep/permit/55"
+retrieved_at: "2026-09-25T22:04:17.740587+00:00"
+content_sha256: "19a9132fe9944be910d3a79bc93f0f5f17761c469d7d69d434d0659aece0c1e5"
+language: "ro"
+category: "services"
+document_type: "json"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# 77 Licență pentru importul și păstrarea alcoolului etilic; importul, păstrarea și comercializarea angro a producției alcoolice și/sau a berii importate
+
+Document, emis în condițiile legii de autoritatea competentă, prin care se atestă dreptul laimportul şi păstrarea alcoolului etilic; importul, păstrarea şi comercializarea angro a producţiei alcoolice şi/sau a berii importate
+
+## Autoritatea emitentă
+
+Agenția Servicii Publice
+
+## Documente însoțitoare
+
+### Eliberare
+
+- Prognoza sortimentului alcoolului etilic şi/sau al producției alcoolice planificate pentru import şi/sau comercializare angro, pentru fabricare şi/sau păstrare şi comercializare angro în anul calendaristic curent, în 2 exemplare, unul dintre care ulterior se remite organului de supraveghere şi control la nivel național asupra fabricării şi circulației alcoolului etilic şi a producției alcoolice;
+- Documentul care confirmă deţinerea în proprietate sau în locaţiune a încăperilor pentru depozite cu o suprafaţă de cel puţin 200 m2
+- Documentul care confirmă deţinerea în proprietate  a depozitului— tip pentru păstrarea alcoolului etilic.
+- Copia de pe contractul de distribuţie sau confirmarea privind acordarea dreptului de distribuţie
+- Copia de pe contractul de distribuție sau confirmarea privind acordarea dreptului de distribuție (pentru comercializarea angro a producției alcoolice)
+- Copia de pe actul de proprietate sau de pe contractul de leasing financiar ori de locaţiune a imobilului unde se va desfăşura activitatea licenţiată şi copia de pe actul de proprietate asupra depozite-tip pentru păstrarea alcoolului etilic
+- Copia de pe actul de proprietate sau de pe alt act juridic, în baza căruia s-a născut dreptul de folosință asupra depozitelor specializate
+- Copia de pe actul de proprietate sau de locaţiune asupra depozitelor specializate (pentru păstrarea şi comercializarea angro a producţiei alcoolice) sau a încăperilor pentru depozite cu o suprafaţă de cel puţin 200 m2, (pentru păstrarea şi comercializarea angro a berii şi a băuturilor pe bază de bere)
+### Prelungire
+
+- Prognoza sortimentului alcoolului etilic şi/sau al producției alcoolice planificate pentru import şi/sau comercializare angro, pentru fabricare şi/sau păstrare şi comercializare angro în anul calendaristic curent, în 2 exemplare, unul dintre care ulterior se remite organului de supraveghere şi control la nivel național asupra fabricării şi circulației alcoolului etilic şi a producției alcoolice;
+- Documentul care confirmă deţinerea în proprietate sau în locaţiune a încăperilor pentru depozite cu o suprafaţă de cel puţin 200 m2
+- Documentul care confirmă deţinerea în proprietate  a depozitului— tip pentru păstrarea alcoolului etilic.
+- Copia de pe contractul de distribuţie sau confirmarea privind acordarea dreptului de distribuţie
+- Copia de pe actul de proprietate sau de pe contractul de leasing financiar ori de locaţiune a imobilului unde se va desfăşura activitatea licenţiată şi copia de pe actul de proprietate asupra depozite-tip pentru păstrarea alcoolului etilic
+- Copia de pe actul de proprietate sau de pe alt act juridic, în baza căruia s-a născut dreptul de folosință asupra depozitelor specializate
+- Copia de pe actul de proprietate sau de locaţiune asupra depozitelor specializate (pentru păstrarea şi comercializarea angro a producţiei alcoolice) sau a încăperilor pentru depozite cu o suprafaţă de cel puţin 200 m2, (pentru păstrarea şi comercializarea angro a berii şi a băuturilor pe bază de bere)
+### Reperfectare
+
+- Prognoza sortimentului
+- Documentul care confirmă deţinerea în proprietate sau în locaţiune a încăperilor pentru depozite cu o suprafaţă de cel puţin 200 m2
+- Documentele ce confirmă modificările
+- Copia de pe contractul de distribuţie sau confirmarea privind acordarea dreptului de distribuţie
+- Copia de pe actul de proprietate sau de pe contractul de leasing financiar ori de locaţiune a imobilului unde se va desfăşura activitatea licenţiată şi copia de pe actul de proprietate asupra depozite-tip pentru păstrarea alcoolului etilic
+- Copia de pe actul de proprietate sau de pe alt act juridic, în baza căruia s-a născut dreptul de folosință asupra depozitelor specializate
+- Copia de pe actul de proprietate sau de locaţiune asupra depozitelor specializate (pentru păstrarea şi comercializarea angro a producţiei alcoolice) sau a încăperilor pentru depozite cu o suprafaţă de cel puţin 200 m2, (pentru păstrarea şi comercializarea angro a berii şi a băuturilor pe bază de bere)
+
+## Cadrul legal
+
+- [Hotărârea Guvernului nr. 1481 din 26.12.2006 cu privire la marcarea producției alcoolice;](http://lex.justice.md/index.php?action=view&view=doc&id=319214)
+- [Legea nr. 1100 din  30.06.2000 cu privire la fabricarea și circulația alcoolului etilic și a producției alcoolice](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=311533)
+- [Legea Nr. 160 din  22.07.2011 privind reglementarea prin autorizare a activităţii de întreprinzător](http://lex.justice.md/md/340497/)
+- [Legea Nr. 845 din  03.01.1992 cu privire la antreprenoriat şi întreprinderi](http://lex.justice.md/viewdoc.php?action=view&view=doc&id=311735&lang=1)
+- [Legea nr.116 din 18.05.2012 privind securitatea industrială a obiectelor industriale periculoase](http://lex.justice.md/md/343874/)
+- [Legea viei și vinului nr. 57-XVI din 10.03.2006](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=316207)
+- [Ordin al Agenției Agroindustriale "Moldova – Vin" nr.72 din 22.07.2005 cu privire la aprobarea Regulamentului cu privire la modul de înregistrare, sigilare şi desigilare a utilajului tehnologic principal pentru fabricarea alcoolului etilic şi a băuturilor](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=315226)
+- [Ordin al Agenției Agroindustriale "Moldova – Vin" nr.73 din 22.07.2005 privind aprobarea Regulamentului cu privire la modul de eliberare a avizului prealabil pentru dreptul de import al alcoolului etilic;](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=315374)
+- [Ordin al Agenției Agroindustriale "Moldova – Vin" nr.74 din 22.07.2005 privind aprobarea Regulamentului cu privire la amplasarea, dotarea și exploatarea depozitelor-tip specializate pentru stocarea, păstrarea și comercializarea alcoolului etilic;](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=315375)
+
+## Procesul de eliberare
+
+1. Solicitantul (sau reprezentantul său legal) intră în sistem (Portalul electronic al serviciilor publice) personal sau cu ajutorul recepționarului de la  ghișeu.
+
+2. Solicitantul (sau reprezentantul său legal) îndeplinește cererea și încarcă documentele necesare, personal sau cu ajutorul recepționarului de la ghișeu.
+
+3. În cazul când Solicitantul (sau reprezentantul său legal): a) depune cererea și documentele necesare cu ajutorul recepționarului de la ghișeu, recepționarul:
+- va primi și va înregistra corespunzător cererea (declaraţia) pentru obţinerea licenţei și va primi documentele prezentate de solicitant, și
+- va elibera imediat și necondiționat solicitantului certificatul constatator conform modelului indicat în anexa nr.3 la Legea 160 din 22.07.2011, și
+- va expedia cazul (copiile electronice ale cererii și a documentelor prezentate) autorității emitente pentru revizuire.
+
+Cererea poate fi returnată solicitantului doar în cazul când cererea nu conține informația necesară pentru identificarea solicitantului. b) depune cererea și încarcă documentele personal direct în sistem, sistemul:
+- va genera automat documentul în format electronic de confirmare a primirii cererii și documentelor („certificatul constatator”) și
+- în mod automat va direcționa cererea și setul de documente autorității emitente (șefului direcției).
+
+4. Autoritatea emitentă (șeful direcției) remite cererea și setul de documente specialistului din direcție pentru executare.
+
+5. Specialistul deschide cazul, examinează cererea și documentele însoțitoare, verifică  respectarea condițiilor. În cazul constatării lipsei documentelor /informației necesare prevăzute expres de legislație,   specialistul va sista termenul de examinare a cererii și va informa imediat despre acest fapt solicitantul cu specificarea și descrierea temeiului suspendării, termenului și acțiunilorde remediere pentru a iniția examinarea cererii.
+
+6. În baza setului complet de documente specialistul examinează cazul și organizează examinările suplimentare pe interior pentru luarea deciziei de eliberare a licenței și scrie proiectul deciziei de eliberare a licenței. Alcoolul etilic se importă în baza avizului prealabil eliberat de organul de supraveghere şi control la nivel naţional asupra fabricării şi circulaţiei alcoolului etilic şi a producţiei alcoolice la solicitarea autorității de licenţiere. Pentru obţinerea avizului prealabil pentru dreptul de import al alcoolului etilic, autoritatea de licenţiere, în ziua înregistrării cererii pentru licenţa corespunzătoare, prezintă organului de supraveghere şi control la nivel naţional asupra fabricării şi circulaţiei alcoolului etilic şi a producţiei alcoolice o solicitare, conform prevederilor legale.
+
+7. Dacă eliberarea actului permisiv este acceptată, solicitantul (sau reprezentantul său legal)primește o notificare electronică și achită taxa stabilită prin serviciul M-Pay sau la bancă.În cazul în care taxa se achită la bancă, solicitantul prezintă bonul de plată în original cu semnătură/ștampilă umedă.
+
+8. În cazul refuzului cererii specialistul informează solicitantul despre refuz, cu o justificare corespunzătoare în temeiul prevederilor legii, și doar în cazul în care solicitantul nu întrunește condițiile expres specificate în lege sau, după caz, nu demonstrează întrunirea acestor condiții în decursul suspendării termenului de examinare a solicitării.
+
+9. După prezentarea documentului care confirmă achitarea taxei pentru eliberarea/prelungirea sau reperfectarea acesteia, specialistul perfectează actul permisiv care va fi semnat de conducătorul autorității de licențiere sau de adjunctul acestuia.
+
+10. Specialistul/ recepționarul livrează actul permisiv solicitantului (sau reprezentantului său legal), care confirmă recepționarea prin depunerea semnăturii în Registru.
+
+## Perioada de valabilitate
+
+Nelimitat, cu achitarea anuală a taxei pentru licență
+
+## Taxa
+
+Eliberarea sau Prelungirea licenței: Importul şi păstrarea alcoolului etilic; importul, păstrarea şi comercializarea angro a producţiei alcoolice şi/sau a berii importate (valabilă 1 an): a) importul alcoolului etilic - 52 000 MDL; b) importul şi comercializarea angro a băuturilor alcoolice importate - 52 000 MDL; c) importul şi comercializarea angro a berii importate - 52 000 MDL; Reperfectarea licenței și/sau eliberarea copiei de pe aceasta, inclusiv în cazul creării unei noi subdiviziuni (filiale) separate, se stabilește în proporție de 10 la sută din taxa pentru eliberarea acesteia, dar nu mai mult de 585 MDL; Eliberarea duplicatului licenței: 585 MDL
+
+## Durata de prestare
+
+Eliberare / Prelungire - 10 zile lucrătoare din data înregistrării declarației
+Reperfectare - 5 zile lucrătoare din data înregistrării cererii

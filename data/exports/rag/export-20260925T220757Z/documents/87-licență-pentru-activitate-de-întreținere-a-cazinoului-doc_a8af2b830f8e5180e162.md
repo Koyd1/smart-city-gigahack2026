@@ -1,0 +1,107 @@
+---
+document_id: "doc_a8af2b830f8e5180e162"
+version_id: "ver_a8af2b83_12a9f7f5b733"
+title: "87 Licență pentru activitate de întreținere a cazinoului"
+source_url: "https://actpermisiv.gov.md/#/ep/permit/65"
+retrieved_at: "2026-09-25T22:04:01.869954+00:00"
+content_sha256: "12a9f7f5b7333121db3c46288e810b3153dfe3369d3f25a6d9c85595996749bd"
+language: "ro"
+category: "services"
+document_type: "json"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# 87 Licență pentru activitate de întreținere a cazinoului
+
+Act permisiv, ce confirmă dreptul titularului de a întreprinde activități de întreținere a cazinoului
+
+## Autoritatea emitentă
+
+Agenția Servicii Publice
+
+## Documente însoțitoare
+
+### Eliberare
+
+- Situaţia financiară pentru perioada de gestiune, confirmată prin raportul auditorului, iar în cazul în care solicitantul practică acest gen de activitate mai puţin de un an, ultima situaţie financiară (trimestrială, semestrială etc.).
+- Regulamentul-tip privind organizarea şi desfăşurarea activităţii în domeniul jocurilor de noroc şi regulile de joc
+- Lista mijloacelor de joc de bază cu indicarea denumirii, a numărului de fabricaţie, a categoriei şi tipului acestuia, a anului şi lunii fabricării, precum şi a locului instalării;
+- Extrasul din registrul bunurilor imobile sau copia legalizată a contractului (contractelor) de locaţiune a încăperii în care se va desfăşura activitatea licenţiată;
+- Dovada deţinerii unei garanţii financiare care va asigura plata câștigurilor pentru jucători.
+- Documente ce confirmă dreptul de proprietate asupra mijloacelor de joc de bază şi asupra celor specifice, precum şi asupra programelor de aplicaţie folosite la desfăşurarea activităţii respective;
+- Certificatul/raportul de inspecţie a mijloacelor de joc de bază, eliberat de organismul de inspecţie şi recunoscut de către autoritatea competentă, iar pentru produsele noi din domeniul jocurilor de noroc – certificatul de conformitate eliberat de organismul de certificare acreditat şi recunoscut de către autoritatea competentă;
+### Prelungire
+
+- Situaţia financiară pentru perioada de gestiune, confirmată prin raportul auditorului, iar în cazul în care solicitantul practică acest gen de activitate mai puţin de un an, ultima situaţie financiară (trimestrială, semestrială etc.).
+- Regulamentul-tip privind organizarea şi desfăşurarea activităţii în domeniul jocurilor de noroc şi regulile de joc
+- Lista mijloacelor de joc de bază cu indicarea denumirii, a numărului de fabricaţie, a categoriei şi tipului acestuia, a anului şi lunii fabricării, precum şi a locului instalării;
+- Extrasul din registrul bunurilor imobile sau copia legalizată a contractului (contractelor) de locaţiune a încăperii în care se va desfăşura activitatea licenţiată;
+- Dovada deţinerii unei garanţii financiare care va asigura plata câștigurilor pentru jucători.
+- Documente ce confirmă dreptul de proprietate asupra mijloacelor de joc de bază şi asupra celor specifice, precum şi asupra programelor de aplicaţie folosite la desfăşurarea activităţii respective;
+- Certificatul/raportul de inspecţie a mijloacelor de joc de bază, eliberat de organismul de inspecţie şi recunoscut de către autoritatea competentă, iar pentru produsele noi din domeniul jocurilor de noroc – certificatul de conformitate eliberat de organismul de certificare acreditat şi recunoscut de către autoritatea competentă;
+### Reperfectare
+
+- Regulamentul-tip privind organizarea şi desfăşurarea activităţii în domeniul jocurilor de noroc şi regulile de joc
+- Lista mijloacelor de joc de bază cu indicarea denumirii, a numărului de fabricaţie, a categoriei şi tipului acestuia, a anului şi lunii fabricării, precum şi a locului instalării;
+- Extrasul din Registrul bunurilor imobile sau contractul de locaţiune al locului desfăşurării activităţii
+- Documentele ce confirmă modificările
+- Documente ce confirmă dreptul de proprietate asupra mijloacelor de joc de bază şi asupra celor specifice, precum şi asupra programelor de aplicaţie folosite la desfăşurarea activităţii respective;
+- Certificatul/raportul de inspecţie a mijloacelor de joc de bază, eliberat de organismul de inspecţie şi recunoscut de către autoritatea competentă, iar pentru produsele noi din domeniul jocurilor de noroc – certificatul de conformitate eliberat de organismul de certificare acreditat şi recunoscut de către autoritatea competentă;
+
+## Cadrul legal
+
+- [Hotărârea Guvernului nr. 777  din  01.08.2018 pentru aprobarea Regulamentelor-tip privind organizarea şi desfăşurarea activităţii în domeniul jocurilor de noroc ce constituie monopol de stat](https://www.legis.md/cautare/getResults?doc_id=150725&lang=ro)
+- [Hotărârea Guvernului nr. 820  din  18.10.2017 pentru aprobarea Regulamentului-tip privind organizarea şi desfăşurarea activităţii în domeniul jocurilor de noroc (întreţinerea cazinourilor)](https://www.legis.md/cautare/getResults?doc_id=102665&lang=ro)
+- [Lege Nr. 291 din  16.12.2016 cu privire la organizarea și desfășurarea jocurilor de noroc](http://lex.justice.md/md/368329/)
+- [Legea Nr. 160 din  22.07.2011 privind reglementarea prin autorizare a activităţii de întreprinzător](http://lex.justice.md/md/340497/)
+- [Legea nr. 185 din 21.07.2017 pentru modificarea și completarea unor acte legislative](http://lex.justice.md/viewdoc.php?action=view&view=doc&id=371983&lang=1)
+
+## Procesul de eliberare
+
+1. Solicitantul (sau reprezentantul său legal) intră în sistem (Portalul electronic al serviciilor publice) personal sau cu ajutorul recepționarului de la  ghișeu.
+
+2. Solicitantul (sau reprezentantul său legal) îndeplinește cererea și încarcă documentele necesare, personal sau cu ajutorul recepționarului de la ghișeu.
+
+3. În cazul când Solicitantul (sau reprezentantul său legal): a) depune cererea și documentele necesare cu ajutorul recepționarului de la ghișeu, recepționarul:
+- va primi și va înregistra corespunzător cererea (declaraţia) pentru obținerea licenţei și va primi documentele prezentate de solicitant, și
+- va elibera imediat și necondiționat solicitantului certificatul constatator conform modelului indicat în anexa nr. 3 la Legea 160 din 22.07.2011, și
+- va expedia cazul (copiile electronice ale cererii și a documentelor însoțitoare) autorității emitente pentru revizuire.
+
+Cererea poate fi returnată solicitantului doar în cazul când cererea nu conține informația necesară pentru identificarea solicitantului. b) depune cererea și încarcă documentele personal direct în sistem, sistemul:
+- va genera automat documentul în format electronic de confirmare a primirii cererii și documentelor („certificatul constatator”) și
+- în mod automat va direcționa cererea și setul de documente autorității emitente (șefului direcției).
+
+4. Autoritatea emitentă (șeful direcției) remite cererea și setul de documente specialistului din direcție pentru executare.
+
+5. Specialistul deschide cazul, examinează declarația și documentele însoțitoare, verifică  respectarea condițiilor. În cazul constatării lipsei documentelor/informației necesare prevăzute expres de legislație, autoritatea emitentă (specialistul) va sista termenul de examinare a declarației și va informa imediat despre acest fapt solicitantul cu specificarea și descrierea temeiului suspendării, termenului și acțiunilor de remediere pentru a iniția examinarea declarației.
+
+6. În baza setului complet de documente specialistul  examinează cazul și organizează examinările suplimentare pe interior pentru luarea deciziei de eliberare a licenței, care este aprobată si semnată (sau respinsă) de șeful direcției. In acest scop, autoritatea de licențiere va înștiința autoritățile administrației publice locale, solicitând confirmarea corespunderii amplasării localului de joc pe adresa respectivă potrivit condițiilor Legii nr. 231/2010 cu privire la comerțul interior (cu sau fără solicitarea unei vizite de control din partea organelor în cauză). În cazul în care autoritățile administrației publice locale nu au emis confirmarea amplasării în urma notificării și/sau nu au emis refuzul confirmării în decursul a 5 zile lucrătoare de la depunerea înștiințării, survine principiul aprobării tacite.
+
+7. Dacă APL au confirmat amplasarea și eliberarea actului permisiv este acceptată, sau dacă a survenit principiul aprobării tacite, solicitantul (sau reprezentantul său legal) primește o notificare electronică și achită taxa stabilită prin serviciul M-pay sau la bancă. În cazul în care taxa se achită la bancă, solicitantul prezintă bonul de plată în original cu semnătură/ștampilă umedă.
+
+8. În cazul refuzului cererii specialistul informează solicitantul despre refuz, cu o justificare corespunzătoare în temeiul prevederilor legii, și doar în cazul în care solicitantul nu întrunește condițiile expres specificate în lege sau, după caz, nu demonstrează întrunirea acestor condiții în decursul suspendării termenului de examinare a solicitării.
+
+9. După prezentarea documentului care confirmă achitarea taxei pentru eliberarea/prelungirea sau reperfectarea acesteia specialistul perfectează actul permisiv care va fi semnat de conducătorul autorității de licențiere sau de adjunctul acestuia.
+
+10. Când actul permisiv este gata, solicitantul (sau reprezentantul său legal) primește o  notificare electronică, descarcă actul permisiv și confirmă recepționarea documentului.
+
+11. În cazul când actul permisiv se eliberează pe hârtie (la solicitare sau conform cerințelor autorității emitente), recepționarul/specialistul tipărește  actul permisiv, îl livrează solicitantului  (sau reprezentantului său legal) și confirmă recepționarea.
+
+## Perioada de valabilitate
+
+Nelimitat, cu achitarea anuală a taxei pentru licență
+
+## Taxa
+
+Eliberarea sau Prelungirea licenței: 600000 MDL pentru fiecare masă de joc și 130000 MDL pentru fiecare unitate de exploatare a meselor de ruletă anual;
+
+Reperfectarea licenței şi/sau eliberarea copiei de pe aceasta (cu valabilitatea identică licenței), inclusiv în cazul creării unei noi subdiviziuni (filiale) separate: 3600 MDL;
+
+Duplicatul licenței: 16000 MDL.
+
+## Durata de prestare
+
+Eliberare / Prelungire - 10 zile lucrătoare din data înregistrării declarației
+Reperfectare - 5 zile lucrătoare din data înregistrării cererii

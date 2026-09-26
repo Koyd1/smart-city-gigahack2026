@@ -1,0 +1,78 @@
+---
+document_id: "doc_b5943a25adac52a9d3dc"
+version_id: "ver_b5943a25_4186ccc7a283"
+title: "52 (b) Licența de utilizare a resurselor de numerotație"
+source_url: "https://actpermisiv.gov.md/#/ep/permit/179"
+retrieved_at: "2026-09-25T22:05:05.233633+00:00"
+content_sha256: "4186ccc7a283e0c90c09de68aefe89995814752d131c42dac9d91d79ae27b885"
+language: "ro"
+category: "services"
+document_type: "json"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# 52 (b) Licența de utilizare a resurselor de numerotație
+
+Act permisiv ce confirmă dreptul titularului de a utiliza resurse de numerotație.
+
+## Autoritatea emitentă
+
+Agenția Națională pentru Reglementare în Comunicațiile (ARCOM)
+
+## Documente însoțitoare
+
+### Eliberare
+
+- Procura pentru persoana împuternicită dacă declarația/cererea de eliberare a licenței și/sau alte documente prezentate sunt semnate în numele solicitantului - persoană fizică de o altă persoană, iar în cazul solicitantului-persoană juridică – de o altă persoană decât administratorul (conducătorul) întreprinderii.
+- Previziunile de creștere a gradului de utilizare a resurselor de numerotare în următoarele 12 luni, însoțite de justificarea acestor previziuni (ritmul de creștere din ultima perioadă, lansarea unor noi tipuri de servicii, extinderea ariei de furnizare a serviciilor);
+- Pentru solicitările ulterioare de alocare a unor numere/blocuri suplimentare de numere – gradul de utilizare a resurselor de numerotare alocate (în cazul numerelor geografice – pentru aceeași arie geografică de utilizare)
+- În vederea alocării de numere pentru furnizarea de servicii de către furnizorii de rețele mobile virtuale – dovada începerii negocierilor relevante cu un furnizor de rețele publice de comunicații electronice mobile cu privire la furnizarea accesului la rețeaua acestuia
+### Reperfectare
+
+- Procura pentru persoana împuternicită + buletin de identitate, dupa caz
+- Licența ANRCETI care este supusă reperfectării, în original
+- Decizia privind inregistrarea persoanei juridice in rezultatul reorganizarii prin transformare, copie (ASP)
+
+## Cadrul legal
+
+- [Hotărârea Consiliului de Administrație al ANRCETI nr. 54 din 28.12.2017 cu privire la regimul de autorizare generală și licențiere în domeniul comunicațiilor electronice](http://www.anrceti.md/files/filefield/HCA_autoriz_gen_si_licentiere_nr.54%20din%2028.12.2017.pdf)
+- [Hotărârea Consiliului de Administrație al ANRCETI nr. 59 din 21.12.2010 cu privire la stabilirea tarifelor pentru resursele de numerotare telefonică, cu modificările și completările ulterioare](http://www.anrceti.md/files/filefield/H%D0%A1A%20nr.59%20din%2021.12.2010%20ro.pdf)
+- [Lege Nr. 241 din  15.11.2007 comunicațiilor electronice](http://lex.justice.md/md/327198/)
+- [Legea Nr. 160 din  22.07.2011 privind reglementarea prin autorizare a activităţii de întreprinzător](http://lex.justice.md/md/340497/)
+- [Procedura privind administrarea resurselor de numerotare telefonică, aprobată prin Hotărârea Consiliului de Administrație a ANRCETI, nr.58 din 21.12.2010](http://www.anrceti.md/files/filefield/HCA%20nr.58%20din%2021.12.2010.pdf)
+
+## Procesul de eliberare
+
+1. Solicitantul (sau reprezentantul său legal) intră în sistem (Portalul electronic al serviciilor publice) personal sau cu ajutorul recepționarului de la ghișeu.
+
+2. Solicitantul (sau reprezentantul său legal) îndeplinește cererea și încarcă documentele necesare, personal sau cu ajutorul recepționarului de la ghișeu.
+
+3. În cazul când Solicitantul (sau reprezentantul său legal): a) depune cererea și documentele necesare cu ajutorul recepționarului de la ghișeu, recepționarul: -	va primi și va înregistra corespunzător cererea de solicitare a licenței și va primi documentele prezentate de solicitant, și -	va elibera imediat și necondiționat solicitantului certificatul constatator conform modelului indicat în anexa nr. 3 la Legea 160 din 22.07.2011, și -	va expedia cazul (copiile electronice ale cererii și a documentelor prezentate) autorității emitente pentru revizuire. Cererea poate fi returnată solicitantului doar în cazul când cererea nu conține informația necesară pentru identificarea solicitantului. b) depune cererea și încarcă documentele personal direct în sistem, sistemul: -	va genera automat documentul în format electronic de confirmare a primirii cererii și documentelor necesare („certificatul constatator”) și, -	în mod automat va direcționa cererea și setul de documente autorității emitente.
+
+4. Autoritatea emitentă (specialistul) deschide cazul, examinează cererea și documentele însoțitoare, verifică  respectarea condițiilor. În cazul constatării lipsei documentelor/informației necesare prevăzute expres de legislație, autoritatea emitentă (specialistul) va sista termenul de examinare a cererii și va informa imediat despre acest fapt solicitantul cu specificarea și descrierea temeiului suspendării, termenului și acțiunilor de remediere pentru a iniția examinarea cererii.
+
+5. În baza setului de documente complet specialistul  studiază cazul și organizează examinările suplimentare pe interior pentru luarea deciziei de eliberare a licenței.
+
+6. Dacă eliberarea actului permisiv este acceptată, solicitantul (sau reprezentantul său legal) primește o notificare electronică, achită taxa stabilită pentru utilizarea resurselor de numerotare și prezintă bonul de plată în original cu semnătură/ștampilă umedă.
+
+7. După prezentarea documentului care confirmă achitarea taxei specialistul perfectează Licența sau, în caz de refuz, scrie o scrisoare de respingere, cu o justificare corespunzătoare în temeiul prevederilor legii, cu înștiințarea directă a solicitantului și doar în cazul în care solicitantul nu întrunește condițiile expres specificate în lege sau, după caz, nu demonstrează întrunirea acestor condiții în decursul suspendării termenului de examinare a solicitării, care se va examina și semna de directorul autorității emitente.
+
+8. Când Licența (scrisoarea) este gata, solicitantul (sau reprezentantul său legal) primește o  notificare electronică.
+
+9. Specialistul/ recepționarul înmânează actul permisiv solicitantului (sau reprezentantului său legal), care confirmă recepționarea prin depunerea semnăturii în Registru.
+
+## Perioada de valabilitate
+
+Pentru utilizarea resurselor de numerotare – 10 ani, cu excepția:
+a)	Licențelor de utilizare a resurselor de numerotare, eliberate titularilor de licențe de utilizare a canalelor sau frecvențelor radio în situația în care numărul acestora este limitat, pentru care termenul de valabilitate este de 15 ani,
+b)	Licențelor solicitate pe un termen mai mic de 10 ani.
+
+## Taxa
+
+Gratuit
+
+## Durata de prestare
+
+Adoptarea deciziei: 3 săptămâni
