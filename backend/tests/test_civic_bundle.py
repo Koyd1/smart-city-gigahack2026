@@ -6,22 +6,27 @@ import pytest
 from app.core.civic_bundle import chunks_match, document_filename, load_civic_bundle
 
 
-def _write_bundle(path, *, markdown_path="documents/doc-1.md", chunk_version="version-1"):
+def _write_bundle(
+    path,
+    *,
+    markdown_path="documents/doc-1.md",
+    chunk_version="version-1",
+    manifest_markdown_key="markdown_path",
+):
+    document = {
+        "source_id": "site-a",
+        "document_id": "doc-1",
+        "version_id": "version-1",
+        "title": "Document",
+        "source_url": "https://example.test/document",
+        "content_sha256": "a" * 64,
+        "chunk_count": 1,
+    }
+    document[manifest_markdown_key] = markdown_path
     manifest = {
         "format": "civic-site-rag-bundle",
         "format_version": 1,
-        "documents": [
-            {
-                "source_id": "site-a",
-                "document_id": "doc-1",
-                "version_id": "version-1",
-                "title": "Document",
-                "source_url": "https://example.test/document",
-                "content_sha256": "a" * 64,
-                "markdown_path": markdown_path,
-                "chunk_count": 1,
-            }
-        ],
+        "documents": [document],
     }
     chunk = {
         "chunk_id": "chunk-1",
@@ -43,6 +48,16 @@ def test_loads_site_bundle_and_filters_by_source(tmp_path):
 
     assert list(bundle.documents) == ["doc-1"]
     assert bundle.documents["doc-1"]["source_id"] == "site-a"
+    assert bundle.markdown["doc-1"] == b"# Document\n"
+    assert bundle.chunks[0]["text"] == "Document text"
+
+
+def test_loads_crawler_bundle_markdown_path_key(tmp_path):
+    bundle_path = tmp_path / "crawl-export.zip"
+    _write_bundle(bundle_path, manifest_markdown_key="markdown")
+
+    bundle = load_civic_bundle(bundle_path)
+
     assert bundle.markdown["doc-1"] == b"# Document\n"
     assert bundle.chunks[0]["text"] == "Document text"
 

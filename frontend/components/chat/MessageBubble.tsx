@@ -1,6 +1,8 @@
 ﻿"use client";
 
 import { useEffect, useState } from "react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 
 import SourceCard, { type ChatSource } from "@/components/chat/SourceCard";
 import FeedbackButtons from "@/components/chat/FeedbackButtons";
@@ -151,14 +153,62 @@ export default function MessageBubble({
           </div>
           <div className="min-w-0 w-full rounded-3xl border border-border bg-card px-5 py-3 text-slate-800 shadow-[0_12px_30px_rgba(15,23,42,0.08)] sm:px-6 sm:py-4">
             <div
-              className={`text-[15px] leading-relaxed whitespace-pre-wrap break-words hyphens-auto [overflow-wrap:anywhere] ${
+              className={`min-w-0 text-[15px] leading-relaxed hyphens-auto [overflow-wrap:anywhere] ${
                 isStreaming ? "text-slate-500" : ""
               }`}
             >
               {isStreaming ? (
                 <TypingDots className="text-slate-500" label={t("chat.message.assistantTyping")} />
               ) : (
-                message.content || "..."
+                <ReactMarkdown
+                  remarkPlugins={[remarkGfm]}
+                  components={{
+                    p: ({ children }) => <p className="my-2 first:mt-0 last:mb-0">{children}</p>,
+                    h1: ({ children }) => <h1 className="my-3 text-xl font-bold">{children}</h1>,
+                    h2: ({ children }) => <h2 className="my-3 text-lg font-bold">{children}</h2>,
+                    h3: ({ children }) => <h3 className="my-2 text-base font-bold">{children}</h3>,
+                    ul: ({ children }) => <ul className="my-2 list-disc space-y-1 pl-6">{children}</ul>,
+                    ol: ({ children }) => <ol className="my-2 list-decimal space-y-1 pl-6">{children}</ol>,
+                    li: ({ children }) => <li className="pl-1">{children}</li>,
+                    a: ({ href, children }) => (
+                      <a
+                        href={href}
+                        target="_blank"
+                        rel="noreferrer"
+                        className="text-[#087dbb] underline underline-offset-2 hover:text-[#08679a]"
+                      >
+                        {children}
+                      </a>
+                    ),
+                    blockquote: ({ children }) => (
+                      <blockquote className="my-3 border-l-2 border-slate-300 pl-4 text-slate-600">
+                        {children}
+                      </blockquote>
+                    ),
+                    code: ({ children, className }) => (
+                      <code className={`rounded bg-slate-100 px-1 py-0.5 font-mono text-[0.9em] ${className ?? ""}`}>
+                        {children}
+                      </code>
+                    ),
+                    pre: ({ children }) => (
+                      <pre className="my-3 max-w-full overflow-x-auto rounded-xl bg-slate-900 p-4 text-sm text-slate-100">
+                        {children}
+                      </pre>
+                    ),
+                    table: ({ children }) => (
+                      <div className="my-3 max-w-full overflow-x-auto">
+                        <table className="w-full border-collapse text-left">{children}</table>
+                      </div>
+                    ),
+                    th: ({ children }) => (
+                      <th className="border-b border-slate-300 px-3 py-2 font-semibold">{children}</th>
+                    ),
+                    td: ({ children }) => <td className="border-b border-slate-200 px-3 py-2">{children}</td>,
+                    hr: () => <hr className="my-4 border-slate-200" />
+                  }}
+                >
+                  {message.content || "..."}
+                </ReactMarkdown>
               )}
             </div>
 

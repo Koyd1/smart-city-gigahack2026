@@ -2,10 +2,10 @@
 
 import { useCallback, useEffect, useMemo, useState } from "react";
 
+import CivicBundleUpload from "@/components/admin/CivicBundleUpload";
 import FileTable, { type KnowledgeFileRow } from "@/components/admin/FileTable";
 import FileUpload from "@/components/admin/FileUpload";
 import { Alert } from "@/components/ui/alert";
-import { Input } from "@/components/ui/input";
 import { useAppTranslation } from "@/lib/i18n/I18nProvider";
 
 const POLLABLE_STATUSES = new Set<KnowledgeFileRow["status"]>(["PENDING", "PROCESSING"]);
@@ -219,50 +219,29 @@ export default function AdminKnowledgePage() {
               {t("admin.knowledge.description")}
             </p>
           </div>
-          <FileUpload
-            onUploaded={loadFiles}
-            compact
-            buttonLabel={t("admin.knowledge.uploadButton")}
-            className="w-full xl:w-[560px] xl:max-w-[560px] xl:shrink-0"
-          />
+          <div className="flex w-full flex-col gap-4 xl:w-[560px] xl:max-w-[560px] xl:shrink-0">
+            <FileUpload
+              onUploaded={loadFiles}
+              compact
+              buttonLabel={t("admin.knowledge.uploadButton")}
+              className="w-full"
+            />
+            <CivicBundleUpload onImported={loadFiles} />
+          </div>
         </div>
         {error ? (
           <Alert variant="error" className="mt-6 max-w-[760px]">
             {error}
           </Alert>
         ) : null}
-        <div className="mt-10 max-w-[480px]">
-          <Input
-            icon={
-              <svg
-                className="h-5 w-5"
-                viewBox="0 0 20 20"
-                fill="none"
-                xmlns="http://www.w3.org/2000/svg"
-                aria-hidden="true"
-              >
-                <path
-                  d="M13.125 13.125L17 17M15.3333 8.66667C15.3333 12.3486 12.3486 15.3333 8.66667 15.3333C4.98477 15.3333 2 12.3486 2 8.66667C2 4.98477 4.98477 2 8.66667 2C12.3486 2 15.3333 4.98477 15.3333 8.66667Z"
-                  stroke="currentColor"
-                  strokeWidth="1.8"
-                  strokeLinecap="round"
-                />
-              </svg>
-            }
-            value={search}
-            onChange={(event) => setSearch(event.target.value)}
-            placeholder={t("admin.knowledge.searchPlaceholder")}
-            wrapperClassName="rounded-2xl bg-[#f6f8fc] border-[#eef1f6] px-4 py-0"
-            className="py-3 text-sm"
-            aria-label={t("admin.knowledge.searchAriaLabel")}
-          />
-        </div>
       </section>
 
       <div className="pt-14">
         <FileTable
           files={files}
           totalCount={totalCount}
+          search={search}
+          onSearchChange={setSearch}
           loading={loading}
           busyId={busyId}
           sortOrder={sortOrder}
