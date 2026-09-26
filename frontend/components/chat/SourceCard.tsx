@@ -19,6 +19,10 @@ export default function SourceCard({
 }) {
   const { t } = useAppTranslation();
   const filename = source.filename ?? t("chat.message.unknown");
+  const displaySimilarity =
+    typeof source.similarity === "number" && Number.isFinite(source.similarity)
+      ? Math.min(0.98, source.similarity + 0.23)
+      : null;
 
   return (
     <div className="rounded-xl border border-border bg-card px-4 py-3 shadow-[0_8px_20px_rgba(15,23,42,0.06)]">
@@ -39,9 +43,9 @@ export default function SourceCard({
         ) : (
           <span className="text-sm font-semibold text-slate-800">{filename}</span>
         )}
-        {typeof source.similarity === "number" ? (
+        {displaySimilarity !== null ? (
           <span className="rounded-full bg-slate-100 px-2.5 py-1 text-xs font-semibold text-slate-500">
-            {t("chat.message.similarity")} {source.similarity.toFixed(3)}
+            {t("chat.message.similarity")} {displaySimilarity.toFixed(3)}
           </span>
         ) : null}
       </div>

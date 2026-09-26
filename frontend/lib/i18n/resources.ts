@@ -18,7 +18,8 @@ export const resources = {
           admin: "Admin",
           backToChat: "Întoarce-te la chat",
           startConversation: "Întreabă asistentul",
-          accessAdmin: "Accesează"
+          accessAdmin: "Accesează",
+          reportIssue: "Sesizează Primăria"
         },
         states: {
           loading: "Se încarcă..."
@@ -486,7 +487,8 @@ export const resources = {
           admin: "Админ",
           backToChat: "Вернуться в чат",
           startConversation: "Задать вопрос",
-          accessAdmin: "Войти в админ-панель"
+          accessAdmin: "Войти в админ-панель",
+          reportIssue: "Сообщить о проблеме"
         },
         states: {
           loading: "Загрузка..."
@@ -954,7 +956,8 @@ export const resources = {
           admin: "Admin",
           backToChat: "Back to chat",
           startConversation: "Ask the assistant",
-          accessAdmin: "Access Admin"
+          accessAdmin: "Access Admin",
+          reportIssue: "Report a city issue"
         },
         states: {
           loading: "Loading..."
