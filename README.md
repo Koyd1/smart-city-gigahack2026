@@ -73,10 +73,43 @@ make migrate
 make seed
 ```
 
-6. Импорт муниципального корпуса (первый запуск или полная замена):
+6. Проверить и импортировать подготовленный сайт-корпус:
 
 ```bash
-make import-civic
+make import-civic EXPORT=/data/exports/site-import/site-bundle-20260926T081707Z.zip
+```
+
+По умолчанию это только dry-run: архив и chunks проверяются, БД не меняется.
+Чтобы записать/обновить только документы из пакета, явно добавьте `APPLY=1`:
+
+```bash
+make import-civic \
+  EXPORT=/data/exports/site-import/site-bundle-20260926T081707Z.zip \
+  APPLY=1
+```
+
+Импорт использует embeddings настроенного провайдера и не очищает остальные
+записи БД. Повторный импорт той же версии пропускается. Для импорта одного сайта
+с несколькими версиями сохраняется только последняя по `retrieved_at`: в текущей
+схеме БД у документа одна активная запись. Сначала используйте тестовую БД:
+`APPLY=1` записывает данные в БД из `DATABASE_URL_ASYNC` текущего окружения.
+Для импорта одного сайта можно передать `--source-id` напрямую в backend CLI;
+без `--apply` CLI также работает только в режиме проверки.
+
+Для теста на одном документе задайте `DOCUMENT_ID`; команда сначала выполнит
+dry-run, а запись включается только с `APPLY=1`:
+
+```bash
+make import-civic \
+  EXPORT=/data/exports/site-import/site-bundle-20260926T081707Z.zip \
+  DOCUMENT_ID=doc_21dbd20083f871fc9383
+```
+
+```bash
+make import-civic \
+  EXPORT=/data/exports/site-import/site-bundle-20260926T081707Z.zip \
+  DOCUMENT_ID=doc_21dbd20083f871fc9383 \
+  APPLY=1
 ```
 
 Доступ:

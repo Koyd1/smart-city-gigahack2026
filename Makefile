@@ -31,7 +31,8 @@ seed:
 	cd frontend && node scripts/run-with-root-env.cjs npx prisma db seed
 
 import-civic:
-	$(COMPOSE) exec -e PYTHONPATH=/app backend python scripts/import_civic_corpus.py --replace
+	@test -n "$(EXPORT)" || { echo "Set EXPORT=/data/exports/site-import/<bundle>.zip" >&2; exit 2; }
+	$(COMPOSE) exec backend env PYTHONPATH=/app python scripts/import_civic_corpus.py --export-path "$(EXPORT)" $(if $(SOURCE_ID),--source-id "$(SOURCE_ID)",) $(if $(DOCUMENT_ID),--document-id "$(DOCUMENT_ID)",) $(if $(APPLY),--apply,)
 
 backup:
 	python3 scripts/backup_postgres.py

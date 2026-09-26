@@ -24,3 +24,5 @@ __pycache__/
 *.log
 infra/certs/*.pem
 backups/
+
+src/
