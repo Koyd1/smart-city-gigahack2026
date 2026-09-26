@@ -25,6 +25,26 @@
 - npm
 - ngrok (опционально, только для публичного доступа через туннель)
 
+T1
+cd /Users/alexandrmoroz/Desktop/smart-city-gagahack2026
+docker compose up -d backend worker
+
+T2
+cd /Users/alexandrmoroz/Desktop/smart-city-gagahack2026/frontend
+npm run start -- -H 0.0.0.0 -p 3000
+
+
+cd /Users/alexandrmoroz/Desktop/smart-city-gagahack2026/frontend
+npm i
+npm run build
+npm run start -- -H 0.0.0.0 -p 3000
+
+
+T3
+ngrok http 3000 --url https://twisting-parade-esquire.ngrok-free.dev
+
+Остановка: ps aux | grep '[n]grok'
+
 ## После обновления проекта
 
 Если вы подтянули последние изменения, обновите frontend-зависимости и проверьте локальную версию Node.js:
