@@ -1,6 +1,7 @@
 ﻿"use client";
 
 import { useEffect, useState } from "react";
+import type { ReactNode } from "react";
 
 import SourceCard, { type ChatSource } from "@/components/chat/SourceCard";
 import FeedbackButtons from "@/components/chat/FeedbackButtons";
@@ -21,6 +22,15 @@ type KnowledgeDoc = {
   filename: string;
   snippet?: string | null;
 };
+
+function renderMessageContent(content: string): ReactNode {
+  return content.split(/(\*\*[^*]+\*\*)/g).map((part, index) => {
+    if (part.startsWith("**") && part.endsWith("**")) {
+      return <strong key={`${part}-${index}`}>{part.slice(2, -2)}</strong>;
+    }
+    return part;
+  });
+}
 
 function getSourceDownloadUrl(source: ChatSource): string | undefined {
   if (typeof source.url === "string") {
@@ -100,7 +110,7 @@ export default function MessageBubble({
           </div>
           <div className="min-w-0 w-fit max-w-[calc(100%-3.5rem)] rounded-3xl bg-[#087dbb] px-5 py-3 text-white shadow-[0_12px_30px_rgba(8,125,187,0.28)] sm:max-w-[760px] sm:px-6 sm:py-4">
             <div className="text-[15px] leading-relaxed whitespace-pre-wrap break-words hyphens-auto [overflow-wrap:anywhere]">
-              {message.content || "..."}
+              {renderMessageContent(message.content || "...")}
             </div>
           </div>
         </div>
@@ -158,7 +168,7 @@ export default function MessageBubble({
               {isStreaming ? (
                 <TypingDots className="text-slate-500" label={t("chat.message.assistantTyping")} />
               ) : (
-                message.content || "..."
+                renderMessageContent(message.content || "...")
               )}
             </div>
 
