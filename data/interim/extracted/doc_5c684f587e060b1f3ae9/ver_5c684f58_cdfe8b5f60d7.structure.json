@@ -1,0 +1,1595 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/tables/0"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [],
+  "key_value_items": [],
+  "name": "37ac52e6ec59a090fac20164991b12553060995d637d0a2ef3bec2b928c69e44",
+  "origin": {
+    "binary_hash": 17563689697300356676,
+    "filename": "37ac52e6ec59a090fac20164991b12553060995d637d0a2ef3bec2b928c69e44.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.92,
+        "width": 595.2
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 620.8794037459638,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 231.41902494494548,
+            "r": 551.3137354498742,
+            "t": 724.0804663230914
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 278.1405,
+                "coord_origin": "TOPLEFT",
+                "l": 59.76,
+                "r": 75.0895,
+                "t": 267.50300000000004
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr."
+            },
+            {
+              "bbox": {
+                "b": 284.8604999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 89.76,
+                "r": 170.28300000000002,
+                "t": 274.22299999999996
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Nume/Prenume"
+            },
+            {
+              "bbox": {
+                "b": 291.5804999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 215.28,
+                "r": 307.2480000000001,
+                "t": 266.904
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Func{ia / Institufia /Localitatea"
+            },
+            {
+              "bbox": {
+                "b": 284.34749999999997,
+                "coord_origin": "TOPLEFT",
+                "l": 408.96,
+                "r": 492.729,
+                "t": 272.78499999999997
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "Titlul pro'iectului"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 325.284,
+                "coord_origin": "TOPLEFT",
+                "l": 58.32,
+                "r": 61.656,
+                "t": 314.18399999999997
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "I"
+            },
+            {
+              "bbox": {
+                "b": 325.077,
+                "coord_origin": "TOPLEFT",
+                "l": 87.84,
+                "r": 154.73100000000002,
+                "t": 314.90199999999993
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Badrajan Vlad"
+            },
+            {
+              "bbox": {
+                "b": 338.17349999999993,
+                "coord_origin": "TOPLEFT",
+                "l": 184.56,
+                "r": 322.3650000000001,
+                "t": 301.101
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "Profesor de limba gi literatura romdn6, LT ,,Orizont\", mun. Chiqindu"
+            },
+            {
+              "bbox": {
+                "b": 344.75699999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 350.16,
+                "r": 532.74,
+                "t": 294.14300000000003
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": ",,Liceul Originalitdfii\" - o comunitate educalionalI transfront aherd pentru cultivarea creativit[1ii Ei competenlelor disitale"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 364.98299999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 57.84,
+                "r": 62.844,
+                "t": 356.65799999999996
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2"
+            },
+            {
+              "bbox": {
+                "b": 365.29349999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 88.56,
+                "r": 154.76249999999996,
+                "t": 355.58099999999996
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Banciu Dorina"
+            },
+            {
+              "bbox": {
+                "b": 371.90999999999997,
+                "coord_origin": "TOPLEFT",
+                "l": 184.56,
+                "r": 337.9665,
+                "t": 348.62299999999993
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "Directoare, Gridinila de copii nr. 89, mun. Chiqindu"
+            },
+            {
+              "bbox": {
+                "b": 364.8135,
+                "coord_origin": "TOPLEFT",
+                "l": 350.88,
+                "r": 501.85950000000014,
+                "t": 353.66099999999994
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": "As6yxa KyJrbrypH brx qeHsocrefi"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 405.54299999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 58.08,
+                "r": 65.082,
+                "t": 397.21799999999996
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "J,"
+            },
+            {
+              "bbox": {
+                "b": 405.98999999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 88.56,
+                "r": 168.21749999999997,
+                "t": 396.14099999999996
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Caraman Tatiana"
+            },
+            {
+              "bbox": {
+                "b": 426.01349999999996,
+                "coord_origin": "TOPLEFT",
+                "l": 184.56,
+                "r": 304.50000000000006,
+                "t": 376.5799999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "Profesoard de Bazele antreprenoriatului, $coala Profesionald nr. 9, mun. Chisindu"
+            },
+            {
+              "bbox": {
+                "b": 405.50999999999993,
+                "coord_origin": "TOPLEFT",
+                "l": 350.88,
+                "r": 429.44,
+                "t": 395.3019999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": "Tinerii in actiune"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 452.823,
+                "coord_origin": "TOPLEFT",
+                "l": 58.08,
+                "r": 63.083999999999996,
+                "t": 444.498
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4"
+            },
+            {
+              "bbox": {
+                "b": 453.13349999999997,
+                "coord_origin": "TOPLEFT",
+                "l": 89.76,
+                "r": 172.78199999999995,
+                "t": 443.421
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Cazacioc Nadeida"
+            },
+            {
+              "bbox": {
+                "b": 466.57349999999997,
+                "coord_origin": "TOPLEFT",
+                "l": 185.28,
+                "r": 326.32,
+                "t": 429.50299999999993
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "Cercet6tor stiintific, drd., asist univ., tlPS ,,Ion Creang6\" din Chisindu"
+            },
+            {
+              "bbox": {
+                "b": 466.67699999999996,
+                "coord_origin": "TOPLEFT",
+                "l": 350.64,
+                "r": 548.6375,
+                "t": 429.37999999999994
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 4,
+              "text": "Parteneriatele transfrontaliere - punte spre formarea competenlelor specifi ce disciplinei Chimie"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 493.31249999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 58.8,
+                "r": 62.97,
+                "t": 486.37499999999994
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "5"
+            },
+            {
+              "bbox": {
+                "b": 494.06999999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 89.04,
+                "r": 147.78,
+                "t": 484.81999999999994
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "Giscd Oxana"
+            },
+            {
+              "bbox": {
+                "b": 501.34049999999996,
+                "coord_origin": "TOPLEFT",
+                "l": 185.52,
+                "r": 338.6865,
+                "t": 477.14199999999994
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 5,
+              "text": "Directoare, Grddinila de copii nr. 227, mun. Chisiniu"
+            },
+            {
+              "bbox": {
+                "b": 507.4769999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 350.64,
+                "r": 537.7899999999997,
+                "t": 467.669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 5,
+              "text": "Leadership fir[ Hotare - transformarea unui parteneriat online intr-o comunitate de invdtare STEAM"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 534.423,
+                "coord_origin": "TOPLEFT",
+                "l": 58.56,
+                "r": 63.564,
+                "t": 526.098
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 6,
+              "text": "6"
+            },
+            {
+              "bbox": {
+                "b": 534.837,
+                "coord_origin": "TOPLEFT",
+                "l": 88.8,
+                "r": 158.45600000000005,
+                "t": 524.6619999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 6,
+              "text": "Mosildea Nina"
+            },
+            {
+              "bbox": {
+                "b": 548.4134999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 185.52,
+                "r": 328.22999999999996,
+                "t": 510.9819999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 6,
+              "text": "Profesoard de limba francezd, IPLT,,Mihai Eminescu\", mun. Chisin6u"
+            },
+            {
+              "bbox": {
+                "b": 537.6179999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 350.88,
+                "r": 539.4260000000002,
+                "t": 523.702
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 6,
+              "text": "Valorile UNESCO - punli care ne unesc"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 575.1195,
+                "coord_origin": "TOPLEFT",
+                "l": 58.8,
+                "r": 63.525999999999996,
+                "t": 567.257
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 7,
+              "text": "7"
+            },
+            {
+              "bbox": {
+                "b": 575.8439999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 89.52,
+                "r": 142.77599999999995,
+                "t": 564.7439999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 7,
+              "text": "Spinei Lilia"
+            },
+            {
+              "bbox": {
+                "b": 582.15,
+                "coord_origin": "TOPLEFT",
+                "l": 185.52,
+                "r": 308.16900000000004,
+                "t": 557.903
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 7,
+              "text": "Inv[![toare, IP LT,,Vasile Alecsandri\", or, Cildraqi"
+            },
+            {
+              "bbox": {
+                "b": 588.9735,
+                "coord_origin": "TOPLEFT",
+                "l": 350.88,
+                "r": 545.6529999999999,
+                "t": 551.064
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 7,
+              "text": "Little Guardians of Nature - competenle pentru via!6 prin colaborare, tehnologie qi educatie ecolosicd"
+            }
+          ]
+        ],
+        "num_cols": 4,
+        "num_rows": 8,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 278.1405,
+              "coord_origin": "TOPLEFT",
+              "l": 59.76,
+              "r": 75.0895,
+              "t": 267.50300000000004
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr."
+          },
+          {
+            "bbox": {
+              "b": 284.8604999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 89.76,
+              "r": 170.28300000000002,
+              "t": 274.22299999999996
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Nume/Prenume"
+          },
+          {
+            "bbox": {
+              "b": 291.5804999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 215.28,
+              "r": 307.2480000000001,
+              "t": 266.904
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Func{ia / Institufia /Localitatea"
+          },
+          {
+            "bbox": {
+              "b": 284.34749999999997,
+              "coord_origin": "TOPLEFT",
+              "l": 408.96,
+              "r": 492.729,
+              "t": 272.78499999999997
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "Titlul pro'iectului"
+          },
+          {
+            "bbox": {
+              "b": 325.284,
+              "coord_origin": "TOPLEFT",
+              "l": 58.32,
+              "r": 61.656,
+              "t": 314.18399999999997
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "I"
+          },
+          {
+            "bbox": {
+              "b": 325.077,
+              "coord_origin": "TOPLEFT",
+              "l": 87.84,
+              "r": 154.73100000000002,
+              "t": 314.90199999999993
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Badrajan Vlad"
+          },
+          {
+            "bbox": {
+              "b": 338.17349999999993,
+              "coord_origin": "TOPLEFT",
+              "l": 184.56,
+              "r": 322.3650000000001,
+              "t": 301.101
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "Profesor de limba gi literatura romdn6, LT ,,Orizont\", mun. Chiqindu"
+          },
+          {
+            "bbox": {
+              "b": 344.75699999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 350.16,
+              "r": 532.74,
+              "t": 294.14300000000003
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": ",,Liceul Originalitdfii\" - o comunitate educalionalI transfront aherd pentru cultivarea creativit[1ii Ei competenlelor disitale"
+          },
+          {
+            "bbox": {
+              "b": 364.98299999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 57.84,
+              "r": 62.844,
+              "t": 356.65799999999996
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2"
+          },
+          {
+            "bbox": {
+              "b": 365.29349999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 88.56,
+              "r": 154.76249999999996,
+              "t": 355.58099999999996
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Banciu Dorina"
+          },
+          {
+            "bbox": {
+              "b": 371.90999999999997,
+              "coord_origin": "TOPLEFT",
+              "l": 184.56,
+              "r": 337.9665,
+              "t": 348.62299999999993
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "Directoare, Gridinila de copii nr. 89, mun. Chiqindu"
+          },
+          {
+            "bbox": {
+              "b": 364.8135,
+              "coord_origin": "TOPLEFT",
+              "l": 350.88,
+              "r": 501.85950000000014,
+              "t": 353.66099999999994
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 2,
+            "text": "As6yxa KyJrbrypH brx qeHsocrefi"
+          },
+          {
+            "bbox": {
+              "b": 405.54299999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 58.08,
+              "r": 65.082,
+              "t": 397.21799999999996
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "J,"
+          },
+          {
+            "bbox": {
+              "b": 405.98999999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 88.56,
+              "r": 168.21749999999997,
+              "t": 396.14099999999996
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Caraman Tatiana"
+          },
+          {
+            "bbox": {
+              "b": 426.01349999999996,
+              "coord_origin": "TOPLEFT",
+              "l": 184.56,
+              "r": 304.50000000000006,
+              "t": 376.5799999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "Profesoard de Bazele antreprenoriatului, $coala Profesionald nr. 9, mun. Chisindu"
+          },
+          {
+            "bbox": {
+              "b": 405.50999999999993,
+              "coord_origin": "TOPLEFT",
+              "l": 350.88,
+              "r": 429.44,
+              "t": 395.3019999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 3,
+            "text": "Tinerii in actiune"
+          },
+          {
+            "bbox": {
+              "b": 452.823,
+              "coord_origin": "TOPLEFT",
+              "l": 58.08,
+              "r": 63.083999999999996,
+              "t": 444.498
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4"
+          },
+          {
+            "bbox": {
+              "b": 453.13349999999997,
+              "coord_origin": "TOPLEFT",
+              "l": 89.76,
+              "r": 172.78199999999995,
+              "t": 443.421
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Cazacioc Nadeida"
+          },
+          {
+            "bbox": {
+              "b": 466.57349999999997,
+              "coord_origin": "TOPLEFT",
+              "l": 185.28,
+              "r": 326.32,
+              "t": 429.50299999999993
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "Cercet6tor stiintific, drd., asist univ., tlPS ,,Ion Creang6\" din Chisindu"
+          },
+          {
+            "bbox": {
+              "b": 466.67699999999996,
+              "coord_origin": "TOPLEFT",
+              "l": 350.64,
+              "r": 548.6375,
+              "t": 429.37999999999994
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 4,
+            "text": "Parteneriatele transfrontaliere - punte spre formarea competenlelor specifi ce disciplinei Chimie"
+          },
+          {
+            "bbox": {
+              "b": 493.31249999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 58.8,
+              "r": 62.97,
+              "t": 486.37499999999994
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "5"
+          },
+          {
+            "bbox": {
+              "b": 494.06999999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 89.04,
+              "r": 147.78,
+              "t": 484.81999999999994
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "Giscd Oxana"
+          },
+          {
+            "bbox": {
+              "b": 501.34049999999996,
+              "coord_origin": "TOPLEFT",
+              "l": 185.52,
+              "r": 338.6865,
+              "t": 477.14199999999994
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 5,
+            "text": "Directoare, Grddinila de copii nr. 227, mun. Chisiniu"
+          },
+          {
+            "bbox": {
+              "b": 507.4769999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 350.64,
+              "r": 537.7899999999997,
+              "t": 467.669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 5,
+            "text": "Leadership fir[ Hotare - transformarea unui parteneriat online intr-o comunitate de invdtare STEAM"
+          },
+          {
+            "bbox": {
+              "b": 534.423,
+              "coord_origin": "TOPLEFT",
+              "l": 58.56,
+              "r": 63.564,
+              "t": 526.098
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 6,
+            "text": "6"
+          },
+          {
+            "bbox": {
+              "b": 534.837,
+              "coord_origin": "TOPLEFT",
+              "l": 88.8,
+              "r": 158.45600000000005,
+              "t": 524.6619999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 6,
+            "text": "Mosildea Nina"
+          },
+          {
+            "bbox": {
+              "b": 548.4134999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 185.52,
+              "r": 328.22999999999996,
+              "t": 510.9819999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 6,
+            "text": "Profesoard de limba francezd, IPLT,,Mihai Eminescu\", mun. Chisin6u"
+          },
+          {
+            "bbox": {
+              "b": 537.6179999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 350.88,
+              "r": 539.4260000000002,
+              "t": 523.702
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 6,
+            "text": "Valorile UNESCO - punli care ne unesc"
+          },
+          {
+            "bbox": {
+              "b": 575.1195,
+              "coord_origin": "TOPLEFT",
+              "l": 58.8,
+              "r": 63.525999999999996,
+              "t": 567.257
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 7,
+            "text": "7"
+          },
+          {
+            "bbox": {
+              "b": 575.8439999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 89.52,
+              "r": 142.77599999999995,
+              "t": 564.7439999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 7,
+            "text": "Spinei Lilia"
+          },
+          {
+            "bbox": {
+              "b": 582.15,
+              "coord_origin": "TOPLEFT",
+              "l": 185.52,
+              "r": 308.16900000000004,
+              "t": 557.903
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 7,
+            "text": "Inv[![toare, IP LT,,Vasile Alecsandri\", or, Cildraqi"
+          },
+          {
+            "bbox": {
+              "b": 588.9735,
+              "coord_origin": "TOPLEFT",
+              "l": 350.88,
+              "r": 545.6529999999999,
+              "t": 551.064
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 7,
+            "text": "Little Guardians of Nature - competenle pentru via!6 prin colaborare, tehnologie qi educatie ecolosicd"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 252.02085255529994,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.60917722970847,
+            "r": 559.6804805473994,
+            "t": 579.8491380502153
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr. 2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 723.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 483.3333333333333,
+            "r": 544.3333333333333,
+            "t": 735.92
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Anexa nr. 2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Lista prezentatorilor încadrai ConferinfeiTransfrontaliere Educație Online fără Hotare: Conectam Comanităti, Cultivăm Valori UNESCO\",",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 597.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.0,
+            "r": 523.0,
+            "t": 626.2533333333333
+          },
+          "charspan": [
+            0,
+            133
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "Lista prezentatorilor încadrai ConferinfeiTransfrontaliere Educație Online fără Hotare: Conectam Comanităti, Cultivăm Valori UNESCO\","
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "013 din 30",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 690.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 396.0,
+            "r": 494.0,
+            "t": 724.2533333333333
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "013 din 30"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Aprobat",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 655.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 232.33333333333334,
+            "r": 278.33333333333337,
+            "t": 668.2533333333333
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Aprobat"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "drei PAVALOI, şef adjunct DGETS",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 656.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 350.6666666666667,
+            "r": 542.6666666666667,
+            "t": 668.92
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "drei PAVALOI, şef adjunct DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ediția 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 579.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 267.66666666666663,
+            "r": 329.6666666666667,
+            "t": 594.2533333333333
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ediția 2026"
+    }
+  ],
+  "version": "1.10.0"
+}

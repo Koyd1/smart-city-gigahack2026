@@ -1,0 +1,971 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/24"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/pictures/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "ce1a380532cf661ff3f5b968c345d483e776cae268daf109aa7023234e7f3385",
+  "origin": {
+    "binary_hash": 12281354818387129221,
+    "filename": "ce1a380532cf661ff3f5b968c345d483e776cae268daf109aa7023234e7f3385.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.2
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 664.6467433077977,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 188.42252516778524,
+            "r": 398.1612786414639,
+            "t": 682.7912881628434
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 183.5595434450105,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 231.74453043073618,
+            "r": 328.774986564073,
+            "t": 210.89570774639856
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 738.689080099956,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 261.65371650849414,
+            "r": 325.7954403051594,
+            "t": 815.5662155555002
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "MINISTERUL EDUCATIEI ŞI CERCETĂRII AL REPUBLICII MOLDOVA",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 800.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 46.0,
+            "r": 256.66666666666663,
+            "t": 824.0133233333333
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "MINISTERUL EDUCATIEI ŞI CERCETĂRII AL REPUBLICII MOLDOVA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "AGENTIA NATIONALÅ PENTRU CURRICULUMŞI EVALUARE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 767.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 234.0,
+            "t": 792.3466566666666
+          },
+          "charspan": [
+            0,
+            46
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "AGENTIA NATIONALÅ PENTRU CURRICULUMŞI EVALUARE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "MINISTRY OF EDUCATION AND RESEARCH OF THE REPUBLIC OF MOLDOVA",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 803.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 325.6666666666667,
+            "r": 551.3333333333334,
+            "t": 827.0133233333333
+          },
+          "charspan": [
+            0,
+            61
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "MINISTRY OF EDUCATION AND RESEARCH OF THE REPUBLIC OF MOLDOVA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "NATIONAL AGENCY FOR CURRICULUM AND EVALUATION",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 769.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 350.3333333333333,
+            "r": 526.0,
+            "t": 793.67999
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "NATIONAL AGENCY FOR CURRICULUM AND EVALUATION"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Piața Marii Adunări Naționale, nr. 1 MD-2033 Chişinău Republica Moldova tel.022-23-41-60, fax: 022-23-41-60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 721.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.66666666666666,
+            "r": 215.33333333333334,
+            "t": 758.0133233333333
+          },
+          "charspan": [
+            0,
+            107
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Piața Marii Adunări Naționale, nr. 1 MD-2033 Chişinău Republica Moldova tel.022-23-41-60, fax: 022-23-41-60"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Piața Mari Adunări Naționale, nr. 1 MD-2033 Chişinău Republica Moldova tel.022- 23-41-60, fax: 022-23-41-60",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 721.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 382.3333333333333,
+            "r": 502.3333333333333,
+            "t": 758.0133233333333
+          },
+          "charspan": [
+            0,
+            107
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Piața Mari Adunări Naționale, nr. 1 MD-2033 Chişinău Republica Moldova tel.022- 23-41-60, fax: 022-23-41-60"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 691.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 272.66666666666663,
+            "r": 315.3333333333333,
+            "t": 704.3466566666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nr. 35 din 30 marbie 2026",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 664.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 186.0,
+            "r": 399.0,
+            "t": 683.3466566666666
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Nr. 35 din 30 marbie 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la instituirea Centrelor de bacalaureat, sesiunea 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 612.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 62.0,
+            "r": 224.0,
+            "t": 638.67999
+          },
+          "charspan": [
+            0,
+            65
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Cu privire la instituirea Centrelor de bacalaureat, sesiunea 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu pct.15, lit.a), Secțiunea 1, pct.31, Secțiunea 6, Capitolul II din Regulamentul cu privire la examenul național de bacalaureat, aprobat prin Ordinul nr.47/2018 (Monitorul Oficial al Republicii Moldova, nr.58-66, art.256/2018), cu modificările ulterioare, în scopul organizării și desfăşurării regulamentare a examenului național de bacalaureat și în baza deciziei Comisiei Naționale de Examene, proces-verbal nr.03 din 27 martie 2026, directorul Agenției Naționale pentru Curriculum și Evaluare emite prezentul ordin",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 514.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.666666666666664,
+            "r": 525.6666666666667,
+            "t": 599.0133233333333
+          },
+          "charspan": [
+            0,
+            535
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "În conformitate cu pct.15, lit.a), Secțiunea 1, pct.31, Secțiunea 6, Capitolul II din Regulamentul cu privire la examenul național de bacalaureat, aprobat prin Ordinul nr.47/2018 (Monitorul Oficial al Republicii Moldova, nr.58-66, art.256/2018), cu modificările ulterioare, în scopul organizării și desfăşurării regulamentare a examenului național de bacalaureat și în baza deciziei Comisiei Naționale de Examene, proces-verbal nr.03 din 27 martie 2026, directorul Agenției Naționale pentru Curriculum și Evaluare emite prezentul ordin"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 494.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 267.66666666666663,
+            "r": 325.3333333333333,
+            "t": 505.3466566666666
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "ORDIN:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se instituie Centrele de bacalaureat, sesiunea de examen 2026, și se aprobă preşedinții și secretarii centrelor respective în conformitate cu Anexa la prezentul ordin.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 463.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.0,
+            "r": 525.3333333333333,
+            "t": 490.3466566666666
+          },
+          "charspan": [
+            0,
+            170
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Se instituie Centrele de bacalaureat, sesiunea de examen 2026, și se aprobă preşedinții și secretarii centrelor respective în conformitate cu Anexa la prezentul ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Organele locale de specialitate în domeniul învțământului:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 449.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.333333333333336,
+            "r": 363.3333333333333,
+            "t": 461.3466566666666
+          },
+          "charspan": [
+            0,
+            61
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Organele locale de specialitate în domeniul învțământului:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1)",
+      "orig": "1) vor asigura buna organizare și desfáşurare a sesiunii de examen în conformitate cu prevederile documentelor normative în vigoare;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 421.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.333333333333336,
+            "r": 525.3333333333333,
+            "t": 448.01332333333335
+          },
+          "charspan": [
+            0,
+            132
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "vor asigura buna organizare și desfáşurare a sesiunii de examen în conformitate cu prevederile documentelor normative în vigoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2)",
+      "orig": "2) vor respecta prevederile Regulamentului cu privire la examenul național de bacalaureat;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 407.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.0,
+            "r": 515.0,
+            "t": 420.3466566666666
+          },
+          "charspan": [
+            0,
+            90
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "vor respecta prevederile Regulamentului cu privire la examenul național de bacalaureat;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3)",
+      "orig": "3) vor asigura resurse financiare pentru organizarea și desfăşurarea sesiunii de examen în conformitate cu prevederile Hotărârii Guvernului nr.935/2022 în limita bugetului aprobat pentru anul 2026;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 366.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.666666666666664,
+            "r": 525.3333333333333,
+            "t": 407.3466566666666
+          },
+          "charspan": [
+            0,
+            197
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "vor asigura resurse financiare pentru organizarea și desfăşurarea sesiunii de examen în conformitate cu prevederile Hotărârii Guvernului nr.935/2022 în limita bugetului aprobat pentru anul 2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4)",
+      "orig": "4) vor asigura retribuirea muncii preşedinților și secretarilor Centrelor de bacalaureat în conformitate cu legislația în vigoare;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 338.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.666666666666664,
+            "r": 525.3333333333333,
+            "t": 365.34665666666666
+          },
+          "charspan": [
+            0,
+            130
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "vor asigura retribuirea muncii preşedinților și secretarilor Centrelor de bacalaureat în conformitate cu legislația în vigoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5)",
+      "orig": "5) vor prelua, sub semnătură, de la Centrul Tehnologii Informaționale și Comunicaționale în Educație diplomele de Bacalaureat ale absolvenților din sesiunea curentă și le vor transmite, sub semnătură, președintelui Centrului de bacalaureat respectiv.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 296.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.333333333333336,
+            "r": 525.0,
+            "t": 336.67999
+          },
+          "charspan": [
+            0,
+            250
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "vor prelua, sub semnătură, de la Centrul Tehnologii Informaționale și Comunicaționale în Educație diplomele de Bacalaureat ale absolvenților din sesiunea curentă și le vor transmite, sub semnătură, președintelui Centrului de bacalaureat respectiv."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Preşedinții, secretarul/secretarii Centrelor de bacalaureat vor respecta prevederile Regulamentului cu privire la examenul național de bacalaureat.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 269.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.333333333333336,
+            "r": 524.6666666666667,
+            "t": 296.3466566666667
+          },
+          "charspan": [
+            0,
+            150
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Preşedinții, secretarul/secretarii Centrelor de bacalaureat vor respecta prevederile Regulamentului cu privire la examenul național de bacalaureat."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Domnul Stanislav Ciubotaru, director adjunct al Agenției Naționale pentru Curriculum și Evaluare, va monitoriza executarea prevederilor prezentului ordin.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.0,
+            "r": 524.6666666666667,
+            "t": 268.67999
+          },
+          "charspan": [
+            0,
+            157
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Domnul Stanislav Ciubotaru, director adjunct al Agenției Naționale pentru Curriculum și Evaluare, va monitoriza executarea prevederilor prezentului ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul asupra executării prevederilor prezentului ordin se atribuie directorului Agenției Naționale pentru Curriculum și Evaluare.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 213.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.0,
+            "r": 524.3333333333333,
+            "t": 241.01332333333323
+          },
+          "charspan": [
+            0,
+            136
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Controlul asupra executării prevederilor prezentului ordin se atribuie directorului Agenției Naționale pentru Curriculum și Evaluare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Director",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 187.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 167.0,
+            "r": 213.66666666666666,
+            "t": 199.34665666666672
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Director"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Gouor",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 183.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 231.0,
+            "r": 331.3333333333333,
+            "t": 209.01332333333323
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Gouor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Lilia IVANOV",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 187.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 365.0,
+            "r": 442.6666666666667,
+            "t": 199.01332333333323
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Lilia IVANOV"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Nadejda Dimitrova, 022 2234160",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 45.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.0,
+            "r": 193.33333333333334,
+            "t": 61.346656666666604
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Nadejda Dimitrova, 022 2234160"
+    }
+  ],
+  "version": "1.10.0"
+}

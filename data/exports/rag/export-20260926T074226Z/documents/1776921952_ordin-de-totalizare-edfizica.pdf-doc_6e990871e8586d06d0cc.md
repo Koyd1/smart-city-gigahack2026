@@ -1,0 +1,209 @@
+---
+document_id: "doc_6e990871e8586d06d0cc"
+version_id: "ver_6e990871_0f533e2a2096"
+title: "1776921952_ordin-de-totalizare-edfizica.pdf"
+source_url: "https://chisinauedu.dgets.md/storage/orders/1776921952_ordin-de-totalizare-edfizica.pdf"
+retrieved_at: "2026-09-26T07:15:54.809067+00:00"
+content_sha256: "0f533e2a2096ba24f0c4d139ce782776ec906f66512d4e107fe1724450c56ec0"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+<!-- image -->
+
+## CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALĂ EDUCATIE, TINERET ŞI SPORT
+
+<!-- image -->
+
+<!-- image -->
+
+nr. 01/0-7/505 din22.04. 26
+
+## ORDIN
+
+Cu privire la totalurile seminarului instructiv-metodic pentru cadrele manageriale și cadrele didactice din instituțiile cu învățământ preşcolar
+
+În temeiul ordinului DGETS nr.01/1-7/378 din 23.03.2026, cu privire la organizarea seminarului instructiv-metodic pentru instituțiile cu învățământ preşcolar, în perioada 25 - 27 martie 2026 s-a desfăşurat seminarul instructiv-metodic cu genericul Abordări inovative în organizarea și desfăşurarea activităților de educație fizică: modele și strategii eficiente. La seminar au participat 110 cadre manageriale și cadre didactice din instituțiile cu învățământ preşcolar.
+
+Reieşind din cele menționate mai sus,
+
+## ORDON:
+
+2. Se consideră activitatea de formare continuă a cadrelor manageriale și cadrelor didactice participante la seminar drept activitate cu durata de 6 (şase) ore în baza hărții creditare pentru atestarea la grad didactic (anexa nr.2).
+1. Se consideră activitatea desfaşurată de formatori în cadrul seminarului instructiv-metodic drept activitate cu durata de 30 (treizeci) ore in baza hărții creditare pentru atestarea la grad didactic (anexa nr.1).
+3. Se menționează activitatea directorilor instituțiilor cu învățământ preşcolar, O. Roşca, Grădinița de copii nr. 2 (or. Durleşti), L. Fadeev, Grădinița de copii nr. 201 (or. Durleşti)și
+- A. Vasilache, Grădinița de copii nr. 225, în crearea condițiilor optime pentru organizarea seminarului.
+4. Responsabilitatea de realizare a prevederilor prezentului ordin revine Comisiei de evaluare internă și atestare din cadrul instituțiilor participante la seminar.
+6. Controlul realizării prevederilor prezentului ordin revine S. Axînti, șef al direcției management curricular, DGETS..
+5. S. Duminică, specialist principal, DGETS va informa directorii din institutiile cu învățământ preşcolar cu prevederile acestui ordin.
+7. Monitorizarea îndeplinirii prezentului ordin revine V. Crudu, DGETS.
+
+Ex. Duminicä Stella,, 022 23 52 96 Ex. Duminicä Stella,, 022 23 52 96
+
+Şef adjunct Andrei PAVALOI
+
+<!-- image -->
+
+<!-- page: 2 -->
+
+## Lista formatorilor
+
+| Nr.   | Formatori           | Instituția, gradul didactic                                                               |
+|-------|---------------------|-------------------------------------------------------------------------------------------|
+|       | Duminică Stella     | specialist principal, direcția Management curricular DGETS.                               |
+|       | Vasilache Alla      | director, Grădinița de copii nr.225, grad managerial superior.                            |
+|       | Roşca Olga          | director, Grădinița de copii nr. 2 (or. Durlești), grad didactic unu.                     |
+|       | Fadeev Ludmila      | director, Grădinița de copii nr. 201 (or. Durlești), grad didactic unu.                   |
+|       | Morcov Aurelia      | metodist, Grădinița de copii nr.225, grad didactic superior.                              |
+|       | Boltinschi Carolina | profesor de educație fizică, Grădinița de copii nr.201 (or. Durleşti), grad didactic unu. |
+|       | Danu Daniela        | profesor de educație fizică, Grădinița de copii nr.2 (or. Durleşti), grad didactic doi.   |
+|       | Tricolici Ludmila   | profesor de educație fizică, Grădinița de copii nr.225.                                   |
+|       | Bobenco Nicolae     | profesor de educație fizică, Grădinița de copii nr.225.                                   |
+|       | Voloşciuc Irina     | educator, Grădinița de copii nr.2 (or. Durleşti), grad didactic doi.                      |
+
+505
+
+din
+
+22.04.26
+
+<!-- page: 3 -->
+
+<!-- image -->
+
+la ordinul01/0-7/505
+
+\_din 22.04.26
+
+## Lista participanților la seminarul instructiv-metodic
+
+|     | Numele și prenumele   | Instituția                            |
+|-----|-----------------------|---------------------------------------|
+|  1. | Gîscă Oxana           | Grădinița de copii nr.227             |
+|  2. | Dragan Aurelia        | Grădinița de copii nr.227             |
+|  3. | Beschier Ionela       | Grădinița de copii nr.227             |
+|  4. | Mahu Svetlana         | Grădinița de copii nr.227             |
+|  5. | Papuc Fedosia         | Grădinița de copii nr. 227            |
+|  6. | Îndoitu Angela        | Grădinița de copii nr.210             |
+|  7. | Hmeli Marcela         | Grădinița de copii nr.210             |
+|  8. | Boian Raisa           | Grădinița de copii nr.210             |
+|  9. | Colun Viorica         | Grădinița de copii nr.210             |
+| 10. | Butnaru Natalia       | Grădinița de copii nr. 2 or. Durleşti |
+| 11. | Rotari Maria          | Grădinița de copii nr. 8              |
+| 12. | Bucuci Nadejda        | Grădinița de copii nr. 8              |
+| 13. | Lisneac Elena         | Grădinița de copii nr. 8              |
+| 14. | Pavaloi Domnica       | Grădinița de copii nr. 8              |
+| 15. | Vlasî Tatiana         | Grădinița de copii nr. 2 or. Durleşti |
+| 16. | Tomac Tatiana         | Grădinița de copii nr. 157            |
+| 17. | Ionel Olga            | Grădinița de copii nr.157             |
+| 18. | Ceban Tatiana         | Grădinița de copii nr.157             |
+| 19. | Blîndescu Maria       | Grădinița de copii nr. 157            |
+| 20. | Tofan Aliona          | Grădinița de copii nr. 2 or. Durleşti |
+| 21. | Tcaci Tatiana         | Grădinița de copii nr. 183            |
+| 22. | Mihăilă Lucia         | Grădinița de copii nr. 183            |
+| 23. | Pirtac Mariana        | Grădinița de copii nr. 183            |
+| 24. | Anghel Olga           | Grădinița de copii nr. 183            |
+| 25. | Arseni Ecaterina      | Grădinița de copii nr. 2 or. Durleşti |
+| 26. | Raşcu Svetlana        | Grădinița de copii nr. 38             |
+| 27. | Sadîgova Aliona       | Grădinița de copii nr. 38             |
+| 28. | Caragacean Olga       | Grădinița de copii nr. 38             |
+
+<!-- page: 4 -->
+
+|   29. | Paladi Diana           | Grădinița de copii nr. 38                      |
+|-------|------------------------|------------------------------------------------|
+|   30. | Costiuc Felicia        | Grădinița de copii nr. 3 or. Durleşti          |
+|   31. | Brăescu Nadejda        | Grădinița de copii nr. 201 or. Durleşti        |
+|   32. | Magleli Elena          | Grădinița de copii nr. 2 or. Durleşti          |
+|   33. | Cernei Olga            | Instituția Privată Învățământ Preşcolar Wonki" |
+|   34. | Palici Nadejda         | Instituția Privată Învățământ Preşcolar Wonki" |
+|   35. | Paponina Mariana       | Instituția Privată Invățământ Preşcolar Wonki" |
+|   36. | Cebotari Nina          | Grădinița de copii nr. 215                     |
+|   37. | Cosnicean Veronica     | Grădinița de copii nr. 215                     |
+|   38. | Zgardan Oxana          | Grădinița de copii nr. 215                     |
+|   39. | Prodan Cristina        | Grădinița de copii nr. 215                     |
+|   40. | Onofrei Nadejda        | Grădinița de copii nr. 201 (or. Durleşti)      |
+|   41. | Traci Olesea           | Grădinița de copii nr. 141                     |
+|   42. | Malanca Ala            | Grădinița de copii nr. 141                     |
+|   43. | Rujavnița Irina        | Grădinița de copii nr. 141                     |
+|   44. | Druța Liudmila         | Grădinița de copii nr. 141                     |
+|   45. | Catelea Renata         | Grădinița de copii nr. 201 (or. Durleşti)      |
+|   46. | Cocier Victoria        | Grădinița de copii nr. 112                     |
+|   47. | Moroz Doina            | Grădinița de copii nr. 112                     |
+|   48. | Antipov Olesea         | Grădinița de copii nr. 112                     |
+|   49. | Gurghiş Tatiana        | Grădinița de copii nr. 112                     |
+|   50. | Bucşan Mariana         | Grădinița de copii nr. 201 (or. Durleşti)      |
+|   51. | Lungu Svetlana         | Grădinița de copii nr. 139                     |
+|   52. | Coban Anastasia        | Grădinița de copii nr. 139                     |
+|   53. | Buga Nichita           | Grădinița de copii nr. 139                     |
+|   54. | Balu Olesea            | Grădinița de copii nr. 201 (or. Durleşti)      |
+|   55. | Samson Inga            | Grădinița de copii nr. 96                      |
+|   56. | Oprea Victoria         | Grădinița de copii nr. 96                      |
+|   57. | Rudnițchi Natalia      | Grădinița de copii nr. 96                      |
+|   58. | Bragari Tatiana        | Grădinița de copii nr. 96                      |
+|   59. | Ghețu Natalia          | Grădinița de copii nr. 201 (or. Durleşti)      |
+|   60. | Grigoraşenco Anastasia | Grădinița de copii nr. 88                      |
+|   61. | Golinbovscaia Janeta   | Grădinița de copii nr. 88                      |
+
+<!-- page: 5 -->
+
+|   62. | Rotarova Inga       | Grădinița de copii nr. 88                 |
+|-------|---------------------|-------------------------------------------|
+|   63. | Capmari Lilia       | Grădinița de copii nr. 201 (or. Durleşti) |
+|   64. | Moscaliciuc Alexei  | Grădinița de copii nr. 13                 |
+|   65. | Scutari Augustina   | Grădinița de copii nr. 13                 |
+|   66. | Varzari Svetlana    | Grădinița de copii nr. 201 (or. Durleşti) |
+|   67. | Curagău Oxana       | Grădinița de copii nr. 186                |
+|   68. | Stîngu Liga         | Grădinița de copii nr. 186                |
+|   69. | Bunescu Nina        | Grădinița de copii nr. 186                |
+|   70. | Revenco Liliana     | Grădinița de copii nr. 186                |
+|   71. | lonel Maria         | Grădinița de copii nr. 201 (or. Durleşti) |
+|   72. | Buzilă Adrian       | Grădinița de copii nr. 201 (or. Durleşti) |
+|   73. | Bogaci Ana          | Grădinița de copii nr. 201 (or. Durlești) |
+|   74. | Mihailova Angela    | Grădinița de copii nr.25                  |
+|   75. | Cimbriciuc Alina    | Grădinița de copii nr.25                  |
+|   76. | Cerneanu Mihaela    | Grădinița de copii nr.25                  |
+|   77. | Diaconu Cristina    | Grădinița de copii nr.25                  |
+|   78. | Prepelița Natalia   | Grădinița de copii nr.25                  |
+|   79. | Cernei Ludmila      | Grădinița de copii nr.211                 |
+|   80. | Copacinschi Viorica | Grădinița de copii nr.211                 |
+|   81. | Ghimbra Viorica     | Grădinița de copii nr.211                 |
+|   82. | Mutelică Viorica    | Grădinița de copii nr.211                 |
+|   83. | Godoroja Oxana      | Grădinița de copii nr.212                 |
+|   84. | Scafari Iulia       | Grădinița de copii nr.212                 |
+|   85. | Mardare Ana-Maria   | Grădinița de copii nr.212                 |
+|   86. | Manoli Lilia        | Grădinița de copii nr.108                 |
+|   87. | Scripcaru Valeria   | Grădinița de copii nr.108                 |
+|   88. | Terentii Ala        | Grădinița de copii nr.108                 |
+|   89. | Dascal Angela       | Grădinița de copii nr.108                 |
+|   90. | Mişcoi Diana        | Grădinița de copii nr.81                  |
+|   91. | Chiriac Alina       | Grădinița de copii nr.81                  |
+|   92. | Zgurean Alina       | Grădinița de copii nr.81                  |
+|   93. | Buza Tatiana        | Grădinița de copii nr.196                 |
+|   94. | Malic Maria         | Grădinița de copii nr.196                 |
+
+<!-- page: 6 -->
+
+|   95. | Eremița Larisa     | Grădinița de copii nr.196                 |
+|-------|--------------------|-------------------------------------------|
+|   96. | Criucov Larisa     | Grădinița de copii nr.196                 |
+|   97. | Roşca Larisa       | Grădinița de copii nr.155                 |
+|   98. | Solovei Carolina   | Grădinița de copii nr.155                 |
+|   99. | Ciubotaru Alina    | Grădinița de copii nr.155                 |
+|  100. | Maznic Natalia     | Grădinița de copii nr.155                 |
+|  101. | Cecan Tatiana      | Grădinița de copii nr.197                 |
+|  102. | Buruian Marina     | Grădinița de copii nr.197                 |
+|  103. | Budurin Mihaela    | Grădinița de copii nr.197                 |
+|  104. | Melnic Elena       | Grădinița de copii nr.197                 |
+|  105. | Turcanu Ion        | Grădinița de copii nr.216                 |
+|  106. | Putină Natalia     | Grădinița de copii nr.216                 |
+|  107. | Ivanțoc Dorina     | Grădinița de copii nr.216                 |
+|  108. | Vrînceanu Svetlana | Grădinița nr.2 Truşeni                    |
+|  109. | Ionaşcu Natalia    | Grădinița nr.1 Truşeni                    |
+|  110. | Ticău Natalia      | Grădinița de copii nr. 201 (or. Durleşti) |

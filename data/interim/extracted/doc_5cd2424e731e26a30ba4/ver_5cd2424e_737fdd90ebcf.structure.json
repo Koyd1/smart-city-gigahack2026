@@ -1,0 +1,1762 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/5"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/pictures/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "1717fcdb271158abe234f2cb8f8328f43a135ebb5ea97ee29c99131c9880b06c",
+  "origin": {
+    "binary_hash": 11284071354892071020,
+    "filename": "1717fcdb271158abe234f2cb8f8328f43a135ebb5ea97ee29c99131c9880b06c.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 743.6920150008158,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 248.90730092707898,
+            "r": 360.864889575523,
+            "t": 818.5321403590915
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 612.7800191458985,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.98457953792291,
+            "r": 312.68001500686546,
+            "t": 654.3002894964645
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 121.61105060406464,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 149.80774804748944,
+            "r": 260.9199487284206,
+            "t": 175.54751396613108
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 90.41905250097057,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 132.44399810688608,
+            "r": 154.36168173873185,
+            "t": 123.6728277435476
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 101.42683019178014,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 171.984979146663,
+            "r": 208.3577473152724,
+            "t": 122.05906142095637
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 493.5267452016969,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 419.5745084027796,
+            "r": 549.7612083527226,
+            "t": 664.5762287358758
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL ALMUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 676.0697706803385,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 143.5260467529297,
+            "r": 488.3245035807292,
+            "t": 723.2545851334635
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL ALMUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 621.9232761328125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.51354217529297,
+            "r": 94.76666768391927,
+            "t": 633.9128594661458
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01/1-41/403",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 621.9232761328125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.60573069254558,
+            "r": 201.95989990234375,
+            "t": 649.3832777604166
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "01/1-41/403"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 594.4632541601562,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.9000040690104,
+            "r": 336.24167887369794,
+            "t": 607.9998752539062
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Cu privire la admiterea elevilor în învățământul liceal, sesiunea 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 549.2122572526041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.51354217529297,
+            "r": 257.29793294270837,
+            "t": 575.5119805598958
+          },
+          "charspan": [
+            0,
+            70
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Cu privire la admiterea elevilor în învățământul liceal, sesiunea 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul prevederilor art. 31 alin. (5) din Codul educației al Republicii Moldova nr. 152/2014, Ordinului Ministerului Educației și Cercetării nr. 421 din 09 martie 2026 Cu privire la admiterea elevilor în învățământul liceal, sesiunea 2026 și în scopul organizării și realizării eficiente a procesului de admitere a elevilor în învățământul liceal în instituțiile de învățământ din municipiul Chişinău pentru anul de studii 2026-2027,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 454.84262834635416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.28750038146973,
+            "r": 552.9500325520833,
+            "t": 531.0345025325521
+          },
+          "charspan": [
+            0,
+            437
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "În temeiul prevederilor art. 31 alin. (5) din Codul educației al Republicii Moldova nr. 152/2014, Ordinului Ministerului Educației și Cercetării nr. 421 din 09 martie 2026 Cu privire la admiterea elevilor în învățământul liceal, sesiunea 2026 și în scopul organizării și realizării eficiente a procesului de admitere a elevilor în învățământul liceal în instituțiile de învățământ din municipiul Chişinău pentru anul de studii 2026-2027,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 439.7589694921875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 290.191162109375,
+            "r": 342.433349609375,
+            "t": 452.52207170572916
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se dispune organizarea admiterii elevilor în învățământul liceal în instituțiile de învățământ liceal din municipiul Chişinău, sesiunea 2026, conform prevederilor Metodologiei de admitere a elevilor în învățământul liceal (în continuare Metodologie), aprobată prin Ordinul Ministerului Educației și Cercetării nr. 190 din 22 februarie 2024 și Instrucțiunii privind organizarea și desfăşurarea probei suplimentare în cadrul concursului de admitere în învățământul liceal (în continuare Instrucțiune), aprobată prin Ordinul Ministerului Educației și Cercetării nr. 509 din 17 aprilie 2024.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 323.3439711197917,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.06145858764648,
+            "r": 554.8849283854167,
+            "t": 433.57077776041666
+          },
+          "charspan": [
+            0,
+            590
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se dispune organizarea admiterii elevilor în învățământul liceal în instituțiile de învățământ liceal din municipiul Chişinău, sesiunea 2026, conform prevederilor Metodologiei de admitere a elevilor în învățământul liceal (în continuare Metodologie), aprobată prin Ordinul Ministerului Educației și Cercetării nr. 190 din 22 februarie 2024 și Instrucțiunii privind organizarea și desfăşurarea probei suplimentare în cadrul concursului de admitere în învățământul liceal (în continuare Instrucțiune), aprobată prin Ordinul Ministerului Educației și Cercetării nr. 509 din 17 aprilie 2024."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Depunerea actelor pentru înscrierea la concursul de admitere în învățământul liceal se va realiza pe platforma https://escoala.chisinau.md, conform calendarului concursului de admitere în învățământul liceal, aprobat prin ordinul Ministerului Educației și Cercetării nr. 421 din 09 martie 2026.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 261.4622572526041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.22239685058594,
+            "r": 554.8849283854167,
+            "t": 320.6366550390625
+          },
+          "charspan": [
+            0,
+            297
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Depunerea actelor pentru înscrierea la concursul de admitere în învățământul liceal se va realiza pe platforma https://escoala.chisinau.md, conform calendarului concursului de admitere în învățământul liceal, aprobat prin ordinul Ministerului Educației și Cercetării nr. 421 din 09 martie 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se aprobă componența nominală a Comisiei municipale de admitere în învățământul liceal, sesiunea2026, după cum urmează:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 230.52137997395835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.609375,
+            "r": 554.1109619140625,
+            "t": 258.36818173177085
+          },
+          "charspan": [
+            0,
+            122
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se aprobă componența nominală a Comisiei municipale de admitere în învățământul liceal, sesiunea2026, după cum urmează:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Andrei Pavaloi, şef adjunct Direcția generală educație, tineret și sport (DGETS), preşedinte;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 218.9185560807291,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.38333384195964,
+            "r": 543.2755533854167,
+            "t": 226.6537855729166
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Andrei Pavaloi, şef adjunct Direcția generală educație, tineret și sport (DGETS), preşedinte;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Valentin Crudu, şef adjunct DGETS, vicepreşedinte;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 199.5805433854166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.67083485921223,
+            "r": 355.59063720703125,
+            "t": 210.02308895833335
+          },
+          "charspan": [
+            0,
+            50
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Valentin Crudu, şef adjunct DGETS, vicepreşedinte;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Daniela Garbuz, șefă, Direcția management instituțional, DGETS, membră;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 185.65716285156248,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.15364583333333,
+            "r": 467.8146158854167,
+            "t": 194.1658705338541
+          },
+          "charspan": [
+            0,
+            71
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Daniela Garbuz, șefă, Direcția management instituțional, DGETS, membră;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Eugenia Antoci, specialistă principală, Direcția management instituțional, DGETS, secretară;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 170.96022274739585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.15364583333333,
+            "r": 550.6281331380208,
+            "t": 178.69545223958335
+          },
+          "charspan": [
+            0,
+            92
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Eugenia Antoci, specialistă principală, Direcția management instituțional, DGETS, secretară;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Daniela Şalari, specialistă principală, Direcția management instituțional, DGETS, secretară;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 155.48980445312498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.54427083333333,
+            "r": 544.0494791666667,
+            "t": 162.4515150651041
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Daniela Şalari, specialistă principală, Direcția management instituțional, DGETS, secretară;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Liliana Cornei, specialistă principală, Direcția management instituțional, DGETS, responsabilă de platforma https://escoala.chisinau.md;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 121.0680922135416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.15729268391927,
+            "r": 556.81982421875,
+            "t": 147.75457496093748
+          },
+          "charspan": [
+            0,
+            138
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Liliana Cornei, specialistă principală, Direcția management instituțional, DGETS, responsabilă de platforma https://escoala.chisinau.md;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Jana Chihai, specialistă principală, Direcția management instituțional, DGETS, membră;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 106.75795223958335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.15729268391927,
+            "r": 531.6661783854167,
+            "t": 114.87994117187498
+          },
+          "charspan": [
+            0,
+            88
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Jana Chihai, specialistă principală, Direcția management instituțional, DGETS, membră;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Marț Viorica, specialistă principală, Direcția management instituțional, DGETS, membră.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 91.6742933854166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.93125025431316,
+            "r": 533.988037109375,
+            "t": 98.6359633072916
+          },
+          "charspan": [
+            0,
+            89
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Marț Viorica, specialistă principală, Direcția management instituțional, DGETS, membră."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Direcția management instituțional (doamna Daniela Garbuz, şefă):",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 74.27007789062498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.93125025431316,
+            "r": 422.5380452473958,
+            "t": 82.7787855729166
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Direcția management instituțional (doamna Daniela Garbuz, şefă):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.1.va informa directorii instituțiilor de învățământ liceal din subordine cu prevederile ordinului Ministerului Educației şi Cercetării nr. 421 din 09 martie 2026;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 785.7917199397787,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.15937487284343,
+            "r": 547.6260172526042,
+            "t": 812.512987639974
+          },
+          "charspan": [
+            0,
+            164
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "4.1.va informa directorii instituțiilor de învățământ liceal din subordine cu prevederile ordinului Ministerului Educației şi Cercetării nr. 421 din 09 martie 2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.2.va publica planul de admitere în învățământul liceal în instituțiile publice și private din municipiul Chişinău pentru anul de studii 2026-2027, pe site-ul https://chisinauedu.dgets.md, până la 25 mai2026;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 735.8345615332031,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.54791641235352,
+            "r": 548.4031168619792,
+            "t": 779.982749806315
+          },
+          "charspan": [
+            0,
+            209
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "4.2.va publica planul de admitere în învățământul liceal în instituțiile publice și private din municipiul Chişinău pentru anul de studii 2026-2027, pe site-ul https://chisinauedu.dgets.md, până la 25 mai2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.3.va monitoriza organizarea și desfășurarea regulamentară a admiterii în învățământul liceal în instituțiile de învățământ liceal din subordine;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 704.8533807063802,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.54791641235352,
+            "r": 549.1802164713542,
+            "t": 731.1873854264322
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "4.3.va monitoriza organizarea și desfășurarea regulamentară a admiterii în învățământul liceal în instituțiile de învățământ liceal din subordine;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.4.va stoca și prelucra datele cu privire la organizarea admiterii în învățământul liceal, sesiunea a  -  u  ( d)0-a  u :6)",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 673.484931813151,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.3249994913737,
+            "r": 548.7916666666667,
+            "t": 699.8189365332031
+          },
+          "charspan": [
+            0,
+            124
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "4.4.va stoca și prelucra datele cu privire la organizarea admiterii în învățământul liceal, sesiunea a  -  u  ( d)0-a  u :6)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.5.va publica pe site-ul https://chisinauedu.dgets.md numărul de locuri disponibile pentru concursul de admitere în învățământul liceal pentru a II-a etapă;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 641.3419569596354,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.3249994913737,
+            "r": 549.957275390625,
+            "t": 668.8377557063802
+          },
+          "charspan": [
+            0,
+            157
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "4.5.va publica pe site-ul https://chisinauedu.dgets.md numărul de locuri disponibile pentru concursul de admitere în învățământul liceal pentru a II-a etapă;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.6.va prezenta Ministerului Educației și Cercetării, în varianta electronică (PDF și format Excel), date și rapoarte cu privire la organizarea admiterii în învățământul liceal, sesiunea 2026, conform anexelor Metodologiei de admitere a elevilor în învățământul liceal și perioadelor indicate în Ordinul Ministerului Educației și Cercetării nr. 421 din 09 martie 2026;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 558.4673028255208,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.10208320617676,
+            "r": 551.5114339192708,
+            "t": 635.9202447200521
+          },
+          "charspan": [
+            0,
+            368
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "4.6.va prezenta Ministerului Educației și Cercetării, în varianta electronică (PDF și format Excel), date și rapoarte cu privire la organizarea admiterii în învățământul liceal, sesiunea 2026, conform anexelor Metodologiei de admitere a elevilor în învățământul liceal și perioadelor indicate în Ordinul Ministerului Educației și Cercetării nr. 421 din 09 martie 2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.7.va prezenta Agenției Naționale pentru Curriculum și Evaluare, până la data de 30 mai 2026, lista instituțiilor de învățământ liceal cu probe suplimentare în cadrul concursului de admitere în învățământul liceal;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 511.9955214127604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.49062474568684,
+            "r": 550.3458251953125,
+            "t": 556.5309828385416
+          },
+          "charspan": [
+            0,
+            215
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "4.7.va prezenta Agenției Naționale pentru Curriculum și Evaluare, până la data de 30 mai 2026, lista instituțiilor de învățământ liceal cu probe suplimentare în cadrul concursului de admitere în învățământul liceal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.8.va asigura încadrarea/repartizarea candidaților participanți la concursul de admitere în instituțiile de învățământ din subordine care nu au întrunit condițiile de organizare a învățământului liceal, sesiunea 2026.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 465.9110284114583,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.49062474568684,
+            "r": 551.8999837239583,
+            "t": 508.5101495052083
+          },
+          "charspan": [
+            0,
+            218
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "4.8.va asigura încadrarea/repartizarea candidaților participanți la concursul de admitere în instituțiile de învățământ din subordine care nu au întrunit condițiile de organizare a învățământului liceal, sesiunea 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Directorii instituțiilor de învățământ liceal din municipiul Chişinău:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 451.1949639583333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.26770782470703,
+            "r": 421.738525390625,
+            "t": 462.0383884375
+          },
+          "charspan": [
+            0,
+            73
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Directorii instituțiilor de învățământ liceal din municipiul Chişinău:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.1.",
+      "orig": "5.1. vor asigura respectarea prevederilor Metodologiei de admitere a elevilor în învățământul liceal, Ordinului Ministerului Educației și Cercetării nr. 421 din 09 martie 2026 Cu privire la admiterea elevilor în învățământul liceal, sesiunea 2026;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 402.3995944921875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.87916692097981,
+            "r": 552.2885335286458,
+            "t": 445.3860039973958
+          },
+          "charspan": [
+            0,
+            247
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "vor asigura respectarea prevederilor Metodologiei de admitere a elevilor în învățământul liceal, Ordinului Ministerului Educației și Cercetării nr. 421 din 09 martie 2026 Cu privire la admiterea elevilor în învățământul liceal, sesiunea 2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.2.",
+      "orig": "5.2. vor aviza planul de admitere în învățământul liceal la Consiliul de administrație al instituției;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 367.54575334635416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.26770782470703,
+            "r": 551.8999837239583,
+            "t": 397.75241838541666
+          },
+          "charspan": [
+            0,
+            102
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "vor aviza planul de admitere în învățământul liceal la Consiliul de administrație al instituției;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.3.",
+      "orig": "5.3. vor decide, în cadrul şedinței Consiliului profesoral, forma de organizare a concursului de admitere și componența nominală a comisiei instituționale de admitere în învățământul liceal;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 341.21176897135416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.04479090372722,
+            "r": 552.2885335286458,
+            "t": 365.9967217708333
+          },
+          "charspan": [
+            0,
+            190
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "vor decide, în cadrul şedinței Consiliului profesoral, forma de organizare a concursului de admitere și componența nominală a comisiei instituționale de admitere în învățământul liceal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.4.",
+      "orig": "5.4. vor informa, până la data de 30 aprilie 2026, DGETS, prin demers scris, despre decizia Consiliului profesoral din instituția de învățământ liceal cu referire la organizarea probei suplimentare în cadrul concursului de admitere în învățământul liceal;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 291.64186337239585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.43333307902019,
+            "r": 552.6770833333333,
+            "t": 333.4664890234375
+          },
+          "charspan": [
+            0,
+            255
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "vor informa, până la data de 30 aprilie 2026, DGETS, prin demers scris, despre decizia Consiliului profesoral din instituția de învățământ liceal cu referire la organizarea probei suplimentare în cadrul concursului de admitere în învățământul liceal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.5.",
+      "orig": "5.5. vor înainta către DGETS, pentru aprobare, planul de admitere în învățământul liceal, conform Anexei 1 a Metodologiei;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 258.3370944921875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.43333307902019,
+            "r": 552.2885335286458,
+            "t": 286.2201511328125
+          },
+          "charspan": [
+            0,
+            122
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "vor înainta către DGETS, pentru aprobare, planul de admitere în învățământul liceal, conform Anexei 1 a Metodologiei;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.6.",
+      "orig": "5.6. vor afișa pe panoul informațional acte normative ce vizează procedura de admitere în învățământul liceal;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 226.19410946614585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.82187525431316,
+            "r": 553.0656331380208,
+            "t": 254.4644545182291
+          },
+          "charspan": [
+            0,
+            110
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "vor afișa pe panoul informațional acte normative ce vizează procedura de admitere în învățământul liceal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.7.",
+      "orig": "5.7. vor completa pe platforma https://escoala.chisinau.md/ numărul de locuri planificate, per profil, aprobate de către DGETS;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 194.82570126302085,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.43333307902019,
+            "r": 555.0083414713542,
+            "t": 222.70875790364585
+          },
+          "charspan": [
+            0,
+            127
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "vor completa pe platforma https://escoala.chisinau.md/ numărul de locuri planificate, per profil, aprobate de către DGETS;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.8.",
+      "orig": "5.8. vor prezenta Agenției Naționale pentru Curriculum și Evaluare, până la data de 21 iulie 2026, lista candidaților, în cazul în care se organizează probe suplimentare în cadrul concursului de admitere în învățământul liceal;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 147.57936337239585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.59895833333333,
+            "r": 553.8426920572917,
+            "t": 190.95302059895835
+          },
+          "charspan": [
+            0,
+            227
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "vor prezenta Agenției Naționale pentru Curriculum și Evaluare, până la data de 21 iulie 2026, lista candidaților, în cazul în care se organizează probe suplimentare în cadrul concursului de admitere în învățământul liceal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.9.",
+      "orig": "5.9. vor prezenta DGETS, la solicitare, în varianta electronică (PDF și format Excel), date și rapoarte cu privire la organizarea admiterii în învățământul liceal, sesiunea 2026, conform anexelor la Metodologia de admitere a elevilor în învățământul liceal și perioadelor indicate în Ordinul Ministerului Educației și Cercetării nr. 421 din 09 martie 2026, cu respectarea termenelor stabilite;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 67.41558570312498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.98749923706055,
+            "r": 555.0083414713542,
+            "t": 143.70672339843748
+          },
+          "charspan": [
+            0,
+            393
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "vor prezenta DGETS, la solicitare, în varianta electronică (PDF și format Excel), date și rapoarte cu privire la organizarea admiterii în învățământul liceal, sesiunea 2026, conform anexelor la Metodologia de admitere a elevilor în învățământul liceal și perioadelor indicate în Ordinul Ministerului Educației și Cercetării nr. 421 din 09 martie 2026, cu respectarea termenelor stabilite;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.10.",
+      "orig": "5.10. vor coordona, cu DGETS, eventualele modificări ale numărului de clase sau de elevi incluşi în planul de admitere în învățământul liceal, sesiunea 2026;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 786.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.0,
+            "r": 549.3333333333333,
+            "t": 812.67999
+          },
+          "charspan": [
+            0,
+            157
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "vor coordona, cu DGETS, eventualele modificări ale numărului de clase sau de elevi incluşi în planul de admitere în învățământul liceal, sesiunea 2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.11.",
+      "orig": "5.11. vor comunica rezultatele admiterii prin emiterea și afișarea ordinului instituțional cu privire la admiterea elevilor în clasa a X-a, cu anexarea listelor finale ale elevilor admiși și mediile de concurs ale acestora, în ordine descrescătoare;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 737.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.0,
+            "r": 549.6666666666667,
+            "t": 780.67999
+          },
+          "charspan": [
+            0,
+            249
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "vor comunica rezultatele admiterii prin emiterea și afișarea ordinului instituțional cu privire la admiterea elevilor în clasa a X-a, cu anexarea listelor finale ale elevilor admiși și mediile de concurs ale acestora, în ordine descrescătoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.12.",
+      "orig": "5.12. vor emite, la necesitate, ordin pentru atragerea la muncă suplimentară a membrilor comisiei instituționale de admitere în zilele de odihnă, cu respectarea legislației în vigoare.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 705.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.33333333333333,
+            "r": 549.6666666666667,
+            "t": 732.67999
+          },
+          "charspan": [
+            0,
+            184
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "vor emite, la necesitate, ordin pentru atragerea la muncă suplimentară a membrilor comisiei instituționale de admitere în zilele de odihnă, cu respectarea legislației în vigoare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Responsabilă de realizarea prevederilor prezentului ordin se desemnează Direcția management instituțional (doamna Daniela Garbuz, şefã).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 673.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.66666666666667,
+            "r": 550.3333333333333,
+            "t": 700.3466566666666
+          },
+          "charspan": [
+            0,
+            139
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "Responsabilă de realizarea prevederilor prezentului ordin se desemnează Direcția management instituțional (doamna Daniela Garbuz, şefã)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Controlul realizării prevederilor prezentului ordin îi revine domnului Valentin Crudu, şef adjunct al Direcției generale educație, tineret și sport.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 640.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.33333333333333,
+            "r": 551.3333333333333,
+            "t": 669.0133233333333
+          },
+          "charspan": [
+            0,
+            151
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "Controlul realizării prevederilor prezentului ordin îi revine domnului Valentin Crudu, şef adjunct al Direcției generale educație, tineret și sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Meell",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 131.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 146.66666666666669,
+            "r": 248.0,
+            "t": 173.01332333333335
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Meell"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: Eugenia Antoci, 022 235277",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 119.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.0,
+            "r": 220.0,
+            "t": 131.67998999999998
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "Ex.: Eugenia Antoci, 022 235277"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 69.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 167.33333333333331,
+            "r": 466.6666666666667,
+            "t": 89.67998999999998
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Sef adjunct ALOI",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 580.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 490.3333333333333,
+            "r": 551.0,
+            "t": 608.3466566666666
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "Sef adjunct ALOI"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,49 @@
+---
+document_id: "doc_6090bd6ba9bbcfc60ca0"
+version_id: "ver_6090bd6b_9b252ae9949d"
+title: "Scanned Document"
+source_url: "https://chisinauedu.dgets.md/storage/orders/1784892279_ordin-cu-privire-la-conferirea-confirmarea-gradelor-didactice-01-1-7-1046-din-230726.pdf"
+retrieved_at: "2026-09-26T07:30:15.523675+00:00"
+content_sha256: "9b252ae9949d94abc38b56d87e12e02c1efab2a76551e9dfbecf99db48a02ad9"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+<!-- image -->
+
+10
+
+## CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET $I SPORT
+
+<!-- image -->
+
+## OR DIN
+
+Cu privire la conferirea/confirmarea gradelor didactice
+
+În temeiul proceselor-verbale nr.2 din 25.04.2026, 26.05.2026 ale Comisiei municipale de atestare, deciziilor Consiliilor profesorale ale instituțiilor de învāțământ, art.131 alin. (3) din Codul Educației al Republicii Moldova nr.152/2014 și în conformitate cu pct.48, 49, 51, 52 din Regulamentul de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul structurilor de asistență psihopedagogică, aprobat prin Ordinul ministrului educației, culturii și cercetārii nr.1091 din 07.10.2020 și modificat prin Ordinul ministrului educației și cercetării nr.2335 din 30.09.2024, dispoziției Primarului general al municipiului Chişinău nr.856-dc din 08.07.2026 Cu privire la acordarea concediului de odihnă anual dlui Andrei Pavaloi,
+
+## ORDON:
+
+1. Se conferă gradul didactic doi cadrelor didactice din instituțiile de învățământ general, conform anexei nr.1.
+2. Se confirmă și se pāstrează în baza art.131 din Codul educației al Republicii Moldova nr.152/2014 gradele didactice doi/unu/superior, deținute de cadrele didactice din instituțiile de învāțământ general, dupā cum urmează:
+3. gradul didactic doi, conform anexei nr.2;
+4. gradul didactic unu, conform anexei nr.3;
+5. gradul didactic superior, conform anexei nr.4.
+3. Se stabilește sporul lunar pentru cadrele didactice, în funcție de gradul didactic conferit/confirmat prin prezentul ordin, de la data emiterii acestuia, în conformitate cu prevederile pct.11 din Nota la Tabelul nr.1 al Anexei nr.7 la Legea nr.270/2018 privind sistemul unitar de salarizare în sectorul bugetar și pct.3 din Nota la Tabelul nr.2 al anexei la Hotārârea Guvernului
+
+<!-- page: 2 -->
+
+7. nt.1234/2018 privind condițiile de salarizare a personalului din instituțiile de învățământ care funcționează în regim de autogestiune financiar-economică.
+5. Controlul realizării prevederilor prezentului ordin mi-l asum.
+4. Responsabili de executarea prevederilor prezentului ordin se desemnează Secția dezvoltarea competențelor profesionale (Rodica Tataru, șefà) și conducātorii instituțiilor de învățământ general.
+
+<!-- image -->
+
+<!-- image -->

@@ -1,0 +1,537 @@
+---
+document_id: "doc_16051aebdf90d97bb321"
+version_id: "ver_16051aeb_3d62a256579e"
+title: "1777290307_ord-517-rez-batalia-rimelor.pdf"
+source_url: "https://chisinauedu.dgets.md/storage/orders/1777290307_ord-517-rez-batalia-rimelor.pdf"
+retrieved_at: "2026-09-26T07:12:40.376333+00:00"
+content_sha256: "3d62a256579e9e17c23b4d943dd35825deb60a65dcad7142c76c89a4dd85b6a1"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+<!-- image -->
+
+## CONSILIUL MUNICIPAL CHIŞINÃU
+
+## PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅEDUCATIE, TINERET ŞI SPORT
+
+<!-- image -->
+
+## ORDIN
+
+Cu privire la rezultatele Concursului municipal (cu participare națională) la limba și literatura română, în baza proiectului BÅTÅLIARIMELOR"
+
+În baza Programului municipal de acțiuni consacrate promovării lecturii pentru anul 2026, în corespundere cu prevederile ordinului nr. 01/1-7/291 din 04.04.2026, referitor la organizarea și desfăşurarea Concursului municipal (cu participare națională și internațională) la limba și literatura română, în baza proiectului BÅTÅLIA RIMELOR", în scopul stabilirii punților de comunicare prin parteneriate durabile între instituțiile de învățământ din municipiu/țară, a schimbului de bune practici și promovarea experienței avansate prin desfăşurarea unor activități care ar crea posibilitatea formării și dezvoltării la elevi a competențelor ce vizează educația literarartistică (ELA) dincolo de aspectele vizate la clasă, dar și a formării unui cititor conștient de actul lecturii asumate și capabil să accepte transdisciplinaritatea ca pe o revelație a actului de decodare, comprehensiune și asumare a imaginarului poetic specific unuiautor anume, în perioada 10 martie – 21 apriliecurent, în parteneriat cu IPÎ Liceul ,Da Vinci", a fost organizat Concursul ,Bătălia rimelor", cu participarea elevilor din clasele a V-a – a XII-a, ediție dedicată poetului Dumitru Matcovschi.
+
+Toate activitățile din cadrul Concursului s-au desfaşurat pe etape, conform Regulamentului Proiectului ,BÅTÅLIA RIMELOR": etapa locală (10 martie- 27 martie) și municipală (04-17 aprilie). Laetapa locală au participat elevi din instituțiile de învățământ din subordine, dar și din7 instituții din raioanele Ialoveni, AneniiNoi, Criuleni, Glodeni, Străşeni, Călărași, din 2 Centrede Excelență din Chişinău: Centrul de Excelență în Informatică și Tehnologii Informaționale și Centrul de Excelență în Economie și Finanțe. La etapa locală au participat 1886 de elevi dintoată țara din36 de instituții de învățământ. Pentru etapa municipală s-au calificat 349 de elevi, la toate cele 6 probe ale concursului. Produsele elevilor au fost evaluate de comisia municipală conform criteriilor stabilite în Regulament pentru fiecare dintre cele 5 probe. Proba a VIa , , Bătălia cu rime", s-a desfăşurat, cu prezență fizică, în data de 04 aprilie 2026, la IP Liceul ,Da Vinci", la care au participat 7 echipe de elevi din instituțiile de învățământ din municipiu.
+
+<!-- page: 2 -->
+
+## Reieşind din n cele expuse, Releşmid uin cele expuse,
+
+## ORDON:
+
+1. Se aprobă rezultatele clasamentului concursului conform procesului-verbal întocmit (anexa nr.1).
+2. Se decernează, în baza rezultatelor înregistrate, diplome de merit învingătorilor și certificate de participare.
+3. Se certifică participarea membrilor Consiliului de coordonare și organizare (Anexa nr.2), membrilor Comisiei de evaluare (Anexa nr.3), profesorilor cu elevi premianți la concurs și se consideră drept activitate în baza hărții creditare pentru atestare la grad didactic.
+4. Directorii instituțiilor de învățământ, în baza acordului cadrelor implicate în organizarea și desfáşurarea olimpiadei, vor oferi o zi recuperare membrilor Consiliului de coordonare (Anexa nr.2) și membrilor juriului (Anexa nr.3) pentru munca prestată în ziua de repaus, 12 aprilie 2025, în corespundere cu prevederile Codului muncii.
+5. Se aduce mulțumire pentru participarea la concurs Preşedintelui juriului, Aliona Zgardan, Doctor în filologie, conf. universitar, profesor, grad didactic superior, UPS Ion Creangă" și invitatului de onoare Eugeniu Matcovschi, actor.
+6. Se menționează, pentru colaborare, implicare activă în organizarea și desfáşurarea concursului, susținere logistică șimaterială administrația Instituției Private Liceul Da Vinci" (V. Guzun, E. Guzun - directori, A. Doroş - profesoară de limba și literatura română, autoarea proiectului).
+7. Competența de realizare a prezentului ordin este atribuită specialistului Direcției Managementul curricular din cadrul DGETS, S. Gîlcă, specialist principal la limba și literatura română.
+8. Controlul realizării prevederilor ordinului emis se pune în seama S. Axînti, șef al Direcției Managementul curricular.
+9. Monitorizarea realizării prevederilor prezentului ordin revine V.Cyudu, şef adjunct, DGETS.
+
+Ex.: S. Gîlcă, (022)201617
+
+<!-- image -->
+
+<!-- image -->
+
+Nlecley
+
+<!-- image -->
+
+<!-- page: 3 -->
+
+## Rezultatele Concursului municipal
+
+(cu participare națională șiinternațională) la limba și literatura română, în baza proiectului BÅTÅLIA RIMELOR"
+
+Proba nr. 1: Reprezentarea grafică(manuală) a unei poezii a poetului indicat Categoria: Clase gimnaziale
+
+| Nr. d/o       | Nume, prenume participant   | Clasa   | Instituția                                           | Profesor- mentor   | Locul în clasament   |
+|---------------|-----------------------------|---------|------------------------------------------------------|--------------------|----------------------|
+|               |                             |         | Clasa a V-a                                          |                    |                      |
+| 1.            | Condrea Iana                | a V-a   | Şcoala de Arte Cruglic", Criuleni                    | Lilia Cazacu       | Premiul mare         |
+| 2.            | Olărită Amelie              | aV-a    | IPL Da Vinci", Chişinău                              | Doroş Angela       | Locul I              |
+| 3.            | Puşca Corina                | aV-a    | Şcoala de Arte Cruglic", Criuleni                    | Lilia Cazacu       | Locul I              |
+| 4.            | Malîi Margareta             | a V-a   | IPLTAlexei Mateevici", or. Cricova, mun. Chişinău    | Tomuz Liminita     | Locul II             |
+| 5.            | Frunză Cătălina             | a V-a   | Gimnaziul ,Ion T. Costin", Ghidighici, mun. Chişinău | Tican Rodica       | Locul II             |
+| 6.            | Calistru Lavinia            | a V-a   | Gimnaziul ,Ion T. Costin", Ghidighici, mun. Chişinău | Tican Rodica       | Locul III            |
+| 7.            | Nuță Nicoleta               | a V-a   | IÎ Liceul Teoretic,,Emil Nicula" Mereni, Anenii Noi  | Cravcenco Olga     | Mențiune             |
+| 8.            | Condrea Răzvan              | a V-a   | IPLDa Vinci", Chişinău                               | Popovici Dorina    | Mentiune             |
+| 9.            | Lipcan Viviana              | aV-a    | IPLDa Vinci", Chişinău                               | Popovici Dorina    | Mențiune             |
+| Clasa a VI-a  |                             |         |                                                      |                    |                      |
+| 10.           | Munteanu Felicia            | a VI-a  | Gimnaziul Limbenii Vechi, raionul Glodeni            | Revenco Tatiana    | Locul I              |
+| 11.           | Ghervas Alexandra           | a VI-a  | IPLDa Vinci", Chişinău                               | Doroş Angela       | Locul I              |
+| 12.           | Chetrean Lilia              | a VI-a  | Şcoala de Arte Cruglic", Criuleni                    | Cazacu Lilia       | Locul I              |
+| 13.           | Bandalac Lavinia            | a VI-a  | LTPA Elena Alistar", Chişinău                        | Rata Antonina      | Locul II             |
+| 14.           | Răilean Evelina             | a VI-a  | IP Gimnaziul Săseni, Călăraşi                        | Praguza Viorica    | Mențiune             |
+| 15.           | Baciu Cristian              | a VI-a  | IPLT Gaudeamus", Chişinău                            | Maxian Mariana     | Mențiune             |
+| 16.           | Mihailova Daria             | a VI-a  | IPLT D. Cantemir", Chişinău                          | Grigoriev Ala      | Mențiune             |
+| 17.           | Lipodat Anastasia           | a VI-a  | IPLT ,,D. Cantemir", Chişinău                        | Grigoriev Ala      | Mențiune             |
+| 18.           |                             | a VI-a  | IP Gimnaziul Dumitru Matcovschi", Chişinău           | Galitchi Ecaterina | Mențiune             |
+| Clasa a VII-a | Bivol Alina                 |         |                                                      |                    |                      |
+| 19.           | Grigoriev Elisa             | a VII-a | IPLDa Vinci", Chişinău                               | Pîrtac Mariana     | Premiul mare         |
+| 20.           | Stratu Victoria             | a VII-a | Liceul Teoretic Lucian Blaga", Chişinău              | Chiosa Nadejda     | Premiul mare         |
+| 21.           | Bănăruc Evelina             | a VII-a | IPLDa Vinci", Chişinău                               | Pîrțac Mariana     | Premiul              |
+
+<!-- page: 4 -->
+
+|                |                       |                |                                              |                                   | mare           |
+|----------------|-----------------------|----------------|----------------------------------------------|-----------------------------------|----------------|
+| 22.            | Budeanu Mădălina      | a VII-a        | Gimnaziul Ion Creangă", Micleuşeni, Străşeni | Lozovanu Silvia                   | Premiul mare   |
+| 23.            | Busuioc Denis         | a VII-a        | IPL Da Vinci", Chişinău                      | Doroş Angela                      | Premiul mare   |
+| 24.            | Budean Sabina         | a VII-a        | LLMTI ,Socrate", Chişinău                    | Eremia Irina                      | Premiul mare   |
+| 25.            | Ghergan Florin        | a VII-a        | LTPA Elena Alistar", Chişinău                | Matasar Inna                      | Premiul mare   |
+| 26.            | Gorenciuc Alexandra   | a VII-a        | Gimnaziul Limbenii Vechi, raionul Glodeni    | Culeac Angela                     | Premiul mare   |
+| 27.            | Radomscaia Daria      | a VII-a        | IPLT N. Iorga", Chişinău                     | Vîrlan Stella / Arventi Ecaterina | Premiul mare   |
+| 28.            | Cepeleaga Laura       | a VII-a        | Liceul Teoretic M. Marinciuc", Chişinău      | Rusnac Adelina                    | Premiul mare   |
+| 29.            | Costin Adelina        | a VII-a        | LT,M. Marinciuc", Chişinău                   | Rusnac Adelina                    | Premiul mare   |
+| 30.            | Cernica Dumitrița     | a VII-a        | Liceul Teoretic Pro Succes", Chişinău        | Topor Ludmila                     | Premiul mare   |
+| 31.            | Leahu Emilia          | a VII-a        | IPLT ,Ion Creangă", Chişinău                 | Cibotar Zinaida                   | Premiul mare   |
+| 32.            | Miron Adelina         | a VII-a        | IPLT Ion Creangă", Chişinău                  | Cibotar Zinaida                   | Premiul mare   |
+| 33.            | Iatco Xenia           | a VII-a        | Liceul Teoretic Lucian Blaga", Chişinău      | GropaAliona                       | Premiul mare   |
+| 34.            | Corja Elena           | a VII-a        | Liceul Teoretic M. Marinciuc", Chişinău      | Rusnac Adelina                    | Premiul mare   |
+| 35.            | Gorgos Sophie         | a VII-a        | IPL ,Da Vinci", Chişinău                     | Doroş Angela                      | Premiul mare   |
+| 36.            | Lungu Adreea          | a VII-a        | IÎ LTEmil Nicula" Mereni, AneniiNoi          | LT Emil Nicula"                   | Premiul mare   |
+| 37.            | Bulgac Polina         | a VII-a        | Liceul Teoretic M. Sadoveanu", Chişinău      | Moroşanu Lucia                    | Premiul mare   |
+| 38.            | Ciurin Iulian         | a VII-a        | Liceul Teoretic M. Sadoveanu", Chişinău      | Moroşanu Lucia                    | Premiul mare   |
+| 39.            | Bordeniuc Arina       | a VII-a        | IPLT ,Onisifor Ghibu", Chişinău              | Sîrghii Olga                      | Premiul mare   |
+| Clasa a VIII-a | Clasa a VIII-a        | Clasa a VIII-a | Clasa a VIII-a                               | Clasa a VIII-a                    | Clasa a VIII-a |
+| 40.            | Cucereanu Adriana     | a VIII-a       | LLMTI ,,Socrate", Chişinău                   | Eremia Irina                      | Premiul mare   |
+| 41.            | Boldurat Mihaela      | a VIII-a       | IPLTTraian", Chişinău                        | Angheluţă Tatiana                 | Premiul mare   |
+| 42.            | Cîrlan Andreea        | a VIII-a       | Gimnaziul Durleşti, Durleşti, mun.Chişinău   | Bratan Tatiana                    | Premiul mare   |
+| 43.            | Litvinenco Maxim      | a VIII-a       | Liceul Teoretic ,M. Sadoveanu", Chişinău     | Alcaz Natalia                     | Premiul mare   |
+| 44.            | Cuznetova Alexandrina | a VIII-a       | IPLDa Vinci", Chişinău                       | Oleinic Viorica                   | Premiul mare   |
+| 45.            | Guzun Medeea          | a VIII-a       | IPLDa Vinci", Chişinău                       | Oleinic Viorica                   | Premiul mare   |
+| 46.            | Marchitan Olga        | a VIII-a       | Gimnaziul nr. 42, Codru, mun.Chişinău        | Gorita Corina                     | Premiul mare   |
+| 47.            | Olari Nicoleta        | a VIII-a       | Liceul Teoretic M.Sadoveanu", Chişinău       | Alcaz Natalia                     | Premiul mare   |
+
+<!-- page: 5 -->
+
+| 48.          | Gorincioi Olga           | a VIII-a     | Liceul Teoretic ,Pro Succes", Chişinău                | Topor Ludmila      | Premiul mare   |
+|--------------|--------------------------|--------------|-------------------------------------------------------|--------------------|----------------|
+| 49.          | Strungaru Mihaela        | a VIII-a     | Gimnaziul ,Gheorghe V. Madan", Truşeni, mun. Chişinău | Roşca Valentina    | Premiul mare   |
+| 50.          | Lungu Smaranda           | a VIII-a     | Gimnaziul nr. 42, Codru, mun. Chişinău                | Gorița Corina      | Premiul mare   |
+| 51.          | Ciobu Nicoleta           | a VIII-a     | IPLT ,Traian", Chişinău                               | Batrîn Rodica      | Premiul mare   |
+| 52.          | Bărbuță Ana              | a VIII-a     | IP Gimnaziul ,,Dumitru Matcovschi", Chişinău          | Galitchi Ecaterina | Premiul mare   |
+| 53.          | Ionaşcu Mihaela          | a VIII-a     | Gimnaziul Gheorghe V. Madan", Truşeni, mun. Chişinău  | Roşca Valentina    | Premiul mare   |
+| Clasa a IX-a | Clasa a IX-a             | Clasa a IX-a | Clasa a IX-a                                          | Clasa a IX-a       | Clasa a IX-a   |
+| 54.          | Paladi Mirela            | a IX-a       | IPLT ,N. Iorga", Chişinău                             | Vîrlan Stella      | Premiul mare   |
+| 55.          | Bîrlădean Daria          | a IX-a       | Liceul Teoretic M. Sadoveanu", Chişinău               | Nistor Alina       | Premiul mare   |
+| 56.          | Ivanova Xenia            | a IX-a       | Liceul Teoretic M. Sadoveanu", Chişinău               | Nistor Alina       | Premiul mare   |
+| 57.          | Zolotcov Anastasia       | a IX-a       | Liceul Teoretic M. Sadoveanu", Chişinău               | Alcaz Natalia      | Premiul mare   |
+| 58.          | Prisăcaru Damilola       | a IX-a       | IPL Da Vinci", Chişinău                               | Oleinic Viorica    | Premiul mare   |
+| 59.          | Cotună Andreea- Cristina | a IX-a       | IP Gimnaziul Durleşti, or. Durleşti, mun. Chişinău    | Bratan Tatiana     | Locul I        |
+| 60.          | Camilla Isabela          | a IX-a       | Liceul Teoretic M. Sadoveanu", Chişinău               | NistorAlina        | Locul I        |
+| 61.          | Isaicul Alexandrina      | a IX-a       | Liceul Teoretic ,M. Sadoveanu", Chişinău              | Alcaz Natalia      | Locul I        |
+| 62.          | Adam Alexandru           | a IX-a       | Liceul Teoretic Dante Alighieri", Chişinău            | Motricală Ludmila  | Locul I        |
+| 63.          | Jalbu Adelina            | a IX-a       | Liceul Teoretic ,Pro Succes", Chişinău                | Lilia Chişin       | Locul II       |
+| 64.          | Luchianiuc Alexandrina   | a IX-a       | Liceul Teoretic M. Sadoveanu", Chişinău               | Alcaz Natalia      | Locul II       |
+| 65.          | Ipatii Sofia             | a IX-a       | IPLT ,,C. Negruzzi", Chişinău                         | Spânu Liuba        | Locul III      |
+| 66.          | Morari Nadejda           | a IX-a       | Liceul Teoretic ,,Pro Succes", Chişinău               | Chisin Lilia       | Locul III      |
+| 67.          | Negurită Ana             | a IX-a       | IPLT ,Traian", Chişinău                               | Lungu Lidia        | Mențiune       |
+
+## Categoria: Clase liceale
+
+| Nr. 0/p     | Nume, prenume participant   | Clasa       | Instituția                                            | Profesor- mentor    | Locul în clasament   |
+|-------------|-----------------------------|-------------|-------------------------------------------------------|---------------------|----------------------|
+| Clasa a X-a | Clasa a X-a                 | Clasa a X-a | Clasa a X-a                                           | Clasa a X-a         | Clasa a X-a          |
+| 1.          | Uzun Amina                  | a X-a       | Centrul de Excelență în Economie și Finanțe, Chişinău | Marinescu Lilia     | Premiul mare         |
+| 2.          | Onofrei Luminita            | a X-a       | Liceul Teoretic ,George Călinescu", Chişinău          | Lesnic Virginia     | Premiul mare         |
+| 3.          | Belîi Lina                  | a X-a       | IP LCI ,,Prometeu-Prim", Chişinău                     | Postolache Veronica | Premiul mare         |
+| 4.          | Moscovciuc                  | a X-a       | Centrul de Excelență în                               | Botnari             | Premiul              |
+
+<!-- page: 6 -->
+
+|              | Vladislava                       |              | Informatică și Tehnologii Informaționale, Chișinău                         | Liliana              | mare         |
+|--------------|----------------------------------|--------------|----------------------------------------------------------------------------|----------------------|--------------|
+| 5.           | Scutaru Nicoleta                 | a X-a        | IPLT ,N. Iorga" , Chişinău                                                 | Holmacovschi Adriana | Locul I      |
+| 6.           |                                  | a X-a        | LTPA ,Elena Alistar", Chişinău                                             | Rata Antonina        | Locul I      |
+| 7.           | Durnescu Maxim Ciobanu Alexandru | a X-a        | IPLTTraian", Chişinău                                                      | Lungu Lidia          | Locul I      |
+| 8.           | Cotoman Alexandru                | a X-a        | IÎ LT Emil Nicula" Mereni, Anenii Noi                                      | Bujac Tatiana        | Locul I      |
+| 9.           | Vatamaniuc Corina                | a X-a        | Centrul de Excelență în Economie și Finanțe, Chişinău                      | Marinescu Lilia      | Locul I      |
+| 10.          | Dudoladov Vlad                   | a X-a        | Centrul de Excelență în Informatică și Tehnologii Informaționale, Chişinău | Carchilan Natalia    | Locul I      |
+| 11.          | Fornea Sofia                     | a X-a        | IPLT Alexei Mateevici", Cricova , mun.Chişinău                             | Tomuz Luminita       | Locul II     |
+| 12.          | Hachi Lora                       | a X-a        | IPLT Traian", Chişinău                                                     | Sajin Liliana        | Locul II     |
+| 13.          | Ionaşco Inesa                    | a X-a        | IPLT Onisifor Ghibu", Chişinău                                             | Cristei Tamara       | Locul III    |
+| 14.          | Barburoş Grigore                 | a X-a        | IPLT ,N. Iorga", Chişinău                                                  | Holmacovschi Adriana | Locul III    |
+| 15.          | Istrati David                    | a X-a        | Liceul Teoretic Lucian Blaga", Chişinău                                    | Chiosa Nadejda       | Locul III    |
+| 16.          | Stroguş Lera                     | a X-a        | I LT Emil Nicula" Mereni, Anenii Noi                                       | Bîzgu Ina            | Locul III    |
+| 17.          | Florea Gabriela                  | a X-a        | Liceul Teoretic George Călinescu", Chişinău                                | Ermurachi Stela      | Locul III    |
+| Clasa a XI-a | Clasa a XI-a                     | Clasa a XI-a | Clasa a XI-a                                                               | Clasa a XI-a         | Clasa a XI-a |
+| 18.          | Lupan Valeria                    | a XI-a       | IPLT Gaudeamus", Chişinău                                                  | Ponomari Tatiana     | Premiul mare |
+| 19.          | Botnari Ecaterina                | a XI-a       | IPL ,Da Vinci", Chişinău                                                   | Doroş Angela         | Premiul mare |
+| 20.          | Osoianu Ruxanda                  | a XI-a       | IPL Da Vinci", Chişinău                                                    | DoroşAngela          | Premiul mare |
+| 21.          | Prisăcaru Otilia                 | a XI-a       | IPL ,,Da Vinci", Chişinău                                                  | DoroşAngela          | Premiul mare |
+| 22.          | Josan Tincuța                    | a XI-a       | IPL Da Vinci", Chişinău                                                    | DoroşAngela          | Premiul mare |
+| 23.          | Alerguş Alexandrina              | a XI-a       | IPL ,Da Vinci" , Chişinău                                                  | DoroşAngela          | Premiul mare |
+| 24.          | Isaicul Ana Maria                | a XI-a       | LT ,Mihail Sadoveanu", Chişinău                                            | Nistor Alina         | Premiul mare |
+| 25.          | Chițan Cristina                  | a XI-a       | IPLTGaudeamus", Chişinău                                                   | Ponomari Tatiana     | Locul I      |
+| 26.          | Micoliuc Victoria                | a XI-a       | LT Mihai Marinciuc", Chişinău                                              | Crăciun Alexandra    | Locul I      |
+| 27.          | Pleşca Mădălina                  | a XI-a       | IPL Da Vinci", Chişinău                                                    | Doroş Angela         | Locul I      |
+| 28.          | Bargan Arina                     | a XI-a       | Liceul Teoretic Mihail Sadoveanu", Chişinău                                | Nistor Alina         | Locul I      |
+| 29.          | Cernomaz Maria                   | a XI-a       | Liceul Teoretic Mihai Marinciuc", Chişinău                                 | Crăciun Alexandra    | Locul II     |
+| 30.          | Pojoga Loredana                  | a XI-a       | Liceul Teoretic Mihai Marinciuc", Chişinău                                 | Crăciun Alexandra    | Locul II     |
+| 31.          | Danilescu Filip                  | a XI-a       | Liceul Teoretic M. Sadoveanu", Chişinău                                    | AlcazNatalia         | Locul II     |
+| 32.          | Secrieru Roxanda                 | a XI-a       | Liceul Teoretic Pro                                                        | Gorincioi            | Locul III    |
+
+<!-- page: 7 -->
+
+|               |                 |               | Succes", Chişinău                          | Taisea            |               |
+|---------------|-----------------|---------------|--------------------------------------------|-------------------|---------------|
+| 33.           | Florea Gabriela | a XI-a        | LT,George Călinescu", Chişinău             | Ermurachi Stela   | Mentiune      |
+| 34.           | Bureț Arina     | a XI-a        | IPLT ,Ion Creangă", Chişinău               | Cibotar Zinaida   | Mențiune      |
+| 35.           | Gaşper Andreea  | a XI-a        | LTMihai Marinciuc" Chişinău                | Crăciun Alexandra | Mențiune      |
+| Clasa a XII-a | Clasa a XII-a   | Clasa a XII-a | Clasa a XII-a                              | Clasa a XII-a     | Clasa a XII-a |
+| 36.           | Rîbac Alexandra | a XII-a       | Liceul Teoretic Lucian Blaga", Chişinău    | Şcolnic Victoria  | Premiul mare  |
+| 37.           | Casian Bogdan   | a XII-a       | IPLT ,,Constantin Negruzzi", Chişinău      | Cernavca Olga     | Locul II      |
+| 38.           | Ilchiu Iuliana  | a XII-a       | Liceul Teoretic Mihai Marinciuc", Chişinău | Crăciun Alexandra | Locul III     |
+
+Proba nr. 2: Pledoarie pentru poezia poetului vizat Categoria: Clase gimnaziale
+
+| Nr. d/o        | Nume, prenume participant             | Clasa          | Instituția                                          | Profesor- mentor   | Locul în clasament           |
+|----------------|---------------------------------------|----------------|-----------------------------------------------------|--------------------|------------------------------|
+| Clasa a V-a    | Clasa a V-a                           | Clasa a V-a    | Clasa a V-a                                         | Clasa a V-a        | Clasa a V-a                  |
+| 1.             | Sturza Sofia                          | a V-a          | LiceulTeoretic ,Dante Alighieri", Chişinău          | Motricală Ludmila  | Locul II                     |
+| 2.             | Moscalaş Miroslava                    | a V-a          | IPLT ,,Traian", Chişinău                            | Batrîn Rodica      | Locul III                    |
+| 3.             | Beglită Olivia                        | a V-a          | IPLT ,,Alexei Mateevici", or.Cricova, mun. Chişinău | Tomuz Luminita     | Locul III                    |
+| Clasa a VI-a   | Clasa a VI-a                          | Clasa a VI-a   | Clasa a VI-a                                        | Clasa a VI-a       | Clasa a VI-a                 |
+| 4.             | Rusu Veaceslav                        | a VI-a         | IP Gimnaziul Limbenii Vechi,raionul Glodeni         | Revenco Tatiana    | Mențiune                     |
+| 5.             | Corobca Romina                        | a VI-a         | Gimnaziul Săseni, raionul Călărași                  | Praguza Viorica    | Link nevalid. Nicio postare. |
+| Clasa a VII-a  | Clasa a VII-a                         | Clasa a VII-a  | Clasa a VII-a                                       | Clasa a VII-a      | Clasa a VII-a                |
+| 6.             | Ciuflic Taisia                        | a VII-a        | IPLT ,,N.Iorga" , Chişinău                          | Vîrlan Stela       | Locul I                      |
+| 7.             | Blanari Alexandra, Cheptea Mirela     | a VII-a        | IP Gimnaziul Limbenii Vechi, raionul Glodeni        | Revenco Tatiana    | Locul III                    |
+| 8.             | Burduniuc Gabriela                    | a VII-a        | IPLT ,,Traian" , Chişinău                           | Batrîn Rodica      | Mențiune                     |
+| Clasa a VIII-a | Clasa a VIII-a                        | Clasa a VIII-a | Clasa a VIII-a                                      | Clasa a VIII-a     | Clasa a VIII-a               |
+| 9.             | Tăruş Filippa                         | a VIII-a       | IPL ,,Da Vinci", Chişinău                           | Doroş Angela       | Locul II                     |
+| 10.            | Platon Alexandra                      | a VIII-a       | IPL ,,Da Vinci", Chişinău                           | Oleinic Viorica    | Locul II                     |
+| 11.            | Bostan Mădălina                       | a VIII-a       | LiceulTeoretic ,,Pro Succes", Chişinău              | Gorincioi Taisia   | Locul III                    |
+| 12.            | Cebotari Sofia                        | a VIII-a       | IPL ,Da Vinci", Chişinău                            | Oleinic Viorica    | Locul III                    |
+| 13.            | Merzleacov Alexandru, Parcemli Teodor | a VIII-a       | LiceulTeoretic ,Pro Succes", Chişinău               | Topor Ludmila      | Mențiune                     |
+| 14.            | Mîta Andreea                          | a VIII-a       | Liceul Teoretic ,,Mihai Marinciuc", Chişinău        | Logaciova Ina      | Link nevalid.                |
+| 15.            | Jenunchi Daniela                      | a VIII-a       | LiceulTeoretic ,Mihai Marinciuc", Chişinău          | Logaciova Ina      | Link nevalid.                |
+
+<!-- page: 8 -->
+
+|   Clasa a IX-a | Clasa a IX-a   | Clasa a IX-a   | Clasa a IX-a              | Clasa a IX-a    | Clasa a IX-a   |
+|----------------|----------------|----------------|---------------------------|-----------------|----------------|
+|            16. | Ignatov Rebeca | a IX-a         | IPLT ,N.Iorga" , Chişinău | Vîrlan Svetlana | Locul II       |
+
+## Categoria: Clase liceale
+
+| Nr. d/o       | Nume, prenume participant              | Clasa         | Instituția                                                                 | Profesor- mentor   | Locul în clasament   |
+|---------------|----------------------------------------|---------------|----------------------------------------------------------------------------|--------------------|----------------------|
+| Clasa a X-a   | Clasa a X-a                            | Clasa a X-a   | Clasa a X-a                                                                | Clasa a X-a        | Clasa a X-a          |
+| 1.            | Nacu Amelia                            | a X-a         | LiceulTeoretic ,,George Călinescu", Chişinău                               | Lesnic Virginia    | Locul I              |
+| 2.            | Frunze Arina                           | a X-a         | IPLT ,,Alexei Mateevici", or. Cricova, mun. Chişinău                       | Tomuz Luminita     | Locul II             |
+| 3.            | David Nicole- Maria, Gorbuleac Evelina | a X-a         | IPLT ,,Gaudeamus", Chişinău                                                | Ponomari Tatiana   | Locul III            |
+| 4.            | Surchicin Evelina                      | a X-a         | LiceulTeoretic ,Dante Alighieri", Chişinău                                 | Motricală Ludmila  | Mentiune             |
+| 5.            | Purcel Elena                           | a X-a         | Liceul Teoretic Dante Alighieri", Chişinău                                 | Motricală Ludmila  | Mențiune             |
+| 6.            | Rusu Valeria                           | aX-a          | Centrul de Excelență în Informatică și Tehnologii Informaționale, Chişinău | Botnari Liliana    | Mențiune             |
+| 7.            | Buhnî Melania                          | a X-a         | IPLT Traian", Chişinău                                                     | Lungu Lidia        | Participare          |
+| 8.            | Chicu Adriana                          | a X-a         | Centrul de Excelență în Informatică și Tehnologii Informaționale, Chişinău | Botnari Liliana    | Participare          |
+| Clasa a XI-a  | Clasa a XI-a                           | Clasa a XI-a  | Clasa a XI-a                                                               | Clasa a XI-a       | Clasa a XI-a         |
+| 9.            | Cuțarev Milena, Tanasiev Tatiana       | a XI-a        | IPLT ,,Gaudeamus", Chişinău                                                | Ponomari Tatiana   | Locul II             |
+| 10.           | Danilescu Elena                        | a XI-a        | Liceul Teoretic ,George Călinescu", Chişinău                               | Ermurachi Stela    | Locul III            |
+| 11.           | Turcan Xenia                           | a XI-a        | IPLT ,Traian"                                                              | Sajin Liliana      | Mentiune             |
+| 12.           | Nu a indicat numele elevului           | a XI-a        | IPLT ,,Ion Creangă", mun. Chişinău                                         | Cibotar Zinaida    | Participare          |
+| 13.           | Mihailuța Gabriel                      | a XI-a        | Liceul Teoretic Lucian Blaga", Chişinău                                    | Şcolnic Victoria   | Participare          |
+| 14.           | Dodiță Mihaela                         | a XI-a        | LTPA,Elena Alistar", Chişinău                                              | Rata Antonina      | Link nevalid.        |
+| Clasa a XII-a | Clasa a XII-a                          | Clasa a XII-a | Clasa a XII-a                                                              | Clasa a XII-a      | Clasa a XII-a        |
+| 15.           | Danuța Victoria                        | Clasa a XII-a | IPLT ,,Traian", Chişinău                                                   | Lungu Lidia        | Locul I              |
+| 16.           | Vutcariov Ana                          | Clasa a XII-a | IPLT ,,Onisifor Ghibu", Chişinău                                           | Tamara Cristei     | Locul II             |
+
+## Proba nr. 3:RECITAL VIDEO
+
+Categoria: Clase gimnaziale
+
+| Nr. d/o     | Nume, prenume participant   | Clasa       | Instituția                                                 | Profesor- mentor   | Locul în clasament   |
+|-------------|-----------------------------|-------------|------------------------------------------------------------|--------------------|----------------------|
+| Clasa a V-a | Clasa a V-a                 | Clasa a V-a | Clasa a V-a                                                | Clasa a V-a        | Clasa a V-a          |
+| 1.          | Indoitu Petru               | a V-a       | IP Liceul Teoretic Gheorghe Palade", s. Puhoi, r. Ialoveni | Arhirii Otilia     | Locul I              |
+
+<!-- page: 9 -->
+
+| 2.            | Aga Chanel                           | a V-a           | IP Gimnaziul Săseni, r. Călăraşi                     | Praguza Viorica         | III II                  |
+|---------------|--------------------------------------|-----------------|------------------------------------------------------|-------------------------|-------------------------|
+| 3.            | Guzun Sofia                          | a V-a           | IPL Da Vinci", Chişinău                              | Doroş Angela            | Locul III               |
+| 4.            | Munteanu Andreea                     | a V-a           | IPL ,,Da Vinci", Chişinău                            | Popovici Dorina         | Locul III               |
+| 5.            | Pasat Victoria                       | a V-a           | IPLTAlexei Mateevici", or. Cricova, mun. Chişinău    | Tomuz Luminita          | Mențiune                |
+| 6.            | Savin Anastasia                      | a V-a           | IP Gimnaziul Durleşti,or. Durleşti, mun. Chişinău,   | Bratan Tatiana          | Mențiune                |
+| 7.            | Cozma Arina                          | a V-a           | Liceul Teoretic , Mihai Marinciuc ", Chişinău        | Rusnac Adelina          | Mențiune                |
+| 8.            | Chiriac Daria                        | a V-a           | IPL Da Vinci”, Chişinău                              | Bosîi Ludmila           | Mențiune                |
+| 9.            | Zagoreanu Maria                      | a V-a           | LT Dante Alighieri", Chişinău                        | Motricală Ludmila       | participare             |
+| 10.           | Bratan Dumitru                       | A V- a          | IP Gimnaziul Durleşti, or. Durleşti, mun. Chişinău   | Bratan Tatiana          | participare             |
+| Clasa a VI-a  | Clasa a VI-a                         | Clasa a VI-a    | Clasa a VI-a                                         | Clasa a VI-a            | Clasa a VI-a            |
+| 11.           | Cărăuş Andreea                       | a VI- a         | IPLTN.Iorga", Chişinău                               | Medinschi Dina          | Locul II                |
+| 12.           | Gulica Ruxanda                       | a VI- a         | IPLTTraian", Chişinău                                | Paraşciuc Elena         | Locul III               |
+| 13.           | Babenco Ștefan                       | a VI- a         | IP Gimnaziul Limbenii Vechi, raionul Glodeni         | Revenco Tatiana         | Mențiune                |
+| 14.           | Bulgaru Vlada                        | a VI-           | Gimnaziul "Ion Timofei Costin", Ghidighici, Chişinău | Tican Rodica            | Mențiune                |
+| 15.           | Miron Gabriel                        | a a VI- a       | IP Gimnaziul ,D.Matcovschi", Chişinău                | Dicusar Alexandru       | Mențiune                |
+| 16.           | Efros Litisia                        | aVI- a          | IP Gimnaziul ,Limbenii Vechi", raionul Glodeni       | Revenco Tatiana         | participare             |
+| 17.           | Cernei Laura                         | a VI- a         | LTPA ,Elena Alistar", Chişinău                       | Baran Svetlana          | participare             |
+| Clasa a VII-a | Clasa a VII-a                        | Clasa a VII-a   | Clasa a VII-a                                        | Clasa a VII-a           | Clasa a VII-a           |
+| 18.           | Sofia Şveț                           | a VII-a         | LTPA ,Elena Alistar", Chişinău                       | Matasar Inna            | Locul I                 |
+| 19.           | Cebotari Laura                       | a VII-a         | IPLDa Vinci”, Chişinău                               | Pirtac Mariana          | Locul I                 |
+| 20.           | Perju Dumitrita                      | a VII-a         | IÎ Liceul Teoretic,,Emil Nicula", Mereni, Anenii Noi | BujacTatiana            | Locul II                |
+| 21.           | Gorceag Emilia                       | a VII-a         | IPL Da Vinci", Chişinău                              | Doroş Angela            | Locul II                |
+| 22.           | Tabîrța Diodor                       | a VII-a         | LLMTI ,,Socrate", Chişinău                           | Russu Pavlina           | Locul III               |
+| 23.           | Godea Diana                          | a VII-a         | IP Gimnaziul Bahmut, comuna Bahmut, raionul Călărași | Bădărău Violeta         | Locul III               |
+| 24.           | Lutcan Andreea                       | a VII-a         | IPLT ,,Traian", mun. Chişinău                        | Sajin Liliana           | Mențiune                |
+| 25.           | Durbală Daniela                      | a VII-a         | Gimmiu I Ioei Costin", Ghidighici                    | Scutelnic Veronica      | participare             |
+| 26. 27.       | Ardeleanu Andreea Pisarenco Cătălina | a VII-a a VII-a | IPLT Traian", mun. Chişinău IÎ Liceul Teoretic ,Emil | Batrîn Rodica Bîzgu Ina | participare participare |
+
+<!-- page: 10 -->
+
+| 28.            | Praguza Patricia    | a VII-a        | Nicula" Mereni, Anenii Noi IP Gimnaziul Săseni, raionul Călăraşi   | Praguza Viorica   | participare    |
+|----------------|---------------------|----------------|--------------------------------------------------------------------|-------------------|----------------|
+| 29.            | Sîli Inesa          | a VII-a        | IP Gimnaziul "Ion Creangă", Micleuşeni, raionul Străşeni           | Lozovanu Silvia   | participare    |
+| 30.            | Vlad Ionela         | a VII-a        | IP Gimnaziul "Ion Creangă" Micleuşeni, raionul Străşeni            | Lozovanu Silvia   | participare    |
+| 31.            | Vîrlan Victoria     | a VII-a        | IPLT ,Constantin Negruzzi", Chişinău                               | Spînu Liuba       | participare    |
+| 32.            | Manole Lia          | a VII-a        | IPLT ,Ion Creangă" mun. Chişinău                                   | Cibotar Zinaida   | participare    |
+| Clasa a VIII-a | Clasa a VIII-a      | Clasa a VIII-a | Clasa a VIII-a                                                     | Clasa a VIII-a    | Clasa a VIII-a |
+| 33.            | Reabov Bianca       | a VIII- a      | IPLT Onisifor Ghibu", Chişinău                                     | Sîrghii Olga      | Locul I        |
+| 34.            | Gorincioi Sofia     | a VIII- a      | IPLDa Vinci”, Chişinău                                             | Oleinic Viorica   | Locul I        |
+| 35.            | Florea Alexandru    | a VIII- a      | IP Gimnaziul Bahmut, comuna Bahmut, raionul Călărași               | Bădărău Violeta   | Locul II       |
+| 36.            | Golban Cristian     | a VIII- a      | LLMTI ,Socrate", Chişinău                                          | Eremia Irina      | Locul II       |
+| 37.            | Bacal Xenia         | a VIII- a      | IP Gimnaziul nr. 42, or. Codru, mun. Chişinău                      | Gorita Corina     | Mentiune       |
+| 38.            | Duca Andrei         |                | IPL ,Da Vinci", Chişinău                                           | Doroş Angela      | Mentiune       |
+| 39.            | Lupuşor Iulian      | a VIII- a      | Liceul Teoretic ,, Mihai Marinciuc "                               | Logaciova Ina     | Mențiune       |
+| 40.            | Guşanu Alexandrina  | a VIII- a      | IP Gimnaziul nr. 42, or. Codru, mun. Chişinău                      | Gorita Corina     | participare    |
+| 41.            | Olaru Daniela       | a VIII- a      | IPLT,,Traian", Chişinău                                            | Anghelută Tatiana | participare    |
+| 42.            | Moroşan Ana         | a VIII- a      | IPLT ,,Traian", Chişinău                                           | Lungu Lidia       | participare    |
+| 43.            | Jora Daniela        | a VIII- a      | IPLT ,,Onisifor Ghibu", Chişinău                                   | Sîrghii Olga      | participare    |
+| 44.            | Cula Rebeca         | a VIII- a      | IP Gimnaziul Durleşti, or. Durleşti, mun.Chişinău                  | Bratan Tatiana    | participare    |
+| 45.            | Nesterenco Eva      | a VIII- a      | IP Gimnaziul Durleşti, or.Durleşti, mun.Chişinău                   | Bratan Tatiana    | participare    |
+| 46.            | Spânu Emiliana      | a VIII- a      | Gimnaziul Gheorghe V. Madan", com. Truşeni, mun.Chişinău           | Roşca Valentina   | participare    |
+| Clasa a IX-a   | Clasa a IX-a        | Clasa a IX-a   | Clasa a IX-a                                                       | Clasa a IX-a      | Clasa a IX-a   |
+| 47.            | Drahnea Xenia       | a IX-a         | IPLT Ion Creangă" mun.Chişinău                                     | Gîrjev Ludmila    | Locul I        |
+| 48.            | Indoitu Andriana    | a IX-a         | IP Liceul Teoretic ,,Gheorghe Palade", s. Puhoi, r. Ialoveni       | Arhirii Otilia    | Locul II       |
+| 49.            | Slobozeanu Nicoleta | a IX-a         | IPLT N.Iorga", Chişinău                                            | Vîrlan Stella     | Mențiune       |
+| 50.            | Mantaluta Felicia   | a IX-a         | LT Lucian Blaga", Chişinău                                         | Gropa Aliona      | Mențiune       |
+| 51.            | Rurac Nicoleta      | a IX-a         | LT,,George Călinescu", Chişinău                                    | Ermurachi Stela   | participare    |
+| 52.            | Graur Gabriela      | a IX-a         | Gimnaziul "Ion Timofei Costin", Ghidighici, mun.Chişinău           | TicanRodica       | participare    |
+| 53.            | Laşcu Cristian      | a IX-a         | Liceul Teoretic ,, Mihai Marinciuc", Chişinău                      | Laşcu Ana         | participare    |
+| 54.            | Adam Alexandru      | a IX-a         | Liceul Teoretic Dante Alighieir", Chişinău                         | Motricală Ludmila | participare    |
+
+<!-- page: 11 -->
+
+## Categoria: Clase liceale
+
+| Nr. d/o      | Nume, prenume participant      | Clasa        | Instituția                                                                 | Profesor- mentor   | Locul în clasament   |
+|--------------|--------------------------------|--------------|----------------------------------------------------------------------------|--------------------|----------------------|
+| Clasa a X-a  | Clasa a X-a                    | Clasa a X-a  | Clasa a X-a                                                                | Clasa a X-a        | Clasa a X-a          |
+| 1.           | Gologan Milissa- Alexandrina   | a X-a        | LTPA Elena Alistar", Chişinău                                              | Grecu Aurica       | Locul I              |
+| 2.           | Paniş Anna                     | a X-a        | Centrul de Excelență în Informatică și Tehnologii Informaționale, Chișinău | Carchilan Natalia  | Locul I              |
+| 3.           | Buşilă Cosmina                 | a X-a        | IPLT ,N. Iorga", Chişinău                                                  | Vîrlan Stella      | Locul II             |
+| 4.           | Gutu Marius                    | a X-a        | Liceul Teoretic Mihai Marinciuc", Chişinău                                 | Laşcu Ana          | Locul II             |
+| 5.           | Verstivschi Valeria            | a X-a        | IPLT Onisifor Ghibu", Chişinău                                             | Cristei Tamara     | Locul III            |
+| 6.           | Sandu Silviana                 | a X-a        | IPLT Onisifor Ghibu", Chişinău                                             | Cristei Tamara     | Locul III            |
+| 7.           | Cojocaru Ştefania              | a X-a        | LiceulTeoretic Lucian Blaga", Chişinău                                     | Chiosa Nadejda     | Locul III            |
+| 8.           | Donici Marina                  | a-Xa         | IPLT Traian", mun. Chişinău                                                | Lungu Lidia        | Locul III            |
+| 9.           | Constantinovici Raluca         | a X-a        | IP Centrul de Excelență în Economie și Finanțe, or. Chişinău               | Marinescu Lilia    | Locul III            |
+| 10.          | Popov Diana                    | a X-a        | LLMTI ,,Socrate", Chişinău                                                 | Lungu Viorica      | Mențiune             |
+| 11.          | Tverdohleb Sofia               | a X-a        | IPLT ,Alexei Mateevici", Cricova, mun.Chişinău                             | Tomuz Luminița     | Mentiune             |
+| 12.          | Moldovanu Loredana             | a X-a        | LiceulTeoretic Mihail Sadoveanu“, Chişinău                                 | Nistor Alina       | Mențiune             |
+| 13.          | Moraru Alexa                   | a X-a        | IPLT ,,Gaudeamus", mun.Chişinău                                            | Ponomari Tatiana   | Participare          |
+| 14.          | Jolobnitchi Amelia             | a X-a        | LTPAElena Alistar", mun.Chişinău                                           | Rata Antonina      | Acces refuzat        |
+| Clasa a XI-a | Clasa a XI-a                   | Clasa a XI-a | Clasa a XI-a                                                               | Clasa a XI-a       | Clasa a XI-a         |
+| 15.          | Golea Ana-Maria                | a XI- a      | IPL Da Vinci", Chişinău                                                    | Doroş Angela       | Locul I              |
+| 16.          | Borodin Mihail                 | a XI- a      | LT ,Mihai Marinciuc mun.Chişinău                                           | Rusnac Adelina     | Locul II             |
+| 17.          | Patic Dumitrița                | a XI- a      | IPL Da Vinci”, Chişinău                                                    | Doroş Angela       | Locul II             |
+| 18.          | Poleacov David                 | a XI- a      | IPL Da Vinci”, Chişinău                                                    | Doroş Angela       | Locul III            |
+| 19.          | Rusu Daniel                    | a XI- a      | LiceulTeoretic ,Pro Succes", mun. Chişinău                                 | Gorincioi Taisea   | Locul III            |
+| 20.          | Moroz Lia                      | a XI- a      | II LT ,Emil Nicula" Mereni , Anenii Noi                                    | Bujac Tatiana      | Locul III            |
+| 21.          | Timuş Adelina                  | a XI- a      | LiceulTeoretic Lucian Blaga", mun.Chişinău                                 | Şcolnic Victoria   | Mențiune             |
+| 22.          | Şumleanschi Uliana             | a XI- a      | IPLTTraian", mun. Chişinău                                                 | Sajin Liliana      | Mențiune             |
+| 23.          |                                | a XI- a      | Centrul de Excelență în Informatică și Tehnologii Informaționale, Chişinău | Botnari Liliana    | Mentiune             |
+| 24.          | Percic Nicoleta Codreanu Eugen | a XI- a      | IPLTGaudeamus", Chişinău                                                   | Ponomari Tatiana   | Acces refuzat        |
+
+<!-- page: 12 -->
+
+## Proba nr.4: CREATIE LITERARÃ
+
+## Categoria: Clase gimnaziale
+
+| Nr. d/o        | Nume, prenume participant   | Clasa          | Instituția                                          | Profesor- mentor   | Locul în clasament   |
+|----------------|-----------------------------|----------------|-----------------------------------------------------|--------------------|----------------------|
+| Clasa a V-a    | Clasa a V-a                 | Clasa a V-a    | Clasa a V-a                                         | Clasa a V-a        | Clasa a V-a          |
+| 1.             | Ştefirta Ariadna            | a V-a          | IPL ,Da Vinci", Chişinău                            | Popovici Dorina    | Locul III            |
+| 2.             | Zanoga Daniel               | a V-a          | IPL ,Da Vinci", Chişinău                            | Popovici Dorina    | Mențiune             |
+| 3.             | Potîngă Alexandri na        | a V-a          | IPLT ,,A. Mateevici", or. Cricova, mun.Chişinău     | Tomuz Luminita     | Paricipare           |
+| Clasa a VI-a   | Clasa a VI-a                | Clasa a VI-a   | Clasa a VI-a                                        | Clasa a VI-a       | Clasa a VI-a         |
+| 4.             | Samoilă Elisa               | a VI-a         | IPL Da Vinci", Chişinău                             | Popovici Dorina    | Locul III            |
+| 5.             | Melintean u Beatrice        | a VI-a         | IPLT ,,Ion Creangă", Chişinău                       | Cibotar Zinaida    | Participare          |
+| 6.             | Untilă Elizabeta            | a VI-a         | IPLT ,,Ion Creangă", Chişinău                       | Cibotar Zinaida    | Participare          |
+| Clasa a VII-a  | Clasa a VII-a               | Clasa a VII-a  | Clasa a VII-a                                       | Clasa a VII-a      | Clasa a VII-a        |
+| 7.             | Poleacov Irina              | a VII- a       | IPLT ,,Traian", Chişinău                            | Sajin Liliana      | Mențiune             |
+| 8.             | Vacari Anastasia            | a VII- a       | IPLT ,N. Iorga", Chişinău                           | Arventi Ecaterina  | Mențiune             |
+| 9.             | Spoială Beatrice            | a VII- a       | IPL Da Vinci", Chişinău                             | Doroş Angela       | Mențiune             |
+| Clasa a VIII-a | Clasa a VIII-a              | Clasa a VIII-a | Clasa a VIII-a                                      | Clasa a VIII-a     | Clasa a VIII-a       |
+| 10.            | Paşcan Lia                  | a VIII-a       | IPLT,Onisifor Ghibu", Chişinău                      | Olga Sîrghii       | Mențiune             |
+| 11.            | Cojocaru Alexandru          | a VIII-a       | IP Gimnaziul Dumitru Matcovschi", Chişinău          | Mariana Gargaun    | Mențiune             |
+| 12.            | Badiuc Valeria              | a VIII-a       | Liceul Teoretic Pro Succes", Chişinău               | Gorincioi Taisia   | Participare          |
+| 13.            | Ciobanu Maria               | a VIII-a       | Liceul Teoretic Pro Succes", Chişinău               | Gorincioi Taisia   | Participare          |
+| 14.            | Spînu Emiliana              | a VIII-a       | Gimnaziul ,,Gh. VasileMadan", Truşeni, mun.Chişinău | Roşca Valentina    | Participare          |
+| Clasa a IX-a   | Clasa a IX-a                | Clasa a IX-a   | Clasa a IX-a                                        | Clasa a IX-a       | Clasa a IX-a         |
+| 15.            | Blîndu Ilinca               | a IX-a         | Liceul Teoretic Pro Succes", Chişinău               | Chişin Lilia       | Locul I              |
+| 16.            | Ciupac Matilda              | a IX-a         | Liceul Teoretic Pro Succes", Chişinău               | Chişin Lilia       | Locul I              |
+| 17.            | Gorea David                 | a IX-a         | IPL Da Vinci", Chişinău                             | Oleinic Viorica    | Locul II             |
+| 18.            | Ceban Veronica              | a IX-a         | Liceul Teoretic Dante Alighieri", Chişinău          | Motricală Ludmila  | Locul III            |
+
+## Categoria: Clase liceale
+
+| Nr. d/o   | Nume, prenume participant   | Clasa       | Instituția   | Profesor- mentor   | Locul în clasament   |
+|-----------|-----------------------------|-------------|--------------|--------------------|----------------------|
+|           | Clasa a X-a                 | Clasa a X-a | Clasa a X-a  | Clasa a X-a        | Clasa a X-a          |
+
+<!-- page: 13 -->
+
+Proba nr. 5: Poezii românești în engleză
+
+|   1. | Cocier Lavinia            | a X-a         | IPLT ,C. Negruzzi", Chişinău                       | Spînu Liuba       | Locul II      |
+|------|---------------------------|---------------|----------------------------------------------------|-------------------|---------------|
+|   2. | Rotaru Naomi              | a X-a         | IPLT Alexei Mateevici", or. Cricova, mun. Chişinău | Tomuz Luminița    | Locul III     |
+|   3. | Perlog Victoria           | a X-a         | IPLT Traian", Chişinău                             | Crăciun Alexandra | Participare   |
+|      | Clasa a XI-a              | Clasa a XI-a  | Clasa a XI-a                                       | Clasa a XI-a      | Clasa a XI-a  |
+|   4. | Cucu Andreea- Alexandrina | a XI-a        | IPLT ,Ion Creangă", Chişinău                       | Cibotar Zinaida   | Locul I       |
+|   5. | Scutari Iana              | a XI-a        | LT Pro Succes", Chişinău                           | Gorincioi Taisia  | Locul III     |
+|      | Clasa a XII-a             | Clasa a XII-a | Clasa a XII-a                                      | Clasa a XII-a     | Clasa a XII-a |
+|   6. | Pirgari Ion               | a XII- a      | IPLT ,Traian", Chişinău                            | Crăciun Alexandra | Locul III     |
+|   7. | Boldesco Anastasia        | a XII- a      | Liceul Teoretic Pro Succes",Chişinău               | Gorincioi Taisia  | Locul III     |
+|   8. | Şcolnic Valeria           | a XII- a      | Liceul Teoretic Lucian Blaga", Chişinău            | Şcolnic Victoria  | Participare   |
+
+Categoria: Clase gimnaziale
+
+| Nr. d/o        | Nume, prenume participant   | Clasa          | Instituția                                   | Profesor- mentor   | Locul în clasament   |
+|----------------|-----------------------------|----------------|----------------------------------------------|--------------------|----------------------|
+| Clasa a V-a    | Clasa a V-a                 | Clasa a V-a    | Clasa a V-a                                  | Clasa a V-a        | Clasa a V-a          |
+| 1.             | Ojog Iustin                 | a V-a          | IPLDa Vinci", Chişinău                       | David Olga         | Locul II             |
+| 2.             | Tohilat Aurora              | a V-a          | IPL Da Vinci", Chişinău                      | David Olga         | Locul II             |
+| 3.             | Duminica Dario- Daniel      | a V-a          | IPLDa Vinci", Chişinău                       | Ciuntu Natalia     | Locul II             |
+| 4.             | Scutaru Teodor              | a V-a          | IPL Da Vinci", Chişinău                      | David Olga         | Locul III            |
+| 5.             | Tlepberghenova Leila        | a V-a          | IPLDa Vinci", Chişinău                       | David Olga         | Locul III            |
+| 6.             | Bejan Amelia                | a V-a          | IPL Da Vinci", Chişinău                      | David Olga         | Mențiune             |
+| 7.             | Rusnaciuc Dragos            |                | IPL Da Vinci", Chişinău                      | David Olga         | Mentiune             |
+| 8              | Mirzac Alina                |                | IPL Da Vinci", Chişinău                      | David Olga         | Mentiune             |
+| 9              | Gutuleac David              |                | IPL Da Vinci", Chişinău                      | David Olga         | Participare          |
+| 10             | Marian Paula                |                | IPL Da Vinci", Chişinău                      | David Olga         | Participare          |
+| Clasa a VI-a   | Clasa a VI-a                | Clasa a VI-a   | Clasa a VI-a                                 | Clasa a VI-a       | Clasa a VI-a         |
+| 8.             | Filip Anna                  | a VI-a         | IPLT ,,Ion Creanga", Chişinău                |                    | Locul II             |
+| 9.             | Straistaru Casandra         | a VI-a         | IPL Da Vinci', Chişinău                      | Racovița Svetlana  | Mentiune             |
+| 10.            | Busuioc Donatella           | a VI-a         | IPL Da Vinci', Chişinău                      | Racovița Svetlana  | Mentiune             |
+| Clasa a VII-a  | Clasa a VII-a               | Clasa a VII-a  | Clasa a VII-a                                | Clasa a VII-a      | Clasa a VII-a        |
+| 18.            | Manoila Magdalena           | a VII-a        | IPLT ,,Ion Creanga", Chişinău                |                    | Locul II             |
+| 19.            | Petrea Crina                | a VII-a        | IPL Da Vinci", Chişinău                      | Ciuntu Natalia     | Locul III            |
+| Clasa a VIII-a | Clasa a VIII-a              | Clasa a VIII-a | Clasa a VIII-a                               | Clasa a VIII-a     | Clasa a VIII-a       |
+| 32.            | Meteoglo Nicoleta           | a VIII- a      | IP Gimnaziul ,,Dumitru Matcovschi", Chişinău | Gargaun Mariana    | Premiul Mare         |
+| 33.            | Pîrgari Patricia            | a VIII- a      | IPLT,,Constantin Negruzzi', Chişinău         | Spînu Liuba        | Premiul Mare         |
+| 34.            | Rotaru Gloria               | a VIII- a      | IPLT,,Constantin Negruzzi', Chişinău         | Spînu Liuba        | Locul I              |
+| 35.            | Cojocaru Anastasia          | a VIII- a      | IPLT Onisifor Ghibu", Chişinău               |                    | Locul I              |
+| 36.            | Sirghi Valeria              | a VIII-        | IPLT Onisifor Ghibu",                        |                    | Locul II             |
+
+<!-- page: 14 -->
+
+|              |                      | a            | Chişinău                                           |                       |              |
+|--------------|----------------------|--------------|----------------------------------------------------|-----------------------|--------------|
+| 37.          | Tiganu Delia         | a VIII- a    | IPLTTraian", Chişinău                              | Batrîn Rodica         | Locul III    |
+| 38.          | Jignea Mirela        | a VIII- a    | IP Gimnaziul ,Dumitru Matcovschi", Chişinău        | Gargaun Mariana       | Mențiune     |
+| 39.          | Florea Diana         | a VIII- a    | IPLT ,Traian", Chişinău                            | Batrân Rodica         | Mențiune     |
+| 40.          | Toderița Delia       | a VIII- a    | LTPA ,,Elena Alistar", Chişinău                    | Aurica Grecu          | Mențiune     |
+| Clasa a IX-a | Clasa a IX-a         | Clasa a IX-a | Clasa a IX-a                                       | Clasa a IX-a          | Clasa a IX-a |
+| 46.          | Lupu Paula Francesca | a IX-a       | IPLT ,,N.Iorga", Chişinău                          | Leahu Larisa          | Locul II     |
+| 47.          | Popa Adela           | a IX-a       | IPLT Alexei Mateevici", or. Cricova, mun. Chişinău | Mihailov Ala          | Locul II     |
+| 48.          | Tanas Delia          | a IX-a       | IPLT ,,N.Iorga", Chişinău                          | Iastremschii Virginia | Locul III    |
+| 49.          | Papageorgiou Andreas | a IX-a       | Instituția Publică Liceul Teoretic Traian"         | Lungu Lidia           | Mențiune     |
+| 50.          | Surchicin Maxim      | a IX-a       | LTPA ,Elena Alistar", Chişinău                     | Aurica Grecu          | Mențiune     |
+
+## Categoria: Clase liceale
+
+| Nr. d/o       | Nume, prenume participant   | Clasa         | Instituția                                      | Profesor- mentor          | Locul în clasament   |
+|---------------|-----------------------------|---------------|-------------------------------------------------|---------------------------|----------------------|
+| Clasa a X-a   | Clasa a X-a                 | Clasa a X-a   | Clasa a X-a                                     | Clasa a X-a               | Clasa a X-a          |
+| 57.           | Grăchilă Valeria            | a X-a         | LTPA ,,Elena Alistar", Chişinău                 | Aurica Grecu              | Premiul Mare         |
+| 58.           | Cicanci Milena              | a X-a         | IPL Da Vinci", Chişinău                         | Ciuntu Natalia            | Locul I              |
+| 59.           | Cobzaru Gheorghe            | a X-a         | Liceul Teoretic ,, Mihai Marinciuc", Chişinău   | Crăciun Alexandra         | Mențiune             |
+| 60.           | Dațco Delia                 | a X-a         | LTPA ,Elena Alistar", Chişinău                  | Aurica Grecu              | Mențiune             |
+| Clasa a XI-a  | Clasa a XI-a                | Clasa a XI-a  | Clasa a XI-a                                    | Clasa a XI-a              | Clasa a XI-a         |
+| 71.           | Iurciuc Alexandra           | a XI-a        | IPLT,,Gaudeamus", Chişinău                      |                           | Premiul Mare         |
+| 72.           | Butuc Iana- Maria           | a XI-a        | Liceul Teoretic George Călinescu", Chişinău     | Ermurachi Stela           | Premiul Mare         |
+| 73.           | Tomuz Boris                 | a XI-a        | IPLT ,Alexei Mateevici", Cricova, mun. Chişinău | MihailovAla               | Locul I              |
+| 74.           | Ghencea Alexandrina         | a XI-a        | IPLT Ion Creangă", Chişinău                     | Cibotar Zinaida           | Locul I              |
+| 75.           | Peev Cătălina               | a XI-a        | Liceul Teoretic , Mihai Marinciuc               | Crăciun Alexandra         | Locul II             |
+| 76.           | Calmîcov Ana                | a XI-a        | IPLT ,Ion Creangă", Chişinău                    | Cibotar Zinaida           | Locul III            |
+| 77.           | Ignat Mariana               | a XI-a        | IPLT,,Gaudeamus", Chişinău                      | Borinschi S., Ponomari T. | Locul III            |
+| 78.           | Cicariov Rebeca             | a XI-a        | IPLT N.Iorga", Chişinău                         | Cazacu Angela             | Mențiune             |
+| 79.           | Papuşca Carolina            | a XI-a        | IPLT ,Traian", Chişinău                         | Sajin Liliana             | Mențiune             |
+| 80.           | Mihailuță Gabriel           | a XI-a        | Liceul Teoretic Lucian Blaga", Chişinău         | Şcolnic Victoria          | Mentiune             |
+| Clasa a XII-a | Clasa a XII-a               | Clasa a XII-a | Clasa a XII-a                                   | Clasa a XII-a             | Clasa a XII-a        |
+| 84.           | Percic Alexa-               | a XII-a       | Liceul Teoretic ,Pro                            | Gorincioi                 | Locul II             |
+
+<!-- page: 15 -->
+
+|     | Caterina        |         | Succes", Chişinău                           | Taisia            |           |
+|-----|-----------------|---------|---------------------------------------------|-------------------|-----------|
+| 85. | Harghel David   | a XII-a | Liceul Teoretic ,Lucian Blaga", Chişinău    | Şcolnic Victoria  | Locul III |
+| 86. | Dumac Vladislav | a XII-a | Liceul Teoretic Mihai Marinciuc", Chişinău  | Crăciun Alexandra | Mențiune  |
+| 87. | Urzica Mihaela  | a XII-a | Liceul Teoretic ,Mihai Marinciuc", Chişinău | Crăciun Alexandra | Mentiune  |
+
+## Proba 6: Bătălia cu rime
+
+|   Nr. d/o | Nume, prenume participanți/ echipe                                                     | Profesor- mentor       | Clasa                                | Instituția                                                          | Locul în clasament   |
+|-----------|----------------------------------------------------------------------------------------|------------------------|--------------------------------------|---------------------------------------------------------------------|----------------------|
+|        1. | Petica Vladalina, Ciobanu Adelina, Ciobanu Alexandra, Munteanu Loredan, Guşanu Teodora | Gorincioi Taisia       | a X-a - a XII-a                      | Liceul TeoreticPro Succes", Chişinău                                | Locul I              |
+|        2. | Voluța Anastasia Voluța Sofia Ciuciu Sara Lîsîi Raluca Mihalache Beatrice              | Oleinic Viorica        | a VI-a − a VIII-a                    | IPL ,Da Vinci", Chişinău                                            | Locul II             |
+|        3. | Vrabie Loredana Busuioc Sanda Finciuc Loredana Oleinic Miruna Candu Milana             | Bosîi Ludmila          | a V-a − a VI-a                       | IPL ,,Da Vinci", Chişinău                                           | Locul III            |
+|        4. | Turcan Ion Turcan Maia Bulgaru Daniela Rauzar Victoria Rauzar Laura                    | Scutelnic Veronica     | a VIII-a a V-a aVIII-a a VII-a aV- a | Gimnaziul Ion Timofei Costin", Ghidighici, mun. Chişinău            | Participare          |
+|        5. | Braga Anastasia Guritanu Ştefan Rupa Alexandra Chirău Gabriel Pîntea Nicoleta          | Gargaun Mariana        | a VIII-a − a IX-a                    | IP Gimnaziul Dumitru Matcovschi", Chişinău                          | Participare          |
+|        6. | Roşca Tatiana Mereuță Xenia Mîndrescu Mihai Spînu Cristian Măriuță Iosua               | Rusnac Adelina         | a VII-a                              | Liceul Teoretic Mihai Marinciuc", Chişinău                          | Participare          |
+|        7. | Oprea-Soltan Laura, Grejdeanu Alexandra, Gogu Sorina, Goreanu Maria, Bumbu Evelina     | Oprea Soltan- Victoria | a IX-a                               | IP Liceul Teoretic ,,Gheorghe Palade",satul Puhoi, raionul Ialoveni | Participare          |
+
+<!-- page: 16 -->
+
+## Consiliul municipal de coordonare pentru organizarea și desfáşurarea Concursului BÅTÃLIA RIMELOR"
+
+|   1. | Gîlcă Silvia    | Specialist principal la DGETS, Preşedintele Consiliului municipal de coordonare; Manager de Proiect        |
+|------|-----------------|------------------------------------------------------------------------------------------------------------|
+|   2. | Guzun Valeriu   | Director, IP Liceul ,,Da Vinci", Manager de Proiect, vicepreședintele Consiliului municipal de coordonare; |
+|   3. | Doroş Angela    | Profesoară IPLiceul ,,Da Vinci", Autoare de Proiect;                                                       |
+|   4. | Guzun Efrosinia | Director de imagine IP Liceul ,Da Vinci"                                                                   |
+|   5. | Batîr Iulian    | Profesor, IP Liceul Da Vinci", asistență logistică și tehnică                                              |
+
+Anexa nr.3
+
+## Componența Comisiei de evaluare/juriului
+
+|   1. | Zgardan-Crudu Aliona   | Doctor în filologie, conf. universitar, profesor, grad didactic superior, UPSIon Creangă", Preşedintele Comisiei de Evaluare   |
+|------|------------------------|--------------------------------------------------------------------------------------------------------------------------------|
+|   2. | Matcovschi Eugeniu     | Actor, invitatde onoare                                                                                                        |
+|   3. | Pîslaru Svetlana       | Profesoară de limba și literatura română, LT I.Creanga"                                                                        |
+|   4. | Simon Nina             | Profesoară de limba și literatura română, IPLTPA N.Sulac"                                                                      |
+|   5. | Miron Angela           | Profesoară de limba și literatura română LCI ,Prometeu- Protalent"                                                             |
+|   6. | Pârțac Mariana         | Profesoară de limba și literatura română , IP Liceul Da Vinci"                                                                 |
+|   7. | Oleinic Viorica        | Profesoară de limba și literatura română , IP Liceul Da Vinci"                                                                 |
+|   8. | Popovici Dorina        | Profesoară de limba și literatura română , IP Liceul Da Vinci" IP Liceul Da Vinci"                                             |
+|   9. | Bosîi Ludmila          | Profesoară de limba și literatura română, I.P. Liceul Da Vinci"                                                                |
+|  10. | Cazacu Lilia           | Profesoară de educație plastică , IP Liceul ,Da Vinci"                                                                         |
+|  11. | David Olga             | Profesoară de limba engleză, IP Liceul Da Vinci"                                                                               |
+|  12. | Ciuntu Natalia         | Profesoară de limba engleză, IP Liceul Da Vinci"                                                                               |
+|  13. | Racoviță Svetlana      | Profesoară de limba engleză, IP Liceul Da Vinci"                                                                               |

@@ -1,0 +1,691 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/14"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/pictures/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "adc0936df9ab5d1a998decf039e9f7b95d27d614c2332b0ae2b96571a4632f0e",
+  "origin": {
+    "binary_hash": 16337200662026858254,
+    "filename": "adc0936df9ab5d1a998decf039e9f7b95d27d614c2332b0ae2b96571a4632f0e.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.92,
+        "width": 595.2
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 735.7941054797682,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 260.06420865666945,
+            "r": 371.54778798762584,
+            "t": 808.8391208530887
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 622.7133359293813,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.5091210282089,
+            "r": 332.6158019609899,
+            "t": 671.8003311845865
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 75.44815311386583,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 182.22089974832215,
+            "r": 274.2087408897861,
+            "t": 123.5263483521378
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 74.50427307563837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 308.67556758598994,
+            "r": 513.594779650797,
+            "t": 174.44362928666862
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIMNOEENTINI",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 738.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 289.66666666666663,
+            "r": 341.3333333333333,
+            "t": 744.2533333333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PRIMNOEENTINI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINĂU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 690.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 181.33333333333331,
+            "r": 470.3333333333333,
+            "t": 731.92
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINĂU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 607.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 293.66666666666663,
+            "r": 344.0,
+            "t": 621.2533333333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea seminarului instructiv-metodic pentru cadrele didactice la disciplina Fizică din instituțiile de învățământ secundar ciclul I și II",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 525.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.0,
+            "r": 334.6666666666667,
+            "t": 586.92
+          },
+          "charspan": [
+            0,
+            157
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Cu privire la organizarea seminarului instructiv-metodic pentru cadrele didactice la disciplina Fizică din instituțiile de învățământ secundar ciclul I și II"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu Planul anual de acțiuni al DGETS pentru anul 2025, în scopul eficientizării procesului educațional la disciplina Fizică,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 461.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.33333333333333,
+            "r": 556.0,
+            "t": 492.91999999999996
+          },
+          "charspan": [
+            0,
+            139
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În conformitate cu Planul anual de acțiuni al DGETS pentru anul 2025, în scopul eficientizării procesului educațional la disciplina Fizică,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 430.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 312.66666666666663,
+            "r": 371.6666666666667,
+            "t": 444.91999999999996
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează la data de 09 decembrie 2025, ora 14.30, în incinta Instituției Publice Complexul educațional Liceul - grădiniță Kiril și Metodii\" seminarul instructiy-metodic pentru cadrele didactice la disciplina Fizică cu genericul: Metodologia de elaborare și evaluare a proiectelor educaționale STEM/STEAM la disciplina Fizică\".",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 326.25333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.0,
+            "r": 550.6666666666667,
+            "t": 410.2533333333333
+          },
+          "charspan": [
+            0,
+            335
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Se organizează la data de 09 decembrie 2025, ora 14.30, în incinta Instituției Publice Complexul educațional Liceul - grădiniță Kiril și Metodii\" seminarul instructiy-metodic pentru cadrele didactice la disciplina Fizică cu genericul: Metodologia de elaborare și evaluare a proiectelor educaționale STEM/STEAM la disciplina Fizică\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Directorii instituțiilor de învățământ secundar, ciclul I și II vor asigura completarea formularului de participare https://forms.gle/KSDEjKXd9NpNUkWV7 până la data de 02 decembrie 2025, de către un singur profesor de Fizică din instituție.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 255.25333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.33333333333333,
+            "r": 557.6666666666667,
+            "t": 323.25333333333333
+          },
+          "charspan": [
+            0,
+            243
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Directorii instituțiilor de învățământ secundar, ciclul I și II vor asigura completarea formularului de participare https://forms.gle/KSDEjKXd9NpNUkWV7 până la data de 02 decembrie 2025, de către un singur profesor de Fizică din instituție."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Responsabil de îndeplinirea prevederilor prezentului ordin se desemnează L. Bulhac, specialist superior, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.5866666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.66666666666667,
+            "r": 557.3333333333333,
+            "t": 253.91999999999996
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Responsabil de îndeplinirea prevederilor prezentului ordin se desemnează L. Bulhac, specialist superior, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Controlul realizării prevederilor prezentului ordin îi revine S. Axînti, șef al direcției managementul curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 188.5866666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.33333333333333,
+            "r": 558.0,
+            "t": 219.25333333333322
+          },
+          "charspan": [
+            0,
+            124
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Controlul realizării prevederilor prezentului ordin îi revine S. Axînti, șef al direcției managementul curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Monitorizarea realizării prezentului ordin revine V.Crudu, şef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 173.25333333333322,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.0,
+            "r": 546.6666666666667,
+            "t": 183.91999999999996
+          },
+          "charspan": [
+            0,
+            81
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Monitorizarea realizării prezentului ordin revine V.Crudu, şef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: L. Bulhac, 022 235271",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 84.5866666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.0,
+            "r": 203.33333333333334,
+            "t": 95.5866666666667
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Ex.: L. Bulhac, 022 235271"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Sefadjunct DGETS Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 116.25333333333322,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 392.0,
+            "r": 513.0,
+            "t": 146.5866666666667
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Sefadjunct DGETS Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Tel.: (022) 201 601, www.chisinauedu.mnd, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 53.5866666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 188.33333333333331,
+            "r": 458.6666666666667,
+            "t": 63.5866666666667
+          },
+          "charspan": [
+            0,
+            68
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Tel.: (022) 201 601, www.chisinauedu.mnd, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704,municipiul Chişinãu, Republica Moldova,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 64.5866666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 160.0,
+            "r": 458.3333333333333,
+            "t": 73.5866666666667
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704,municipiul Chişinãu, Republica Moldova,"
+    }
+  ],
+  "version": "1.10.0"
+}

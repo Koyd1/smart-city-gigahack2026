@@ -1,0 +1,89 @@
+<!-- page: 1 -->
+
+<!-- image -->
+
+## PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT
+
+## CONSILIUL MUNICIPAL CHIŞINÃU
+
+<!-- image -->
+
+## ORDIN
+
+Ref.: Cu privire la delegarea elevilor la olimpiada republicană la limba și literatura rusă, limba de instruire
+
+În temeiul ordinului Ministerului Educației şi Cercetării al Republicii Moldova nr.1003 din 21.10.2025 Cu privire la Orarul olimpiadelor și concursurilor republicane pentru anul 2026" și pentru asigurarea participării eficiente a elevilor delegați la olimpiada republicană la limba și literatura rusă, limba de instruire,
+
+## ORDON:
+
+1. Se deleagă la olimpiada republicană la limba și literatura rusă, limba de instruire, în perioada 14.04- 16.04.2026, în incinta Universității Pedagogice de Stat ,Ion Creangă" (str. Ion Creangă, 1), primii șase lideri ai clasamentului (conform punctajului/scorului acumulat în descreştere) la olimpiada municipală, ediția 2026 și elevii premianți cu diplome de gradul I,II și III la etapa republicană din anul 2025 (Anexa nr. 1).
+3. Conducătorul echipei municipale, Vasilevskaia Irina:
+2. Se desemnează conducător al echipei municipale Vasilevskaia Irina, profesoară de limba rusă, LT ,,N.V.Gogol".
+- 3.1 va asigura prezența obligatorie a actului de identitate/certificatului de naştere în original și o copie a acestuia pentru fiecare participant la olimpiada republicană;
+4. Responsabilă de îndeplinirea prevederilor prezentului ordin se desemnează V.Coropcean, specialist principal, DGETS.
+- 3.2 va verifica datele elevilor participanți la olimpiadă, din lista de înregistrare în Centrul desemnat pentru desfăşurarea probelor scrise, confirmând veridicitatea lor prin semnătură.
+5. Controlul realizării prevederilor prezentului ordin îi revine S. Axinti, şef al direcției managementul curricular, DGETS.
+6. Monitorizarea realizării prevederilor prezentului ordin revine V. Crudu, şef adjupcf, DGETS.
+
+<!-- image -->
+
+<!-- page: 2 -->
+
+<!-- image -->
+
+## Prin decizia Consiliului municipal de coordonare la olimpiada republicană la Limba și literatura rusă, limba de instruire, ediția 2026, sunt delegați:
+
+## Clasa a IX-a
+
+|   Nr. d/o | Numele, prenumele elevului   | Instituția de învățământ   | Numele, prenumele profesorului   | Poziția în clasa- ment   |
+|-----------|------------------------------|----------------------------|----------------------------------|--------------------------|
+|        1. | Cimpoeş Evelina              | IPLT ,,Dimitrie Cantemir"  | Iazadji Alla                     | I                        |
+|        2. | Oleinic Daria                | LT ,,N.V. Gogol"           | Nichitina Evghenia               | II                       |
+|        3. | Vozian Ecaterina             | IPLPA Iurie Harmelin"      | Soboleva Maia                    | II                       |
+|        4. | Tcaciuc Eva                  | LT ,Antioh Cantemir"       | Ceban Ecaterina                  | III                      |
+|        5. | Gherman Nadejda              | IPLT ,Petru Movilă"        | Bacal Natalia                    | III                      |
+|        6. | Dianu Alina                  | LT ,, Alecu Russo"         | Tivolt Stela                     | III                      |
+
+## Clasa a X-a
+
+|   Nr. 0/p | Numele, prenumele elevului   | Instituția de învățământ         | Numele, prenumele profesorului   | Poziția în clasa- ment   |
+|-----------|------------------------------|----------------------------------|----------------------------------|--------------------------|
+|        1. | Cozacova Ksenia              | IPLT,,Petru Movila"              | Andruh Marina                    | I                        |
+|        2. | Buzatu Alexandra             | IPLT , Nicolae Milescu Spătarul" | Covtun Elena                     | ⅡI                       |
+|        3. | Leancă Victoria              | IPLT ,,Dimitrie Cantemir"        | Iazadji Alla                     | II                       |
+|        4. | Zavulan Sofia                | IPLT ,Matei Basarab"             | Cotelea Irina                    | III                      |
+|        5. | Beleva Irina                 | IPLT Petru Movila"               | Bacal Natalia                    | III                      |
+|        6. | Beda Vladislav               | LT Antioh Cantemir"              | Peatenco Natalia                 | III                      |
+|        7. | Melnikawa Hanna              | LT ,N.V. Gogol"                  | Frunze Tatiana                   | I,2025                   |
+|        8. | Ianac Marina                 | IPLT Petru Movila"               | Bacal Natalia                    | II,2025                  |
+
+## Clasa a XI-a
+
+|   Nr. d/o | Numele, prenumele elevului   | Instituția de Învățământ   | Numele, prenumele profesorului   | Poziția în clasament   |
+|-----------|------------------------------|----------------------------|----------------------------------|------------------------|
+|        1. | Zacatova Polina              | LT ,,N.V. Gogol"           | Brijatiuc Olga                   | I                      |
+|        2. | Dobrovolscaia Anastasia      | IPLT ,Academia Copiilor"   | Rotari Elena                     | II                     |
+|        3. | Barber Ilia                  | IPLT A.S. Puşkin"          | Melinic Zinaida                  | II                     |
+|        4. | Todorova Anastasia           | LT ,,N.V. Gogol"           | Vasilevskaia Irina               | III                    |
+|        5. | Grigoriev Eva                | LT ,,Natalia Gheorghiu"    | Gorodețkaia Anjela               | III                    |
+|        6. | Elisovețcaia Maria           | IPLT ,,Dimitrie Cantemir"  | Fedeniova Elena                  | III                    |
+
+<!-- page: 3 -->
+
+|   7. | Cazacu Elena        | IPLT ,,Academia Copiilor"   | Rotari Elena       | I,2025   |
+|------|---------------------|-----------------------------|--------------------|----------|
+|   8. | Podlesnova Dominica | LT ,,Natalia Gheorghiu"     | Gorodeţkaia Anjela | II,2025  |
+|   9. | Boico Margarita     | LT,,Dacia"                  | Cuzmina Olga       | II, 2025 |
+|  10. | Braşoveanu Olga     | IPLT ,,Academia Copiilor"   | Rotari Elena       | III,2025 |
+
+## Clasa a XII-a
+
+|   Nr. d/o | Numele, prenumele elevului   | Instituția de învățământ         | Numele, prenumele profesorului   | Poziția în clasament   |
+|-----------|------------------------------|----------------------------------|----------------------------------|------------------------|
+|        1. | Maximova Diana               | LT Alecu Russo"                  | Saico Olga                       | I                      |
+|        2. | Chiriacov Anton              | LT ,,Natalia Gheorghiu"          | Garbuz Tatiana                   | II                     |
+|        3. | Morozova Sofia               | LT ,, Alecu Russo"               | Saico Olga                       | II                     |
+|        4. | Poleacov Artiom              | LT ,, Alecu Russo"               | Saico Olga                       | III                    |
+|        5. | Punceva Polina               | IPLT ,,Nicolae Milescu Spătarul" | Nosaci Elena                     | III                    |
+|        6. | Abak Irem                    | IPLT ,Petru Movilă"              | Babii Ludmila                    | III                    |
+|        7. | Panina Iaroslava             | L T Antioh Cantemir"             | Rusanova Valentina               | III,2025               |

@@ -1,0 +1,5291 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/texts/64"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/tables/2"
+      },
+      {
+        "$ref": "#/pictures/5"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/7"
+    }
+  ],
+  "key_value_items": [],
+  "name": "0c15e017998a380ffa9155d59f9d30880bc0a1d460099a0435a43a5e1064b8ee",
+  "origin": {
+    "binary_hash": 3865278555867101422,
+    "filename": "0c15e017998a380ffa9155d59f9d30880bc0a1d460099a0435a43a5e1064b8ee.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "5": {
+      "page_no": 5,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 722.4809718978772,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 258.0055396409003,
+            "r": 370.32810358444317,
+            "t": 797.4277966236104
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 621.4690599614594,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.12553888256919,
+            "r": 304.04340392042326,
+            "t": 665.6619902187175
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 168.32851993370514,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 363.32958498961176,
+            "r": 551.6453803637204,
+            "t": 280.998696329656
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 636.2776846016275,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 315.6265094997739,
+            "r": 556.7923303509399,
+            "t": 765.8582866474794
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/73"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 485.91425831121956,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 385.233678791635,
+            "r": 581.4144815288774,
+            "t": 514.4181003336782
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 5
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 756.4671579827605,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 386.66502914121486,
+            "r": 579.8125879561661,
+            "t": 788.2687307619651
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 5
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 626.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 57.666666666666664,
+                "r": 213.0,
+                "t": 607.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Tabla Numele prenumele"
+            },
+            {
+              "bbox": {
+                "b": 627.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 290.66666666666663,
+                "r": 428.6666666666667,
+                "t": 610.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Data, luna, anul nașterii"
+            },
+            {
+              "bbox": {
+                "b": 628.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 454.3333333333333,
+                "r": 490.0,
+                "t": 612.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "Clasa"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 639.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 59.333333333333336,
+                "r": 67.33333333333333,
+                "t": 626.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": ""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": ""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": ""
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 656.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 57.666666666666664,
+                "r": 69.0,
+                "t": 642.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": ""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": ""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": ""
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 672.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 57.333333333333336,
+                "r": 68.33333333333333,
+                "t": 658.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": ""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": ""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": ""
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 690.0,
+                "coord_origin": "TOPLEFT",
+                "l": 57.0,
+                "r": 93.33333333333334,
+                "t": 674.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4 fem"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": ""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": ""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 4,
+              "text": ""
+            }
+          ]
+        ],
+        "num_cols": 4,
+        "num_rows": 5,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 626.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 57.666666666666664,
+              "r": 213.0,
+              "t": 607.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Tabla Numele prenumele"
+          },
+          {
+            "bbox": {
+              "b": 627.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 290.66666666666663,
+              "r": 428.6666666666667,
+              "t": 610.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Data, luna, anul nașterii"
+          },
+          {
+            "bbox": {
+              "b": 628.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 454.3333333333333,
+              "r": 490.0,
+              "t": 612.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "Clasa"
+          },
+          {
+            "bbox": {
+              "b": 639.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 59.333333333333336,
+              "r": 67.33333333333333,
+              "t": 626.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1"
+          },
+          {
+            "bbox": {
+              "b": 656.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 57.666666666666664,
+              "r": 69.0,
+              "t": 642.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2"
+          },
+          {
+            "bbox": {
+              "b": 672.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 57.333333333333336,
+              "r": 68.33333333333333,
+              "t": 658.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3"
+          },
+          {
+            "bbox": {
+              "b": 690.0,
+              "coord_origin": "TOPLEFT",
+              "l": 57.0,
+              "r": 93.33333333333334,
+              "t": 674.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4 fem"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 146.9473056385466,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.827232508563355,
+            "r": 540.3027477371933,
+            "t": 234.95217696889847
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 4
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 159.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 74.66666666666667,
+                "r": 99.33333333333334,
+                "t": 141.33333333333334
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr."
+            },
+            {
+              "bbox": {
+                "b": 160.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 119.66666666666666,
+                "r": 238.33333333333334,
+                "t": 143.66666666666666
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Numele prenumele"
+            },
+            {
+              "bbox": {
+                "b": 161.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 248.66666666666666,
+                "r": 448.0,
+                "t": 145.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Funcția/Instituția de învățământ"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 176.0,
+                "coord_origin": "TOPLEFT",
+                "l": 94.66666666666667,
+                "r": 109.66666666666666,
+                "t": 160.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1."
+            },
+            {
+              "bbox": {
+                "b": 177.0,
+                "coord_origin": "TOPLEFT",
+                "l": 118.66666666666666,
+                "r": 225.33333333333334,
+                "t": 160.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Munteanu Angela"
+            },
+            {
+              "bbox": {
+                "b": 178.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 248.33333333333334,
+                "r": 408.0,
+                "t": 161.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "Director, IPLT Universul\""
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 192.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 93.66666666666667,
+                "r": 109.0,
+                "t": 176.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 193.0,
+                "coord_origin": "TOPLEFT",
+                "l": 120.0,
+                "r": 205.0,
+                "t": 177.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Coadă Valeriu"
+            },
+            {
+              "bbox": {
+                "b": 227.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 248.33333333333334,
+                "r": 544.6666666666667,
+                "t": 177.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "Preşedintele Asociației municipale de Şah Chişșinău, directorul şcolei sportive Specializate de şah, IPLT \",Universul\""
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 241.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 93.66666666666667,
+                "r": 109.33333333333334,
+                "t": 225.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 242.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 119.66666666666666,
+                "r": 197.0,
+                "t": 226.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Gajim Vitalii"
+            },
+            {
+              "bbox": {
+                "b": 244.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 248.33333333333334,
+                "r": 408.3333333333333,
+                "t": 227.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "Profesor, IPLT Universul\""
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 258.0,
+                "coord_origin": "TOPLEFT",
+                "l": 93.66666666666667,
+                "r": 110.66666666666666,
+                "t": 243.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4."
+            },
+            {
+              "bbox": {
+                "b": 258.66666666666663,
+                "coord_origin": "TOPLEFT",
+                "l": 118.66666666666666,
+                "r": 212.66666666666666,
+                "t": 243.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Petraş Veronica"
+            },
+            {
+              "bbox": {
+                "b": 259.66666666666663,
+                "coord_origin": "TOPLEFT",
+                "l": 248.0,
+                "r": 286.66666666666663,
+                "t": 244.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "medic"
+            }
+          ]
+        ],
+        "num_cols": 3,
+        "num_rows": 5,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 159.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 74.66666666666667,
+              "r": 99.33333333333334,
+              "t": 141.33333333333334
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr."
+          },
+          {
+            "bbox": {
+              "b": 160.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 119.66666666666666,
+              "r": 238.33333333333334,
+              "t": 143.66666666666666
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Numele prenumele"
+          },
+          {
+            "bbox": {
+              "b": 161.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 248.66666666666666,
+              "r": 448.0,
+              "t": 145.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Funcția/Instituția de învățământ"
+          },
+          {
+            "bbox": {
+              "b": 176.0,
+              "coord_origin": "TOPLEFT",
+              "l": 94.66666666666667,
+              "r": 109.66666666666666,
+              "t": 160.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1."
+          },
+          {
+            "bbox": {
+              "b": 177.0,
+              "coord_origin": "TOPLEFT",
+              "l": 118.66666666666666,
+              "r": 225.33333333333334,
+              "t": 160.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Munteanu Angela"
+          },
+          {
+            "bbox": {
+              "b": 178.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 248.33333333333334,
+              "r": 408.0,
+              "t": 161.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "Director, IPLT Universul\""
+          },
+          {
+            "bbox": {
+              "b": 192.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 93.66666666666667,
+              "r": 109.0,
+              "t": 176.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 193.0,
+              "coord_origin": "TOPLEFT",
+              "l": 120.0,
+              "r": 205.0,
+              "t": 177.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Coadă Valeriu"
+          },
+          {
+            "bbox": {
+              "b": 227.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 248.33333333333334,
+              "r": 544.6666666666667,
+              "t": 177.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "Preşedintele Asociației municipale de Şah Chişșinău, directorul şcolei sportive Specializate de şah, IPLT \",Universul\""
+          },
+          {
+            "bbox": {
+              "b": 241.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 93.66666666666667,
+              "r": 109.33333333333334,
+              "t": 225.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 242.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 119.66666666666666,
+              "r": 197.0,
+              "t": 226.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Gajim Vitalii"
+          },
+          {
+            "bbox": {
+              "b": 244.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 248.33333333333334,
+              "r": 408.3333333333333,
+              "t": 227.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "Profesor, IPLT Universul\""
+          },
+          {
+            "bbox": {
+              "b": 258.0,
+              "coord_origin": "TOPLEFT",
+              "l": 93.66666666666667,
+              "r": 110.66666666666666,
+              "t": 243.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4."
+          },
+          {
+            "bbox": {
+              "b": 258.66666666666663,
+              "coord_origin": "TOPLEFT",
+              "l": 118.66666666666666,
+              "r": 212.66666666666666,
+              "t": 243.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Petraş Veronica"
+          },
+          {
+            "bbox": {
+              "b": 259.66666666666663,
+              "coord_origin": "TOPLEFT",
+              "l": 248.0,
+              "r": 286.66666666666663,
+              "t": 244.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "medic"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 579.0691186784395,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.14563371491913,
+            "r": 551.7211299532692,
+            "t": 699.7375664514827
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 5
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 433.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 117.33333333333334,
+                "r": 237.0,
+                "t": 417.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Numele prenumele"
+            },
+            {
+              "bbox": {
+                "b": 434.0,
+                "coord_origin": "TOPLEFT",
+                "l": 247.0,
+                "r": 396.3333333333333,
+                "t": 418.3333333333333
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Instituția de învățământ"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 448.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 93.33333333333334,
+                "r": 108.66666666666666,
+                "t": 433.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1."
+            },
+            {
+              "bbox": {
+                "b": 450.0,
+                "coord_origin": "TOPLEFT",
+                "l": 117.0,
+                "r": 203.0,
+                "t": 433.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Bargan Sergiu"
+            },
+            {
+              "bbox": {
+                "b": 452.0,
+                "coord_origin": "TOPLEFT",
+                "l": 246.66666666666666,
+                "r": 503.0,
+                "t": 435.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "arbitru internațional, Federația de Şah al RM"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 465.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 91.33333333333333,
+                "r": 108.0,
+                "t": 449.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 465.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 117.66666666666666,
+                "r": 239.0,
+                "t": 450.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Corotcova Anastasia"
+            },
+            {
+              "bbox": {
+                "b": 483.0,
+                "coord_origin": "TOPLEFT",
+                "l": 247.0,
+                "r": 546.0,
+                "t": 451.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "secretar principal, arbitru internațional, Federația de Şah al RM"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 498.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 91.33333333333333,
+                "r": 107.66666666666666,
+                "t": 482.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 498.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 117.33333333333334,
+                "r": 207.0,
+                "t": 482.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Sidenko Ştefan"
+            },
+            {
+              "bbox": {
+                "b": 502.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 246.33333333333334,
+                "r": 543.3333333333333,
+                "t": 483.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "arbitru național, antrenor Academia de Şah Bologan"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 515.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 91.33333333333333,
+                "r": 107.66666666666666,
+                "t": 498.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4."
+            },
+            {
+              "bbox": {
+                "b": 515.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 117.0,
+                "r": 223.0,
+                "t": 500.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Baraghin Mihaela"
+            },
+            {
+              "bbox": {
+                "b": 519.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 245.66666666666666,
+                "r": 495.0,
+                "t": 499.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "arbitru, antrenor Academia de Şah Bologan"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 531.0,
+                "coord_origin": "TOPLEFT",
+                "l": 91.33333333333333,
+                "r": 108.0,
+                "t": 515.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "5."
+            },
+            {
+              "bbox": {
+                "b": 531.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 116.66666666666666,
+                "r": 230.66666666666666,
+                "t": 516.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "Ghevrasiev Rodion"
+            },
+            {
+              "bbox": {
+                "b": 534.0,
+                "coord_origin": "TOPLEFT",
+                "l": 246.0,
+                "r": 428.0,
+                "t": 517.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 5,
+              "text": "arbitru, Federația de Şah al RM"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 548.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 91.33333333333333,
+                "r": 107.66666666666666,
+                "t": 532.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 6,
+              "text": "6."
+            },
+            {
+              "bbox": {
+                "b": 548.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 116.66666666666666,
+                "r": 231.0,
+                "t": 532.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 6,
+              "text": "Eleţchih Alexandru"
+            },
+            {
+              "bbox": {
+                "b": 551.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 246.0,
+                "r": 476.6666666666667,
+                "t": 534.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 6,
+              "text": "arbitru național, Federația de Şah al RM"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 565.0,
+                "coord_origin": "TOPLEFT",
+                "l": 91.33333333333333,
+                "r": 108.0,
+                "t": 548.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 7,
+              "text": "7."
+            },
+            {
+              "bbox": {
+                "b": 565.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 116.33333333333334,
+                "r": 207.33333333333334,
+                "t": 549.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 7,
+              "text": "Bologan Anton"
+            },
+            {
+              "bbox": {
+                "b": 567.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 246.0,
+                "r": 427.6666666666667,
+                "t": 550.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 7,
+              "text": "arbitru, Federația de Şah al RM"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 581.0,
+                "coord_origin": "TOPLEFT",
+                "l": 91.0,
+                "r": 107.33333333333334,
+                "t": 565.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 8,
+              "text": "8."
+            },
+            {
+              "bbox": {
+                "b": 581.0,
+                "coord_origin": "TOPLEFT",
+                "l": 117.0,
+                "r": 199.0,
+                "t": 566.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 8,
+              "text": "Gorun Andrei"
+            },
+            {
+              "bbox": {
+                "b": 584.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 245.66666666666666,
+                "r": 427.6666666666667,
+                "t": 567.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 8,
+              "text": "arbitru, Federația de Şah al RM"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 598.0,
+                "coord_origin": "TOPLEFT",
+                "l": 91.0,
+                "r": 108.0,
+                "t": 581.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 9,
+              "text": "9."
+            },
+            {
+              "bbox": {
+                "b": 598.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 116.33333333333334,
+                "r": 207.0,
+                "t": 582.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 9,
+              "text": "Toacă Svetlana"
+            },
+            {
+              "bbox": {
+                "b": 600.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 245.66666666666666,
+                "r": 427.6666666666667,
+                "t": 584.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 9,
+              "text": "arbitru, Federația de Şah al RM"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 612.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 93.0,
+                "r": 116.33333333333334,
+                "t": 599.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 10,
+              "text": "10."
+            },
+            {
+              "bbox": {
+                "b": 614.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 112.0,
+                "r": 197.0,
+                "t": 599.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 10,
+              "text": "Ionaș Valeriu"
+            },
+            {
+              "bbox": {
+                "b": 618.0,
+                "coord_origin": "TOPLEFT",
+                "l": 245.33333333333334,
+                "r": 493.6666666666667,
+                "t": 600.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 10,
+              "text": "arbitru, antrenor Academia de Şah Bologan"
+            }
+          ]
+        ],
+        "num_cols": 3,
+        "num_rows": 11,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 433.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 117.33333333333334,
+              "r": 237.0,
+              "t": 417.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Numele prenumele"
+          },
+          {
+            "bbox": {
+              "b": 434.0,
+              "coord_origin": "TOPLEFT",
+              "l": 247.0,
+              "r": 396.3333333333333,
+              "t": 418.3333333333333
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Instituția de învățământ"
+          },
+          {
+            "bbox": {
+              "b": 448.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 93.33333333333334,
+              "r": 108.66666666666666,
+              "t": 433.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1."
+          },
+          {
+            "bbox": {
+              "b": 450.0,
+              "coord_origin": "TOPLEFT",
+              "l": 117.0,
+              "r": 203.0,
+              "t": 433.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Bargan Sergiu"
+          },
+          {
+            "bbox": {
+              "b": 452.0,
+              "coord_origin": "TOPLEFT",
+              "l": 246.66666666666666,
+              "r": 503.0,
+              "t": 435.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "arbitru internațional, Federația de Şah al RM"
+          },
+          {
+            "bbox": {
+              "b": 465.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 91.33333333333333,
+              "r": 108.0,
+              "t": 449.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 465.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 117.66666666666666,
+              "r": 239.0,
+              "t": 450.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Corotcova Anastasia"
+          },
+          {
+            "bbox": {
+              "b": 483.0,
+              "coord_origin": "TOPLEFT",
+              "l": 247.0,
+              "r": 546.0,
+              "t": 451.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "secretar principal, arbitru internațional, Federația de Şah al RM"
+          },
+          {
+            "bbox": {
+              "b": 498.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 91.33333333333333,
+              "r": 107.66666666666666,
+              "t": 482.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 498.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 117.33333333333334,
+              "r": 207.0,
+              "t": 482.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Sidenko Ştefan"
+          },
+          {
+            "bbox": {
+              "b": 502.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 246.33333333333334,
+              "r": 543.3333333333333,
+              "t": 483.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "arbitru național, antrenor Academia de Şah Bologan"
+          },
+          {
+            "bbox": {
+              "b": 515.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 91.33333333333333,
+              "r": 107.66666666666666,
+              "t": 498.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4."
+          },
+          {
+            "bbox": {
+              "b": 515.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 117.0,
+              "r": 223.0,
+              "t": 500.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Baraghin Mihaela"
+          },
+          {
+            "bbox": {
+              "b": 519.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 245.66666666666666,
+              "r": 495.0,
+              "t": 499.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "arbitru, antrenor Academia de Şah Bologan"
+          },
+          {
+            "bbox": {
+              "b": 531.0,
+              "coord_origin": "TOPLEFT",
+              "l": 91.33333333333333,
+              "r": 108.0,
+              "t": 515.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "5."
+          },
+          {
+            "bbox": {
+              "b": 531.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 116.66666666666666,
+              "r": 230.66666666666666,
+              "t": 516.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "Ghevrasiev Rodion"
+          },
+          {
+            "bbox": {
+              "b": 534.0,
+              "coord_origin": "TOPLEFT",
+              "l": 246.0,
+              "r": 428.0,
+              "t": 517.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 5,
+            "text": "arbitru, Federația de Şah al RM"
+          },
+          {
+            "bbox": {
+              "b": 548.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 91.33333333333333,
+              "r": 107.66666666666666,
+              "t": 532.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 6,
+            "text": "6."
+          },
+          {
+            "bbox": {
+              "b": 548.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 116.66666666666666,
+              "r": 231.0,
+              "t": 532.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 6,
+            "text": "Eleţchih Alexandru"
+          },
+          {
+            "bbox": {
+              "b": 551.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 246.0,
+              "r": 476.6666666666667,
+              "t": 534.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 6,
+            "text": "arbitru național, Federația de Şah al RM"
+          },
+          {
+            "bbox": {
+              "b": 565.0,
+              "coord_origin": "TOPLEFT",
+              "l": 91.33333333333333,
+              "r": 108.0,
+              "t": 548.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 7,
+            "text": "7."
+          },
+          {
+            "bbox": {
+              "b": 565.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 116.33333333333334,
+              "r": 207.33333333333334,
+              "t": 549.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 7,
+            "text": "Bologan Anton"
+          },
+          {
+            "bbox": {
+              "b": 567.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 246.0,
+              "r": 427.6666666666667,
+              "t": 550.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 7,
+            "text": "arbitru, Federația de Şah al RM"
+          },
+          {
+            "bbox": {
+              "b": 581.0,
+              "coord_origin": "TOPLEFT",
+              "l": 91.0,
+              "r": 107.33333333333334,
+              "t": 565.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 8,
+            "text": "8."
+          },
+          {
+            "bbox": {
+              "b": 581.0,
+              "coord_origin": "TOPLEFT",
+              "l": 117.0,
+              "r": 199.0,
+              "t": 566.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 8,
+            "text": "Gorun Andrei"
+          },
+          {
+            "bbox": {
+              "b": 584.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 245.66666666666666,
+              "r": 427.6666666666667,
+              "t": 567.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 8,
+            "text": "arbitru, Federația de Şah al RM"
+          },
+          {
+            "bbox": {
+              "b": 598.0,
+              "coord_origin": "TOPLEFT",
+              "l": 91.0,
+              "r": 108.0,
+              "t": 581.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 9,
+            "text": "9."
+          },
+          {
+            "bbox": {
+              "b": 598.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 116.33333333333334,
+              "r": 207.0,
+              "t": 582.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 9,
+            "text": "Toacă Svetlana"
+          },
+          {
+            "bbox": {
+              "b": 600.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 245.66666666666666,
+              "r": 427.6666666666667,
+              "t": 584.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 9,
+            "text": "arbitru, Federația de Şah al RM"
+          },
+          {
+            "bbox": {
+              "b": 612.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 93.0,
+              "r": 116.33333333333334,
+              "t": 599.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 10,
+            "text": "10."
+          },
+          {
+            "bbox": {
+              "b": 614.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 112.0,
+              "r": 197.0,
+              "t": 599.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 10,
+            "text": "Ionaș Valeriu"
+          },
+          {
+            "bbox": {
+              "b": 618.0,
+              "coord_origin": "TOPLEFT",
+              "l": 245.33333333333334,
+              "r": 493.6666666666667,
+              "t": 600.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 10,
+            "text": "arbitru, antrenor Academia de Şah Bologan"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.36850725694956,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.95492877115339,
+            "r": 557.1434720524526,
+            "t": 427.35235559748924
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 5
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/2"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FREN NOEINTINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 726.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 287.33333333333337,
+            "r": 340.0,
+            "t": 733.0133333333333
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FREN NOEINTINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 674.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 178.33333333333331,
+            "r": 469.0,
+            "t": 721.68
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "21.05.26mr.01/1-7/747",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666667,
+            "r": 309.33333333333337,
+            "t": 663.0133333333333
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "21.05.26mr.01/1-7/747"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref: Organizarea și desfăşurarea",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 570.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.33333333333333,
+            "r": 273.0,
+            "t": 593.3466666666666
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Ref: Organizarea și desfăşurarea"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Campion\", ediția 2026",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 534.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.33333333333333,
+            "r": 224.0,
+            "t": 555.3466666666666
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Campion\", ediția 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cupei municipale la ŞAH",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 553.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 238.66666666666666,
+            "t": 574.3466666666666
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Cupei municipale la ŞAH"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "In temeiul Ordinului DGETS nr 01/1-7/41 din 16.01.2026 ,Cu privire la aprobarea Programului de activități şi manifestații educative, sportive și culturalartistice al DGETS pentru anul 2026\", Dispoziției Primarului General nr. 435-d din 29 decembrie 2025 Cu privire la aplicarea bugetului municipal provizoriu pe anul 2026\", în conformitate cu Hotărârea Guvernului Republicii Moldova nr. 748/2025 din 03.12.2025 Cu privire la aprobarea Normelor financiare pentru activitatea sportivă\",",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 388.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 558.0,
+            "t": 516.3466666666666
+          },
+          "charspan": [
+            0,
+            484
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "In temeiul Ordinului DGETS nr 01/1-7/41 din 16.01.2026 ,Cu privire la aprobarea Programului de activități şi manifestații educative, sportive și culturalartistice al DGETS pentru anul 2026\", Dispoziției Primarului General nr. 435-d din 29 decembrie 2025 Cu privire la aplicarea bugetului municipal provizoriu pe anul 2026\", în conformitate cu Hotărârea Guvernului Republicii Moldova nr. 748/2025 din 03.12.2025 Cu privire la aprobarea Normelor financiare pentru activitatea sportivă\","
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 347.34666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 326.6666666666667,
+            "r": 392.3333333333333,
+            "t": 372.01333333333326
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează la data de 26 mai 2026, ora 14.00, Cupa municipală la ŞAH Campion\", pentru clasele primare, în incinta IPLT ,,Universul\" (Şoseaua Hînceşti,136).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 278.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 557.6666666666667,
+            "t": 331.01333333333326
+          },
+          "charspan": [
+            0,
+            162
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se organizează la data de 26 mai 2026, ora 14.00, Cupa municipală la ŞAH Campion\", pentru clasele primare, în incinta IPLT ,,Universul\" (Şoseaua Hînceşti,136)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se aprobă regulamentul pentru Cupa municipală la ŞAH ,Campion\" (anexa nr.1).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.01333333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.33333333333333,
+            "r": 557.0,
+            "t": 275.67999999999995
+          },
+          "charspan": [
+            0,
+            79
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se aprobă regulamentul pentru Cupa municipală la ŞAH ,Campion\" (anexa nr.1)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se aprobă componența consiliului de coordonare pentru organizarea și desfăşurarea Cupei municipale la ŞAH (anexa nr.2).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 203.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.66666666666667,
+            "r": 557.6666666666667,
+            "t": 240.01333333333332
+          },
+          "charspan": [
+            0,
+            122
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Se aprobă componența consiliului de coordonare pentru organizarea și desfăşurarea Cupei municipale la ŞAH (anexa nr.2)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Se aprobă Colegiului de arbitri (anexa nr.3) .",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 185.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.33333333333333,
+            "r": 351.6666666666667,
+            "t": 202.34666666666658
+          },
+          "charspan": [
+            0,
+            49
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Se aprobă Colegiului de arbitri (anexa nr.3) ."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "5 Direcția managementul economico-financiar și evidența patrimoniului a DGETS (Svetlana Ignatiev, șef) va aloca mijloacele financiare necesare, conform Planului calendaristic competițional pentru anul 2026 al DGETS. Finanțarea activității se va efectua din Bugetul DGETS pentru anul 2026, pct. 03, Pe parcursul anului, Capitolul I (anexa nr.4)",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 95.34666666666658,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.66666666666667,
+            "r": 556.0,
+            "t": 184.67999999999995
+          },
+          "charspan": [
+            0,
+            343
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "5 Direcția managementul economico-financiar și evidența patrimoniului a DGETS (Svetlana Ignatiev, șef) va aloca mijloacele financiare necesare, conform Planului calendaristic competițional pentru anul 2026 al DGETS. Finanțarea activității se va efectua din Bugetul DGETS pentru anul 2026, pct. 03, Pe parcursul anului, Capitolul I (anexa nr.4)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Dircctorul IPLT ,,Universul\", Angela Munteanu:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 75.01333333333321,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.66666666666667,
+            "r": 374.0,
+            "t": 93.01333333333332
+          },
+          "charspan": [
+            0,
+            49
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Dircctorul IPLT ,,Universul\", Angela Munteanu:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 608.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 297.0,
+            "r": 347.0,
+            "t": 622.68
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.1.",
+      "orig": "6.1. să asigure condițiile necesare pentru desfăşurarea Cupei municipale la ŞAH;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 763.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.66666666666667,
+            "r": 560.0,
+            "t": 798.68
+          },
+          "charspan": [
+            0,
+            80
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "să asigure condițiile necesare pentru desfăşurarea Cupei municipale la ŞAH;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.2.",
+      "orig": "6.2. să asigure întocmirea listelor nominale, pe clase, ale participanților la Cupa municipală la ŞAH, în baza ofertelor primite din instituțiile de învățământ primar;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 722.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 559.0,
+            "t": 760.68
+          },
+          "charspan": [
+            0,
+            167
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "să asigure întocmirea listelor nominale, pe clase, ale participanților la Cupa municipală la ŞAH, în baza ofertelor primite din instituțiile de învățământ primar;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.3",
+      "orig": "6.3 să asigure prezența Colegiului de arbitri (anexa nr.3) la data de 26 mai 2026, ora14.00, în incinta IPLT ,Universul\".",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 686.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 559.3333333333333,
+            "t": 722.68
+          },
+          "charspan": [
+            0,
+            121
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "să asigure prezența Colegiului de arbitri (anexa nr.3) la data de 26 mai 2026, ora14.00, în incinta IPLT ,Universul\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Conducătorii instituțiilor de învățământ primar din municipiu și profesorii de şah:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 650.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.66666666666667,
+            "r": 559.6666666666667,
+            "t": 685.68
+          },
+          "charspan": [
+            0,
+            86
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Conducătorii instituțiilor de învățământ primar din municipiu și profesorii de şah:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.1.",
+      "orig": "7.1. să asigure transmiterea ofertei de participare la Cupa municipală la ŞAH pentru fiecare echipa separat, conform modelului (în regulament), până la data de 22 mai 2026, varianta scanată (denumită cu numele instituției, cu ștampila și semnătura directorului), precum și în format electronic (versiunea Word) la adresa de e-mail: ofertesah@mail.ru",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 557.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.33333333333333,
+            "r": 559.0,
+            "t": 647.3466666666666
+          },
+          "charspan": [
+            0,
+            349
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "să asigure transmiterea ofertei de participare la Cupa municipală la ŞAH pentru fiecare echipa separat, conform modelului (în regulament), până la data de 22 mai 2026, varianta scanată (denumită cu numele instituției, cu ștampila și semnătura directorului), precum și în format electronic (versiunea Word) la adresa de e-mail: ofertesah@mail.ru"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.2.",
+      "orig": "7.2. să asigure prezența elevilor la Cupa municipală la ŞAH la data 26 mai 2026, ora 14.00, în incinta IPLTUniversul\";",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 518.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.33333333333333,
+            "r": 558.6666666666667,
+            "t": 554.68
+          },
+          "charspan": [
+            0,
+            118
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "să asigure prezența elevilor la Cupa municipală la ŞAH la data 26 mai 2026, ora 14.00, în incinta IPLTUniversul\";"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.3.",
+      "orig": "7.3. să desemneze prin ordin intern conducătorul echipei, responsabil de securitatea vieții şi sănătatea elevilor participanți la Cupa municipală la ŞAH.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 480.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.66666666666667,
+            "r": 558.3333333333333,
+            "t": 518.0133333333333
+          },
+          "charspan": [
+            0,
+            153
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "să desemneze prin ordin intern conducătorul echipei, responsabil de securitatea vieții şi sănătatea elevilor participanți la Cupa municipală la ŞAH."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Consiliul de coordonare să asigure corectitudinea desfăşurării Cupei municipale la ŞAH în corespundere cu regulamentul (anexa nr.1);",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 444.01333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 552.0,
+            "t": 481.34666666666664
+          },
+          "charspan": [
+            0,
+            135
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Consiliul de coordonare să asigure corectitudinea desfăşurării Cupei municipale la ŞAH în corespundere cu regulamentul (anexa nr.1);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. Responsabil de realizarea prevederilor prezentului ordin se desemnează Angela Munteanu, directorul IPLT ,Universul\" şi Valeriu Coadă, preşedintele Asociației Municipale de Şah Chişinău.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 390.01333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.66666666666667,
+            "r": 558.0,
+            "t": 443.67999999999995
+          },
+          "charspan": [
+            0,
+            188
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Responsabil de realizarea prevederilor prezentului ordin se desemnează Angela Munteanu, directorul IPLT ,Universul\" şi Valeriu Coadă, preşedintele Asociației Municipale de Şah Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "10.",
+      "orig": "10. Controlul realizării prevederilor ordinului revine Svetlana Axînti, şef al direcției managementul curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 352.34666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 557.6666666666667,
+            "t": 388.01333333333326
+          },
+          "charspan": [
+            0,
+            120
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Controlul realizării prevederilor ordinului revine Svetlana Axînti, şef al direcției managementul curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "11.",
+      "orig": "11. Monitorizarea îndeplinirii prezentului ordin revine Valentin Crudu, șef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 317.3466666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.66666666666667,
+            "r": 559.0,
+            "t": 351.34666666666664
+          },
+          "charspan": [
+            0,
+            91
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Monitorizarea îndeplinirii prezentului ordin revine Valentin Crudu, șef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct al DGETS Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 205.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 418.6666666666667,
+            "r": 553.0,
+            "t": 236.01333333333332
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Şef adjunct al DGETS Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIMARIA",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 178.01333333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 404.0,
+            "r": 442.6666666666667,
+            "t": 188.01333333333332
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "PRIMARIA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: Popescu Olga, 022 23 52 96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 133.34666666666658,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333333,
+            "r": 248.33333333333334,
+            "t": 154.34666666666658
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Ex.: Popescu Olga, 022 23 52 96"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022)201 601, www.chisinauedu.md, c-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 83.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 168.0,
+            "r": 470.3333333333333,
+            "t": 113.67999999999995
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022)201 601, www.chisinauedu.md, c-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr.1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 765.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 428.3333333333333,
+            "r": 492.3333333333333,
+            "t": 781.68
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Anexa nr.1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "in3 26",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 726.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 396.3333333333333,
+            "r": 560.6666666666666,
+            "t": 764.3466666666666
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "in3 26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "La ordinul nré",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 732.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 315.6666666666667,
+            "r": 401.3333333333333,
+            "t": 750.68
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "La ordinul nré"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Aprob",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 699.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 341.6666666666667,
+            "r": 382.0,
+            "t": 715.68
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Aprob"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Andrei PAVALOI, şef adjunćt al DGETS",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 650.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 382.3333333333333,
+            "r": 523.3333333333333,
+            "t": 682.68
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Andrei PAVALOI, şef adjunćt al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Regulamentul",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 609.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 240.33333333333334,
+            "r": 353.3333333333333,
+            "t": 629.0133333333333
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Regulamentul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "desfăşurării sub egida Primarului General a Cupei municipiului Chișinău la şah Campion\" între echipele claselor primare în Instituția Publică Liceul Teoretic \"Universul\" în data de 26 mai 2026.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 560.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.0,
+            "r": 525.6666666666667,
+            "t": 611.3466666666666
+          },
+          "charspan": [
+            0,
+            193
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "desfăşurării sub egida Primarului General a Cupei municipiului Chișinău la şah Campion\" între echipele claselor primare în Instituția Publică Liceul Teoretic \"Universul\" în data de 26 mai 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "1.Scopul și sarcinile:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 528.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.333333333333336,
+            "r": 175.0,
+            "t": 545.3466666666666
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "1.Scopul și sarcinile:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Evaluarea nivelului de pregătire a elevilor claselor primare la șah;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 506.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.0,
+            "r": 435.6666666666667,
+            "t": 527.68
+          },
+          "charspan": [
+            0,
+            70
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Evaluarea nivelului de pregătire a elevilor claselor primare la șah;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Perfecționarea măiestriei tinerilor sportivi;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 473.34666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.0,
+            "r": 300.6666666666667,
+            "t": 492.01333333333326
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Perfecționarea măiestriei tinerilor sportivi;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Remarcarea celor mai puternice echipe și a celor mai pregătiți elevi,",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 487.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 48.666666666666664,
+            "r": 444.3333333333333,
+            "t": 509.01333333333326
+          },
+          "charspan": [
+            0,
+            71
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "Remarcarea celor mai puternice echipe și a celor mai pregătiți elevi,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Promovarea jocului de şah.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 455.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.0,
+            "r": 213.66666666666666,
+            "t": 473.67999999999995
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "Promovarea jocului de şah."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "2.Data și locul desfăşurării:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 437.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.0,
+            "r": 216.66666666666666,
+            "t": 454.67999999999995
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "2.Data și locul desfăşurării:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Competițiile se vor desfáşura în incinta Instituției Publice Liceul Teoretic \"Universul\" (oseaua Hînceşti, 136) în data de 26 mai 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 401.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.0,
+            "r": 544.0,
+            "t": 436.67999999999995
+          },
+          "charspan": [
+            0,
+            134
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "Competițiile se vor desfáşura în incinta Instituției Publice Liceul Teoretic \"Universul\" (oseaua Hînceşti, 136) în data de 26 mai 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "3.Programul competițiilor",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 369.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 47.666666666666664,
+            "r": 209.33333333333334,
+            "t": 388.34666666666664
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "3.Programul competițiilor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "26 mai 2026 - Prezentarea echipelor ora 14.00.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 351.01333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.666666666666664,
+            "r": 327.0,
+            "t": 369.67999999999995
+          },
+          "charspan": [
+            0,
+            46
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "26 mai 2026 - Prezentarea echipelor ora 14.00."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Deschiderea oficială - ora 14.15.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 334.34666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.666666666666664,
+            "r": 242.33333333333334,
+            "t": 350.67999999999995
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "Deschiderea oficială - ora 14.15."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Începutul competițiilor - ora 14.30",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 313.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.0,
+            "r": 257.0,
+            "t": 334.34666666666664
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "Începutul competițiilor - ora 14.30"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Festivitatea de premiere a competiției - ora 18.00",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 294.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.0,
+            "r": 346.0,
+            "t": 314.3466666666667
+          },
+          "charspan": [
+            0,
+            50
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "Festivitatea de premiere a competiției - ora 18.00"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "4. Participanții și modul de desfăşurare:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 259.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 48.333333333333336,
+            "r": 291.0,
+            "t": 276.3466666666666
+          },
+          "charspan": [
+            0,
+            41
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "4. Participanții și modul de desfăşurare:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "La competiții participă echipele claselor primare (clasa 1 separat, clasa 2 separat), în componența cărora se includ numai elevi dintr-o singură şcoală. Componența echipei: trei băieți și o fată + conducătorul echipei.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 204.01333333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 47.333333333333336,
+            "r": 539.3333333333333,
+            "t": 258.0133333333333
+          },
+          "charspan": [
+            0,
+            218
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "La competiții participă echipele claselor primare (clasa 1 separat, clasa 2 separat), în componența cărora se includ numai elevi dintr-o singură şcoală. Componența echipei: trei băieți și o fată + conducătorul echipei."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Pentru fiecare echipă separat (clasa 1, clasa 2) se expediază oferta semnată de conducătorul instituției la adresa ofertesah@mail.ru până în data de 22 mai 2026.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 165.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 47.333333333333336,
+            "r": 512.6666666666667,
+            "t": 203.34666666666658
+          },
+          "charspan": [
+            0,
+            161
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "Pentru fiecare echipă separat (clasa 1, clasa 2) se expediază oferta semnată de conducătorul instituției la adresa ofertesah@mail.ru până în data de 22 mai 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Concursul se va desfăşura în conformitate cu Regulamentul FIDE. Ritmul de joc: 10 minute pentru partidă + 5 sec. la mutare.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 94.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 48.0,
+            "r": 546.6666666666667,
+            "t": 130.34666666666658
+          },
+          "charspan": [
+            0,
+            123
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "Concursul se va desfăşura în conformitate cu Regulamentul FIDE. Ritmul de joc: 10 minute pentru partidă + 5 sec. la mutare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Echipele participante vor fi împărțite în grupe conform clasei. Cupa se va juca conform sistemului olimpic. Echipele câştigătoare a meciurilor trec în runda următoare.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 128.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 47.333333333333336,
+            "r": 543.0,
+            "t": 167.01333333333332
+          },
+          "charspan": [
+            0,
+            167
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "Echipele participante vor fi împărțite în grupe conform clasei. Cupa se va juca conform sistemului olimpic. Echipele câştigătoare a meciurilor trec în runda următoare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "5. Premierea:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 748.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.333333333333336,
+            "r": 134.33333333333331,
+            "t": 763.68
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "5. Premierea:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Echipele învingătoare a meciurilor se determină după numărul de puncte acumulate. În caz de egalitate învingătorii se determină conform criteriilor de departajare:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 704.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.333333333333336,
+            "r": 553.0,
+            "t": 744.3466666666666
+          },
+          "charspan": [
+            0,
+            163
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "Echipele învingătoare a meciurilor se determină după numărul de puncte acumulate. În caz de egalitate învingătorii se determină conform criteriilor de departajare:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "B.Întâlnirea directă de la tabla 4 (fem.),",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 668.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.0,
+            "r": 298.3333333333333,
+            "t": 691.0133333333333
+          },
+          "charspan": [
+            0,
+            42
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "B.Întâlnirea directă de la tabla 4 (fem.),"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "A.Întâlnirea directă de la tabla 1,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 688.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.66666666666667,
+            "r": 261.66666666666663,
+            "t": 708.68
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "A.Întâlnirea directă de la tabla 1,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "C.",
+      "orig": "C. Întâlnirea directă de la tabla 2,",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 651.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.33333333333333,
+            "r": 263.66666666666663,
+            "t": 671.3466666666666
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "Întâlnirea directă de la tabla 2,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "D.",
+      "orig": "D. Întâlnirea directă de la tabla 3,",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 632.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.66666666666667,
+            "r": 264.33333333333337,
+            "t": 652.3466666666666
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "Întâlnirea directă de la tabla 3,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "D.",
+      "orig": "D. Echipa care a acumulat mai multe puncte cu negrul în cadrul meciului.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 612.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.66666666666667,
+            "r": 489.6666666666667,
+            "t": 631.3466666666666
+          },
+          "charspan": [
+            0,
+            72
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "Echipa care a acumulat mai multe puncte cu negrul în cadrul meciului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Echipele clasate pe primele trei locuri în fiecare categorie (clasa 1, clasa 2) vor fi decorate cu diplome și cupe.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 576.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.333333333333336,
+            "r": 534.0,
+            "t": 613.0133333333333
+          },
+          "charspan": [
+            0,
+            115
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "Echipele clasate pe primele trei locuri în fiecare categorie (clasa 1, clasa 2) vor fi decorate cu diplome și cupe."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Membrii echipelor clasate pe primele trei locuri în fiecare categorie vor fi decoratți cu diplome și cupe.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 540.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.666666666666664,
+            "r": 541.3333333333333,
+            "t": 576.3466666666666
+          },
+          "charspan": [
+            0,
+            106
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "Membrii echipelor clasate pe primele trei locuri în fiecare categorie vor fi decoratți cu diplome și cupe."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "6. Condiții administrativ-financiare :",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 504.01333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.666666666666664,
+            "r": 275.0,
+            "t": 520.3466666666666
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "6. Condiții administrativ-financiare :"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cheltuielile pentru organizarea concursului: remunerarea arbitrului și secretarului principal, remunerarea arbitrilor, luctătorilor tehnici și medicali, procurarea diplomelor, medaliilor, cupelor, premiile bănești (lei), sunt suportate de către DGETS mun. Chișinău.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 445.01333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 48.333333333333336,
+            "r": 551.3333333333333,
+            "t": 502.01333333333326
+          },
+          "charspan": [
+            0,
+            265
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "Cheltuielile pentru organizarea concursului: remunerarea arbitrului și secretarului principal, remunerarea arbitrilor, luctătorilor tehnici și medicali, procurarea diplomelor, medaliilor, cupelor, premiile bănești (lei), sunt suportate de către DGETS mun. Chișinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "7.Organizatorii:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 411.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.333333333333336,
+            "r": 148.33333333333331,
+            "t": 427.67999999999995
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "7.Organizatorii:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Competițiile sunt organizate de către Asociația Municipală de Şah Chişinău, coordonate cu DGETS mun. Chișinău.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 375.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 48.666666666666664,
+            "r": 550.3333333333333,
+            "t": 409.01333333333326
+          },
+          "charspan": [
+            0,
+            110
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "Competițiile sunt organizate de către Asociația Municipală de Şah Chişinău, coordonate cu DGETS mun. Chișinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Desfăşurarea nemijlocită a competițiilor revine Colegiului de arbitri.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 357.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.66666666666666,
+            "r": 473.6666666666667,
+            "t": 376.67999999999995
+          },
+          "charspan": [
+            0,
+            70
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "Desfăşurarea nemijlocită a competițiilor revine Colegiului de arbitri."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "8. Condițiile de înscriere și validare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 328.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 48.333333333333336,
+            "r": 265.0,
+            "t": 344.67999999999995
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "8. Condițiile de înscriere și validare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Administrația şcolii expediază la adresa de e-mail: ofertesah@mail.ru până în data de 22 mai 2026 ofertele de participare separate pentru fiecare echipă.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 293.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 47.666666666666664,
+            "r": 550.3333333333333,
+            "t": 328.67999999999995
+          },
+          "charspan": [
+            0,
+            153
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "Administrația şcolii expediază la adresa de e-mail: ofertesah@mail.ru până în data de 22 mai 2026 ofertele de participare separate pentru fiecare echipă."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Model de ofertă:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 248.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.666666666666664,
+            "r": 158.0,
+            "t": 266.3466666666666
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "Model de ofertă:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Locurile sunt limitate! Nu se fac înscrieri in ziua concursului!!!",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 94.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.0,
+            "r": 453.0,
+            "t": 114.67999999999995
+          },
+          "charspan": [
+            0,
+            66
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "Locurile sunt limitate! Nu se fac înscrieri in ziua concursului!!!"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Consiliul de coordonare a Cupei municipale la ŞAH.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 712.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.0,
+            "r": 385.0,
+            "t": 733.3466666666666
+          },
+          "charspan": [
+            0,
+            50
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "Consiliul de coordonare a Cupei municipale la ŞAH."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr.3",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 497.34666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 471.3333333333333,
+            "r": 533.6666666666666,
+            "t": 515.3466666666666
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "Anexa nr.3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Lista arbitrilor a Cupei municipale la ŞAH:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 439.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 332.0,
+            "t": 458.34666666666664
+          },
+          "charspan": [
+            0,
+            43
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "Lista arbitrilor a Cupei municipale la ŞAH:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr.2",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 769.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 475.6666666666667,
+            "r": 539.0,
+            "t": 786.68
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "Anexa nr.2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la ordinul nr",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 754.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 382.3333333333333,
+            "r": 459.6666666666667,
+            "t": 775.0133333333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "la ordinul nr"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "i",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 754.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.0,
+            "r": 532.0,
+            "t": 774.3466666666666
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "i"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,2062 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    }
+  ],
+  "key_value_items": [],
+  "name": "0e1fec69115bd93fb8ca6eb44e3de7ca47d2a3cef8ea44eb99c37ee82b9b4fd1",
+  "origin": {
+    "binary_hash": 11079839043890663377,
+    "filename": "0e1fec69115bd93fb8ca6eb44e3de7ca47d2a3cef8ea44eb99c37ee82b9b4fd1.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 755.203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 258.641845703125,
+            "r": 364.7468566894531,
+            "t": 825.8967971801758
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 667.9750823974609,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.38517761230469,
+            "r": 324.9251708984375,
+            "t": 694.7593841552734
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 61.7392578125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 399.4187316894531,
+            "r": 506.2505187988281,
+            "t": 175.42132568359375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.1474609375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.6901550292969,
+            "r": 579.6939086914062,
+            "t": 40.297607421875
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.130126953125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.5938415527344,
+            "r": 579.7667236328125,
+            "t": 40.355224609375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.10235595703125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.53448486328125,
+            "r": 579.8712768554688,
+            "t": 40.5084228515625
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 711.7379048665364,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 186.03378295898438,
+            "r": 457.998291015625,
+            "t": 753.3588714599609
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "141225 大8大rR-rra",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 668.9163411458334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 104.95608011881511,
+            "r": 325.75506591796875,
+            "t": 694.5292358398438
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "141225 大8大rR-rra"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 643.7036336263021,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 302.9273681640625,
+            "r": 343.85978190104163,
+            "t": 657.3104858398438
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la instituirea Registrului declarațiilor privind conflictele de interese al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 564.0635172526042,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.83952713012695,
+            "r": 307.25675455729163,
+            "t": 629.29638671875
+          },
+          "charspan": [
+            0,
+            165
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Cu privire la instituirea Registrului declarațiilor privind conflictele de interese al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Având în vedere răspunsul Autorității Naționale de Integritate a Republicii Moldova, recepționat prin intermediul poștei electronice a Direcției generale educație, tineret și sport a Consiliului Municipal Chișinău, înregistrat cu nr. 1-06/1-686 din 11.12.2025, în temeiul Legii nr. 133/2016 privind declararea averi și intereselor personale, ordinului Autorității Naționale de Integritate a Republicii Moldova nr. 39 din 21 noiembrie 2025 Cu privire la aprobarea modelului Registrului declarațiilor privind conflictele de interese,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 474.4183756510417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.4459457397461,
+            "r": 547.3411865234375,
+            "t": 552.0574747721355
+          },
+          "charspan": [
+            0,
+            531
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Având în vedere răspunsul Autorității Naționale de Integritate a Republicii Moldova, recepționat prin intermediul poștei electronice a Direcției generale educație, tineret și sport a Consiliului Municipal Chișinău, înregistrat cu nr. 1-06/1-686 din 11.12.2025, în temeiul Legii nr. 133/2016 privind declararea averi și intereselor personale, ordinului Autorității Naționale de Integritate a Republicii Moldova nr. 39 din 21 noiembrie 2025 Cu privire la aprobarea modelului Registrului declarațiilor privind conflictele de interese,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 448.4052734375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 298.59796142578125,
+            "r": 347.00844319661456,
+            "t": 462.0121256510417
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se instituie Registrul declarațiilor privind conflictele de interese al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 409.585693359375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.4459457397461,
+            "r": 545.7668863932292,
+            "t": 435.5987955729167
+          },
+          "charspan": [
+            0,
+            154
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Se instituie Registrul declarațiilor privind conflictele de interese al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se desemnează Serviciul asistență juridică al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău responsabil de:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 383.9727783203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.83952713012695,
+            "r": 546.1604817708333,
+            "t": 409.585693359375
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se desemnează Serviciul asistență juridică al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău responsabil de:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. recepționarea și înregistrarea declarațiilor privind conflictele de interese;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 371.1663411458333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 112.04054005940755,
+            "r": 467.0506591796875,
+            "t": 383.1724039713542
+          },
+          "charspan": [
+            0,
+            82
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "recepționarea și înregistrarea declarațiilor privind conflictele de interese;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. întreprinderea acțiunilor de soluționare pentru rezolvarea conflictului de interese;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 357.9596761067708,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 112.43412017822266,
+            "r": 505.6216227213542,
+            "t": 370.3659261067708
+          },
+          "charspan": [
+            0,
+            89
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "întreprinderea acțiunilor de soluționare pentru rezolvarea conflictului de interese;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.3.",
+      "orig": "2.3. ținerea Registrului declarațiilor privind conflictele de interese al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 331.9465738932292,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 112.43412017822266,
+            "r": 546.1604817708333,
+            "t": 357.5594889322917
+          },
+          "charspan": [
+            0,
+            153
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "ținerea Registrului declarațiilor privind conflictele de interese al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. În cazul apariției unui conflict de interese real se obligă angajații Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău: personalul cu funcții complexe/funcționarii publici, cu funcții de conducere și directorii instituțiilor de învățământ general, să depună declarația privind conflictul de interese real, conform modelului de formular aprobat prin pct. 1, lit. b) din ordinul Autorității Naționale de Integritate a Republicii Moldova nr. 39 din 21 noiembrie 2025,",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 254.3074951171875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.26520284016927,
+            "r": 546.5540364583333,
+            "t": 332.3468017578125
+          },
+          "charspan": [
+            0,
+            497
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "În cazul apariției unui conflict de interese real se obligă angajații Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău: personalul cu funcții complexe/funcționarii publici, cu funcții de conducere și directorii instituțiilor de învățământ general, să depună declarația privind conflictul de interese real, conform modelului de formular aprobat prin pct. 1, lit. b) din ordinul Autorității Naționale de Integritate a Republicii Moldova nr. 39 din 21 noiembrie 2025,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Prevederile prezentului ordin urmează a fi aduse la cunoştința tuturor angajaților Direcțici generale educație, tineret și sport a Consiliului Municipal Chişinău.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 228.29439290364587,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.4459457397461,
+            "r": 545.373291015625,
+            "t": 253.90726725260413
+          },
+          "charspan": [
+            0,
+            165
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Prevederile prezentului ordin urmează a fi aduse la cunoştința tuturor angajaților Direcțici generale educație, tineret și sport a Consiliului Municipal Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Responsabili de realizarea prevederilor prezentului ordin se desemnează Serviciul asistență juridică al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău și Secția comunicare și relație cu publicul a Direcției generale educatic, tineret i sport a Consiliului Municipal Chişinău,",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 149.45467122395837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.26520284016927,
+            "r": 547.3411865234375,
+            "t": 203.0816650390625
+          },
+          "charspan": [
+            0,
+            310
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Responsabili de realizarea prevederilor prezentului ordin se desemnează Serviciul asistență juridică al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău și Secția comunicare și relație cu publicul a Direcției generale educatic, tineret i sport a Consiliului Municipal Chişinău,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "adjunct IVALOI",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 91.82560221354163,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 500.1114908854167,
+            "r": 546.9476318359375,
+            "t": 136.648193359375
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "adjunct IVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Prezentul ordin se publică pe site-ul oficial al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 201.88106282552087,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.23310788472493,
+            "r": 546.1604817708333,
+            "t": 228.694580078125
+          },
+          "charspan": [
+            0,
+            131
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Prezentul ordin se publică pe site-ul oficial al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Controlul realizării prevederilor prezentului ordin mi-l asumy",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 136.648193359375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.125,
+            "r": 411.5557454427083,
+            "t": 149.85489908854163
+          },
+          "charspan": [
+            0,
+            65
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Controlul realizării prevederilor prezentului ordin mi-l asumy"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ndrer",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 92.62605794270837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 453.6689046223958,
+            "r": 487.5168863932292,
+            "t": 103.43147786458337
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "ndrer"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 512.6666666666666,
+            "r": 566.3333333333334,
+            "t": 37.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CSCamScanner",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 11.333333333333371,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 501.6666666666667,
+            "r": 578.0,
+            "t": 28.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "CSCamScanner"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moidov",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 59.40926106770837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 179.34290568033856,
+            "r": 457.604736328125,
+            "t": 69.81453450520837
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moidov"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Tal + (022) 201 601 uunu ahininouadu md a mail: daatemun@omail com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 49.804443359375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 191.9375,
+            "r": 452.0946044921875,
+            "t": 59.80948893229163
+          },
+          "charspan": [
+            0,
+            66
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Tal + (022) 201 601 uunu ahininouadu md a mail: daatemun@omail com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr. 2 la Ordinul preşedintelui Autorității Naționale de Integritate nr.39din 21 noiembrie 2025",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 773.8261057535807,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 380.3645833333333,
+            "r": 533.9724934895833,
+            "t": 809.9652214050293
+          },
+          "charspan": [
+            0,
+            100
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Anexa nr. 2 la Ordinul preşedintelui Autorității Naționale de Integritate nr.39din 21 noiembrie 2025"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Către",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 744.1920318603516,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 268.09895833333337,
+            "r": 296.9672648111979,
+            "t": 758.2862854003906
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Către"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Autoritatea Națională de Integritate/Consiliul de Integritate, după caz)",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 724.3155212402344,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 267.7425740559896,
+            "r": 537.8928629557292,
+            "t": 734.4344736735026
+          },
+          "charspan": [
+            0,
+            72
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Autoritatea Națională de Integritate/Consiliul de Integritate, după caz)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "(Şeful ierarhic/organul ierarhic superior,",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 734.0730794270834,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 268.45536295572913,
+            "r": 425.983642578125,
+            "t": 744.9148152669271
+          },
+          "charspan": [
+            0,
+            42
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "(Şeful ierarhic/organul ierarhic superior,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "DECLARATIE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 699.0181376139324,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 274.1577351888021,
+            "r": 351.139892578125,
+            "t": 711.305440266927
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "DECLARATIE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIVIND CONFLICTUL DEINTERESEREAL",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 687.453623453776,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 192.89881388346356,
+            "r": 432.7552083333333,
+            "t": 697.5725708007812
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "PRIVIND CONFLICTUL DEINTERESEREAL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "I. DATELE SUBIECTULUI DECLARĂRII",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 659.6265055338541,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.484375,
+            "r": 302.6696573893229,
+            "t": 672.2751973470052
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "I. DATELE SUBIECTULUI DECLARĂRII"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Numele și prenumele:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 629.6310424804688,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.5535717010498,
+            "r": 191.4732157389323,
+            "t": 642.64111328125
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Numele și prenumele:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Funcția deținută:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 607.586181640625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.90997060139973,
+            "r": 170.44568888346356,
+            "t": 620.9576416015625
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Funcția deținută:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Organizația publică:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 586.2640991210938,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.62276840209961,
+            "r": 186.8400370279948,
+            "t": 598.9128011067709
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Organizația publică:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Prin prezenta, informez cã, la data de am constatat că mă aflu într-o situație de conflict de interese real, apărut în legătură cu:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 548.3180338541667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.90997060139973,
+            "r": 543.5952555338542,
+            "t": 577.2293294270834
+          },
+          "charspan": [
+            0,
+            131
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "Prin prezenta, informez cã, la data de am constatat că mă aflu într-o situație de conflict de interese real, apărut în legătură cu:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "(Se va bifa și completa una dintre optiuni)",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 526.6345621744792,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.69196446736653,
+            "r": 244.22024536132812,
+            "t": 537.476298014323
+          },
+          "charspan": [
+            0,
+            43
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "(Se va bifa și completa una dintre optiuni)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "orig": "Soluționarea următoarei cereri/demers",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 506.03525797526044,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.62276840209961,
+            "r": 292.3340861002604,
+            "t": 518.3225708007812
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Soluționarea următoarei cereri/demers"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Denumirea și descrierea cererii sau demersului:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 492.3024088541667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.62276840209961,
+            "r": 281.28572591145837,
+            "t": 503.86692301432294
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Denumirea și descrierea cererii sau demersului:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "orig": "Emiterea următorului act administrativ",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 460.5,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.69196446736653,
+            "r": 296.25447591145837,
+            "t": 472.4259033203125
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Emiterea următorului act administrativ"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Denumirea actului administrativ:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 446.7671305338542,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.3355655670166,
+            "r": 222.47991943359375,
+            "t": 457.6088460286458
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Denumirea actului administrativ:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "orig": "Încheierea următorului act juridic, direct sau prin intermediul unui terț",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 413.8805338541667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.97916666666667,
+            "r": 449.5059814453125,
+            "t": 427.9747721354167
+          },
+          "charspan": [
+            0,
+            73
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Încheierea următorului act juridic, direct sau prin intermediul unui terț"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Denumirea actului juridic:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 400.8704427083333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.3355655670166,
+            "r": 195.3936055501302,
+            "t": 411.712158203125
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Denumirea actului juridic:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "orig": "Luarea următoarei decizii",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 369.4294026692708,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.97916666666667,
+            "r": 232.1026814778646,
+            "t": 381.3553059895833
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "Luarea următoarei decizii"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Denumirea deciziei:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 354.9737548828125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.97916666666667,
+            "r": 170.80208333333331,
+            "t": 366.899658203125
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "Denumirea deciziei:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "orig": "Participarea, în calitate de membru al unui organ colegial, la adoptarea următoarei decizii Denumirea deciziei și denumirea organului colegial:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 309.07710774739576,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.26636950174968,
+            "r": 538.249267578125,
+            "t": 336.1814371744792
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Participarea, în calitate de membru al unui organ colegial, la adoptarea următoarei decizii Denumirea deciziei și denumirea organului colegial:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "II. DESCRIEREA SITUATIEI DE CONFLICT DE INTERESE",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 277.274658203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.26636950174968,
+            "r": 397.47174072265625,
+            "t": 289.92338053385413
+          },
+          "charspan": [
+            0,
+            48
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "II. DESCRIEREA SITUATIEI DE CONFLICT DE INTERESE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Declar, că situația dată generează pentru mine un conflict de interese real, care influențează sau ar putea influența exercitarea imparțialăși obiectivă a mandatului/funcției mele publice sau de demnitate publică deținute, în următorul mod:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 221.259033203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.5535717010498,
+            "r": 542.8824462890625,
+            "t": 264.6259765625
+          },
+          "charspan": [
+            0,
+            240
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "Declar, că situația dată generează pentru mine un conflict de interese real, care influențează sau ar putea influența exercitarea imparțialăși obiectivă a mandatului/funcției mele publice sau de demnitate publică deținute, în următorul mod:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "(Se vor indica datele despre natura conflictului de interese și despre modul în care acesta influențează sau poate influența îndeplinirea atribuțiilor mandatului/funcției)",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 161.6295166015625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.26636950174968,
+            "r": 542.5260416666667,
+            "t": 185.4813232421875
+          },
+          "charspan": [
+            0,
+            171
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "(Se vor indica datele despre natura conflictului de interese și despre modul în care acesta influențează sau poate influența îndeplinirea atribuțiilor mandatului/funcției)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Declar că, până la data depunerii prezentei declarații, m-am abținut de la exercitarea atribuțiilor ce îmi revin în legătură cu situația care generează conflictul de interese declarat, în conformitate cu prevederile legale.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 111.75748697916663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.19717280069987,
+            "r": 543.5952555338542,
+            "t": 152.23331705729163
+          },
+          "charspan": [
+            0,
+            223
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "Declar că, până la data depunerii prezentei declarații, m-am abținut de la exercitarea atribuțiilor ce îmi revin în legătură cu situația care generează conflictul de interese declarat, în conformitate cu prevederile legale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 512.6666666666666,
+            "r": 566.3333333333334,
+            "t": 37.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CSCamScanner",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 11.333333333333371,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 501.6666666666667,
+            "r": 578.0,
+            "t": 28.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "CSCamScanner"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul art. 14 din Legea nr. 133/2016 privind declararea averii și a intereselor personate, selicit examinarea situației de conflict de interese real declarate și determinarea, în termen de 3 zile lucrătoare, a opțiunii legale de soluționare a acesteia, cu luarea în considerare a intereselor organizației publice; interesului public; intereselor legitime ale salariaților; nivelului și tipului funcției deținute; naturii conflictului de interese declarat; altor factori relevanți",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 735.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.0,
+            "r": 543.0,
+            "t": 803.3333333333334
+          },
+          "charspan": [
+            0,
+            484
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "În temeiul art. 14 din Legea nr. 133/2016 privind declararea averii și a intereselor personate, selicit examinarea situației de conflict de interese real declarate și determinarea, în termen de 3 zile lucrătoare, a opțiunii legale de soluționare a acesteia, cu luarea în considerare a intereselor organizației publice; interesului public; intereselor legitime ale salariaților; nivelului și tipului funcției deținute; naturii conflictului de interese declarat; altor factori relevanți"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Rog să fiu informat(ā) în scris cu privire la decizia de soluționare a conflictului de interese real aferent prezentei declarații.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 697.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.0,
+            "r": 543.3333333333333,
+            "t": 724.6666666666666
+          },
+          "charspan": [
+            0,
+            130
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "Rog să fiu informat(ā) în scris cu privire la decizia de soluționare a conflictului de interese real aferent prezentei declarații."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "(numele, prenumele)",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 649.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.66666666666667,
+            "r": 185.0,
+            "t": 662.3333333333334
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "(numele, prenumele)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "(semnătura)",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 650.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 281.33333333333337,
+            "r": 333.6666666666667,
+            "t": 662.6666666666666
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "(semnătura)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "(data)",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 649.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 452.0,
+            "r": 481.6666666666667,
+            "t": 664.3333333333334
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "(data)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 513.0,
+            "r": 566.3333333333334,
+            "t": 36.66666666666663
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CS",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 16.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 503.3333333333333,
+            "r": 517.0,
+            "t": 26.0
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "CS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CamScanner",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 12.666666666666629,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 514.3333333333334,
+            "r": 578.0,
+            "t": 26.33333333333337
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "CamScanner"
+    }
+  ],
+  "version": "1.10.0"
+}

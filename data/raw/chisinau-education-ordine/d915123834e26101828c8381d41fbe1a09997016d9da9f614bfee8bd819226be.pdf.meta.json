@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "d915123834e26101828c8381d41fbe1a09997016d9da9f614bfee8bd819226be",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1774942417_cu-privire-la-inscrierea-elevilor-in-clasa-a-v-a-1.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "2212389",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 07:18:52 GMT",
+    "Etag": "\"69cb78d1-21c225\"",
+    "Last-Modified": "Tue, 31 Mar 2026 07:33:37 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/d915123834e26101828c8381d41fbe1a09997016d9da9f614bfee8bd819226be.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1774942417_cu-privire-la-inscrierea-elevilor-in-clasa-a-v-a-1.pdf",
+  "retrieved_at": "2026-09-26T07:18:54.877584+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

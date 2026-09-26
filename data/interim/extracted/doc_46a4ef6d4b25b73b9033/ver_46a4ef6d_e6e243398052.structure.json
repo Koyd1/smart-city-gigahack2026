@@ -1,0 +1,5457 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/tables/1"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [],
+  "key_value_items": [],
+  "name": "9d7b0e1d3d1ea0eec335e3e7a2136f1920924ca52f2dfa3a4a45f2155f0b219e",
+  "origin": {
+    "binary_hash": 5351949905802502558,
+    "filename": "9d7b0e1d3d1ea0eec335e3e7a2136f1920924ca52f2dfa3a4a45f2155f0b219e.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 164.12969970703125,
+                "coord_origin": "TOPLEFT",
+                "l": 77.02256902058919,
+                "r": 99.5954844156901,
+                "t": 148.35584513346356
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr."
+            },
+            {
+              "bbox": {
+                "b": 165.15842692057294,
+                "coord_origin": "TOPLEFT",
+                "l": 180.65277099609375,
+                "r": 230.58680216471353,
+                "t": 149.04166158040363
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Actiunea"
+            },
+            {
+              "bbox": {
+                "b": 165.15842692057294,
+                "coord_origin": "TOPLEFT",
+                "l": 316.7742919921875,
+                "r": 371.83852132161456,
+                "t": 150.07039388020831
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Termenul"
+            },
+            {
+              "bbox": {
+                "b": 166.18716430664062,
+                "coord_origin": "TOPLEFT",
+                "l": 401.59372965494794,
+                "r": 471.3645833333333,
+                "t": 151.09912109375
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "Responsabili"
+            },
+            {
+              "bbox": {
+                "b": 173.38826497395831,
+                "coord_origin": "TOPLEFT",
+                "l": 495.6475423177083,
+                "r": 575.6787923177084,
+                "t": 144.24092610677081
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 0,
+              "text": "Produsul/rezul tatul"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 202.53561401367188,
+                "coord_origin": "TOPLEFT",
+                "l": 84.546875,
+                "r": 92.75520833333333,
+                "t": 190.5337626139323
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1"
+            },
+            {
+              "bbox": {
+                "b": 212.13709513346353,
+                "coord_origin": "TOPLEFT",
+                "l": 106.09375,
+                "r": 303.77777099609375,
+                "t": 182.64684041341144
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Definitivarea conceptului, genericului și structurii programului municipal"
+            },
+            {
+              "bbox": {
+                "b": 211.79417928059897,
+                "coord_origin": "TOPLEFT",
+                "l": 315.74825032552087,
+                "r": 372.1805419921875,
+                "t": 184.01847330729169
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "până la 15.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 213.50872802734375,
+                "coord_origin": "TOPLEFT",
+                "l": 381.75693766276044,
+                "r": 490.517333984375,
+                "t": 184.01847330729169
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": "Direcția Management Instituțional"
+            },
+            {
+              "bbox": {
+                "b": 221.73856608072916,
+                "coord_origin": "TOPLEFT",
+                "l": 507.6180419921875,
+                "r": 563.0242919921875,
+                "t": 178.18900553385419
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 1,
+              "text": "Concept și structură aprobate"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 249.857177734375,
+                "coord_origin": "TOPLEFT",
+                "l": 83.17881902058919,
+                "r": 93.09722137451172,
+                "t": 236.82659912109375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2"
+            },
+            {
+              "bbox": {
+                "b": 265.63104248046875,
+                "coord_origin": "TOPLEFT",
+                "l": 114.30208333333334,
+                "r": 296.25345865885413,
+                "t": 222.42438761393228
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Definitivarea programului atelierelor tematice și coordonarea instituțiilor- gazdă"
+            },
+            {
+              "bbox": {
+                "b": 258.7728474934896,
+                "coord_origin": "TOPLEFT",
+                "l": 314.72220865885413,
+                "r": 372.1805419921875,
+                "t": 230.65422566731772
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "până la 18.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 260.14449055989587,
+                "coord_origin": "TOPLEFT",
+                "l": 392.01735432942706,
+                "r": 478.546875,
+                "t": 230.65422566731772
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": "DMI; instituțiile- gazdă"
+            },
+            {
+              "bbox": {
+                "b": 260.14449055989587,
+                "coord_origin": "TOPLEFT",
+                "l": 507.2760416666667,
+                "r": 562.3402506510417,
+                "t": 232.02586873372397
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 2,
+              "text": "Programul atelierelor"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 290.320556640625,
+                "coord_origin": "TOPLEFT",
+                "l": 81.81076304117839,
+                "r": 93.09722137451172,
+                "t": 275.9183349609375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3"
+            },
+            {
+              "bbox": {
+                "b": 298.5503946940104,
+                "coord_origin": "TOPLEFT",
+                "l": 118.40625,
+                "r": 291.46527099609375,
+                "t": 269.06013997395837
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Definitivarea agendei Forumului, a panelurilor și a intervențiilor"
+            },
+            {
+              "bbox": {
+                "b": 298.5503946940104,
+                "coord_origin": "TOPLEFT",
+                "l": 313.6961669921875,
+                "r": 371.83852132161456,
+                "t": 270.77469889322913
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "până la 21.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 298.893310546875,
+                "coord_origin": "TOPLEFT",
+                "l": 395.7795003255208,
+                "r": 475.126708984375,
+                "t": 271.11759440104163
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": "DMI; partenerii evenimentului"
+            },
+            {
+              "bbox": {
+                "b": 300.26493326822913,
+                "coord_origin": "TOPLEFT",
+                "l": 506.9340006510417,
+                "r": 561.314208984375,
+                "t": 271.80342610677087
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 3,
+              "text": "Agenda Forumului"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 323.2399088541667,
+                "coord_origin": "TOPLEFT",
+                "l": 82.83680470784505,
+                "r": 92.41319274902344,
+                "t": 308.1518758138021
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4"
+            },
+            {
+              "bbox": {
+                "b": 331.1268310546875,
+                "coord_origin": "TOPLEFT",
+                "l": 107.80381774902344,
+                "r": 300.69964599609375,
+                "t": 302.3224080403646
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Expedierea invitațiilor și confirmarea invitaților, vorbitorilor și moderatorilor"
+            },
+            {
+              "bbox": {
+                "b": 331.46974690755206,
+                "coord_origin": "TOPLEFT",
+                "l": 313.6961669921875,
+                "r": 371.49652099609375,
+                "t": 303.00821940104163
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "15- 24.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 325.29736328125,
+                "coord_origin": "TOPLEFT",
+                "l": 420.4045003255208,
+                "r": 448.7916666666667,
+                "t": 310.2093302408854
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 4,
+              "text": "DMI"
+            },
+            {
+              "bbox": {
+                "b": 332.1555582682292,
+                "coord_origin": "TOPLEFT",
+                "l": 507.2760416666667,
+                "r": 560.9722086588542,
+                "t": 304.3798624674479
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 4,
+              "text": "Invitații și confirmări"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 356.1592610677083,
+                "coord_origin": "TOPLEFT",
+                "l": 82.4947903951009,
+                "r": 92.75520833333333,
+                "t": 342.44287109375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "5"
+            },
+            {
+              "bbox": {
+                "b": 365.0749104817708,
+                "coord_origin": "TOPLEFT",
+                "l": 116.35416666666666,
+                "r": 291.80729166666663,
+                "t": 335.5846761067708
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "Desfáşurarea atelierelor tematice de formare și schimb de bune practici"
+            },
+            {
+              "bbox": {
+                "b": 364.38909912109375,
+                "coord_origin": "TOPLEFT",
+                "l": 313.35416666666663,
+                "r": 371.1545003255208,
+                "t": 335.5846761067708
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 5,
+              "text": "21- 29.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 366.44655354817706,
+                "coord_origin": "TOPLEFT",
+                "l": 391.33331298828125,
+                "r": 477.8628336588542,
+                "t": 336.27048746744794
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 5,
+              "text": "DMI; instituțiile- gazdă"
+            },
+            {
+              "bbox": {
+                "b": 366.10365804036456,
+                "coord_origin": "TOPLEFT",
+                "l": 511.0381673177083,
+                "r": 556.1840006510417,
+                "t": 337.6421305338542
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 5,
+              "text": "Ateliere realizate"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 389.07861328125,
+                "coord_origin": "TOPLEFT",
+                "l": 82.4947903951009,
+                "r": 92.75520833333333,
+                "t": 375.3622233072917
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 6,
+              "text": "6"
+            },
+            {
+              "bbox": {
+                "b": 396.9655354817708,
+                "coord_origin": "TOPLEFT",
+                "l": 104.04166412353516,
+                "r": 304.11979166666663,
+                "t": 367.47528076171875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 6,
+              "text": "Selectarea participanților și definitivarea listelor nominale"
+            },
+            {
+              "bbox": {
+                "b": 397.30845133463544,
+                "coord_origin": "TOPLEFT",
+                "l": 313.01214599609375,
+                "r": 370.81247965494794,
+                "t": 369.18983968098956
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 6,
+              "text": "până la 25.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 391.1360677083333,
+                "coord_origin": "TOPLEFT",
+                "l": 420.4045003255208,
+                "r": 448.7916666666667,
+                "t": 376.04803466796875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 6,
+              "text": "DMI"
+            },
+            {
+              "bbox": {
+                "b": 400.3946533203125,
+                "coord_origin": "TOPLEFT",
+                "l": 505.2239583333333,
+                "r": 561.65625,
+                "t": 369.5327555338542
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 6,
+              "text": "Liste de participare"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 420.96923828125,
+                "coord_origin": "TOPLEFT",
+                "l": 82.15277735392253,
+                "r": 92.07117970784505,
+                "t": 407.9386800130208
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 7,
+              "text": "7"
+            },
+            {
+              "bbox": {
+                "b": 430.5707194010417,
+                "coord_origin": "TOPLEFT",
+                "l": 110.53992716471353,
+                "r": 295.91145833333337,
+                "t": 400.737548828125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 7,
+              "text": "Elaborarea scenariului de moderare și coordonarea momentelor protocolare"
+            },
+            {
+              "bbox": {
+                "b": 430.5707194010417,
+                "coord_origin": "TOPLEFT",
+                "l": 313.01214599609375,
+                "r": 370.47047932942706,
+                "t": 402.4521077473958
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 7,
+              "text": "până la 28.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 424.055419921875,
+                "coord_origin": "TOPLEFT",
+                "l": 389.6232503255208,
+                "r": 478.546875,
+                "t": 410.3390299479167
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 7,
+              "text": "DMI; moderatorii"
+            },
+            {
+              "bbox": {
+                "b": 424.7412516276042,
+                "coord_origin": "TOPLEFT",
+                "l": 498.0416666666667,
+                "r": 567.8125,
+                "t": 411.0248616536458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 7,
+              "text": "Scenariu final"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 461.4326171875,
+                "coord_origin": "TOPLEFT",
+                "l": 81.81076304117839,
+                "r": 91.72916666666667,
+                "t": 448.7449544270833
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 8,
+              "text": "8"
+            },
+            {
+              "bbox": {
+                "b": 477.8922932942708,
+                "coord_origin": "TOPLEFT",
+                "l": 115.328125,
+                "r": 291.12325032552087,
+                "t": 434.3427327473958
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 8,
+              "text": "Pregătirea materialelor pentru înregistrare, ecusoanelor și mapelor participanților"
+            },
+            {
+              "bbox": {
+                "b": 470.3482666015625,
+                "coord_origin": "TOPLEFT",
+                "l": 312.67012532552087,
+                "r": 370.47047932942706,
+                "t": 442.2296549479167
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 8,
+              "text": "până la 29.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 465.5475260416667,
+                "coord_origin": "TOPLEFT",
+                "l": 381.75693766276044,
+                "r": 485.0451253255208,
+                "t": 449.4307454427083
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 8,
+              "text": "DMI; echipa tehnică"
+            },
+            {
+              "bbox": {
+                "b": 473.4344482421875,
+                "coord_origin": "TOPLEFT",
+                "l": 500.09375,
+                "r": 566.4444173177083,
+                "t": 443.6012776692708
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 8,
+              "text": "Seturi pentru participanți"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 508.068359375,
+                "coord_origin": "TOPLEFT",
+                "l": 81.46874872843425,
+                "r": 91.04513804117839,
+                "t": 495.3806966145833
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 9,
+              "text": "9"
+            },
+            {
+              "bbox": {
+                "b": 523.8422037760417,
+                "coord_origin": "TOPLEFT",
+                "l": 121.484375,
+                "r": 284.2829793294271,
+                "t": 481.3213704427083
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 9,
+              "text": "Definitivarea nominalizărilor, diplomelor și materialelor pentru decernare"
+            },
+            {
+              "bbox": {
+                "b": 517.3269449869792,
+                "coord_origin": "TOPLEFT",
+                "l": 312.328125,
+                "r": 370.1284586588542,
+                "t": 489.5512288411458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 9,
+              "text": "până la 29.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 518.0127360026042,
+                "coord_origin": "TOPLEFT",
+                "l": 389.28122965494794,
+                "r": 478.204833984375,
+                "t": 489.5512288411458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 9,
+              "text": "DMI; conducerea DGETS"
+            },
+            {
+              "bbox": {
+                "b": 520.0701904296875,
+                "coord_origin": "TOPLEFT",
+                "l": 492.5694173177083,
+                "r": 572.9427083333333,
+                "t": 490.237060546875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 9,
+              "text": "Diplome și listă de premiere"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 555.7328287760417,
+                "coord_origin": "TOPLEFT",
+                "l": 77.70659637451172,
+                "r": 94.12326304117839,
+                "t": 540.9877115885417
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 10,
+              "text": "10"
+            },
+            {
+              "bbox": {
+                "b": 564.9914143880208,
+                "coord_origin": "TOPLEFT",
+                "l": 118.0642344156901,
+                "r": 287.01908365885413,
+                "t": 535.1582438151042
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 10,
+              "text": "Amenajarea spațiului, verificarea echipamentelor și repetiția tehnică"
+            },
+            {
+              "bbox": {
+                "b": 557.1044921875,
+                "coord_origin": "TOPLEFT",
+                "l": 311.64408365885413,
+                "r": 369.78643798828125,
+                "t": 543.045166015625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 10,
+              "text": "29.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 572.8783365885417,
+                "coord_origin": "TOPLEFT",
+                "l": 389.6232503255208,
+                "r": 475.8107503255208,
+                "t": 529.3287760416667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 10,
+              "text": "DMI; Secția Comunicare; partenerii tehnici"
+            },
+            {
+              "bbox": {
+                "b": 574.5928955078125,
+                "coord_origin": "TOPLEFT",
+                "l": 500.09375,
+                "r": 565.0763753255208,
+                "t": 530.3575032552083
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 10,
+              "text": "Spațiu și echipamente pregătite"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 595.16748046875,
+                "coord_origin": "TOPLEFT",
+                "l": 77.70659637451172,
+                "r": 93.43923441569011,
+                "t": 580.7652587890625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 11,
+              "text": "11"
+            },
+            {
+              "bbox": {
+                "b": 604.7689615885416,
+                "coord_origin": "TOPLEFT",
+                "l": 109.85590108235678,
+                "r": 294.20137532552087,
+                "t": 574.5928955078125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 11,
+              "text": "Desfăşurarea Forumului Municipal al Educației Timpurii"
+            },
+            {
+              "bbox": {
+                "b": 603.740234375,
+                "coord_origin": "TOPLEFT",
+                "l": 308.9079793294271,
+                "r": 372.52256266276044,
+                "t": 575.2787272135417
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 11,
+              "text": "30.09.2026, 10:00-14:00"
+            },
+            {
+              "bbox": {
+                "b": 605.1118570963541,
+                "coord_origin": "TOPLEFT",
+                "l": 385.5190836588542,
+                "r": 480.2569173177083,
+                "t": 575.9645182291667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 11,
+              "text": "DGETS; echipa de organizare"
+            },
+            {
+              "bbox": {
+                "b": 606.4835205078125,
+                "coord_origin": "TOPLEFT",
+                "l": 505.5659586588542,
+                "r": 558.578125,
+                "t": 576.9932454427084
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 11,
+              "text": "Forum desfăşurat"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 634.9450276692709,
+                "coord_origin": "TOPLEFT",
+                "l": 77.36458333333333,
+                "r": 93.78125,
+                "t": 620.5428059895834
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 12,
+              "text": "12"
+            },
+            {
+              "bbox": {
+                "b": 643.5177815755209,
+                "coord_origin": "TOPLEFT",
+                "l": 107.80381774902344,
+                "r": 295.5694376627604,
+                "t": 613.6846110026041
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 12,
+              "text": "Promovarea, fotografierea, filmarea și reflectarea media a activităților"
+            },
+            {
+              "bbox": {
+                "b": 644.20361328125,
+                "coord_origin": "TOPLEFT",
+                "l": 310.6180419921875,
+                "r": 369.78643798828125,
+                "t": 614.7133382161459
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 12,
+              "text": "21- 30.09.2026"
+            },
+            {
+              "bbox": {
+                "b": 644.8894449869791,
+                "coord_origin": "TOPLEFT",
+                "l": 379.3628336588542,
+                "r": 485.3871256510417,
+                "t": 615.7420654296875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 12,
+              "text": "Secția Comunicare și Relații cu Publicul"
+            },
+            {
+              "bbox": {
+                "b": 654.1479899088541,
+                "coord_origin": "TOPLEFT",
+                "l": 493.2534586588542,
+                "r": 569.5225423177083,
+                "t": 609.91259765625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 12,
+              "text": "Materiale foto- video și publicații"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 674.7225748697916,
+                "coord_origin": "TOPLEFT",
+                "l": 77.02256902058919,
+                "r": 93.43923441569011,
+                "t": 659.9774576822916
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 13,
+              "text": "13"
+            },
+            {
+              "bbox": {
+                "b": 683.2953287760416,
+                "coord_origin": "TOPLEFT",
+                "l": 111.22395833333334,
+                "r": 292.1492919921875,
+                "t": 653.462158203125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 13,
+              "text": "Colectarea feedbackului și evaluarea activităților"
+            },
+            {
+              "bbox": {
+                "b": 683.6382649739584,
+                "coord_origin": "TOPLEFT",
+                "l": 310.9600626627604,
+                "r": 368.76039632161456,
+                "t": 655.5196126302084
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 13,
+              "text": "până la 02.10.2026"
+            },
+            {
+              "bbox": {
+                "b": 686.0386149088541,
+                "coord_origin": "TOPLEFT",
+                "l": 388.93922932942706,
+                "r": 475.8107503255208,
+                "t": 655.862548828125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 13,
+              "text": "DMI; instituțiile- gazdă"
+            },
+            {
+              "bbox": {
+                "b": 685.6957194010416,
+                "coord_origin": "TOPLEFT",
+                "l": 498.7256673177083,
+                "r": 564.0503336588542,
+                "t": 656.5483805338541
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 13,
+              "text": "Formulare și concluzii"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 714.5001220703125,
+                "coord_origin": "TOPLEFT",
+                "l": 76.68055470784505,
+                "r": 93.43923441569011,
+                "t": 700.0979410807291
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 14,
+              "text": "14"
+            },
+            {
+              "bbox": {
+                "b": 722.72998046875,
+                "coord_origin": "TOPLEFT",
+                "l": 108.48784383138022,
+                "r": 294.20137532552087,
+                "t": 693.5826416015625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 14,
+              "text": "Elaborarea sintezei finale și arhivarea materialelor"
+            },
+            {
+              "bbox": {
+                "b": 724.4445393880209,
+                "coord_origin": "TOPLEFT",
+                "l": 313.01214599609375,
+                "r": 366.0242919921875,
+                "t": 694.9542643229166
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 14,
+              "text": "în10 zile lucrătoare"
+            },
+            {
+              "bbox": {
+                "b": 725.816162109375,
+                "coord_origin": "TOPLEFT",
+                "l": 381.07289632161456,
+                "r": 482.6510416666667,
+                "t": 696.325927734375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 14,
+              "text": "DMI; subdiviziunile implicate"
+            },
+            {
+              "bbox": {
+                "b": 731.6456298828125,
+                "coord_origin": "TOPLEFT",
+                "l": 493.9375,
+                "r": 568.4965006510417,
+                "t": 689.8106282552084
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 14,
+              "text": "Raport sintetic și dosarul evenimentului"
+            }
+          ]
+        ],
+        "num_cols": 5,
+        "num_rows": 15,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 173.38826497395831,
+              "coord_origin": "TOPLEFT",
+              "l": 495.6475423177083,
+              "r": 575.6787923177084,
+              "t": 144.24092610677081
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 0,
+            "text": "Produsul/rezul tatul"
+          },
+          {
+            "bbox": {
+              "b": 164.12969970703125,
+              "coord_origin": "TOPLEFT",
+              "l": 77.02256902058919,
+              "r": 99.5954844156901,
+              "t": 148.35584513346356
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr."
+          },
+          {
+            "bbox": {
+              "b": 165.15842692057294,
+              "coord_origin": "TOPLEFT",
+              "l": 180.65277099609375,
+              "r": 230.58680216471353,
+              "t": 149.04166158040363
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Actiunea"
+          },
+          {
+            "bbox": {
+              "b": 165.15842692057294,
+              "coord_origin": "TOPLEFT",
+              "l": 316.7742919921875,
+              "r": 371.83852132161456,
+              "t": 150.07039388020831
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Termenul"
+          },
+          {
+            "bbox": {
+              "b": 166.18716430664062,
+              "coord_origin": "TOPLEFT",
+              "l": 401.59372965494794,
+              "r": 471.3645833333333,
+              "t": 151.09912109375
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "Responsabili"
+          },
+          {
+            "bbox": {
+              "b": 221.73856608072916,
+              "coord_origin": "TOPLEFT",
+              "l": 507.6180419921875,
+              "r": 563.0242919921875,
+              "t": 178.18900553385419
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 1,
+            "text": "Concept și structură aprobate"
+          },
+          {
+            "bbox": {
+              "b": 212.13709513346353,
+              "coord_origin": "TOPLEFT",
+              "l": 106.09375,
+              "r": 303.77777099609375,
+              "t": 182.64684041341144
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Definitivarea conceptului, genericului și structurii programului municipal"
+          },
+          {
+            "bbox": {
+              "b": 211.79417928059897,
+              "coord_origin": "TOPLEFT",
+              "l": 315.74825032552087,
+              "r": 372.1805419921875,
+              "t": 184.01847330729169
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "până la 15.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 213.50872802734375,
+              "coord_origin": "TOPLEFT",
+              "l": 381.75693766276044,
+              "r": 490.517333984375,
+              "t": 184.01847330729169
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": "Direcția Management Instituțional"
+          },
+          {
+            "bbox": {
+              "b": 202.53561401367188,
+              "coord_origin": "TOPLEFT",
+              "l": 84.546875,
+              "r": 92.75520833333333,
+              "t": 190.5337626139323
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1"
+          },
+          {
+            "bbox": {
+              "b": 265.63104248046875,
+              "coord_origin": "TOPLEFT",
+              "l": 114.30208333333334,
+              "r": 296.25345865885413,
+              "t": 222.42438761393228
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Definitivarea programului atelierelor tematice și coordonarea instituțiilor- gazdă"
+          },
+          {
+            "bbox": {
+              "b": 258.7728474934896,
+              "coord_origin": "TOPLEFT",
+              "l": 314.72220865885413,
+              "r": 372.1805419921875,
+              "t": 230.65422566731772
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "până la 18.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 260.14449055989587,
+              "coord_origin": "TOPLEFT",
+              "l": 392.01735432942706,
+              "r": 478.546875,
+              "t": 230.65422566731772
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 2,
+            "text": "DMI; instituțiile- gazdă"
+          },
+          {
+            "bbox": {
+              "b": 260.14449055989587,
+              "coord_origin": "TOPLEFT",
+              "l": 507.2760416666667,
+              "r": 562.3402506510417,
+              "t": 232.02586873372397
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 2,
+            "text": "Programul atelierelor"
+          },
+          {
+            "bbox": {
+              "b": 249.857177734375,
+              "coord_origin": "TOPLEFT",
+              "l": 83.17881902058919,
+              "r": 93.09722137451172,
+              "t": 236.82659912109375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2"
+          },
+          {
+            "bbox": {
+              "b": 298.5503946940104,
+              "coord_origin": "TOPLEFT",
+              "l": 118.40625,
+              "r": 291.46527099609375,
+              "t": 269.06013997395837
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Definitivarea agendei Forumului, a panelurilor și a intervențiilor"
+          },
+          {
+            "bbox": {
+              "b": 298.5503946940104,
+              "coord_origin": "TOPLEFT",
+              "l": 313.6961669921875,
+              "r": 371.83852132161456,
+              "t": 270.77469889322913
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "până la 21.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 298.893310546875,
+              "coord_origin": "TOPLEFT",
+              "l": 395.7795003255208,
+              "r": 475.126708984375,
+              "t": 271.11759440104163
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 3,
+            "text": "DMI; partenerii evenimentului"
+          },
+          {
+            "bbox": {
+              "b": 300.26493326822913,
+              "coord_origin": "TOPLEFT",
+              "l": 506.9340006510417,
+              "r": 561.314208984375,
+              "t": 271.80342610677087
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 3,
+            "text": "Agenda Forumului"
+          },
+          {
+            "bbox": {
+              "b": 290.320556640625,
+              "coord_origin": "TOPLEFT",
+              "l": 81.81076304117839,
+              "r": 93.09722137451172,
+              "t": 275.9183349609375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3"
+          },
+          {
+            "bbox": {
+              "b": 331.1268310546875,
+              "coord_origin": "TOPLEFT",
+              "l": 107.80381774902344,
+              "r": 300.69964599609375,
+              "t": 302.3224080403646
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Expedierea invitațiilor și confirmarea invitaților, vorbitorilor și moderatorilor"
+          },
+          {
+            "bbox": {
+              "b": 331.46974690755206,
+              "coord_origin": "TOPLEFT",
+              "l": 313.6961669921875,
+              "r": 371.49652099609375,
+              "t": 303.00821940104163
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "15- 24.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 332.1555582682292,
+              "coord_origin": "TOPLEFT",
+              "l": 507.2760416666667,
+              "r": 560.9722086588542,
+              "t": 304.3798624674479
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 4,
+            "text": "Invitații și confirmări"
+          },
+          {
+            "bbox": {
+              "b": 323.2399088541667,
+              "coord_origin": "TOPLEFT",
+              "l": 82.83680470784505,
+              "r": 92.41319274902344,
+              "t": 308.1518758138021
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4"
+          },
+          {
+            "bbox": {
+              "b": 325.29736328125,
+              "coord_origin": "TOPLEFT",
+              "l": 420.4045003255208,
+              "r": 448.7916666666667,
+              "t": 310.2093302408854
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 4,
+            "text": "DMI"
+          },
+          {
+            "bbox": {
+              "b": 365.0749104817708,
+              "coord_origin": "TOPLEFT",
+              "l": 116.35416666666666,
+              "r": 291.80729166666663,
+              "t": 335.5846761067708
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "Desfáşurarea atelierelor tematice de formare și schimb de bune practici"
+          },
+          {
+            "bbox": {
+              "b": 364.38909912109375,
+              "coord_origin": "TOPLEFT",
+              "l": 313.35416666666663,
+              "r": 371.1545003255208,
+              "t": 335.5846761067708
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 5,
+            "text": "21- 29.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 366.44655354817706,
+              "coord_origin": "TOPLEFT",
+              "l": 391.33331298828125,
+              "r": 477.8628336588542,
+              "t": 336.27048746744794
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 5,
+            "text": "DMI; instituțiile- gazdă"
+          },
+          {
+            "bbox": {
+              "b": 366.10365804036456,
+              "coord_origin": "TOPLEFT",
+              "l": 511.0381673177083,
+              "r": 556.1840006510417,
+              "t": 337.6421305338542
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 5,
+            "text": "Ateliere realizate"
+          },
+          {
+            "bbox": {
+              "b": 356.1592610677083,
+              "coord_origin": "TOPLEFT",
+              "l": 82.4947903951009,
+              "r": 92.75520833333333,
+              "t": 342.44287109375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "5"
+          },
+          {
+            "bbox": {
+              "b": 396.9655354817708,
+              "coord_origin": "TOPLEFT",
+              "l": 104.04166412353516,
+              "r": 304.11979166666663,
+              "t": 367.47528076171875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 6,
+            "text": "Selectarea participanților și definitivarea listelor nominale"
+          },
+          {
+            "bbox": {
+              "b": 397.30845133463544,
+              "coord_origin": "TOPLEFT",
+              "l": 313.01214599609375,
+              "r": 370.81247965494794,
+              "t": 369.18983968098956
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 6,
+            "text": "până la 25.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 400.3946533203125,
+              "coord_origin": "TOPLEFT",
+              "l": 505.2239583333333,
+              "r": 561.65625,
+              "t": 369.5327555338542
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 6,
+            "text": "Liste de participare"
+          },
+          {
+            "bbox": {
+              "b": 389.07861328125,
+              "coord_origin": "TOPLEFT",
+              "l": 82.4947903951009,
+              "r": 92.75520833333333,
+              "t": 375.3622233072917
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 6,
+            "text": "6"
+          },
+          {
+            "bbox": {
+              "b": 391.1360677083333,
+              "coord_origin": "TOPLEFT",
+              "l": 420.4045003255208,
+              "r": 448.7916666666667,
+              "t": 376.04803466796875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 6,
+            "text": "DMI"
+          },
+          {
+            "bbox": {
+              "b": 430.5707194010417,
+              "coord_origin": "TOPLEFT",
+              "l": 110.53992716471353,
+              "r": 295.91145833333337,
+              "t": 400.737548828125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 7,
+            "text": "Elaborarea scenariului de moderare și coordonarea momentelor protocolare"
+          },
+          {
+            "bbox": {
+              "b": 430.5707194010417,
+              "coord_origin": "TOPLEFT",
+              "l": 313.01214599609375,
+              "r": 370.47047932942706,
+              "t": 402.4521077473958
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 7,
+            "text": "până la 28.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 420.96923828125,
+              "coord_origin": "TOPLEFT",
+              "l": 82.15277735392253,
+              "r": 92.07117970784505,
+              "t": 407.9386800130208
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 7,
+            "text": "7"
+          },
+          {
+            "bbox": {
+              "b": 424.055419921875,
+              "coord_origin": "TOPLEFT",
+              "l": 389.6232503255208,
+              "r": 478.546875,
+              "t": 410.3390299479167
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 7,
+            "text": "DMI; moderatorii"
+          },
+          {
+            "bbox": {
+              "b": 424.7412516276042,
+              "coord_origin": "TOPLEFT",
+              "l": 498.0416666666667,
+              "r": 567.8125,
+              "t": 411.0248616536458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 7,
+            "text": "Scenariu final"
+          },
+          {
+            "bbox": {
+              "b": 477.8922932942708,
+              "coord_origin": "TOPLEFT",
+              "l": 115.328125,
+              "r": 291.12325032552087,
+              "t": 434.3427327473958
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 8,
+            "text": "Pregătirea materialelor pentru înregistrare, ecusoanelor și mapelor participanților"
+          },
+          {
+            "bbox": {
+              "b": 470.3482666015625,
+              "coord_origin": "TOPLEFT",
+              "l": 312.67012532552087,
+              "r": 370.47047932942706,
+              "t": 442.2296549479167
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 8,
+            "text": "până la 29.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 473.4344482421875,
+              "coord_origin": "TOPLEFT",
+              "l": 500.09375,
+              "r": 566.4444173177083,
+              "t": 443.6012776692708
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 8,
+            "text": "Seturi pentru participanți"
+          },
+          {
+            "bbox": {
+              "b": 461.4326171875,
+              "coord_origin": "TOPLEFT",
+              "l": 81.81076304117839,
+              "r": 91.72916666666667,
+              "t": 448.7449544270833
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 8,
+            "text": "8"
+          },
+          {
+            "bbox": {
+              "b": 465.5475260416667,
+              "coord_origin": "TOPLEFT",
+              "l": 381.75693766276044,
+              "r": 485.0451253255208,
+              "t": 449.4307454427083
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 8,
+            "text": "DMI; echipa tehnică"
+          },
+          {
+            "bbox": {
+              "b": 523.8422037760417,
+              "coord_origin": "TOPLEFT",
+              "l": 121.484375,
+              "r": 284.2829793294271,
+              "t": 481.3213704427083
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 9,
+            "text": "Definitivarea nominalizărilor, diplomelor și materialelor pentru decernare"
+          },
+          {
+            "bbox": {
+              "b": 517.3269449869792,
+              "coord_origin": "TOPLEFT",
+              "l": 312.328125,
+              "r": 370.1284586588542,
+              "t": 489.5512288411458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 9,
+            "text": "până la 29.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 518.0127360026042,
+              "coord_origin": "TOPLEFT",
+              "l": 389.28122965494794,
+              "r": 478.204833984375,
+              "t": 489.5512288411458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 9,
+            "text": "DMI; conducerea DGETS"
+          },
+          {
+            "bbox": {
+              "b": 520.0701904296875,
+              "coord_origin": "TOPLEFT",
+              "l": 492.5694173177083,
+              "r": 572.9427083333333,
+              "t": 490.237060546875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 9,
+            "text": "Diplome și listă de premiere"
+          },
+          {
+            "bbox": {
+              "b": 508.068359375,
+              "coord_origin": "TOPLEFT",
+              "l": 81.46874872843425,
+              "r": 91.04513804117839,
+              "t": 495.3806966145833
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 9,
+            "text": "9"
+          },
+          {
+            "bbox": {
+              "b": 572.8783365885417,
+              "coord_origin": "TOPLEFT",
+              "l": 389.6232503255208,
+              "r": 475.8107503255208,
+              "t": 529.3287760416667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 10,
+            "text": "DMI; Secția Comunicare; partenerii tehnici"
+          },
+          {
+            "bbox": {
+              "b": 574.5928955078125,
+              "coord_origin": "TOPLEFT",
+              "l": 500.09375,
+              "r": 565.0763753255208,
+              "t": 530.3575032552083
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 10,
+            "text": "Spațiu și echipamente pregătite"
+          },
+          {
+            "bbox": {
+              "b": 564.9914143880208,
+              "coord_origin": "TOPLEFT",
+              "l": 118.0642344156901,
+              "r": 287.01908365885413,
+              "t": 535.1582438151042
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 10,
+            "text": "Amenajarea spațiului, verificarea echipamentelor și repetiția tehnică"
+          },
+          {
+            "bbox": {
+              "b": 555.7328287760417,
+              "coord_origin": "TOPLEFT",
+              "l": 77.70659637451172,
+              "r": 94.12326304117839,
+              "t": 540.9877115885417
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 10,
+            "text": "10"
+          },
+          {
+            "bbox": {
+              "b": 557.1044921875,
+              "coord_origin": "TOPLEFT",
+              "l": 311.64408365885413,
+              "r": 369.78643798828125,
+              "t": 543.045166015625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 10,
+            "text": "29.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 604.7689615885416,
+              "coord_origin": "TOPLEFT",
+              "l": 109.85590108235678,
+              "r": 294.20137532552087,
+              "t": 574.5928955078125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 11,
+            "text": "Desfăşurarea Forumului Municipal al Educației Timpurii"
+          },
+          {
+            "bbox": {
+              "b": 603.740234375,
+              "coord_origin": "TOPLEFT",
+              "l": 308.9079793294271,
+              "r": 372.52256266276044,
+              "t": 575.2787272135417
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 11,
+            "text": "30.09.2026, 10:00-14:00"
+          },
+          {
+            "bbox": {
+              "b": 605.1118570963541,
+              "coord_origin": "TOPLEFT",
+              "l": 385.5190836588542,
+              "r": 480.2569173177083,
+              "t": 575.9645182291667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 11,
+            "text": "DGETS; echipa de organizare"
+          },
+          {
+            "bbox": {
+              "b": 606.4835205078125,
+              "coord_origin": "TOPLEFT",
+              "l": 505.5659586588542,
+              "r": 558.578125,
+              "t": 576.9932454427084
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 11,
+            "text": "Forum desfăşurat"
+          },
+          {
+            "bbox": {
+              "b": 595.16748046875,
+              "coord_origin": "TOPLEFT",
+              "l": 77.70659637451172,
+              "r": 93.43923441569011,
+              "t": 580.7652587890625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 11,
+            "text": "11"
+          },
+          {
+            "bbox": {
+              "b": 654.1479899088541,
+              "coord_origin": "TOPLEFT",
+              "l": 493.2534586588542,
+              "r": 569.5225423177083,
+              "t": 609.91259765625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 12,
+            "text": "Materiale foto- video și publicații"
+          },
+          {
+            "bbox": {
+              "b": 643.5177815755209,
+              "coord_origin": "TOPLEFT",
+              "l": 107.80381774902344,
+              "r": 295.5694376627604,
+              "t": 613.6846110026041
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 12,
+            "text": "Promovarea, fotografierea, filmarea și reflectarea media a activităților"
+          },
+          {
+            "bbox": {
+              "b": 644.20361328125,
+              "coord_origin": "TOPLEFT",
+              "l": 310.6180419921875,
+              "r": 369.78643798828125,
+              "t": 614.7133382161459
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 12,
+            "text": "21- 30.09.2026"
+          },
+          {
+            "bbox": {
+              "b": 644.8894449869791,
+              "coord_origin": "TOPLEFT",
+              "l": 379.3628336588542,
+              "r": 485.3871256510417,
+              "t": 615.7420654296875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 12,
+            "text": "Secția Comunicare și Relații cu Publicul"
+          },
+          {
+            "bbox": {
+              "b": 634.9450276692709,
+              "coord_origin": "TOPLEFT",
+              "l": 77.36458333333333,
+              "r": 93.78125,
+              "t": 620.5428059895834
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 12,
+            "text": "12"
+          },
+          {
+            "bbox": {
+              "b": 683.2953287760416,
+              "coord_origin": "TOPLEFT",
+              "l": 111.22395833333334,
+              "r": 292.1492919921875,
+              "t": 653.462158203125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 13,
+            "text": "Colectarea feedbackului și evaluarea activităților"
+          },
+          {
+            "bbox": {
+              "b": 683.6382649739584,
+              "coord_origin": "TOPLEFT",
+              "l": 310.9600626627604,
+              "r": 368.76039632161456,
+              "t": 655.5196126302084
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 13,
+            "text": "până la 02.10.2026"
+          },
+          {
+            "bbox": {
+              "b": 686.0386149088541,
+              "coord_origin": "TOPLEFT",
+              "l": 388.93922932942706,
+              "r": 475.8107503255208,
+              "t": 655.862548828125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 13,
+            "text": "DMI; instituțiile- gazdă"
+          },
+          {
+            "bbox": {
+              "b": 685.6957194010416,
+              "coord_origin": "TOPLEFT",
+              "l": 498.7256673177083,
+              "r": 564.0503336588542,
+              "t": 656.5483805338541
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 13,
+            "text": "Formulare și concluzii"
+          },
+          {
+            "bbox": {
+              "b": 674.7225748697916,
+              "coord_origin": "TOPLEFT",
+              "l": 77.02256902058919,
+              "r": 93.43923441569011,
+              "t": 659.9774576822916
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 13,
+            "text": "13"
+          },
+          {
+            "bbox": {
+              "b": 731.6456298828125,
+              "coord_origin": "TOPLEFT",
+              "l": 493.9375,
+              "r": 568.4965006510417,
+              "t": 689.8106282552084
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 14,
+            "text": "Raport sintetic și dosarul evenimentului"
+          },
+          {
+            "bbox": {
+              "b": 722.72998046875,
+              "coord_origin": "TOPLEFT",
+              "l": 108.48784383138022,
+              "r": 294.20137532552087,
+              "t": 693.5826416015625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 14,
+            "text": "Elaborarea sintezei finale și arhivarea materialelor"
+          },
+          {
+            "bbox": {
+              "b": 724.4445393880209,
+              "coord_origin": "TOPLEFT",
+              "l": 313.01214599609375,
+              "r": 366.0242919921875,
+              "t": 694.9542643229166
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 14,
+            "text": "în10 zile lucrătoare"
+          },
+          {
+            "bbox": {
+              "b": 725.816162109375,
+              "coord_origin": "TOPLEFT",
+              "l": 381.07289632161456,
+              "r": 482.6510416666667,
+              "t": 696.325927734375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 14,
+            "text": "DMI; subdiviziunile implicate"
+          },
+          {
+            "bbox": {
+              "b": 714.5001220703125,
+              "coord_origin": "TOPLEFT",
+              "l": 76.68055470784505,
+              "r": 93.43923441569011,
+              "t": 700.0979410807291
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 14,
+            "text": "14"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.58488926443715,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.22261735852133,
+            "r": 577.906050619855,
+            "t": 702.2730931410858
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 186.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 79.66666666666667,
+                "r": 101.33333333333334,
+                "t": 171.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr."
+            },
+            {
+              "bbox": {
+                "b": 186.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 204.66666666666666,
+                "r": 263.33333333333337,
+                "t": 172.66666666666669
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Materialul"
+            },
+            {
+              "bbox": {
+                "b": 187.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 389.0,
+                "r": 459.0,
+                "t": 173.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Responsabili"
+            },
+            {
+              "bbox": {
+                "b": 196.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 503.0,
+                "r": 562.0,
+                "t": 166.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "Forma de prezentare"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 223.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 85.66666666666667,
+                "r": 95.66666666666667,
+                "t": 210.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1"
+            },
+            {
+              "bbox": {
+                "b": 233.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 119.0,
+                "r": 348.0,
+                "t": 202.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Conceptul și genericul Forumului Municipal al Educației Timpurii 2026"
+            },
+            {
+              "bbox": {
+                "b": 233.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 370.0,
+                "r": 478.0,
+                "t": 203.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "Direcția Management Instituțional"
+            },
+            {
+              "bbox": {
+                "b": 234.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 509.0,
+                "r": 555.0,
+                "t": 202.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": "Varianta aprobată"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 271.0,
+                "coord_origin": "TOPLEFT",
+                "l": 85.33333333333333,
+                "r": 356.0,
+                "t": 240.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "Programul atelierelor tematice din perioada 21-29 2 septembrie 2026"
+            },
+            {
+              "bbox": {
+                "b": 263.66666666666663,
+                "coord_origin": "TOPLEFT",
+                "l": 409.0,
+                "r": 437.6666666666667,
+                "t": 248.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "DMI"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 271.33333333333337,
+                "coord_origin": "TOPLEFT",
+                "l": 499.3333333333333,
+                "r": 563.3333333333333,
+                "t": 240.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": "Tabel centralizator"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 309.33333333333337,
+                "coord_origin": "TOPLEFT",
+                "l": 84.0,
+                "r": 338.0,
+                "t": 278.33333333333337
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "Agendele atelierelor tematice organizate în 3 instituțiile-gazdă"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 301.33333333333337,
+                "coord_origin": "TOPLEFT",
+                "l": 366.0,
+                "r": 480.0,
+                "t": 288.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "Instituțiile-gazdă; DMI"
+            },
+            {
+              "bbox": {
+                "b": 310.0,
+                "coord_origin": "TOPLEFT",
+                "l": 503.0,
+                "r": 560.0,
+                "t": 279.33333333333337
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": "Agende coordonate"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 346.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 84.33333333333333,
+                "r": 350.6666666666667,
+                "t": 316.66666666666663
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "Agenda Forumului Municipal din 30 septembrie 4 2026"
+            },
+            {
+              "bbox": {
+                "b": 339.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 408.3333333333333,
+                "r": 436.6666666666667,
+                "t": 324.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "DMI"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 340.0,
+                "coord_origin": "TOPLEFT",
+                "l": 496.3333333333333,
+                "r": 566.6666666666667,
+                "t": 326.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 4,
+              "text": "Agenda finală"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 370.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 83.66666666666667,
+                "r": 342.3333333333333,
+                "t": 353.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "5 Scrisorile-invitație și mesajele de confirmare"
+            },
+            {
+              "bbox": {
+                "b": 369.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 408.0,
+                "r": 436.6666666666667,
+                "t": 354.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "DMI"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 5,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 370.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 494.0,
+                "r": 567.3333333333333,
+                "t": 355.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 5,
+              "text": "Set de invitații"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 408.0,
+                "coord_origin": "TOPLEFT",
+                "l": 83.66666666666667,
+                "r": 347.6666666666667,
+                "t": 376.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 6,
+              "text": "Listele invitaților, vorbitorilor, moderatorilor și 6 participanților"
+            },
+            {
+              "bbox": {
+                "b": 400.0,
+                "coord_origin": "TOPLEFT",
+                "l": 408.0,
+                "r": 436.6666666666667,
+                "t": 385.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 6,
+              "text": "DMI"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 6,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 400.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 493.0,
+                "r": 568.0,
+                "t": 386.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 6,
+              "text": "Liste nominale"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 445.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 83.66666666666667,
+                "r": 331.0,
+                "t": 415.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 7,
+              "text": "Scenariul moderatorilor și textele pentru 7 momentele protocolare"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 7,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 438.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 377.6666666666667,
+                "r": 466.3333333333333,
+                "t": 423.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 7,
+              "text": "DMI; moderatorii"
+            },
+            {
+              "bbox": {
+                "b": 445.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 504.6666666666667,
+                "r": 555.6666666666667,
+                "t": 416.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 7,
+              "text": "Scenariu coordonat"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 474.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 83.33333333333333,
+                "r": 355.0,
+                "t": 452.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 8,
+              "text": "Prezentările, comunicările și materialele suport ale 8"
+            },
+            {
+              "bbox": {
+                "b": 483.0,
+                "coord_origin": "TOPLEFT",
+                "l": 202.66666666666666,
+                "r": 262.0,
+                "t": 469.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 8,
+              "text": "vorbitorilor"
+            },
+            {
+              "bbox": {
+                "b": 476.0,
+                "coord_origin": "TOPLEFT",
+                "l": 381.3333333333333,
+                "r": 463.0,
+                "t": 461.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 8,
+              "text": "Vorbitorii; DMI"
+            },
+            {
+              "bbox": {
+                "b": 476.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 489.0,
+                "r": 571.0,
+                "t": 462.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 8,
+              "text": "Dosar electronic"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 512.0,
+                "coord_origin": "TOPLEFT",
+                "l": 83.33333333333333,
+                "r": 313.66666666666663,
+                "t": 491.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 9,
+              "text": "Nominalizările, diplomele și lista 9"
+            },
+            {
+              "bbox": {
+                "b": 522.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 150.66666666666669,
+                "r": 312.33333333333337,
+                "t": 507.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 9,
+              "text": "instituțiilor/persoanelor premiate"
+            },
+            {
+              "bbox": {
+                "b": 522.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 377.3333333333333,
+                "r": 466.0,
+                "t": 492.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 9,
+              "text": "DMI; conducerea DGETS"
+            },
+            {
+              "bbox": {
+                "b": 523.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 503.0,
+                "r": 556.6666666666667,
+                "t": 492.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 9,
+              "text": "Set pentru decernare"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 559.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 80.0,
+                "r": 340.6666666666667,
+                "t": 528.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 10,
+              "text": "Materialele de identitate vizuală, ecusoanele, 10 afişele și elementele de orientare"
+            },
+            {
+              "bbox": {
+                "b": 560.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 407.0,
+                "r": 435.6666666666667,
+                "t": 545.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 10,
+              "text": "DMI"
+            },
+            {
+              "bbox": {
+                "b": 545.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 372.6666666666667,
+                "r": 470.3333333333333,
+                "t": 529.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 10,
+              "text": "Secția Comunicare;"
+            },
+            {
+              "bbox": {
+                "b": 553.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 488.6666666666667,
+                "r": 570.6666666666667,
+                "t": 538.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 10,
+              "text": "Set vizual unitar"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 597.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 80.0,
+                "r": 351.3333333333333,
+                "t": 566.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 11,
+              "text": "Formularele de înregistrare, prezență, feedback și 11 evaluare"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 11,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 591.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 363.6666666666667,
+                "r": 478.0,
+                "t": 576.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 11,
+              "text": "DMI; instituțiile-gazdă"
+            },
+            {
+              "bbox": {
+                "b": 600.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 500.6666666666667,
+                "r": 558.0,
+                "t": 569.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 11,
+              "text": "Formulare completate"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 627.0,
+                "coord_origin": "TOPLEFT",
+                "l": 79.66666666666667,
+                "r": 96.0,
+                "t": 612.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 12,
+              "text": "12"
+            },
+            {
+              "bbox": {
+                "b": 636.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 134.33333333333331,
+                "r": 327.0,
+                "t": 605.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 12,
+              "text": "Materialele foto-video, comunicatele și publicațiile media"
+            },
+            {
+              "bbox": {
+                "b": 628.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 374.3333333333333,
+                "r": 468.3333333333333,
+                "t": 615.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 12,
+              "text": "Secția Comunicare"
+            },
+            {
+              "bbox": {
+                "b": 629.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 495.3333333333333,
+                "r": 563.3333333333333,
+                "t": 615.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 12,
+              "text": "Arhivă media"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 665.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 79.0,
+                "r": 96.33333333333334,
+                "t": 650.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 13,
+              "text": "13"
+            },
+            {
+              "bbox": {
+                "b": 674.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 106.33333333333334,
+                "r": 354.6666666666667,
+                "t": 643.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 13,
+              "text": "Raportul sintetic privind desfăşurarea și rezultatele programului municipal"
+            },
+            {
+              "bbox": {
+                "b": 667.0,
+                "coord_origin": "TOPLEFT",
+                "l": 406.3333333333333,
+                "r": 435.0,
+                "t": 652.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 13,
+              "text": "DMI"
+            },
+            {
+              "bbox": {
+                "b": 668.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 498.3333333333333,
+                "r": 560.0,
+                "t": 653.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 13,
+              "text": "Raport final"
+            }
+          ]
+        ],
+        "num_cols": 4,
+        "num_rows": 14,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 196.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 503.0,
+              "r": 562.0,
+              "t": 166.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "Forma de prezentare"
+          },
+          {
+            "bbox": {
+              "b": 186.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 79.66666666666667,
+              "r": 101.33333333333334,
+              "t": 171.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr."
+          },
+          {
+            "bbox": {
+              "b": 186.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 204.66666666666666,
+              "r": 263.33333333333337,
+              "t": 172.66666666666669
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Materialul"
+          },
+          {
+            "bbox": {
+              "b": 187.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 389.0,
+              "r": 459.0,
+              "t": 173.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Responsabili"
+          },
+          {
+            "bbox": {
+              "b": 233.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 119.0,
+              "r": 348.0,
+              "t": 202.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Conceptul și genericul Forumului Municipal al Educației Timpurii 2026"
+          },
+          {
+            "bbox": {
+              "b": 233.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 370.0,
+              "r": 478.0,
+              "t": 203.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "Direcția Management Instituțional"
+          },
+          {
+            "bbox": {
+              "b": 234.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 509.0,
+              "r": 555.0,
+              "t": 202.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": "Varianta aprobată"
+          },
+          {
+            "bbox": {
+              "b": 223.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 85.66666666666667,
+              "r": 95.66666666666667,
+              "t": 210.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1"
+          },
+          {
+            "bbox": {
+              "b": 271.0,
+              "coord_origin": "TOPLEFT",
+              "l": 85.33333333333333,
+              "r": 356.0,
+              "t": 240.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "Programul atelierelor tematice din perioada 21-29 2 septembrie 2026"
+          },
+          {
+            "bbox": {
+              "b": 271.33333333333337,
+              "coord_origin": "TOPLEFT",
+              "l": 499.3333333333333,
+              "r": 563.3333333333333,
+              "t": 240.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 2,
+            "text": "Tabel centralizator"
+          },
+          {
+            "bbox": {
+              "b": 263.66666666666663,
+              "coord_origin": "TOPLEFT",
+              "l": 409.0,
+              "r": 437.6666666666667,
+              "t": 248.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "DMI"
+          },
+          {
+            "bbox": {
+              "b": 309.33333333333337,
+              "coord_origin": "TOPLEFT",
+              "l": 84.0,
+              "r": 338.0,
+              "t": 278.33333333333337
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "Agendele atelierelor tematice organizate în 3 instituțiile-gazdă"
+          },
+          {
+            "bbox": {
+              "b": 310.0,
+              "coord_origin": "TOPLEFT",
+              "l": 503.0,
+              "r": 560.0,
+              "t": 279.33333333333337
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 3,
+            "text": "Agende coordonate"
+          },
+          {
+            "bbox": {
+              "b": 301.33333333333337,
+              "coord_origin": "TOPLEFT",
+              "l": 366.0,
+              "r": 480.0,
+              "t": 288.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "Instituțiile-gazdă; DMI"
+          },
+          {
+            "bbox": {
+              "b": 346.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 84.33333333333333,
+              "r": 350.6666666666667,
+              "t": 316.66666666666663
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "Agenda Forumului Municipal din 30 septembrie 4 2026"
+          },
+          {
+            "bbox": {
+              "b": 339.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 408.3333333333333,
+              "r": 436.6666666666667,
+              "t": 324.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "DMI"
+          },
+          {
+            "bbox": {
+              "b": 340.0,
+              "coord_origin": "TOPLEFT",
+              "l": 496.3333333333333,
+              "r": 566.6666666666667,
+              "t": 326.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 4,
+            "text": "Agenda finală"
+          },
+          {
+            "bbox": {
+              "b": 370.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 83.66666666666667,
+              "r": 342.3333333333333,
+              "t": 353.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "5 Scrisorile-invitație și mesajele de confirmare"
+          },
+          {
+            "bbox": {
+              "b": 369.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 408.0,
+              "r": 436.6666666666667,
+              "t": 354.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "DMI"
+          },
+          {
+            "bbox": {
+              "b": 370.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 494.0,
+              "r": 567.3333333333333,
+              "t": 355.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 5,
+            "text": "Set de invitații"
+          },
+          {
+            "bbox": {
+              "b": 408.0,
+              "coord_origin": "TOPLEFT",
+              "l": 83.66666666666667,
+              "r": 347.6666666666667,
+              "t": 376.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 6,
+            "text": "Listele invitaților, vorbitorilor, moderatorilor și 6 participanților"
+          },
+          {
+            "bbox": {
+              "b": 400.0,
+              "coord_origin": "TOPLEFT",
+              "l": 408.0,
+              "r": 436.6666666666667,
+              "t": 385.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 6,
+            "text": "DMI"
+          },
+          {
+            "bbox": {
+              "b": 400.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 493.0,
+              "r": 568.0,
+              "t": 386.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 6,
+            "text": "Liste nominale"
+          },
+          {
+            "bbox": {
+              "b": 445.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 83.66666666666667,
+              "r": 331.0,
+              "t": 415.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 7,
+            "text": "Scenariul moderatorilor și textele pentru 7 momentele protocolare"
+          },
+          {
+            "bbox": {
+              "b": 445.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 504.6666666666667,
+              "r": 555.6666666666667,
+              "t": 416.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 7,
+            "text": "Scenariu coordonat"
+          },
+          {
+            "bbox": {
+              "b": 438.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 377.6666666666667,
+              "r": 466.3333333333333,
+              "t": 423.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 7,
+            "text": "DMI; moderatorii"
+          },
+          {
+            "bbox": {
+              "b": 474.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 83.33333333333333,
+              "r": 355.0,
+              "t": 452.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 8,
+            "text": "Prezentările, comunicările și materialele suport ale 8"
+          },
+          {
+            "bbox": {
+              "b": 476.0,
+              "coord_origin": "TOPLEFT",
+              "l": 381.3333333333333,
+              "r": 463.0,
+              "t": 461.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 8,
+            "text": "Vorbitorii; DMI"
+          },
+          {
+            "bbox": {
+              "b": 476.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 489.0,
+              "r": 571.0,
+              "t": 462.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 8,
+            "text": "Dosar electronic"
+          },
+          {
+            "bbox": {
+              "b": 483.0,
+              "coord_origin": "TOPLEFT",
+              "l": 202.66666666666666,
+              "r": 262.0,
+              "t": 469.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 8,
+            "text": "vorbitorilor"
+          },
+          {
+            "bbox": {
+              "b": 512.0,
+              "coord_origin": "TOPLEFT",
+              "l": 83.33333333333333,
+              "r": 313.66666666666663,
+              "t": 491.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 9,
+            "text": "Nominalizările, diplomele și lista 9"
+          },
+          {
+            "bbox": {
+              "b": 522.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 377.3333333333333,
+              "r": 466.0,
+              "t": 492.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 9,
+            "text": "DMI; conducerea DGETS"
+          },
+          {
+            "bbox": {
+              "b": 523.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 503.0,
+              "r": 556.6666666666667,
+              "t": 492.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 9,
+            "text": "Set pentru decernare"
+          },
+          {
+            "bbox": {
+              "b": 522.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 150.66666666666669,
+              "r": 312.33333333333337,
+              "t": 507.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 9,
+            "text": "instituțiilor/persoanelor premiate"
+          },
+          {
+            "bbox": {
+              "b": 559.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 80.0,
+              "r": 340.6666666666667,
+              "t": 528.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 10,
+            "text": "Materialele de identitate vizuală, ecusoanele, 10 afişele și elementele de orientare"
+          },
+          {
+            "bbox": {
+              "b": 545.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 372.6666666666667,
+              "r": 470.3333333333333,
+              "t": 529.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 10,
+            "text": "Secția Comunicare;"
+          },
+          {
+            "bbox": {
+              "b": 553.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 488.6666666666667,
+              "r": 570.6666666666667,
+              "t": 538.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 10,
+            "text": "Set vizual unitar"
+          },
+          {
+            "bbox": {
+              "b": 560.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 407.0,
+              "r": 435.6666666666667,
+              "t": 545.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 10,
+            "text": "DMI"
+          },
+          {
+            "bbox": {
+              "b": 597.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 80.0,
+              "r": 351.3333333333333,
+              "t": 566.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 11,
+            "text": "Formularele de înregistrare, prezență, feedback și 11 evaluare"
+          },
+          {
+            "bbox": {
+              "b": 600.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 500.6666666666667,
+              "r": 558.0,
+              "t": 569.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 11,
+            "text": "Formulare completate"
+          },
+          {
+            "bbox": {
+              "b": 591.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 363.6666666666667,
+              "r": 478.0,
+              "t": 576.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 11,
+            "text": "DMI; instituțiile-gazdă"
+          },
+          {
+            "bbox": {
+              "b": 636.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 134.33333333333331,
+              "r": 327.0,
+              "t": 605.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 12,
+            "text": "Materialele foto-video, comunicatele și publicațiile media"
+          },
+          {
+            "bbox": {
+              "b": 627.0,
+              "coord_origin": "TOPLEFT",
+              "l": 79.66666666666667,
+              "r": 96.0,
+              "t": 612.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 12,
+            "text": "12"
+          },
+          {
+            "bbox": {
+              "b": 628.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 374.3333333333333,
+              "r": 468.3333333333333,
+              "t": 615.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 12,
+            "text": "Secția Comunicare"
+          },
+          {
+            "bbox": {
+              "b": 629.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 495.3333333333333,
+              "r": 563.3333333333333,
+              "t": 615.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 12,
+            "text": "Arhivă media"
+          },
+          {
+            "bbox": {
+              "b": 674.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 106.33333333333334,
+              "r": 354.6666666666667,
+              "t": 643.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 13,
+            "text": "Raportul sintetic privind desfăşurarea și rezultatele programului municipal"
+          },
+          {
+            "bbox": {
+              "b": 665.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 79.0,
+              "r": 96.33333333333334,
+              "t": 650.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 13,
+            "text": "13"
+          },
+          {
+            "bbox": {
+              "b": 667.0,
+              "coord_origin": "TOPLEFT",
+              "l": 406.3333333333333,
+              "r": 435.0,
+              "t": 652.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 13,
+            "text": "DMI"
+          },
+          {
+            "bbox": {
+              "b": 668.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 498.3333333333333,
+              "r": 560.0,
+              "t": 653.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 13,
+            "text": "Raport final"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 161.05314685109477,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.1390472278979,
+            "r": 579.0538732418598,
+            "t": 682.0214392608224
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/1"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexa nr. 3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 759.162853108317,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 510.6961669921875,
+            "r": 555.8420003255208,
+            "t": 769.7930614416504
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Anexa nr. 3"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "la Ordinul DGETS nr. 1152 din16. 9.2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 743.046086496582,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 296.25345865885413,
+            "r": 557.2100423177083,
+            "t": 761.2203138932291
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "la Ordinul DGETS nr. 1152 din16. 9.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "PLANUL de organizare și desfăşurare a Forumului Municipal al Educației Timpurii 2026",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 701.2110772395833,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.43229166666666,
+            "r": 532.9270833333333,
+            "t": 733.4446079199219
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PLANUL de organizare și desfăşurare a Forumului Municipal al Educației Timpurii 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexa nr. 4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 756.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 496.3333333333333,
+            "r": 556.6666666666667,
+            "t": 769.67999
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Anexa nr. 4"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la Ordinul DGETS nr. 1162din16- 09. 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 739.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 297.0,
+            "r": 556.3333333333333,
+            "t": 755.67999
+          },
+          "charspan": [
+            0,
+            40
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "la Ordinul DGETS nr. 1162din16- 09. 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "LISTA MATERIALELOR",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 715.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 256.0,
+            "r": 397.6666666666667,
+            "t": 729.3466566666666
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "LISTA MATERIALELOR"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "organizatorice, metodologice și informaționale aferente Forumului și atelierelor tematice",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 683.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 121.0,
+            "r": 532.6666666666667,
+            "t": 713.3466566666666
+          },
+          "charspan": [
+            0,
+            89
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "organizatorice, metodologice și informaționale aferente Forumului și atelierelor tematice"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,759 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/15"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/pictures/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "fd921763591131641491c6a4e8309648f510a846cce226a993ebf2d4e027c9a4",
+  "origin": {
+    "binary_hash": 10658879939210103204,
+    "filename": "fd921763591131641491c6a4e8309648f510a846cce226a993ebf2d4e027c9a4.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 715.9311464509756,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 257.66058344488977,
+            "r": 369.51268332462183,
+            "t": 790.2829892859963
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 605.326325359254,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.12522041679229,
+            "r": 297.34377017027583,
+            "t": 652.9220293366408
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 129.4145412061721,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 155.63786121752437,
+            "r": 199.4120133060737,
+            "t": 154.3509221137424
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 99.57133448657612,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 227.27174338116743,
+            "r": 272.54132521866154,
+            "t": 132.5880172554447
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 105.97142800164227,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 394.76886405176765,
+            "r": 547.6793439294188,
+            "t": 226.6029926116472
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRINNOEIRSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 719.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 288.33333333333337,
+            "r": 339.0,
+            "t": 724.3466566666666
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FRINNOEIRSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 666.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 178.66666666666669,
+            "r": 468.3333333333333,
+            "t": 713.0133233333333
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "26M 2.D1/1",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 619.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666667,
+            "r": 239.66666666666666,
+            "t": 652.3466566666666
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "26M 2.D1/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 597.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.0,
+            "r": 341.3333333333333,
+            "t": 611.3466566666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref: Organizarea vizitelor de monitorizare în instituțiile de învățământ primar și secundar, ciclul I şi ciclul II",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 529.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.66666666666667,
+            "r": 309.33333333333337,
+            "t": 576.67999
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Ref: Organizarea vizitelor de monitorizare în instituțiile de învățământ primar și secundar, ciclul I şi ciclul II"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu Planul de activitate al Direcției Generale Educație, Tineret și Sport pen u e    il s     onal la disciplina educație muzicală din instituțiile de învățământ primar și secundar, ciclul I și ciclul II,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 448.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.66666666666667,
+            "r": 553.0,
+            "t": 513.67999
+          },
+          "charspan": [
+            0,
+            219
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "În conformitate cu Planul de activitate al Direcției Generale Educație, Tineret și Sport pen u e    il s     onal la disciplina educație muzicală din instituțiile de învățământ primar și secundar, ciclul I și ciclul II,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 433.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 295.66666666666663,
+            "r": 351.0,
+            "t": 446.3466566666666
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează în perioada 26.11.-19.12.2025, vizite de monitorizare în instituțiile de învățământ primar și secundar, ciclul I și ciclul II cu tematica , Realizarea strategii de predare-învățare în cadrul procesului educațional la disciplina educație muzicală\".",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 367.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.0,
+            "r": 552.6666666666667,
+            "t": 413.67999
+          },
+          "charspan": [
+            0,
+            265
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se organizează în perioada 26.11.-19.12.2025, vizite de monitorizare în instituțiile de învățământ primar și secundar, ciclul I și ciclul II cu tematica , Realizarea strategii de predare-învățare în cadrul procesului educațional la disciplina educație muzicală\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Administrația instituțiilor de învățământ și cadrele didactice din subordine vor prezenta documentația şcolară solicitată de către specialistul la disciplinele în cadrul vizitei de monitorizare.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 320.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.0,
+            "r": 553.3333333333333,
+            "t": 366.34665666666666
+          },
+          "charspan": [
+            0,
+            197
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Administrația instituțiilor de învățământ și cadrele didactice din subordine vor prezenta documentația şcolară solicitată de către specialistul la disciplinele în cadrul vizitei de monitorizare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Olga Popescu, specialist superior, va elabora nota informativă cu referire la rezultatul vizitelor de monitorizare.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 289.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.66666666666667,
+            "r": 553.0,
+            "t": 318.3466566666666
+          },
+          "charspan": [
+            0,
+            118
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Olga Popescu, specialist superior, va elabora nota informativă cu referire la rezultatul vizitelor de monitorizare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Controlul realizării prevederilor ordinului revine Svetlana Axînti, șef al direcției managementul curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 257.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.0,
+            "r": 553.0,
+            "t": 287.01332333333335
+          },
+          "charspan": [
+            0,
+            119
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Controlul realizării prevederilor ordinului revine Svetlana Axînti, șef al direcției managementul curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Monitorizarea îndeplinirii prezentului ordin revine Valentin Crudu, şef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.0,
+            "r": 553.0,
+            "t": 255.01332333333335
+          },
+          "charspan": [
+            0,
+            90
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Monitorizarea îndeplinirii prezentului ordin revine Valentin Crudu, şef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Ex. Popescu Olga, 022 23 52 96",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 117.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.0,
+            "r": 214.0,
+            "t": 128.34665666666672
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Ex. Popescu Olga, 022 23 52 96"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Juv",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 130.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 156.33333333333331,
+            "r": 198.66666666666669,
+            "t": 153.01332333333323
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Juv"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "adjunct AVALOI",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 145.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 506.6666666666667,
+            "r": 549.6666666666667,
+            "t": 171.67998999999998
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "adjunct AVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 69.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 167.33333333333331,
+            "r": 466.6666666666667,
+            "t": 91.67998999999998
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,816 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/19"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    }
+  ],
+  "key_value_items": [],
+  "name": "b8647882a717b28dc02a9a27725d915e15b8e55d915cac292a76f1ddee421a0d",
+  "origin": {
+    "binary_hash": 3059898932332206605,
+    "filename": "b8647882a717b28dc02a9a27725d915e15b8e55d915cac292a76f1ddee421a0d.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.88977,
+        "width": 595.27563
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.88977,
+        "width": 595.27563
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 709.6170801339878,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 199.7508876822688,
+            "r": 320.18566417975353,
+            "t": 790.0333051043639
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 598.5985196616117,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 39.374072700502474,
+            "r": 281.8019215681273,
+            "t": 652.2348075218815
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 304.4185770380516,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 330.0167491735287,
+            "r": 525.751710706953,
+            "t": 433.18086226925266
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 75.71951707253857,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.37883160780785,
+            "r": 143.18876521413765,
+            "t": 159.4285886456197
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET $I SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 666.88977,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.0,
+            "r": 427.0,
+            "t": 707.5564366666667
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET $I SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "25.10.24 .01/1-7/1392",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 611.5564366666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 38.333333333333336,
+            "r": 288.6666666666667,
+            "t": 637.2231033333334
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "25.10.24 .01/1-7/1392"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 583.5564366666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 241.33333333333334,
+            "r": 295.0,
+            "t": 598.2231033333334
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la interzicerea colectărilor ilicite de bani in instituțiile de invățământ general",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 528.2231033333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 38.333333333333336,
+            "r": 293.3333333333333,
+            "t": 556.2231033333333
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Cu privire la interzicerea colectărilor ilicite de bani in instituțiile de invățământ general"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În scopul respectării prevederilor art. 35 alin. (4) din Constituția Republicii Moldova, art. 135 alin. (3) din Codul educației, pct. 6 subpct. 7 lit. a) −h), pct. 7 subpct. 3) lit. a) − f), pct. 9 subpct. 3) lit. a) − e) din Codul de etică al cadrului didactic, aprobat prin ordinul Ministerului Educației și Cercetării nr. 861/2015, pct. 116 din Regulamentul-tip de organizare și funcționare a instituțiilor de învățământ primar și secundar, ciclul I și II, aprobat prin ordinul Ministerului Educației și Cercetării nr. 235/2016, pct. 186 din Regulamentul-tip al instituției de educație timpurie, aprobat prin ordinul Ministerului Educației și Cercetării nr. 254/2017, ordinului Ministerului Educației și Cercetării nr. 1074/2019 Cu privire la unele acțiuni de prevenire și combatere a fenomenului colectãrilor plăților informale în sistemul educațional\",",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 324.88977,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 39.333333333333336,
+            "r": 520.0,
+            "t": 507.88977
+          },
+          "charspan": [
+            0,
+            857
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În scopul respectării prevederilor art. 35 alin. (4) din Constituția Republicii Moldova, art. 135 alin. (3) din Codul educației, pct. 6 subpct. 7 lit. a) −h), pct. 7 subpct. 3) lit. a) − f), pct. 9 subpct. 3) lit. a) − e) din Codul de etică al cadrului didactic, aprobat prin ordinul Ministerului Educației și Cercetării nr. 861/2015, pct. 116 din Regulamentul-tip de organizare și funcționare a instituțiilor de învățământ primar și secundar, ciclul I și II, aprobat prin ordinul Ministerului Educației și Cercetării nr. 235/2016, pct. 186 din Regulamentul-tip al instituției de educație timpurie, aprobat prin ordinul Ministerului Educației și Cercetării nr. 254/2017, ordinului Ministerului Educației și Cercetării nr. 1074/2019 Cu privire la unele acțiuni de prevenire și combatere a fenomenului colectãrilor plăților informale în sistemul educațional\","
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 291.22310333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 259.66666666666663,
+            "r": 323.3333333333333,
+            "t": 307.55643666666674
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se interzice cadrelor de conducere/didactice din instituțiile de învățământ general colectarea ilicită de bani sub orice pretext sau acceptarea altor beneficii din partea elevilor, părinților și a asociațiilor obștești părintești.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 218.88977,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.0,
+            "r": 520.3333333333333,
+            "t": 272.22310333333337
+          },
+          "charspan": [
+            0,
+            233
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Se interzice cadrelor de conducere/didactice din instituțiile de învățământ general colectarea ilicită de bani sub orice pretext sau acceptarea altor beneficii din partea elevilor, părinților și a asociațiilor obștești părintești."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se obligă directorii instituțiilor de învățământ general să:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 131.55643666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.66666666666667,
+            "r": 415.0,
+            "t": 155.55643666666663
+          },
+          "charspan": [
+            0,
+            63
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se obligă directorii instituțiilor de învățământ general să:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se obligă cadrele de conducere/didactice ale instituțiilor de învățământ general sā întreprindă acțiuni în vederea informării elevilor/copiilor/părinților /reprezentanților legali ai acestora, asociațiilor obşteşti, privind ilegalitatea și inadmisibilitatea inițierii oricăror colectări de bani.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 149.22310333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.333333333333336,
+            "r": 522.0,
+            "t": 220.55643666666663
+          },
+          "charspan": [
+            0,
+            298
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se obligă cadrele de conducere/didactice ale instituțiilor de învățământ general sā întreprindă acțiuni în vederea informării elevilor/copiilor/părinților /reprezentanților legali ai acestora, asociațiilor obşteşti, privind ilegalitatea și inadmisibilitatea inițierii oricăror colectări de bani."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. comunice angajaților, părinților/reprezentanților legali ai coplor/elevilor, asociațiilor obștești, contra semnătură, prevederile prezentului ordin;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 88.22310333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.0,
+            "r": 523.3333333333333,
+            "t": 139.55643666666663
+          },
+          "charspan": [
+            0,
+            153
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "comunice angajaților, părinților/reprezentanților legali ai coplor/elevilor, asociațiilor obștești, contra semnătură, prevederile prezentului ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. monitorizeze respectarea prevederilor prezentului ordin și a actelor normative privind interzicerea acumulărilor ilicite de bani.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 44.55643666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.666666666666664,
+            "r": 523.6666666666667,
+            "t": 92.88977
+          },
+          "charspan": [
+            0,
+            134
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "monitorizeze respectarea prevederilor prezentului ordin și a actelor normative privind interzicerea acumulărilor ilicite de bani."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "din procesul-verbal cu semnături.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 718.5564366666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 57.333333333333336,
+            "r": 254.33333333333334,
+            "t": 730.88977
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "din procesul-verbal cu semnături."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Se pune in sarcina Directiei managementul instituțional și a Directiei cunoştintă prevederile prezentului ordin directorilor instituțiilor de învățământ general, contra semnătură.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 582.2231033333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.666666666666664,
+            "r": 533.6666666666667,
+            "t": 672.88977
+          },
+          "charspan": [
+            0,
+            182
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Se pune in sarcina Directiei managementul instituțional și a Directiei cunoştintă prevederile prezentului ordin directorilor instituțiilor de învățământ general, contra semnătură."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Controlul realizării prevederilor prezentului ordin se pune în sarcina dlui Valentin Crudu, șef adjunct al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 443.5564366666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.333333333333336,
+            "r": 529.3333333333333,
+            "t": 497.88977
+          },
+          "charspan": [
+            0,
+            189
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Controlul realizării prevederilor prezentului ordin se pune în sarcina dlui Valentin Crudu, șef adjunct al Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Se abrogă ordinele Direcției generale educație, tineret și sport a Consiliului Municipal Chișinău nr. 642/2020 Cu privire la interzicerea colectărilor ilicite de bani în instituțiile de învățământ general\" și nr. 216/2021 Cu referire la interzicerea plăților formale și informale de la elevi, familiile acestora și de la asociațiile obştești pentru personalul didactic și de conducere\".",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 487.5564366666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.666666666666664,
+            "r": 531.6666666666667,
+            "t": 585.2231033333334
+          },
+          "charspan": [
+            0,
+            389
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Se abrogă ordinele Direcției generale educație, tineret și sport a Consiliului Municipal Chișinău nr. 642/2020 Cu privire la interzicerea colectărilor ilicite de bani în instituțiile de învățământ general\" și nr. 216/2021 Cu referire la interzicerea plăților formale și informale de la elevi, familiile acestora și de la asociațiile obştești pentru personalul didactic și de conducere\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ef adjunct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 383.5564366666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 451.3333333333333,
+            "r": 529.6666666666667,
+            "t": 413.88977
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "ef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 355.88977,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 419.6666666666667,
+            "r": 526.0,
+            "t": 372.5564366666667
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex. O. Mif",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.22310333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.333333333333336,
+            "r": 84.66666666666666,
+            "t": 122.55643666666663
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Ex. O. Mif"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "D. Garbuz",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 96.55643666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.0,
+            "r": 94.0,
+            "t": 110.22310333333337
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "D. Garbuz"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chișinãu, Republica Moldova, Tel: (022) 201 601, www.chisinauedu.md, e-mail: dgtsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 52.55643666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 122.66666666666667,
+            "r": 445.0,
+            "t": 74.55643666666663
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chișinãu, Republica Moldova, Tel: (022) 201 601, www.chisinauedu.md, e-mail: dgtsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

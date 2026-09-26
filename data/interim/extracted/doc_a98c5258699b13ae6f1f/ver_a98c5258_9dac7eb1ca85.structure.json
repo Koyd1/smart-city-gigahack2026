@@ -1,0 +1,3798 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/tables/1"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [],
+  "key_value_items": [],
+  "name": "6d695bad33185a6984210a5aa8c04202c88d1712bcd5a736c4fd8af4e3a9ebcb",
+  "origin": {
+    "binary_hash": 14194654384937888715,
+    "filename": "6d695bad33185a6984210a5aa8c04202c88d1712bcd5a736c4fd8af4e3a9ebcb.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 701.0774112693663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 281.6318853739284,
+            "r": 536.5047864179163,
+            "t": 760.044539467779
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 593.0227451715691,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 262.4245196185016,
+            "r": 389.9760114016949,
+            "t": 706.0912673109347
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 233.52755737304688,
+                "coord_origin": "TOPLEFT",
+                "l": 51.82291666666667,
+                "r": 72.68333180745444,
+                "t": 219.27352905273438
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr."
+            },
+            {
+              "bbox": {
+                "b": 245.74530029296875,
+                "coord_origin": "TOPLEFT",
+                "l": 92.19791666666666,
+                "r": 141.65728759765625,
+                "t": 219.27352905273438
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Nume/ Prenume"
+            },
+            {
+              "bbox": {
+                "b": 245.40592447916666,
+                "coord_origin": "TOPLEFT",
+                "l": 181.359375,
+                "r": 230.8187459309896,
+                "t": 232.5094197591146
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Institutia"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 245.0665486653646,
+                "coord_origin": "TOPLEFT",
+                "l": 409.4781087239583,
+                "r": 500.9947916666667,
+                "t": 230.4731241861979
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 0,
+              "text": "Titlul proiectului"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 260.3387247721354,
+                "coord_origin": "TOPLEFT",
+                "l": 65.95416514078777,
+                "r": 78.73958333333334,
+                "t": 246.424072265625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1."
+            },
+            {
+              "bbox": {
+                "b": 273.91398111979163,
+                "coord_origin": "TOPLEFT",
+                "l": 83.11354064941406,
+                "r": 145.69479370117188,
+                "t": 247.10282389322916
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Belocurenco Maia"
+            },
+            {
+              "bbox": {
+                "b": 273.2352294921875,
+                "coord_origin": "TOPLEFT",
+                "l": 157.13436889648438,
+                "r": 219.71561686197916,
+                "t": 245.74530029296875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "IPLT ,,Petru Movila\""
+            },
+            {
+              "bbox": {
+                "b": 273.91398111979163,
+                "coord_origin": "TOPLEFT",
+                "l": 261.0999959309896,
+                "r": 315.9427083333333,
+                "t": 246.08467610677084
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": "Municipiul Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 258.9811808268229,
+                "coord_origin": "TOPLEFT",
+                "l": 352.2801920572917,
+                "r": 485.1812337239583,
+                "t": 244.7271525065104
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 1,
+              "text": "iEARN Teddy Bear Project"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 301.06453450520837,
+                "coord_origin": "TOPLEFT",
+                "l": 65.28125,
+                "r": 78.40312194824219,
+                "t": 287.1498819986979
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 301.7432861328125,
+                "coord_origin": "TOPLEFT",
+                "l": 83.44999694824219,
+                "r": 143.0031229654948,
+                "t": 286.81048583984375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Berega Ana"
+            },
+            {
+              "bbox": {
+                "b": 327.87569173177087,
+                "coord_origin": "TOPLEFT",
+                "l": 157.47083536783856,
+                "r": 246.29583740234375,
+                "t": 286.1317342122396
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "IP Liceul Teoretic Republican ,,Ion Creanga\""
+            },
+            {
+              "bbox": {
+                "b": 300.3857625325521,
+                "coord_origin": "TOPLEFT",
+                "l": 261.0999959309896,
+                "r": 341.84999593098956,
+                "t": 285.7923380533854
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": "Municipiul Bălți"
+            },
+            {
+              "bbox": {
+                "b": 299.36761474609375,
+                "coord_origin": "TOPLEFT",
+                "l": 352.2801920572917,
+                "r": 398.375,
+                "t": 285.45296223958337
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 2,
+              "text": "ProfiltrO"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 341.7903238932292,
+                "coord_origin": "TOPLEFT",
+                "l": 65.61770884195964,
+                "r": 78.73958333333334,
+                "t": 327.87569173177087
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 342.46909586588544,
+                "coord_origin": "TOPLEFT",
+                "l": 83.44999694824219,
+                "r": 144.68541463216144,
+                "t": 326.8575439453125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Borzin Olga"
+            },
+            {
+              "bbox": {
+                "b": 354.6868489583333,
+                "coord_origin": "TOPLEFT",
+                "l": 157.80729166666669,
+                "r": 218.70623779296875,
+                "t": 327.53629557291663
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "L.T ,,Mihail Sadoveanu\""
+            },
+            {
+              "bbox": {
+                "b": 342.1297200520833,
+                "coord_origin": "TOPLEFT",
+                "l": 261.43646240234375,
+                "r": 306.8583170572917,
+                "t": 326.8575439453125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": "Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 367.24395751953125,
+                "coord_origin": "TOPLEFT",
+                "l": 352.2801920572917,
+                "r": 553.8187255859375,
+                "t": 327.1969197591146
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 3,
+              "text": "Determinarea compoziției chimice a băuturilor energizante și efectul lor asupra organismului uman"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 382.51613362630206,
+                "coord_origin": "TOPLEFT",
+                "l": 65.28125,
+                "r": 78.73958333333334,
+                "t": 368.6014811197917
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4."
+            },
+            {
+              "bbox": {
+                "b": 382.51613362630206,
+                "coord_origin": "TOPLEFT",
+                "l": 84.12291463216147,
+                "r": 141.99374389648438,
+                "t": 368.9408772786458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Burlea Inna"
+            },
+            {
+              "bbox": {
+                "b": 397.10955810546875,
+                "coord_origin": "TOPLEFT",
+                "l": 156.125,
+                "r": 238.89373779296875,
+                "t": 368.9408772786458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "Școala Primară Grigore Vieru\""
+            },
+            {
+              "bbox": {
+                "b": 396.7701822916667,
+                "coord_origin": "TOPLEFT",
+                "l": 260.7635294596354,
+                "r": 316.9520670572917,
+                "t": 367.58335367838544
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 4,
+              "text": "Municipiul Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 381.4980061848958,
+                "coord_origin": "TOPLEFT",
+                "l": 352.2801920572917,
+                "r": 507.051025390625,
+                "t": 368.6014811197917
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 4,
+              "text": "Micul ecologist -cheia viitorului"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 423.241943359375,
+                "coord_origin": "TOPLEFT",
+                "l": 65.61770884195964,
+                "r": 79.07603963216147,
+                "t": 409.66668701171875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "5."
+            },
+            {
+              "bbox": {
+                "b": 436.4778238932292,
+                "coord_origin": "TOPLEFT",
+                "l": 84.12291463216147,
+                "r": 142.66666666666669,
+                "t": 409.66668701171875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "Gandrabura Parascovia"
+            },
+            {
+              "bbox": {
+                "b": 449.7137451171875,
+                "coord_origin": "TOPLEFT",
+                "l": 158.1437479654948,
+                "r": 245.9593709309896,
+                "t": 409.32729085286456
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 5,
+              "text": "Grădinița de copii nr.1 Viorel și Viorica\""
+            },
+            {
+              "bbox": {
+                "b": 437.4959716796875,
+                "coord_origin": "TOPLEFT",
+                "l": 261.43646240234375,
+                "r": 333.10207112630206,
+                "t": 409.32729085286456
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 5,
+              "text": "Satul Budeşti, mun. Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 422.5631917317708,
+                "coord_origin": "TOPLEFT",
+                "l": 352.953125,
+                "r": 550.7906087239584,
+                "t": 409.32729085286456
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 5,
+              "text": "Cartea ne învață lucruri bune despre viață"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 464.6465250651042,
+                "coord_origin": "TOPLEFT",
+                "l": 65.61770884195964,
+                "r": 78.73958333333334,
+                "t": 451.0712483723958
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 6,
+              "text": "6."
+            },
+            {
+              "bbox": {
+                "b": 477.5430094401042,
+                "coord_origin": "TOPLEFT",
+                "l": 83.11354064941406,
+                "r": 134.92812093098956,
+                "t": 450.3924967447917
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 6,
+              "text": "Mamaliga Ana"
+            },
+            {
+              "bbox": {
+                "b": 464.6465250651042,
+                "coord_origin": "TOPLEFT",
+                "l": 158.1437479654948,
+                "r": 249.99686686197916,
+                "t": 450.0531005859375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 6,
+              "text": "LT ,,Alecu Russo\""
+            },
+            {
+              "bbox": {
+                "b": 478.9005533854167,
+                "coord_origin": "TOPLEFT",
+                "l": 261.43646240234375,
+                "r": 316.9520670572917,
+                "t": 450.3924967447917
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 6,
+              "text": "Municipiul Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 464.30712890625,
+                "coord_origin": "TOPLEFT",
+                "l": 352.2801920572917,
+                "r": 471.3864339192708,
+                "t": 449.7137451171875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 6,
+              "text": " p"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 505.372314453125,
+                "coord_origin": "TOPLEFT",
+                "l": 65.95416514078777,
+                "r": 78.73958333333334,
+                "t": 491.4576822916667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 7,
+              "text": "7."
+            },
+            {
+              "bbox": {
+                "b": 518.9475911458333,
+                "coord_origin": "TOPLEFT",
+                "l": 83.44999694824219,
+                "r": 126.51666259765625,
+                "t": 491.4576822916667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 7,
+              "text": "Mereuța Emilia"
+            },
+            {
+              "bbox": {
+                "b": 518.6082356770833,
+                "coord_origin": "TOPLEFT",
+                "l": 157.80729166666669,
+                "r": 246.29583740234375,
+                "t": 490.7789306640625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 7,
+              "text": "Grădinița de copii nr.190"
+            },
+            {
+              "bbox": {
+                "b": 518.6082356770833,
+                "coord_origin": "TOPLEFT",
+                "l": 261.77290852864587,
+                "r": 342.859375,
+                "t": 490.7789306640625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 7,
+              "text": "Oraşul Vadul lui Vodă"
+            },
+            {
+              "bbox": {
+                "b": 504.6935628255208,
+                "coord_origin": "TOPLEFT",
+                "l": 352.953125,
+                "r": 478.7885335286458,
+                "t": 491.1182861328125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 7,
+              "text": "Micul reporter al valorilor"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 532.8622639973958,
+                "coord_origin": "TOPLEFT",
+                "l": 65.95416514078777,
+                "r": 79.4125010172526,
+                "t": 518.9475911458333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 8,
+              "text": "8."
+            },
+            {
+              "bbox": {
+                "b": 546.7768961588542,
+                "coord_origin": "TOPLEFT",
+                "l": 83.78645833333334,
+                "r": 132.57291666666669,
+                "t": 518.9475911458333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 8,
+              "text": "Mîrzenco Tatiana"
+            },
+            {
+              "bbox": {
+                "b": 561.3703206380208,
+                "coord_origin": "TOPLEFT",
+                "l": 157.80729166666669,
+                "r": 240.23958333333334,
+                "t": 518.9475911458333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 8,
+              "text": "Şcoala Primară - Grădiniță \",Abeceluş\""
+            },
+            {
+              "bbox": {
+                "b": 546.7768961588542,
+                "coord_origin": "TOPLEFT",
+                "l": 261.77290852864587,
+                "r": 334.1114501953125,
+                "t": 518.6082356770833
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 8,
+              "text": "Mun.Chişinău, or. Durleşti"
+            },
+            {
+              "bbox": {
+                "b": 546.09814453125,
+                "coord_origin": "TOPLEFT",
+                "l": 352.953125,
+                "r": 545.7437337239583,
+                "t": 518.9475911458333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 8,
+              "text": "Arheologia și valorile naționale- oglinda trecutului prin STEM"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 587.163330078125,
+                "coord_origin": "TOPLEFT",
+                "l": 65.61770884195964,
+                "r": 79.07603963216147,
+                "t": 573.2486572265625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 9,
+              "text": "9."
+            },
+            {
+              "bbox": {
+                "b": 600.059814453125,
+                "coord_origin": "TOPLEFT",
+                "l": 83.44999694824219,
+                "r": 124.83437093098958,
+                "t": 573.2486572265625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 9,
+              "text": "Natalia Lazarev"
+            },
+            {
+              "bbox": {
+                "b": 613.2957356770834,
+                "coord_origin": "TOPLEFT",
+                "l": 158.1437479654948,
+                "r": 245.6229044596354,
+                "t": 573.2486572265625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 9,
+              "text": "Colegiul Național de Comerț al ASEM"
+            },
+            {
+              "bbox": {
+                "b": 601.7567545572916,
+                "coord_origin": "TOPLEFT",
+                "l": 261.77290852864587,
+                "r": 316.9520670572917,
+                "t": 573.5880533854167
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 9,
+              "text": "Municipiul Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 613.2957356770834,
+                "coord_origin": "TOPLEFT",
+                "l": 352.953125,
+                "r": 526.2291666666667,
+                "t": 573.5880533854167
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 9,
+              "text": "Simularea magazinului,,Moldovița\" metodă interactivă de învățare care dezvoltă spiritul antreprenorial"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 627.5497639973959,
+                "coord_origin": "TOPLEFT",
+                "l": 67.63645680745444,
+                "r": 82.10416666666666,
+                "t": 614.3138834635416
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 10,
+              "text": "10"
+            },
+            {
+              "bbox": {
+                "b": 641.8037923177084,
+                "coord_origin": "TOPLEFT",
+                "l": 83.11354064941406,
+                "r": 128.53541056315106,
+                "t": 613.6350911458334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 10,
+              "text": "Nicolai Svetlana"
+            },
+            {
+              "bbox": {
+                "b": 654.3609212239584,
+                "coord_origin": "TOPLEFT",
+                "l": 158.1437479654948,
+                "r": 245.6229044596354,
+                "t": 613.9744873046875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 10,
+              "text": "Colegiul Național de Comerț al ASEM"
+            },
+            {
+              "bbox": {
+                "b": 642.1431884765625,
+                "coord_origin": "TOPLEFT",
+                "l": 261.77290852864587,
+                "r": 317.625,
+                "t": 613.2957356770834
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 10,
+              "text": "Municipiul Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 654.0215250651041,
+                "coord_origin": "TOPLEFT",
+                "l": 352.6166585286458,
+                "r": 527.5749918619792,
+                "t": 613.6350911458334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 10,
+              "text": "Simularea magazinului ,Moldovița\" metodă interactivă de învățare care dezvoltă spiritul antreprenorial"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 668.954345703125,
+                "coord_origin": "TOPLEFT",
+                "l": 67.63645680745444,
+                "r": 81.4312489827474,
+                "t": 655.7184244791666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 11,
+              "text": "11"
+            },
+            {
+              "bbox": {
+                "b": 670.3118489583334,
+                "coord_origin": "TOPLEFT",
+                "l": 84.12291463216147,
+                "r": 139.97499593098956,
+                "t": 655.0396728515625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 11,
+              "text": "Paicu Olga"
+            },
+            {
+              "bbox": {
+                "b": 696.1048583984375,
+                "coord_origin": "TOPLEFT",
+                "l": 159.1531270345052,
+                "r": 242.2583211263021,
+                "t": 655.7184244791666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 11,
+              "text": "Instituția Publică Liceul Teoretic Nicolae Iorga\""
+            },
+            {
+              "bbox": {
+                "b": 683.2083740234375,
+                "coord_origin": "TOPLEFT",
+                "l": 262.109375,
+                "r": 317.96144612630206,
+                "t": 654.7002766927084
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 11,
+              "text": "Municipiul Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 681.5114339192709,
+                "coord_origin": "TOPLEFT",
+                "l": 352.6166585286458,
+                "r": 556.8468424479166,
+                "t": 654.3609212239584
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 11,
+              "text": "Legisland-educație și prevenire prin joc de societate"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 709.6801350911459,
+                "coord_origin": "TOPLEFT",
+                "l": 67.97291564941406,
+                "r": 82.44062296549478,
+                "t": 696.4442545572916
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 12,
+              "text": "12"
+            },
+            {
+              "bbox": {
+                "b": 723.2554117838541,
+                "coord_origin": "TOPLEFT",
+                "l": 84.12291463216147,
+                "r": 136.94686889648438,
+                "t": 695.7655029296875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 12,
+              "text": "Rădulescu Iuliana"
+            },
+            {
+              "bbox": {
+                "b": 737.5094401041666,
+                "coord_origin": "TOPLEFT",
+                "l": 158.81666056315106,
+                "r": 234.1833292643229,
+                "t": 695.7655029296875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 12,
+              "text": "Şcoala Primară Grădinița Abeceluş\""
+            },
+            {
+              "bbox": {
+                "b": 723.5947672526041,
+                "coord_origin": "TOPLEFT",
+                "l": 262.109375,
+                "r": 334.1114501953125,
+                "t": 695.4261067708334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 12,
+              "text": "or. Durleşti, mun. Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 708.6619873046875,
+                "coord_origin": "TOPLEFT",
+                "l": 353.9624837239583,
+                "r": 542.7156168619792,
+                "t": 695.0867106119791
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 12,
+              "text": "Ocean Guardians: Together for Climate"
+            }
+          ]
+        ],
+        "num_cols": 5,
+        "num_rows": 13,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 233.52755737304688,
+              "coord_origin": "TOPLEFT",
+              "l": 51.82291666666667,
+              "r": 72.68333180745444,
+              "t": 219.27352905273438
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr."
+          },
+          {
+            "bbox": {
+              "b": 245.74530029296875,
+              "coord_origin": "TOPLEFT",
+              "l": 92.19791666666666,
+              "r": 141.65728759765625,
+              "t": 219.27352905273438
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Nume/ Prenume"
+          },
+          {
+            "bbox": {
+              "b": 245.40592447916666,
+              "coord_origin": "TOPLEFT",
+              "l": 181.359375,
+              "r": 230.8187459309896,
+              "t": 232.5094197591146
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Institutia"
+          },
+          {
+            "bbox": {
+              "b": 245.0665486653646,
+              "coord_origin": "TOPLEFT",
+              "l": 409.4781087239583,
+              "r": 500.9947916666667,
+              "t": 230.4731241861979
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 0,
+            "text": "Titlul proiectului"
+          },
+          {
+            "bbox": {
+              "b": 260.3387247721354,
+              "coord_origin": "TOPLEFT",
+              "l": 65.95416514078777,
+              "r": 78.73958333333334,
+              "t": 246.424072265625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1."
+          },
+          {
+            "bbox": {
+              "b": 273.91398111979163,
+              "coord_origin": "TOPLEFT",
+              "l": 83.11354064941406,
+              "r": 145.69479370117188,
+              "t": 247.10282389322916
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Belocurenco Maia"
+          },
+          {
+            "bbox": {
+              "b": 273.2352294921875,
+              "coord_origin": "TOPLEFT",
+              "l": 157.13436889648438,
+              "r": 219.71561686197916,
+              "t": 245.74530029296875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "IPLT ,,Petru Movila\""
+          },
+          {
+            "bbox": {
+              "b": 273.91398111979163,
+              "coord_origin": "TOPLEFT",
+              "l": 261.0999959309896,
+              "r": 315.9427083333333,
+              "t": 246.08467610677084
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": "Municipiul Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 258.9811808268229,
+              "coord_origin": "TOPLEFT",
+              "l": 352.2801920572917,
+              "r": 485.1812337239583,
+              "t": 244.7271525065104
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 1,
+            "text": "iEARN Teddy Bear Project"
+          },
+          {
+            "bbox": {
+              "b": 301.06453450520837,
+              "coord_origin": "TOPLEFT",
+              "l": 65.28125,
+              "r": 78.40312194824219,
+              "t": 287.1498819986979
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 301.7432861328125,
+              "coord_origin": "TOPLEFT",
+              "l": 83.44999694824219,
+              "r": 143.0031229654948,
+              "t": 286.81048583984375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Berega Ana"
+          },
+          {
+            "bbox": {
+              "b": 327.87569173177087,
+              "coord_origin": "TOPLEFT",
+              "l": 157.47083536783856,
+              "r": 246.29583740234375,
+              "t": 286.1317342122396
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "IP Liceul Teoretic Republican ,,Ion Creanga\""
+          },
+          {
+            "bbox": {
+              "b": 300.3857625325521,
+              "coord_origin": "TOPLEFT",
+              "l": 261.0999959309896,
+              "r": 341.84999593098956,
+              "t": 285.7923380533854
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 2,
+            "text": "Municipiul Bălți"
+          },
+          {
+            "bbox": {
+              "b": 299.36761474609375,
+              "coord_origin": "TOPLEFT",
+              "l": 352.2801920572917,
+              "r": 398.375,
+              "t": 285.45296223958337
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 2,
+            "text": "ProfiltrO"
+          },
+          {
+            "bbox": {
+              "b": 341.7903238932292,
+              "coord_origin": "TOPLEFT",
+              "l": 65.61770884195964,
+              "r": 78.73958333333334,
+              "t": 327.87569173177087
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 342.46909586588544,
+              "coord_origin": "TOPLEFT",
+              "l": 83.44999694824219,
+              "r": 144.68541463216144,
+              "t": 326.8575439453125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Borzin Olga"
+          },
+          {
+            "bbox": {
+              "b": 354.6868489583333,
+              "coord_origin": "TOPLEFT",
+              "l": 157.80729166666669,
+              "r": 218.70623779296875,
+              "t": 327.53629557291663
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "L.T ,,Mihail Sadoveanu\""
+          },
+          {
+            "bbox": {
+              "b": 342.1297200520833,
+              "coord_origin": "TOPLEFT",
+              "l": 261.43646240234375,
+              "r": 306.8583170572917,
+              "t": 326.8575439453125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 3,
+            "text": "Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 367.24395751953125,
+              "coord_origin": "TOPLEFT",
+              "l": 352.2801920572917,
+              "r": 553.8187255859375,
+              "t": 327.1969197591146
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 3,
+            "text": "Determinarea compoziției chimice a băuturilor energizante și efectul lor asupra organismului uman"
+          },
+          {
+            "bbox": {
+              "b": 382.51613362630206,
+              "coord_origin": "TOPLEFT",
+              "l": 65.28125,
+              "r": 78.73958333333334,
+              "t": 368.6014811197917
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4."
+          },
+          {
+            "bbox": {
+              "b": 382.51613362630206,
+              "coord_origin": "TOPLEFT",
+              "l": 84.12291463216147,
+              "r": 141.99374389648438,
+              "t": 368.9408772786458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Burlea Inna"
+          },
+          {
+            "bbox": {
+              "b": 397.10955810546875,
+              "coord_origin": "TOPLEFT",
+              "l": 156.125,
+              "r": 238.89373779296875,
+              "t": 368.9408772786458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "Școala Primară Grigore Vieru\""
+          },
+          {
+            "bbox": {
+              "b": 396.7701822916667,
+              "coord_origin": "TOPLEFT",
+              "l": 260.7635294596354,
+              "r": 316.9520670572917,
+              "t": 367.58335367838544
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 4,
+            "text": "Municipiul Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 381.4980061848958,
+              "coord_origin": "TOPLEFT",
+              "l": 352.2801920572917,
+              "r": 507.051025390625,
+              "t": 368.6014811197917
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 4,
+            "text": "Micul ecologist -cheia viitorului"
+          },
+          {
+            "bbox": {
+              "b": 423.241943359375,
+              "coord_origin": "TOPLEFT",
+              "l": 65.61770884195964,
+              "r": 79.07603963216147,
+              "t": 409.66668701171875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "5."
+          },
+          {
+            "bbox": {
+              "b": 436.4778238932292,
+              "coord_origin": "TOPLEFT",
+              "l": 84.12291463216147,
+              "r": 142.66666666666669,
+              "t": 409.66668701171875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "Gandrabura Parascovia"
+          },
+          {
+            "bbox": {
+              "b": 449.7137451171875,
+              "coord_origin": "TOPLEFT",
+              "l": 158.1437479654948,
+              "r": 245.9593709309896,
+              "t": 409.32729085286456
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 5,
+            "text": "Grădinița de copii nr.1 Viorel și Viorica\""
+          },
+          {
+            "bbox": {
+              "b": 437.4959716796875,
+              "coord_origin": "TOPLEFT",
+              "l": 261.43646240234375,
+              "r": 333.10207112630206,
+              "t": 409.32729085286456
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 5,
+            "text": "Satul Budeşti, mun. Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 422.5631917317708,
+              "coord_origin": "TOPLEFT",
+              "l": 352.953125,
+              "r": 550.7906087239584,
+              "t": 409.32729085286456
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 5,
+            "text": "Cartea ne învață lucruri bune despre viață"
+          },
+          {
+            "bbox": {
+              "b": 464.6465250651042,
+              "coord_origin": "TOPLEFT",
+              "l": 65.61770884195964,
+              "r": 78.73958333333334,
+              "t": 451.0712483723958
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 6,
+            "text": "6."
+          },
+          {
+            "bbox": {
+              "b": 477.5430094401042,
+              "coord_origin": "TOPLEFT",
+              "l": 83.11354064941406,
+              "r": 134.92812093098956,
+              "t": 450.3924967447917
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 6,
+            "text": "Mamaliga Ana"
+          },
+          {
+            "bbox": {
+              "b": 464.6465250651042,
+              "coord_origin": "TOPLEFT",
+              "l": 158.1437479654948,
+              "r": 249.99686686197916,
+              "t": 450.0531005859375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 6,
+            "text": "LT ,,Alecu Russo\""
+          },
+          {
+            "bbox": {
+              "b": 478.9005533854167,
+              "coord_origin": "TOPLEFT",
+              "l": 261.43646240234375,
+              "r": 316.9520670572917,
+              "t": 450.3924967447917
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 6,
+            "text": "Municipiul Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 464.30712890625,
+              "coord_origin": "TOPLEFT",
+              "l": 352.2801920572917,
+              "r": 471.3864339192708,
+              "t": 449.7137451171875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 6,
+            "text": " p"
+          },
+          {
+            "bbox": {
+              "b": 505.372314453125,
+              "coord_origin": "TOPLEFT",
+              "l": 65.95416514078777,
+              "r": 78.73958333333334,
+              "t": 491.4576822916667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 7,
+            "text": "7."
+          },
+          {
+            "bbox": {
+              "b": 518.9475911458333,
+              "coord_origin": "TOPLEFT",
+              "l": 83.44999694824219,
+              "r": 126.51666259765625,
+              "t": 491.4576822916667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 7,
+            "text": "Mereuța Emilia"
+          },
+          {
+            "bbox": {
+              "b": 518.6082356770833,
+              "coord_origin": "TOPLEFT",
+              "l": 157.80729166666669,
+              "r": 246.29583740234375,
+              "t": 490.7789306640625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 7,
+            "text": "Grădinița de copii nr.190"
+          },
+          {
+            "bbox": {
+              "b": 518.6082356770833,
+              "coord_origin": "TOPLEFT",
+              "l": 261.77290852864587,
+              "r": 342.859375,
+              "t": 490.7789306640625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 7,
+            "text": "Oraşul Vadul lui Vodă"
+          },
+          {
+            "bbox": {
+              "b": 504.6935628255208,
+              "coord_origin": "TOPLEFT",
+              "l": 352.953125,
+              "r": 478.7885335286458,
+              "t": 491.1182861328125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 7,
+            "text": "Micul reporter al valorilor"
+          },
+          {
+            "bbox": {
+              "b": 532.8622639973958,
+              "coord_origin": "TOPLEFT",
+              "l": 65.95416514078777,
+              "r": 79.4125010172526,
+              "t": 518.9475911458333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 8,
+            "text": "8."
+          },
+          {
+            "bbox": {
+              "b": 546.7768961588542,
+              "coord_origin": "TOPLEFT",
+              "l": 83.78645833333334,
+              "r": 132.57291666666669,
+              "t": 518.9475911458333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 8,
+            "text": "Mîrzenco Tatiana"
+          },
+          {
+            "bbox": {
+              "b": 561.3703206380208,
+              "coord_origin": "TOPLEFT",
+              "l": 157.80729166666669,
+              "r": 240.23958333333334,
+              "t": 518.9475911458333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 8,
+            "text": "Şcoala Primară - Grădiniță \",Abeceluş\""
+          },
+          {
+            "bbox": {
+              "b": 546.7768961588542,
+              "coord_origin": "TOPLEFT",
+              "l": 261.77290852864587,
+              "r": 334.1114501953125,
+              "t": 518.6082356770833
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 8,
+            "text": "Mun.Chişinău, or. Durleşti"
+          },
+          {
+            "bbox": {
+              "b": 546.09814453125,
+              "coord_origin": "TOPLEFT",
+              "l": 352.953125,
+              "r": 545.7437337239583,
+              "t": 518.9475911458333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 8,
+            "text": "Arheologia și valorile naționale- oglinda trecutului prin STEM"
+          },
+          {
+            "bbox": {
+              "b": 587.163330078125,
+              "coord_origin": "TOPLEFT",
+              "l": 65.61770884195964,
+              "r": 79.07603963216147,
+              "t": 573.2486572265625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 9,
+            "text": "9."
+          },
+          {
+            "bbox": {
+              "b": 600.059814453125,
+              "coord_origin": "TOPLEFT",
+              "l": 83.44999694824219,
+              "r": 124.83437093098958,
+              "t": 573.2486572265625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 9,
+            "text": "Natalia Lazarev"
+          },
+          {
+            "bbox": {
+              "b": 613.2957356770834,
+              "coord_origin": "TOPLEFT",
+              "l": 158.1437479654948,
+              "r": 245.6229044596354,
+              "t": 573.2486572265625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 9,
+            "text": "Colegiul Național de Comerț al ASEM"
+          },
+          {
+            "bbox": {
+              "b": 601.7567545572916,
+              "coord_origin": "TOPLEFT",
+              "l": 261.77290852864587,
+              "r": 316.9520670572917,
+              "t": 573.5880533854167
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 9,
+            "text": "Municipiul Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 613.2957356770834,
+              "coord_origin": "TOPLEFT",
+              "l": 352.953125,
+              "r": 526.2291666666667,
+              "t": 573.5880533854167
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 9,
+            "text": "Simularea magazinului,,Moldovița\" metodă interactivă de învățare care dezvoltă spiritul antreprenorial"
+          },
+          {
+            "bbox": {
+              "b": 627.5497639973959,
+              "coord_origin": "TOPLEFT",
+              "l": 67.63645680745444,
+              "r": 82.10416666666666,
+              "t": 614.3138834635416
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 10,
+            "text": "10"
+          },
+          {
+            "bbox": {
+              "b": 641.8037923177084,
+              "coord_origin": "TOPLEFT",
+              "l": 83.11354064941406,
+              "r": 128.53541056315106,
+              "t": 613.6350911458334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 10,
+            "text": "Nicolai Svetlana"
+          },
+          {
+            "bbox": {
+              "b": 654.3609212239584,
+              "coord_origin": "TOPLEFT",
+              "l": 158.1437479654948,
+              "r": 245.6229044596354,
+              "t": 613.9744873046875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 10,
+            "text": "Colegiul Național de Comerț al ASEM"
+          },
+          {
+            "bbox": {
+              "b": 642.1431884765625,
+              "coord_origin": "TOPLEFT",
+              "l": 261.77290852864587,
+              "r": 317.625,
+              "t": 613.2957356770834
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 10,
+            "text": "Municipiul Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 654.0215250651041,
+              "coord_origin": "TOPLEFT",
+              "l": 352.6166585286458,
+              "r": 527.5749918619792,
+              "t": 613.6350911458334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 10,
+            "text": "Simularea magazinului ,Moldovița\" metodă interactivă de învățare care dezvoltă spiritul antreprenorial"
+          },
+          {
+            "bbox": {
+              "b": 668.954345703125,
+              "coord_origin": "TOPLEFT",
+              "l": 67.63645680745444,
+              "r": 81.4312489827474,
+              "t": 655.7184244791666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 11,
+            "text": "11"
+          },
+          {
+            "bbox": {
+              "b": 670.3118489583334,
+              "coord_origin": "TOPLEFT",
+              "l": 84.12291463216147,
+              "r": 139.97499593098956,
+              "t": 655.0396728515625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 11,
+            "text": "Paicu Olga"
+          },
+          {
+            "bbox": {
+              "b": 696.1048583984375,
+              "coord_origin": "TOPLEFT",
+              "l": 159.1531270345052,
+              "r": 242.2583211263021,
+              "t": 655.7184244791666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 11,
+            "text": "Instituția Publică Liceul Teoretic Nicolae Iorga\""
+          },
+          {
+            "bbox": {
+              "b": 683.2083740234375,
+              "coord_origin": "TOPLEFT",
+              "l": 262.109375,
+              "r": 317.96144612630206,
+              "t": 654.7002766927084
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 11,
+            "text": "Municipiul Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 681.5114339192709,
+              "coord_origin": "TOPLEFT",
+              "l": 352.6166585286458,
+              "r": 556.8468424479166,
+              "t": 654.3609212239584
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 11,
+            "text": "Legisland-educație și prevenire prin joc de societate"
+          },
+          {
+            "bbox": {
+              "b": 709.6801350911459,
+              "coord_origin": "TOPLEFT",
+              "l": 67.97291564941406,
+              "r": 82.44062296549478,
+              "t": 696.4442545572916
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 12,
+            "text": "12"
+          },
+          {
+            "bbox": {
+              "b": 723.2554117838541,
+              "coord_origin": "TOPLEFT",
+              "l": 84.12291463216147,
+              "r": 136.94686889648438,
+              "t": 695.7655029296875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 12,
+            "text": "Rădulescu Iuliana"
+          },
+          {
+            "bbox": {
+              "b": 737.5094401041666,
+              "coord_origin": "TOPLEFT",
+              "l": 158.81666056315106,
+              "r": 234.1833292643229,
+              "t": 695.7655029296875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 12,
+            "text": "Şcoala Primară Grădinița Abeceluş\""
+          },
+          {
+            "bbox": {
+              "b": 723.5947672526041,
+              "coord_origin": "TOPLEFT",
+              "l": 262.109375,
+              "r": 334.1114501953125,
+              "t": 695.4261067708334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 12,
+            "text": "or. Durleşti, mun. Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 708.6619873046875,
+              "coord_origin": "TOPLEFT",
+              "l": 353.9624837239583,
+              "r": 542.7156168619792,
+              "t": 695.0867106119791
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 12,
+            "text": "Ocean Guardians: Together for Climate"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 105.42439477486141,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.111505902181534,
+            "r": 562.9912428601157,
+            "t": 626.0901288785878
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 123.66666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 74.66666666666667,
+                "r": 88.66666666666666,
+                "t": 110.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "13"
+            },
+            {
+              "bbox": {
+                "b": 137.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 90.66666666666666,
+                "r": 140.66666666666669,
+                "t": 110.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Roşcovan Olesea"
+            },
+            {
+              "bbox": {
+                "b": 150.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 164.66666666666669,
+                "r": 254.33333333333334,
+                "t": 109.66666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Liceul Teoretic cu profil de arte Elena Alistar\""
+            },
+            {
+              "bbox": {
+                "b": 138.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 268.33333333333337,
+                "r": 324.0,
+                "t": 109.66666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "Municipiul Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 123.66666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 359.6666666666667,
+                "r": 445.0,
+                "t": 109.33333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 0,
+              "text": "Eminescu Inspiră"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 164.0,
+                "coord_origin": "TOPLEFT",
+                "l": 74.66666666666667,
+                "r": 89.66666666666666,
+                "t": 151.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "14"
+            },
+            {
+              "bbox": {
+                "b": 164.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 90.33333333333334,
+                "r": 149.0,
+                "t": 151.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Rusu Diana"
+            },
+            {
+              "bbox": {
+                "b": 191.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 165.0,
+                "r": 253.0,
+                "t": 150.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "Grădinița de copii nr. 1 ,Viorel și Viorica\""
+            },
+            {
+              "bbox": {
+                "b": 179.0,
+                "coord_origin": "TOPLEFT",
+                "l": 268.33333333333337,
+                "r": 340.3333333333333,
+                "t": 150.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": "Satul Budeşti mun. Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 164.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 359.6666666666667,
+                "r": 448.6666666666667,
+                "t": 149.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 1,
+              "text": "Valorile prieteniei"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 206.0,
+                "coord_origin": "TOPLEFT",
+                "l": 74.66666666666667,
+                "r": 89.0,
+                "t": 192.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "15"
+            },
+            {
+              "bbox": {
+                "b": 220.0,
+                "coord_origin": "TOPLEFT",
+                "l": 91.0,
+                "r": 139.66666666666669,
+                "t": 192.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Tihonova Svetlana"
+            },
+            {
+              "bbox": {
+                "b": 206.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 165.0,
+                "r": 257.66666666666663,
+                "t": 192.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "LT ,,Alecu Russo\""
+            },
+            {
+              "bbox": {
+                "b": 221.0,
+                "coord_origin": "TOPLEFT",
+                "l": 268.66666666666663,
+                "r": 324.3333333333333,
+                "t": 192.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": "Municipiul Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 206.0,
+                "coord_origin": "TOPLEFT",
+                "l": 359.6666666666667,
+                "r": 554.0,
+                "t": 192.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 2,
+              "text": "Ka   Bbe"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 247.0,
+                "coord_origin": "TOPLEFT",
+                "l": 75.0,
+                "r": 88.66666666666666,
+                "t": 234.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "16"
+            },
+            {
+              "bbox": {
+                "b": 247.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 91.66666666666666,
+                "r": 146.66666666666669,
+                "t": 234.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "ViziruAna"
+            },
+            {
+              "bbox": {
+                "b": 260.33333333333337,
+                "coord_origin": "TOPLEFT",
+                "l": 165.0,
+                "r": 226.33333333333334,
+                "t": 234.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "L.T.,,Mihail Sadoveanu\""
+            },
+            {
+              "bbox": {
+                "b": 261.33333333333337,
+                "coord_origin": "TOPLEFT",
+                "l": 268.66666666666663,
+                "r": 324.3333333333333,
+                "t": 233.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": "Municipiul Chişinău"
+            },
+            {
+              "bbox": {
+                "b": 247.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 359.3333333333333,
+                "r": 561.6666666666666,
+                "t": 233.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 3,
+              "text": "Zero risipă în Educație. Fii erou -nu risipi!"
+            }
+          ]
+        ],
+        "num_cols": 5,
+        "num_rows": 4,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 123.66666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 74.66666666666667,
+              "r": 88.66666666666666,
+              "t": 110.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "13"
+          },
+          {
+            "bbox": {
+              "b": 137.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 90.66666666666666,
+              "r": 140.66666666666669,
+              "t": 110.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Roşcovan Olesea"
+          },
+          {
+            "bbox": {
+              "b": 150.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 164.66666666666669,
+              "r": 254.33333333333334,
+              "t": 109.66666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Liceul Teoretic cu profil de arte Elena Alistar\""
+          },
+          {
+            "bbox": {
+              "b": 138.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 268.33333333333337,
+              "r": 324.0,
+              "t": 109.66666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "Municipiul Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 123.66666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 359.6666666666667,
+              "r": 445.0,
+              "t": 109.33333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 0,
+            "text": "Eminescu Inspiră"
+          },
+          {
+            "bbox": {
+              "b": 164.0,
+              "coord_origin": "TOPLEFT",
+              "l": 74.66666666666667,
+              "r": 89.66666666666666,
+              "t": 151.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "14"
+          },
+          {
+            "bbox": {
+              "b": 164.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 90.33333333333334,
+              "r": 149.0,
+              "t": 151.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Rusu Diana"
+          },
+          {
+            "bbox": {
+              "b": 191.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 165.0,
+              "r": 253.0,
+              "t": 150.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "Grădinița de copii nr. 1 ,Viorel și Viorica\""
+          },
+          {
+            "bbox": {
+              "b": 179.0,
+              "coord_origin": "TOPLEFT",
+              "l": 268.33333333333337,
+              "r": 340.3333333333333,
+              "t": 150.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": "Satul Budeşti mun. Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 164.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 359.6666666666667,
+              "r": 448.6666666666667,
+              "t": 149.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 1,
+            "text": "Valorile prieteniei"
+          },
+          {
+            "bbox": {
+              "b": 206.0,
+              "coord_origin": "TOPLEFT",
+              "l": 74.66666666666667,
+              "r": 89.0,
+              "t": 192.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "15"
+          },
+          {
+            "bbox": {
+              "b": 220.0,
+              "coord_origin": "TOPLEFT",
+              "l": 91.0,
+              "r": 139.66666666666669,
+              "t": 192.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Tihonova Svetlana"
+          },
+          {
+            "bbox": {
+              "b": 206.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 165.0,
+              "r": 257.66666666666663,
+              "t": 192.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "LT ,,Alecu Russo\""
+          },
+          {
+            "bbox": {
+              "b": 221.0,
+              "coord_origin": "TOPLEFT",
+              "l": 268.66666666666663,
+              "r": 324.3333333333333,
+              "t": 192.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 2,
+            "text": "Municipiul Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 206.0,
+              "coord_origin": "TOPLEFT",
+              "l": 359.6666666666667,
+              "r": 554.0,
+              "t": 192.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 2,
+            "text": "Ka   Bbe"
+          },
+          {
+            "bbox": {
+              "b": 247.0,
+              "coord_origin": "TOPLEFT",
+              "l": 75.0,
+              "r": 88.66666666666666,
+              "t": 234.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "16"
+          },
+          {
+            "bbox": {
+              "b": 247.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 91.66666666666666,
+              "r": 146.66666666666669,
+              "t": 234.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "ViziruAna"
+          },
+          {
+            "bbox": {
+              "b": 260.33333333333337,
+              "coord_origin": "TOPLEFT",
+              "l": 165.0,
+              "r": 226.33333333333334,
+              "t": 234.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "L.T.,,Mihail Sadoveanu\""
+          },
+          {
+            "bbox": {
+              "b": 261.33333333333337,
+              "coord_origin": "TOPLEFT",
+              "l": 268.66666666666663,
+              "r": 324.3333333333333,
+              "t": 233.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 3,
+            "text": "Municipiul Chişinău"
+          },
+          {
+            "bbox": {
+              "b": 247.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 359.3333333333333,
+              "r": 561.6666666666666,
+              "t": 233.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 3,
+            "text": "Zero risipă în Educație. Fii erou -nu risipi!"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 567.375620697517,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.67987180901854,
+            "r": 569.5955954491533,
+            "t": 734.2387076346856
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/1"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Aprobat rei PAVALOI, șef adjunct DGETS",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 677.386299000651,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 224.76249186197916,
+            "r": 270.8572794596354,
+            "t": 691.6403374934896
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 1
+        },
+        {
+          "bbox": {
+            "b": 679.4225945735677,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 355.9812418619792,
+            "r": 534.9770914713542,
+            "t": 693.3372470800781
+          },
+          "charspan": [
+            8,
+            38
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Aprobat rei PAVALOI, șef adjunct DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr. 3",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 720.4877852067057,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 476.4333089192708,
+            "r": 536.9958089192708,
+            "t": 733.0449090266927
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "Anexa nr. 3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "101/1-7/283din 04.03.d6",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 700.4642612402344,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 328.7281087239583,
+            "r": 540.3603922526042,
+            "t": 729.6510898535156
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "101/1-7/283din 04.03.d6"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la ord. nr",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 705.5549849137369,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 279.6052042643229,
+            "r": 334.1114501953125,
+            "t": 719.1302565201822
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "la ord. nr"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "i-cadrul Conferintei Naționale cu tema",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 652.2720513606771,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 293.06353759765625,
+            "r": 500.6583251953125,
+            "t": 665.5079420670572
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "i-cadrul Conferintei Naționale cu tema"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Lista participanților la expoziția de p Scoala - Laboratoral atoritor UNgisCO\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 638.0180230403646,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.08541361490884,
+            "r": 402.7489420572917,
+            "t": 664.1504184667969
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Lista participanților la expoziția de p Scoala - Laboratoral atoritor UNgisCO\""
+    }
+  ],
+  "version": "1.10.0"
+}

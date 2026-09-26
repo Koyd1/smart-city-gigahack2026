@@ -1,0 +1,1489 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/35"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/pictures/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "dc3aa4d044b012c3b54816c65d833d7bc3b216a060871e75a104765e70a6af22",
+  "origin": {
+    "binary_hash": 11602528688002215714,
+    "filename": "dc3aa4d044b012c3b54816c65d833d7bc3b216a060871e75a104765e70a6af22.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 689.5799713134766,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 257.2179260253906,
+            "r": 365.9742736816406,
+            "t": 760.7736053466797
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 587.060546875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.51818084716797,
+            "r": 295.9541931152344,
+            "t": 635.4956207275391
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 391.90155029296875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 392.8955078125,
+            "r": 544.9134521484375,
+            "t": 552.446533203125
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 183.17333984375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.24867248535156,
+            "r": 297.71881103515625,
+            "t": 259.85491943359375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 639.2604217529297,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 103.19563293457031,
+            "r": 147.8872833251953,
+            "t": 661.3379058837891
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 729.6249389648438,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 246.75758361816406,
+            "r": 349.8816833496094,
+            "t": 798.6124572753906
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 130.20172119140625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 226.11143493652344,
+            "r": 409.3283996582031,
+            "t": 282.27728271484375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/6"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 635.8474884033203,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 401.083251953125,
+            "r": 523.42578125,
+            "t": 657.378173828125
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/7"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 645.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 181.0,
+            "r": 462.0,
+            "t": 688.6666666666667
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "n.01/1",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 603.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 174.33333333333331,
+            "r": 240.33333333333334,
+            "t": 632.0
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "n.01/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "OR DIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 574.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 306.0,
+            "r": 368.0,
+            "t": 588.3333333333334
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "OR DIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la punerea în aplicare a Deciziei ConsiliuluiMunicipal Chişinău nr.2/18 din26 martie 2026 Cu privire la delegarea dreptului de aprobare a delimitării districtelor şcolare a instituțiilor de învățământ de tip preşcolar, primar și secundar, ciclul I și II\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 455.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.0,
+            "r": 418.6666666666667,
+            "t": 542.0
+          },
+          "charspan": [
+            0,
+            265
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Cu privire la punerea în aplicare a Deciziei ConsiliuluiMunicipal Chişinău nr.2/18 din26 martie 2026 Cu privire la delegarea dreptului de aprobare a delimitării districtelor şcolare a instituțiilor de învățământ de tip preşcolar, primar și secundar, ciclul I și II\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul Deciziei Consiliului Municipal Chişinău nr. 2/18 din 26 martie 2026 Cu privire la delegarea dreptului de aprobare a delimitării districtelor şcolare a instituțiilor de învătământ de tip preşcolar, primar și secundar, ciclul I şi II\" și în scopul asigurării implementării unitare a prevederilor acesteia,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 383.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.33333333333333,
+            "r": 549.6666666666667,
+            "t": 443.0
+          },
+          "charspan": [
+            0,
+            314
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În temeiul Deciziei Consiliului Municipal Chişinău nr. 2/18 din 26 martie 2026 Cu privire la delegarea dreptului de aprobare a delimitării districtelor şcolare a instituțiilor de învătământ de tip preşcolar, primar și secundar, ciclul I şi II\" și în scopul asigurării implementării unitare a prevederilor acesteia,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 342.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 293.33333333333337,
+            "r": 346.33333333333337,
+            "t": 355.3333333333333
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se pune în aplicare Decizia Consiliului Municipal Chişinãu nr.2/18 din 26 martie 2026,Cu privire la delegarea dreptului de aprobare a delimitării districtelor şcolare a instituțiilor de învățământ de tip preşcolar, primar și secundar, ciclul I și II\".",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 284.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.0,
+            "r": 549.6666666666667,
+            "t": 341.0
+          },
+          "charspan": [
+            0,
+            254
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Se pune în aplicare Decizia Consiliului Municipal Chişinãu nr.2/18 din 26 martie 2026,Cu privire la delegarea dreptului de aprobare a delimitării districtelor şcolare a instituțiilor de învățământ de tip preşcolar, primar și secundar, ciclul I și II\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Directorii instituțiilor de învāțământ preşcolar:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 268.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.0,
+            "r": 364.3333333333333,
+            "t": 284.33333333333337
+          },
+          "charspan": [
+            0,
+            52
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Directorii instituțiilor de învāțământ preşcolar:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. vor prezenta propuneri de reconfigurare sau completare a districtului şcolar arondat instituției, până la demararea procesului de înmatriculare.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 210.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.33333333333333,
+            "r": 549.3333333333333,
+            "t": 240.33333333333337
+          },
+          "charspan": [
+            0,
+            149
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "vor prezenta propuneri de reconfigurare sau completare a districtului şcolar arondat instituției, până la demararea procesului de înmatriculare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. vor examina necesitatea reconfigurārii sau completării districtului școlar, în vederea facilitării accesului și înmatriculārii copiilor din district;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 239.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.33333333333333,
+            "r": 549.6666666666667,
+            "t": 269.33333333333337
+          },
+          "charspan": [
+            0,
+            154
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "vor examina necesitatea reconfigurārii sau completării districtului școlar, în vederea facilitării accesului și înmatriculārii copiilor din district;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Directorii instituțiilor de învățământ primar și secundar, ciclul I și II:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 195.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.0,
+            "r": 477.0,
+            "t": 212.0
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Directorii instituțiilor de învățământ primar și secundar, ciclul I și II:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. vor prezenta propuneri de reconfigurare sau completare a districtului şcolar cu cel puțin o lună înainte de demararea procesului de înscriere în clasa I.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 137.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.0,
+            "r": 549.3333333333333,
+            "t": 168.66666666666663
+          },
+          "charspan": [
+            0,
+            158
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "vor prezenta propuneri de reconfigurare sau completare a districtului şcolar cu cel puțin o lună înainte de demararea procesului de înscriere în clasa I."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. vor analiza structura districtului școlar, în vederea asigurării şcolarizării tuturor copiilor din district și facilitării accesului acestora;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 166.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.0,
+            "r": 549.3333333333333,
+            "t": 197.0
+          },
+          "charspan": [
+            0,
+            147
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "vor analiza structura districtului școlar, în vederea asigurării şcolarizării tuturor copiilor din district și facilitării accesului acestora;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Directia managementul instituțional:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 124.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.0,
+            "r": 312.33333333333337,
+            "t": 138.33333333333337
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Directia managementul instituțional:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.1.va examina propunerile de reconfigurare sau completare a districtelor școlare propuse de instituțiile de învătământ;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 94.33333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 123.66666666666667,
+            "r": 550.0,
+            "t": 125.0
+          },
+          "charspan": [
+            0,
+            120
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "4.1.va examina propunerile de reconfigurare sau completare a districtelor școlare propuse de instituțiile de învătământ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.2.va elabora și va prezenta spre aprobare şefului Direcției generale educație, tineret și sport proiectul de ordin privind delimitarea districtelor şcolare ale instituțiilor de învățământ preşcolar, primar și secundar, ciclul I și II.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 711.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 123.66666666666667,
+            "r": 548.6666666666667,
+            "t": 760.6666666666666
+          },
+          "charspan": [
+            0,
+            236
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "4.2.va elabora și va prezenta spre aprobare şefului Direcției generale educație, tineret și sport proiectul de ordin privind delimitarea districtelor şcolare ale instituțiilor de învățământ preşcolar, primar și secundar, ciclul I și II."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Controlul asupra executării prezentului ordin se atribuie domnului Valentin Crudu, şef adjunct al Direcției generale educație, tineret și sport.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 640.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.33333333333333,
+            "r": 547.0,
+            "t": 673.6666666666667
+          },
+          "charspan": [
+            0,
+            147
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Controlul asupra executării prezentului ordin se atribuie domnului Valentin Crudu, şef adjunct al Direcției generale educație, tineret și sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Responsabili de executarea prevederilor prezentului ordin se desemnează Direcția managementul instituțional și directorii instituțiilor de invățământ preşcolar, primar şi secundar, ciclul I şi II.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 671.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.0,
+            "r": 548.3333333333333,
+            "t": 716.6666666666666
+          },
+          "charspan": [
+            0,
+            199
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Responsabili de executarea prevederilor prezentului ordin se desemnează Direcția managementul instituțional și directorii instituțiilor de invățământ preşcolar, primar şi secundar, ciclul I şi II."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Sef adjunct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 487.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 481.0,
+            "r": 546.3333333333334,
+            "t": 506.3333333333333
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Sef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "NOILIUL",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 477.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 456.0,
+            "r": 477.6666666666667,
+            "t": 498.0
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "NOILIUL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "VALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 462.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.0,
+            "r": 545.0,
+            "t": 477.3333333333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "VALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Ex.:Daniela Şalari, Tel.: 022 23-51-71",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 146.33333333333331,
+            "t": 261.33333333333337
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Ex.:Daniela Şalari, Tel.: 022 23-51-71"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Mlecel",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 197.0,
+            "r": 280.66666666666663,
+            "t": 261.0
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Mlecel"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 76.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 163.66666666666666,
+            "r": 456.6666666666667,
+            "t": 106.33333333333337
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 696.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 171.0,
+            "r": 425.0,
+            "t": 719.3333333333334
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "DECIZIE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 649.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 266.0,
+            "r": 363.3333333333333,
+            "t": 674.6666666666666
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "DECIZIE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr. 2/18",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 631.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.66666666666667,
+            "r": 162.0,
+            "t": 669.3333333333334
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "nr. 2/18"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la delegarea dreptului de aprobare a delimitárii districtelor școlare a instituțiilor de învățământ de tip preșcolar, primar și secundar, ciclul I şi II",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 537.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.66666666666667,
+            "r": 330.3333333333333,
+            "t": 599.0
+          },
+          "charspan": [
+            0,
+            163
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Cu privire la delegarea dreptului de aprobare a delimitárii districtelor școlare a instituțiilor de învățământ de tip preșcolar, primar și secundar, ciclul I şi II"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Având în vedere nota informativā a Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău nr. 1-06/2-239 din 27.11.2025, in temeiul art.: 27 alin. (2), art. 141 alin. (1), lit. k), din Codul educației; art. 14 alin. (3), art. 19 alin. (3) din Legea nr. 436/2006 Privind administrația publică locala\", art. 6 alin. (3), art. 10 alin. (3) din Legea nr. 136/2016,Privind statutul municipiului Chişinău\", Consiliul Municipal Chişinãu DECIDE:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 437.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.0,
+            "r": 543.0,
+            "t": 526.3333333333333
+          },
+          "charspan": [
+            0,
+            461
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Având în vedere nota informativā a Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău nr. 1-06/2-239 din 27.11.2025, in temeiul art.: 27 alin. (2), art. 141 alin. (1), lit. k), din Codul educației; art. 14 alin. (3), art. 19 alin. (3) din Legea nr. 436/2006 Privind administrația publică locala\", art. 6 alin. (3), art. 10 alin. (3) din Legea nr. 136/2016,Privind statutul municipiului Chişinău\", Consiliul Municipal Chişinãu DECIDE:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se deleagă șefului Directiei generale educație, tineret și sport a Consiliului Municipal Chișinãu dreptul de a aproba delimitarea districtelor școlare a instituțiilor de învăşământ de tip preşcolar, primar și secundar ciclul I și II din oraşul Chişināu.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 371.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.33333333333333,
+            "r": 541.3333333333333,
+            "t": 423.66666666666663
+          },
+          "charspan": [
+            0,
+            256
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Se deleagă șefului Directiei generale educație, tineret și sport a Consiliului Municipal Chișinãu dreptul de a aproba delimitarea districtelor școlare a instituțiilor de învăşământ de tip preşcolar, primar și secundar ciclul I și II din oraşul Chişināu."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Viceprimarul de ramură al municipiului Chișinãu va efectua controlul executärii prevederilor prezentei decizii.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 347.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.0,
+            "r": 540.6666666666667,
+            "t": 379.33333333333337
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Viceprimarul de ramură al municipiului Chișinãu va efectua controlul executärii prevederilor prezentei decizii."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PREŞEDINTE DE SEDINTÃ",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 225.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666667,
+            "r": 239.0,
+            "t": 244.0
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "PREŞEDINTE DE SEDINTÃ"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "SECRETAR INTERIMAR ALCONSILIULUI",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 184.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.0,
+            "r": 222.66666666666666,
+            "t": 214.33333333333337
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "SECRETAR INTERIMAR ALCONSILIULUI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "DenisŞOVA",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 408.6666666666667,
+            "r": 478.6666666666667,
+            "t": 236.66666666666663
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "DenisŞOVA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Adrian TALMACI",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 178.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 408.3333333333333,
+            "r": 508.0,
+            "t": 192.33333333333337
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Adrian TALMACI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din &bwantie w86",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 627.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 393.6666666666667,
+            "r": 531.0,
+            "t": 664.0
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "din &bwantie w86"
+    }
+  ],
+  "version": "1.10.0"
+}

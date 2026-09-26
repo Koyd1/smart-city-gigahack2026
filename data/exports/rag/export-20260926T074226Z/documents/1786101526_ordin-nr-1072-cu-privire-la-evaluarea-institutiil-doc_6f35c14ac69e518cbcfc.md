@@ -1,0 +1,527 @@
+---
+document_id: "doc_6f35c14ac69e518cbcfc"
+version_id: "ver_6f35c14a_01999d3bf9a2"
+title: "1786101526_ordin-nr-1072-cu-privire-la-evaluarea-institutiilor-de-invatamant-general-2026.pdf"
+source_url: "https://chisinauedu.dgets.md/storage/orders/1786101526_ordin-nr-1072-cu-privire-la-evaluarea-institutiilor-de-invatamant-general-2026.pdf"
+retrieved_at: "2026-09-26T06:46:27.432598+00:00"
+content_sha256: "01999d3bf9a28912d3e9e1499f5a8c4c435bebe56f518711c61a65711cb210c9"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+## 1. Se aprobă:
+
+- 1.2. Graficul de evaluare a instituțiilor de învățământ general pentru perioada 18 - 21 august 2026, conform Anexei nr.2; 2. Direcția managementul instituțional (D. Garbuz , şefă):
+
+## ORDIN
+
+Cu privire la evaluarea instituțiilor de învățământ general către debutul anului de studii 2026-2027
+
+În conformitate cu Planul anual de acțiuni al Direcției Generale Educație, Tineret și Sport a Consiliului municipal Chișinău pentru anul 2026, cu Ordinul DGETS nr.01/1-7/1021 din 03.07.2026 cu privire la evaluarea nivelului de pregătire a instituțiilor de învățământ general către anul de studii 2026-2027 și în scopul determinării nivelului de pregătire a instituțiilor de învățământ general pentru debutul anului de studii 2026-2027,
+
+## ORDON:
+
+- 1.1. Comisiile de evaluare a instituțiilor de învățământ general privind nivelul de pregătire către debutul anului de studii 2026-2027, conform Anexei nr.1;
+- 2.1. va informa membrii comisiilor de evaluare și directorii instituțiilor de învățământ general cu privire la prevederile prezentului ordin;
+3. Membrii comisiilor de evaluare:
+- 2.2. va asigura membrii comisiilor de evaluare cu materialele necesare desfăşurării eficiente a procesului de evaluare.
+- 3.1. vor evalua, în baza indicatorilor aprobați, nivelul de pregătire a instituțiilor de învățământ general către debutul anului de studii 2026-2027;
+- 3.2. vor prezenta șefilor subdiviziunilor DGETS rapoartele cu privire la rezultatele evaluării, în vederea generalizării acestora, până la data de 11.09.2026.
+
+<!-- image -->
+
+## CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT
+
+<!-- image -->
+
+07.08.26nr. oe/1-7/1072
+
+<!-- page: 2 -->
+
+4. Şefi subdiviziunilor Direcției generale educație, tineret și sport vor prezenta Raportul cu privire la totalurile evaluării nivelului de pregătire a instituțiilor de învățământ general în cadrul şedinței cu directorii instituțiilor de învățământ, organizată în luna septembrie 2026, conform domeniilor de competență.
+5. Şefii Direcțiilor educație, tineret și sport din sectoarele Botanica, Buiucani, Centru, Ciocana și Rîşcani (I. Musteață, A. Vutcariov, R. Spînu, E. Antoci și V. Rău), precum și directorii instituțiilor de învățământ general, vor asigura condițiile necesare pentru buna desfăşurare a activității comisiilor de evaluare.
+6. Responsabil de realizarea prevederilor prezentului ordin se desemnează V. Crudu, şef adjunct al Direcției generale educație, tineret și sport.
+
+<!-- image -->
+
+Ex.: Daniela Şalari,
+
+Tel.: 022 23-51-71
+
+<!-- page: 3 -->
+
+## Comisiile de evaluare a instituțiilor de învățământ general privind nivelul de pregătire către debutul anului de studii 2026-2027
+
+## Comisia nr.1, sectorul Botanica
+
+1. Valentin Crudu, şef adjunct al DGETS, preşedintele comisiei;
+3. Veronica Donțu, șefa, Direcția managementul resurselor umane, membră;
+2. Elena Bușilo, specialistă principală, Direcția managementul instituțional, secretară;
+4. Boris Curtean, inginer superior, Secția monitorizarea și gestiunea exploatării și reparației edificiilor, membru;
+5. Vitalie Palamari, comandant adjunct, Direcția Situații Excepționale mun. Chişinău, membru;
+6. Irina Grigorescu, medic specialist, Centrul de Sănătate Publică Chişinău, membră;
+7. Alexandra Coca, inspectoare principală, ANSA, Subdiviziunea teritorială mun.Chişinău / Ialoveni / Străşeni / Criuleni / Dubăsari, membră.
+
+## Comisia nr.2, sectorul Buiucani
+
+1. Andrei Pavaloi, şef adjunct al DGETS, preşedintele comisiei;
+2. Jana Chihai, specialistă principală, Direcția managementul instituțional, secretară;
+3. Viorica Stihari, specialistă principală, Direcția managementul resurselor umane, membră;
+4. Ana Bodean, inginer superior, Secția monitorizarea și gestiunea exploatării și reparației edificiilor, membră;
+5. Irina Botnari, şef interimar al SPDSP Buiucani, Direcția Situații Excepționale mun. Chişinău, membră;
+6. Valeriu Goncear, medic specialist, Centrul de Sănătate Publică Chişinău, membru;
+7. Vasile Vorojbit, inspector principal, ANSA, Subdiviziunea teritorială mun.Chişinău / Ialoveni / Străşeni / Criuleni / Dubăsari, membru.
+
+## Comisia nr.3, sectorul Centru
+
+1. Daniela Munca - Aftenev, şefă adjunctă a DGETS, preşedintele comisiei;
+3. Valeriu Mardari, jurist, Serviciul asistență juridică, membru;
+2. Svetlana Nazaria, specialistă principală, Direcția managementul învățământului extraşcolar, tineret și sport, secretară;
+4. Daniel Cerescu, şef Secția monitorizarea și gestiunea exploatării și reparației edificiilor, membru;
+5. Lilian Glodea, ofiter principal, Direcția Situații Excepționale mun. Chișinău, membru;
+7. Ala Taban, inspectoare superioară, ANSA, Subdiviziunea teritorială mun.Chişinău / Ialoveni / Străşeni / Criuleni / Dubăsari, membră.
+6. Ivan Iabanji, medic specialist, Centrul de Sănătate Publică Chişinău, membru;
+
+<!-- page: 4 -->
+
+## Comisia nr.4, sectorul Ciocana
+
+1. Daniela Garbuz, șefà a Direcției managementul instituțional, preşedintele comisiei;
+2. Angela Monacu, specialistă principală, Direcția managementul instituțional, secretară;
+4. Vasile Apreutesi, inginer superior, Secția monitorizarea și gestiunea exploatării și reparației edificiilor, membru;
+3. Mariana Jandîc, specialistă principală, Direcția managementul resurselor umane, membră;
+5. Aliona Cobîlețchi, şefă a SPDSP Ciocana, Direcția Situații Excepționale mun. Chişinău, membru;
+6. Tudor Puiu, medic specialist, Centrul de Sănătate Publică Chişinău, membru;
+7. Lilia Ursova, inspectoare superioară, ANSA, Subdiviziunea teritorială mun.Chişinău / Ialoveni / Străşeni / Criuleni / Dubăsari, membru.
+
+## Comisia nr.5, sectorul Rîşcani
+
+1. Silvia Canațui, şefă a Direcției managementul învățământului extraşcolar, tineret și sport adjunct, preşedintele comisiei;
+2. Raisa Stratulat, specialistă principală, Direcția managementul învățământului extraşcolar, tineret și sport, secretară;
+3. Svetlana Păgînu, specialistă principală, Directia managementul resurselor umane, membră;
+4. Corina Ciobu, ingineră principală, Secția monitorizarea și gestiunea exploatării și reparației edificiilor, membră;
+5. Alexandr Balica, ofițer principal a SPDSP Rîşcani, Direcția Situații Excepționale mun. Chişinău, membră;
+6. Lucia Babin, medic specialist, Centrul de Sănătate Publică Chişinău, membră;
+7. Eugenia Milaniuc, inspectoare superioară, ANSA, Subdiviziunea teritorială mun.Chişinău / Ialoveni / Străşeni / Criuleni / Dubăsari, membră.
+
+<!-- page: 5 -->
+
+## Graficul de evaluare a instituțiilor de învățământ general
+
+## Sectorul Botanica 18, 19, 20, 21 august 2026
+
+| Nr. d/o                                                            | Instituția de învățământ                                                                               | Ora                                                                |
+|--------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+| 18 august 2026, punct de pornire: LT Mircea cel Bătrân", ora 08:00 | 18 august 2026, punct de pornire: LT Mircea cel Bătrân", ora 08:00                                     | 18 august 2026, punct de pornire: LT Mircea cel Bătrân", ora 08:00 |
+| 1.                                                                 | LT Mircea cel Bătrân"                                                                                  | 08:00 - 08:15                                                      |
+| 2.                                                                 | Grădinița de copii nr. 141                                                                             | 08:20 - 08:35                                                      |
+| 3.                                                                 | LT ,Pro Succes" (bloc A, B)                                                                            | 08:45 - 09:15                                                      |
+| 4.                                                                 | Grădinita de copii nr. 98                                                                              | 09:25 - 09:40                                                      |
+| 5.                                                                 | Centrul municipal de instruire pentru copii și adolescenți care necesită conditii speciale de educație | 09:50 - 10:05                                                      |
+| 6.                                                                 | Grădinița de copii nr. 44                                                                              | 10:10-10:25                                                        |
+| 7.                                                                 | IP Gimnaziul nr. 31                                                                                    | 10:30 - 10:45                                                      |
+| 8.                                                                 | Grădinița de copii nr. 104                                                                             | 10:50 - 11:05                                                      |
+| 9.                                                                 | Gimnaziul nr. 49                                                                                       | 11:20-11:35                                                        |
+| 10.                                                                | Grădinița de copii nr. 103                                                                             | 11:45 - 12:00                                                      |
+| 11.                                                                | Gimnaziul ,,Galata"                                                                                    | 12:10 - 12:25                                                      |
+| 12.                                                                | Grădinița de copii nr. 123                                                                             | 13:05-13:20                                                        |
+| 13.                                                                | Liceul Privat ,Elitex"                                                                                 | 13:30- 13:45                                                       |
+| 14.                                                                | Grădinita de copii nr. 180                                                                             | 13:50-14:05                                                        |
+| 15.                                                                | Grădinița de copii nr. 181                                                                             | 14:10-14:25                                                        |
+| 16.                                                                | Şcoala primară ,Spiridon Vangheli"                                                                     | 14:40-14:55                                                        |
+| 17.                                                                | CCC ,,Luceafarul"                                                                                      | 15:00-15:15                                                        |
+| 18.                                                                | IPLTPA Mihai Grecu"                                                                                    | 15:25-15:40                                                        |
+| 19.                                                                | IPLT Nicolae Iorga"                                                                                    | 15:45-16:00                                                        |
+| 20.                                                                | Bazinul de înot                                                                                        | 16:05-16:20                                                        |
+| 19 august 2026, punct de pornire: DETS Botanica, ora 08:00         | 19 august 2026, punct de pornire: DETS Botanica, ora 08:00                                             | 19 august 2026, punct de pornire: DETS Botanica, ora 08:00         |
+| 1.                                                                 | IPLT ,,Traian"                                                                                         | 08:05-08:20                                                        |
+| 2.                                                                 | Grădinița de copii nr. 151                                                                             | 08:25-08:40                                                        |
+| 3.                                                                 | Grădinița de copii nr. 182                                                                             | 08:50-09:05                                                        |
+| 4.                                                                 | Grădinița de copii nr. 168                                                                             | 09:10-09:25                                                        |
+| 5.                                                                 | Şcoala specială nr. 12 pentru copii cu surditate tardivă                                               | 09:30-09:45                                                        |
+| 6.                                                                 | IPLPA Iurie Harmelin"                                                                                  | 09:55-10:10                                                        |
+| 7.                                                                 | Şcoala primară − grădiniță nr. 124                                                                     | 10:20-10:35                                                        |
+| 8.                                                                 | Grădinița de copii nr. 153                                                                             | 10:40-10:55                                                        |
+| 9.                                                                 | IPLT ,Petru Movila"                                                                                    | 11:05-11:20                                                        |
+| 10.                                                                | Grădinița de copii nr. 165                                                                             | 11:25-11:40                                                        |
+| 11.                                                                | Grădinița de copii nr. 112                                                                             | 11:50-12:05                                                        |
+| 12.                                                                | IPLT Tudor Vladimirescu"                                                                               | 13:00-13:15                                                        |
+| 13.                                                                | LT ,Iulia Haşdeu"                                                                                      | 13:25-13:40                                                        |
+| 14.                                                                | Grădinița de copii nr. 35                                                                              | 13:50-14:05                                                        |
+| 15.                                                                | Grădinița de copii nr. 99                                                                              | 14:10-14:25                                                        |
+| 16.                                                                | Grădinița de copii nr. 49                                                                              | 14:50-15:05                                                        |
+| 17.                                                                | Grădinița de copii nr. 216                                                                             | 15:25-15:40                                                        |
+
+<!-- page: 6 -->
+
+| 18.                                                        | Grădinița de copii nr. 17                                  | 15:50-16:05                                                |
+|------------------------------------------------------------|------------------------------------------------------------|------------------------------------------------------------|
+| 19.                                                        | LT ,Vasile Alecsandri"                                     | 16:20-16:35                                                |
+| 20.                                                        | Şcoala sportivă specializată de handbal nr.2               | 16:50-17:10                                                |
+| 20 august 2026, punct de pornire: DETS Botanica, ora 08:00 | 20 august 2026, punct de pornire: DETS Botanica, ora 08:00 | 20 august 2026, punct de pornire: DETS Botanica, ora 08:00 |
+| 1.                                                         | Grădinița de copii nr. 142                                 | 08:05-08:20                                                |
+| 2.                                                         | Grădinița de copii nr. 122                                 | 08:30-08:45                                                |
+| 3.                                                         | IPLT cu Frecvență Redusă nr.2                              | 08:50-09:05                                                |
+| 4.                                                         | Grădinița de copii nr. 71                                  | 09:15-09:30                                                |
+| 5.                                                         | IPLT Dimitrie Cantemir"                                    | 09:35-09:50                                                |
+| 6.                                                         | Centrul Orăşenesc al Tinerilor Naturalişti COTN            | 09:55-10:10                                                |
+| 7.                                                         | Gimnaziul Decebal"                                         | 10:20-10:35                                                |
+| 8.                                                         | Şcoala primară nr.120                                      | 10:40 - 10:55                                              |
+| 9.                                                         | IPLT ,RAMBAM"                                              | 11:00-11:15                                                |
+| 10.                                                        | LTPS ,Gloria"                                              | 11:20-11:35                                                |
+| 11.                                                        | IPLT ,Liviu Rebreanu"                                      | 11:45-12:00                                                |
+| 12.                                                        | Grădinița de copii nr. 106                                 | 12:10-12:25                                                |
+| 13.                                                        | Grădinița de copii nr. 40                                  | 13:10-13:25                                                |
+| 14.                                                        | IPLT ,Mihai Eminescu"                                      | 13:40-13:55                                                |
+| 15.                                                        | Grădinița de copii nr. 139                                 | 14:00-14:15                                                |
+| 16.                                                        | Grădinița de copii nr. 96                                  | 14:25-14:40                                                |
+| 17.                                                        | IP Şcoala Primară Pas cu Pas"                              | 14:50-15:05                                                |
+| 18.                                                        | Grădinița de copii nr. 9                                   | 15:15-15:25                                                |
+| 19.                                                        | Gimnaziul ,,Nicolae H. Costin"                             | 15:35-15:50                                                |
+| 20.                                                        | LTPA ,,Elena Alistar"                                      | 16:00-16:15                                                |
+| 21.                                                        | Grădinița de copii nr. 89                                  | 16:25-16:40                                                |
+| 21 august 2026, punct de pornire: DETS Botanica, ora 08:00 | 21 august 2026, punct de pornire: DETS Botanica, ora 08:00 | 21 august 2026, punct de pornire: DETS Botanica, ora 08:00 |
+| 1.                                                         | Şcoala Internațională Heritage                             | 08:00-08:15                                                |
+| 2.                                                         | Gimnaziul nr.102/Brăila/                                   | 08:30-08:45                                                |
+| 3.                                                         | Grădinița de copii nr. 45 /Brăila/                         | 08:50-09:05                                                |
+| 4.                                                         | IPLT ,,Grigore Vieru" /Băcioi/                             | 09:15-09:30                                                |
+| 5.                                                         | Grădinița de copii nr. 140 /Băcioi/                        | 09:40-09:55                                                |
+| 6.                                                         | Grădinița de copii nr. 171 /Băcioi/                        | 10:05-10:20                                                |
+| 7.                                                         | Grădinița de copii nr. 176/Băcioi/                         | 10:30-10:45                                                |
+| 8.                                                         | IPŞcoala Primară nr.101 /Băcioi/                           | 10:55-11:10                                                |
+| 9.                                                         | Grădinița de copii nr. 101 /Băcioi/                        | 11:20-11:35                                                |
+| 10.                                                        | Gimnaziul nr.67/Revaca/                                    | 13:00-13:15                                                |
+| 11.                                                        | IPLT Alexandru cel Bun" /Sângera/                          | 13:25-13:40                                                |
+| 12.                                                        | Grădinița de copii nr. 202 /Sângera/                       | 13:50-14:05                                                |
+| 13.                                                        | Gimnaziul nr.68 /Dobrogea/                                 | 14:25-14:40                                                |
+| 14.                                                        | Grădinița de copii nr. 214 /Dobrogea/                      | 14:45-15:00                                                |
+
+<!-- page: 7 -->
+
+|   15. | Grădinița de copii nr. 79     | 15:50-16:05   |
+|-------|-------------------------------|---------------|
+|   16. | Grădinița de copii nr. 77     | 16:10-16:25   |
+|   17. | Grădinița de copii nr. 91     | 16:30-16:45   |
+|   18. | LT ,Bogdan Petriceicu Haşdeu" | 16:50-17:05   |
+
+## Sectorul Centru 18, 19, 20 august 2026
+
+| N do                                                    | Instituția de învățământ                                      | Ora                                                     |
+|---------------------------------------------------------|---------------------------------------------------------------|---------------------------------------------------------|
+| 18 august 2026                                          | 18 august 2026                                                | 18 august 2026                                          |
+| Punct de pornire: DETS Centru, ora 08:00                | Punct de pornire: DETS Centru, ora 08:00                      | Punct de pornire: DETS Centru, ora 08:00                |
+| 1.                                                      | IPLT ,,Gheorghe Asachi"                                       | 08:15 - 08:35                                           |
+| 2.                                                      | IPLT ,Mihailo Koțiubinski"                                    | 08:50 - 09:10                                           |
+| 3.                                                      | Grădinița de copii nr.12                                      | 09:25-09:40                                             |
+| 4.                                                      | Grădinița de copii nr.210                                     | 09:55-10:10                                             |
+| 5.                                                      | CCTPCA Politehnic"                                            | 10:25-10:40                                             |
+| 6.                                                      | Grădinița de copii nr.60                                      | 10.55-11:10                                             |
+| 7.                                                      | CE cu alternativa Waldorf Gimnaziu-grădiniță Adrian Păunescu" | 11:25-11:45                                             |
+| 8.                                                      | Grădinița de copii nr.73                                      | 12:00-12:15                                             |
+| 9.                                                      | Grădinița de copii nr.92                                      | 12:30-12:45                                             |
+| 10.                                                     | LT Vasile Lupu"                                               | 13:00-13:20                                             |
+| 11.                                                     | Grădinița de copii nr.156                                     | 13:35-13:50                                             |
+| 12.                                                     | Grădinița de copii nr.175                                     | 14:05-14:20                                             |
+| 13.                                                     | IPLTPA ,Nicolae Sulac"                                        | 14:35-14:55                                             |
+| 14.                                                     | Grădinița de copii nr.194                                     | 15:10-15:30                                             |
+| 15.                                                     | Gimnaziul nr.81 (cu program special) /Codru/                  | 15:45-16:00                                             |
+| 16.                                                     | IP Gimnaziul nr. 42 /Codru/                                   | 16:10-16:25                                             |
+| 17.                                                     | Instituția de Învățământ Liceul Litterarum"                   | 16:35-16:40                                             |
+| 18.                                                     | IPCE (şcoala primară − grădiniță) nr. 88 /Codru/              | 16:45-17:00                                             |
+| 19 august 2026 Punct de pornire: DETS Centru, ora 08:00 | 19 august 2026 Punct de pornire: DETS Centru, ora 08:00       | 19 august 2026 Punct de pornire: DETS Centru, ora 08:00 |
+| 1.                                                      | Grădinița de copii nr.23                                      | 08:10-08:25                                             |
+| 2.                                                      | IPLT ,,Minerva"                                               | 08:35-08:55                                             |
+| 3.                                                      | Liceul Teoretic pentru copii cu deficiențe de vedere          | 09:10-09:30                                             |
+| 4.                                                      | Grădinița de copii nr.46                                      | 09:45-10:00                                             |
+| 5.                                                      | Grădinița de copii nr.23                                      | 10:15-10:30                                             |
+| 6.                                                      | Grădinița de copii nr.133                                     | 10:45-11:00                                             |
+| 7.                                                      | CCC ,Floarea Soarelui"                                        | 11:15-11:30                                             |
+| 8.                                                      | Şcoala auxiliară nr. 7                                        | 11:35-11:50                                             |
+| 9.                                                      | LT ,,Titu Maiorescu"                                          | 12:05-12:25                                             |
+| 10.                                                     | Grădinița de copii nr.53                                      | 12:40-12:55                                             |
+| 11.                                                     | IPLT Mihai Viteazul"                                          | 13:10-13:30                                             |
+| 12.                                                     | CE Gimnaziul-Grădiniță STEAM"                                 | 13:45-14:05                                             |
+| 13.                                                     | Grădinița de copii nr.227                                     | 14:20-14:35                                             |
+| 14.                                                     | Grădinița de copii nr.78                                      | 14:50-15:05                                             |
+| 15.                                                     | Grădinița de copii nr.15                                      | 15:20-15:35                                             |
+
+<!-- page: 8 -->
+
+| 16.                                                     | Grădinița de copii nr.55                                                    | 15:50-16:05                                             |
+|---------------------------------------------------------|-----------------------------------------------------------------------------|---------------------------------------------------------|
+| 17.                                                     | Grădinița de copii nr.7                                                     | 16:20-16:35                                             |
+| 18.                                                     | Grădinița de copii nr.167                                                   | 16:50-17:05                                             |
+| 20 august 2026 Punct de pornire: DETS Centru, ora 08:00 | 20 august 2026 Punct de pornire: DETS Centru, ora 08:00                     | 20 august 2026 Punct de pornire: DETS Centru, ora 08:00 |
+| 1.                                                      | Şcoala specializată în scrimă a rezervelor olimpice pentru copii și juniori | 08:15-08:35                                             |
+| 2.                                                      | IPLT ,Dumitru Matcovschi"                                                   | 08:50-09:10                                             |
+| 3.                                                      | Gimnaziul nr.53                                                             | 09:25-09:45                                             |
+| 4.                                                      | LT Academician Constantin Sibirschi"                                        | 10:00-10:20                                             |
+| 5.                                                      | Grădinița de copii nr.6                                                     | 10:35-10:55                                             |
+| 6.                                                      | Şcoala primară-grădiniță nr.226                                             | 11.10-11:30                                             |
+| 7.                                                      | Grădinița de copii nr.59                                                    | 11:45-12:05                                             |
+| 8.                                                      | IPLT ,,Universul"                                                           | 12:20-12:40                                             |
+| 9.                                                      | Grădinița de copii nr.125                                                   | 12:55-13:15                                             |
+| 10.                                                     | Instituția de Învățământ Liceul Excelsis"                                   | 13:30-13:50                                             |
+| 11.                                                     | Grădinița de copii nr.8                                                     | 14:05-14:25                                             |
+| 12.                                                     | IPLT cu Frecvență Redusă nr.1                                               | 14:40-15:00                                             |
+| 13.                                                     | Şcoala auxiliară nr.5                                                       | 15:15-15:35                                             |
+| 14.                                                     | Grădinița de copii nr.174                                                   | 15:50-16:10                                             |
+
+## Sectorul Buiucani 18, 19, 20 august 2026
+
+| N do                                                                   | Instituția de învățământ                                               | Ora                                                                    |
+|------------------------------------------------------------------------|------------------------------------------------------------------------|------------------------------------------------------------------------|
+| 18 august 2026 Punct de pornire: Grădinita de copii nr. 185, ora 08:00 | 18 august 2026 Punct de pornire: Grădinita de copii nr. 185, ora 08:00 | 18 august 2026 Punct de pornire: Grădinita de copii nr. 185, ora 08:00 |
+| 1.                                                                     | Grădinița de copii nr. 185                                             | 08:00-08:15                                                            |
+| 2.                                                                     | Grădinița de copii nr. 186                                             | 08:20 - 08:35                                                          |
+| 3.                                                                     | IPLT ,Liviu Deleanu"                                                   | 08:40-08:55                                                            |
+| 4.                                                                     | IPLT Anton Cehov"                                                      | 09:00-09:15                                                            |
+| 5.                                                                     | Liceul cu Profil Sportiv Buiucani                                      | 09:15-09:30                                                            |
+| 6.                                                                     | Grădinița de copii nr. 183                                             | 09:35-09:50                                                            |
+| 7.                                                                     | Grădinița de copii nr. 164                                             | 09:55-10:10                                                            |
+| 8.                                                                     | Grădinița de copii nr. 166                                             | 10:15-10:30                                                            |
+| 9.                                                                     | IPLT Onisifor Ghibu"                                                   | 10:35-10:50                                                            |
+| 10.                                                                    | IPLT Petru Rareş"                                                      | 10:50-11:15                                                            |
+| 11.                                                                    | Şcoala Sportivă nr. 8                                                  | 11:20-11:35                                                            |
+| 12.                                                                    | Grădinița de copii nr. 158                                             | 11:40-11:55                                                            |
+| 13.                                                                    | Grădinița de copii nr. 26                                              | 12:05-12:20                                                            |
+| 14.                                                                    | Grădinița de copii nr. 116                                             | 12:25-12:40                                                            |
+| 15.                                                                    | Grădinița de copii nr. 145                                             | 12:45-13:00                                                            |
+| 16.                                                                    | Grădinița de copii nr. 143                                             | 13:05-13:20                                                            |
+| 17.                                                                    | LT ,,Mihai Marinciuc"                                                  | 13:20-14:00                                                            |
+| 18.                                                                    | Şcoala Sportivă specializată de taekwondo WT nr. 6                     | 14:00-14:15                                                            |
+| 19.                                                                    | Grădinița de copii nr. 3                                               | 14:20-14:35                                                            |
+| 20.                                                                    | IP Liceul Columna"                                                     | 14:40-15:00                                                            |
+| 21.                                                                    | LT ,Ivan S. Neciui-Levițchi"                                           | 15:05-15:20                                                            |
+| 22.                                                                    | CCT                                                                    | 15:20 - 15:35                                                          |
+
+<!-- page: 9 -->
+
+| 23.                                                                           | Grădinița de copii nr. 119                                                               | 15:35-15:50                                                                   |
+|-------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------|
+| 24.                                                                           | IPÎLT ,ORIZONT", Buiucani                                                                | 15:55-16:10                                                                   |
+| 25.                                                                           | LT ,Dante Alighieri" (clasele primare)                                                   | 16:15-16:25                                                                   |
+| 26.                                                                           | IPLTPA ,,Ion și Doina Aldea-Teodorovici"                                                 | 16:30-16:45                                                                   |
+| 27.                                                                           | Grădinița de copii nr. 62                                                                | 16:50-17:05                                                                   |
+| 19 august 2026 Punct de pornire: IPLT Mircea Eliade" (cl. primare), ora 08:00 | 19 august 2026 Punct de pornire: IPLT Mircea Eliade" (cl. primare), ora 08:00            | 19 august 2026 Punct de pornire: IPLT Mircea Eliade" (cl. primare), ora 08:00 |
+| 1.                                                                            | IPLT ,Mircea Eliade" (cl. primare)                                                       | 08:00-08:15                                                                   |
+| 2.                                                                            | IPLT Mircea Eliade"                                                                      | 08:20-08:35                                                                   |
+| 3.                                                                            | IPLT Spiru Haret"                                                                        | 08:40-08:55                                                                   |
+| 4.                                                                            | Grădinița de copii nr. 16                                                                | 09:00-09:15                                                                   |
+| 5.                                                                            | Grădinița de copii nr. 63                                                                | 09:20-09:35                                                                   |
+| 6.                                                                            | IPLT Alexandr S. Puşkin"                                                                 | 09:40-09:55                                                                   |
+| 7.                                                                            | IPLT Vasile Vasilache"                                                                   | 10:00-10:15                                                                   |
+| 8.                                                                            | Grădinița de copii nr. 215                                                               | 10:20-10:35                                                                   |
+| 9.                                                                            | LT ,Nicolae Gogol"                                                                       | 10:40-10:55                                                                   |
+| 10.                                                                           | CEE ,Lăstărel"                                                                           | 11:00-11:15                                                                   |
+| 11.                                                                           | Şcoala specializată pentru Copii și Tineret a rezervelor Olimpice de Polo de Apă Delfin" | 11:20-11:35                                                                   |
+| 12.                                                                           | LT Antioh Cantemir"                                                                      | 11:40-11:55                                                                   |
+| 13.                                                                           | Liceul de Creativitate și Inventivitate PROMETEU-PRIM"                                   | 12:00-12:15                                                                   |
+| 14.                                                                           | Şcoala Primară de Creativitate și Inventică ,PROMETEU- PROTALENT"                        | 12:20-12:35                                                                   |
+| 15.                                                                           | Grădinița de copii nr. 52                                                                | 12:45-13:00                                                                   |
+| 16.                                                                           | Şcoala primară-grădinită Antonin Ursu"                                                   | 13:05-13:45                                                                   |
+| 17.                                                                           | Grădinița de copii nr. 34                                                                | 14:10-14:20                                                                   |
+| 18.                                                                           | IPLT Principesa Natalia Dadiani"                                                         | 14:25-14:40                                                                   |
+| 19.                                                                           | IPÎLT ,Evrica"                                                                           | 14:45-15:00                                                                   |
+| 20.                                                                           | Grădinița de copii nr. 54                                                                | 15:05-15:20                                                                   |
+| 21.                                                                           | Grădinița de copii nr. 110                                                               | 15:25-15:40                                                                   |
+| 22.                                                                           | Grădinița de copii nr. 75                                                                | 15:45-16:00                                                                   |
+| 23.                                                                           | Grădinița de copii nr. 87                                                                | 16:05-16:20                                                                   |
+| 24.                                                                           | Grădinița de copii nr. 85                                                                | 16:25-16:40                                                                   |
+| 25.                                                                           | Şcoala Sportivă Speranța                                                                 | 16:45-17:00                                                                   |
+| 26.                                                                           | Grădinița de copii nr. 113                                                               | 17:00-17:15                                                                   |
+| 20 august 2026                                                                | 20 august 2026                                                                           | 20 august 2026                                                                |
+| Punct de pornire: LT European, ora 08:00                                      | Punct de pornire: LT European, ora 08:00                                                 | Punct de pornire: LT European, ora 08:00                                      |
+| 1.                                                                            | LT European                                                                              | 08:00-08:15                                                                   |
+| 2.                                                                            | ÎPI Liceul MOLDO-FINLANDEZ                                                               |                                                                               |
+| 3.                                                                            | Grădinița nr. 2 /Truşeni/                                                                | 08:30-08:45                                                                   |
+| 4.                                                                            | Grădinița nr. 1 /Truşeni/                                                                | 09:00-09:15                                                                   |
+| 5.                                                                            | Gimnaziul nr. 99 ,Gh. V. Madan",/Truseni/                                                | 09:20-09:35                                                                   |
+| 6.                                                                            | Complexul educațional Truşeni"                                                           | 09:40-09:55                                                                   |
+| 7.                                                                            | Grădinița nr. 193 /Vatra/                                                                | 10:15-10:30                                                                   |
+| 8.                                                                            | Gimnaziul nr.51 / Vatra/                                                                 | 10:35-10:50                                                                   |
+| 9.                                                                            | Gimnaziul Costin /Ghidighici/                                                            | 11:10-11:25                                                                   |
+| 10.                                                                           | Grădinița nr. 203 /Ghidighici/                                                           | 11:25-11:40                                                                   |
+
+<!-- page: 10 -->
+
+|   11. | Gimnaziul nr. 65, / Condrita/                                   | 12:05-12:20   |
+|-------|-----------------------------------------------------------------|---------------|
+|   12. | LT Dante Alighieri"                                             | 12:45-13:25   |
+|   13. | Grădinița de copii nr. 157                                      | 13:30-13:45   |
+|   14. | Gimnaziu nr. 86                                                 | 13:50-14:10   |
+|   15. | Şcoala sportivă specializată de şah nr. 7                       | 14:10-14:25   |
+|   16. | Grădinița de copii nr. 20                                       | 14:30-14:45   |
+|   17. | Şcoala sportivă specializată pentru copii și juniori la haltere | 14:50-15:05   |
+|   18. | Gimnaziul ,Durleşti"                                            | 15:20-15:45   |
+|   19. | IPÎ Şcoala primara - grădiniță Abeceluş", /Durlești/            | 15:50-16:05   |
+|   20. | Grădinița de copii nr. 201 /Durleşti/                           | 16:10-16:25   |
+|   21. | Grădinița de copii nr. 3 /Durlești/                             | 16:30-16:45   |
+|   22. | IPÎ LT Orizont" /Durleşti/                                      | 16:50-17:05   |
+|   23. | IPLT Hyperion" /Durleşti/                                       | 17:10-17:25   |
+
+## Sectorul Ciocana18, 19, 20 august 2026
+
+| N do                                                     | Instituția de învățământ                                 | Ora                                                      |
+|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| 18 august 2026 Punct de pornire: DETS Ciocana, ora 08:00 | 18 august 2026 Punct de pornire: DETS Ciocana, ora 08:00 | 18 august 2026 Punct de pornire: DETS Ciocana, ora 08:00 |
+| 1.                                                       | IPLPS ,AVANTE"                                           | 08:10 - 08:25                                            |
+| 2.                                                       | IP Şcoala sportivă pentru copii și juniori nr. 11        | 08:35 - 08:55                                            |
+| 3.                                                       | Grădinița de copii nr.161                                | 09:10-09:30                                              |
+| 4.                                                       | IP Şcoala Primară Anatol Popovici"                       | 09:45-10:00                                              |
+| 5.                                                       | Şcoala Primară nr. 95                                    | 10:15-10:30                                              |
+| 6.                                                       | Grădinița de copii nr. 130                               | 10:45-11:00                                              |
+| 7.                                                       | CCC Ghiocel"                                             | 11:15-11:30                                              |
+| 8.                                                       | Grădinița de copii nr. 30                                | 11:35-11:50                                              |
+| 9.                                                       | IPLT ,,Olimp"                                            | 12:05-12:25                                              |
+| 10.                                                      | Grădinița de copii nr. 184                               | 12:40-12:55                                              |
+| 11.                                                      | IPLT ,C. Negruzzi"                                       | 13:10-13:30                                              |
+| 12.                                                      | Grădinița de copii nr. 155                               | 13:45-14:05                                              |
+| 13.                                                      | Grădinița de copii nr. 211                               | 14:20-14:35                                              |
+| 14.                                                      | Grădinița de copii nr. 188                               | 14:50-15:05                                              |
+| 15.                                                      | IPLTPA ,,Mihail Berezovschi"                             | 15:20-15:35                                              |
+| 16.                                                      | Şcoala Primară Grigore Vieru"                            | 15:50-16:05                                              |
+| 17.                                                      | LT ,,Petru Zadnipru"                                     | 16:20-16:45                                              |
+| 19 august 2026 Punct de pornire: DETS Ciocana, ora 08:00 | 19 august 2026 Punct de pornire: DETS Ciocana, ora 08:00 | 19 august 2026 Punct de pornire: DETS Ciocana, ora 08:00 |
+| 1.                                                       | LT ,Dacia"                                               | 08:15-08:30                                              |
+| 2.                                                       | Grădinița de copii nr. 212                               | 08:45-09:00                                              |
+| 3.                                                       | IPLT ,Gaudeamus"                                         | 09:20-09:35                                              |
+| 4.                                                       | IPÎLT Orizont"                                           | 09:50-10:05                                              |
+| 5.                                                       | Grădinița de copii nr. 197                               | 10:20-10:35                                              |
+| 6.                                                       | Grădinița de copii nr. 225                               | 10:50-11:05                                              |
+| 7.                                                       | Grădinița de copii nr. 135                               | 11:20-11:35                                              |
+| 8.                                                       | Grădinița de copii nr. 179                               | 11:50-12:05                                              |
+| 9.                                                       | Grădinița de copii nr. 32                                | 12:20-12:35                                              |
+
+<!-- page: 11 -->
+
+| 10.                                                      | Grădinița de copii nr. 149                               | 12:50-13:15                                              |
+|----------------------------------------------------------|----------------------------------------------------------|----------------------------------------------------------|
+| 11.                                                      | IPLT ,Ginta Latină"                                      | 13:30-13:45                                              |
+| 12.                                                      | Şcoala Primară nr. 82                                    | 14:00-14:15                                              |
+| 13.                                                      | Gimnaziul,Steliana Grama"                                | 14:30-14:45                                              |
+| 14.                                                      | IPÎLT Orizont, filiala Lumina                            | 15:00-15:20                                              |
+| 15.                                                      | Grădinița de copii nr. 67                                | 15:40-16:00                                              |
+| 16.                                                      | Grădinița de copii nr. 128                               | 16:15-16:35                                              |
+| 17.                                                      | Grădinița de copii nr. 177                               | 16:35-17:00                                              |
+| 20 august 2026 Punct de pornire: DETS Ciocana, ora 08:00 | 20 august 2026 Punct de pornire: DETS Ciocana, ora 08:00 | 20 august 2026 Punct de pornire: DETS Ciocana, ora 08:00 |
+| 1.                                                       | IPLT ,Toader Bubuiog"                                    | 08:35 -08:55                                             |
+| 2.                                                       | Grădinița de copii nr. 1 (Bubuieci)                      | 09:10-09:30                                              |
+| 3.                                                       | Grădinița de copii nr. 2                                 | 09:45-10:00                                              |
+| 4.                                                       | LT ,,Gheorghe Ghimpu"                                    | 10:15-10:30                                              |
+| 5.                                                       | Grădinița de copii nr. 24                                | 10:45-11:00                                              |
+| 6.                                                       | Grădinița de copii nr. 144                               | 11:15-11:30                                              |
+| 7.                                                       | Gimnaziul ,Viorel Găină"                                 | 11:35-11:50                                              |
+| 8.                                                       | Grădinița de copii nr. 223                               | 12:05-12:25                                              |
+| 9.                                                       | IPLT ,Budeşti"                                           | 12:40-12:55                                              |
+| 10.                                                      | Grădinița de copii nr. 1 (Budeşti)                       | 13:10-13:30                                              |
+| 11.                                                      | IP Centrul pentru copii și tineret ,Udo Jurgens"         | 13:45-14:05                                              |
+| 12.                                                      | IP Şcoala sportivă pentru copii și junior nr. 12         | 14:20-14:35                                              |
+| 13.                                                      | Şcoala Primară nr. 19, Vadul lui Vodă                    | 14:50-15:05                                              |
+| 14.                                                      | IPLT Stefan Vodă"                                        | 15:20-15:35                                              |
+| 15.                                                      | Grădinița de copii nr. 190                               | 15:50-16:05                                              |
+| 16.                                                      | Complexul educațional Gimnaziul – grădinită ,,Cruzeşti"  | 16:20-16:35                                              |
+
+## Sectorul Rîşcani18, 19, 20, 21 august 2026
+
+| N do                                                                                  | Instituția de învățământ                                                              | Ora                                                                                   |
+|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------|
+| 18 august 2026 Punct de pornire: DETS Rîşcani, Contabilitatea centralizată, ora 08:00 | 18 august 2026 Punct de pornire: DETS Rîşcani, Contabilitatea centralizată, ora 08:00 | 18 august 2026 Punct de pornire: DETS Rîşcani, Contabilitatea centralizată, ora 08:00 |
+| 1.                                                                                    | Grădinița de copii ,Sălcioara", /Stăuceni/                                            | 08.15 - 08.30                                                                         |
+| 2.                                                                                    | IPCE (şcoală primară-grădiniță) Ilie Fulga", /Stăuceni/                               | 08.35 - 08.45                                                                         |
+| 3.                                                                                    | IPLT ,,Dragoş Vodă"                                                                   | 08.50 - 09.10                                                                         |
+| 4.                                                                                    | Grădinița de copii nr.33, /Cricova/                                                   | 09.15 - 09.30                                                                         |
+| 5.                                                                                    | Şcoala sportivă 13                                                                    | 09.35 - 09.45                                                                         |
+| 6.                                                                                    | Gimnaziul nr.77                                                                       | 09.50 - 10.00                                                                         |
+| 7.                                                                                    | IPLT Alexei Mateevici"                                                                | 10.05 - 10.20                                                                         |
+| 8.                                                                                    | Grădinița de copii nr.220, /Ciorescu/                                                 | 10.25 - 10.40                                                                         |
+| 9.                                                                                    | Gimnaziul nr.45                                                                       | 10.25 - 10.40                                                                         |
+| 10.                                                                                   | Filiala COTN ,Ciorescu"                                                               | 10.50 - 11.10                                                                         |
+| 11.                                                                                   | IPLT ,Nicolae Bălcescu"                                                               | 11.20 - 11.40                                                                         |
+| 12.                                                                                   | Grădinița de copii nr.2, /Hulboaca/                                                   | 11.45 - 12.00                                                                         |
+| 13.                                                                                   | Complexul Educațional ,Hulboaca"                                                      | 12.10 - 12.30                                                                         |
+| 14.                                                                                   | IPLT ,Grătieşti"                                                                      | 12.35 - 13.00                                                                         |
+| 15.                                                                                   | Grădinița de copii nr.1, /Grătieşti/                                                  | 13.10 - 13.30                                                                         |
+
+<!-- page: 12 -->
+
+| 16.                                       | LT ,,George Călinescu"                              | 13.35 - 13.45                             |
+|-------------------------------------------|-----------------------------------------------------|-------------------------------------------|
+| 17.                                       | Grădinița de copii nr.196                           | 13.50 - 14.10                             |
+| 18.                                       | LT ,,Mihail Lomonosov"                              | 14.15 - 14.30                             |
+| 19.                                       | Grădinița de copii nr.159                           | 14.35 - 15.00                             |
+| 20.                                       | Grădinița de copii nr.160                           | 15.10 - 15.25                             |
+| 19 august 2026                            | 19 august 2026                                      | 19 august 2026                            |
+| Punct de pornire: DETS Rîşcani, ora 08:00 | Punct de pornire: DETS Rîşcani, ora 08:00           | Punct de pornire: DETS Rîşcani, ora 08:00 |
+| 1.                                        | Grădinița de copii nr.80                            | 08.15 - 08.30                             |
+| 2.                                        | Grădinița de copii nr.51                            | 08.35 - 08.45                             |
+| 3.                                        | Grădinița de copii nr.57                            | 08.50 - 09.10                             |
+| 4.                                        | Grădinița de copii nr.41                            | 09.15 - 09.30                             |
+| 5.                                        | IPLT ,,Alexandru Ioan Cuza"                         | 09.35 - 09.45                             |
+| 6.                                        | LT ,,George Meniuc"                                 | 09.50 - 10.00                             |
+| 7.                                        | Grădinița de copii nr.127                           | 10.05 - 10.20                             |
+| 8.                                        | IPÎ Liceul Da Vinci"                                | 10.25 - 10.40                             |
+| 9.                                        | Grădinița de copii nr.66                            | 10.50 - 11.10                             |
+| 10.                                       | CE (cu învățământ special) ,Orfeu"                  | 11.20 - 11.40                             |
+| 11.                                       | Şcoala sportivă specializată de atletism nr.3       | 11.45 - 12.00                             |
+| 12.                                       | Grădinița de copii nr.56                            | 12.10 - 12.30                             |
+| 13.                                       | Grădinița de copii nr.74                            | 12.35 - 13.00                             |
+| 14.                                       | IPLT ,Academia Copiilor"                            | 13.10 - 13.30                             |
+| 15.                                       | IPLT ,Miguel de Cervantes de Saavedra"              | 13.35 - 13.45                             |
+| 16.                                       | Grădinița de copii nr.38                            | 13.50 - 14.10                             |
+| 17.                                       | IPCE Liceu-grădiniță ,,Kiril şi Metodii"            | 14.15 - 14.30                             |
+| 18.                                       | Centrul Orăşenesc de Creație Tehnică a Elevilor     | 14.35 - 15.00                             |
+| 19.                                       | Grădinița de copii nr.25                            | 15.10 - 15.25                             |
+| 20.                                       | Grădinița de copii nr.13                            | 15.35 - 16.00                             |
+| 21.                                       | Grădinița de copii nr.37                            | 16.10 - 16.25                             |
+| 20 august 2026                            | 20 august 2026                                      | 20 august 2026                            |
+| Punct de pornire: DETS Rîşcani, ora 08:00 | Punct de pornire: DETS Rîşcani, ora 08:00           | Punct de pornire: DETS Rîşcani, ora 08:00 |
+| 1.                                        | IP Grădinița creşă de copii nr.199                  | 08.15 - 08.30                             |
+| 2.                                        | LT ,Mihail Sadoveanu"                               | 08.35 - 08.45                             |
+| 3.                                        | Grădinița de copii nr.47                            | 08.50 - 09.10                             |
+| 4.                                        | Grădinița de copii nr.64                            | 09.15 - 09.30                             |
+| 5.                                        | Centrul de Creație Tehnic a copiilor și tineretului | 09.35 - 09.45                             |
+| 6.                                        | Grădinița de copii nr.136                           | 09.50 - 10.00                             |
+| 7.                                        | CE (cu învățământ special) Orfeu" (grădinița)       | 10.05 - 10.20                             |
+| 8.                                        | Centrul de activitate extraşcolară ,Curcubeul"      | 10.25 - 10.40                             |
+| 9.                                        | Grădinița de copii nr.81                            | 10.50 - 11.10                             |
+| 10.                                       | IPLT ,B.Z. Hertli"                                  | 11.20 - 11.40                             |
+| 11.                                       | Grădinița de copii nr.68                            | 11.45 - 12.00                             |
+| 12.                                       | Grădinița de copii nr.5                             | 12.10 - 12.30                             |
+| 13.                                       | Grădinița de copii nr.88                            | 12.35 - 13.00                             |
+| 14.                                       | LT ,Alecu Russo"                                    | 13.10 - 13.30                             |
+| 15.                                       | LT ,Lucian Blaga"                                   | 13.35 - 13.45                             |
+| 16.                                       | Grădinița de copii nr.129                           | 13:50-14:10                               |
+| 17.                                       | Gimnaziul Taras Şevcenco"                           | 14:15-14:30                               |
+
+<!-- page: 13 -->
+
+| 18.                                                  | Şcoala sportivă specializată pentru copii și juniori rezerve olimpice nr.4, polo pe apă   | 14:35-15:00                                          |
+|------------------------------------------------------|-------------------------------------------------------------------------------------------|------------------------------------------------------|
+| 19.                                                  | Şcoala auxiliară nr. 6                                                                    | 15:15-15:30                                          |
+| 20.                                                  | Grădinița de copii nr.118                                                                 | 15:35-15:50                                          |
+| 21.                                                  | Gimnaziul Ion Luca Caragiale"                                                             | 16:00-16:15                                          |
+| 21.08.2026 Punct de pornire: DETS Rîşcani, ora 08:00 | 21.08.2026 Punct de pornire: DETS Rîşcani, ora 08:00                                      | 21.08.2026 Punct de pornire: DETS Rîşcani, ora 08:00 |
+| 1.                                                   | IPÎ Liceul de Limbi Moderne şi Management                                                 | 08:00-08:10                                          |
+| 2.                                                   | IPLT ,Matei Basarab"                                                                      | 08:15-08:30                                          |
+| 3.                                                   | IPI LLMTI ,,Socrate"                                                                      | 08:35-08:45                                          |
+| 4.                                                   | Grădinița de copii nr.146                                                                 | 08:50-09:10                                          |
+| 5.                                                   | IPLT Ion Creangă"                                                                         | 09:15-09:30                                          |
+| 6.                                                   | IPLT Waldorf"'                                                                            | 09:35-09:45                                          |
+| 7.                                                   | LT ,,Vasil Levski"                                                                        | 09:50-10:00                                          |
+| 8.                                                   | IP Liceul ,,Svetoci"                                                                      | 10:05-10:20                                          |
+| 9.                                                   | Grădinița de copii nr.150                                                                 | 10:25-10:40                                          |
+| 10.                                                  | Grădinița de copii nr.105                                                                 | 10:50-11:10                                          |
+| 11.                                                  | Grădinița de copii nr.108                                                                 | 11:20-11:40                                          |
+| 12.                                                  | IPLT Nicolae Milescu Spǎtaru"                                                             | 11:45-12:00                                          |
+| 13.                                                  | IPLT ,Mihail Kogǎlniceanu"                                                                | 12:10-12:30                                          |
+| 14.                                                  | Grădinița de copii nr.137                                                                 | 12:35-13:00                                          |
+| 15.                                                  | Grădinița de copii nr.100                                                                 | 13:10-13:30                                          |
+| 16.                                                  | IPLT Ştefan cel Mare"                                                                     | 13:35-13:45                                          |
+| 17.                                                  | LT ,,Natalia Gheorghiu"                                                                   | 13:50-14:10                                          |

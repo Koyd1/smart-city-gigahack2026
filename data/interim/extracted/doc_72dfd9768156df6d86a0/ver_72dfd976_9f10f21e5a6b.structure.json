@@ -1,0 +1,1416 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/39"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "a6bff43749b58402fe6868358ab63706bc587a1c332d3822426805d3a5cc2227",
+  "origin": {
+    "binary_hash": 4785081010659009063,
+    "filename": "a6bff43749b58402fe6868358ab63706bc587a1c332d3822426805d3a5cc2227.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 737.6017325884085,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 263.8151918900253,
+            "r": 375.2989647229086,
+            "t": 812.679640618182
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 141.18545648348334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 348.1902403330963,
+            "r": 562.0924249226615,
+            "t": 310.3650912490409
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRINNOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 742.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 294.33333333333337,
+            "r": 344.66666666666663,
+            "t": 747.0133233333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FRINNOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 704.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 212.0,
+            "r": 427.0,
+            "t": 719.3466566666666
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 671.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 157.33333333333334,
+            "r": 504.3333333333333,
+            "t": 701.3466566666666
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 593.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 299.33333333333337,
+            "r": 343.0,
+            "t": 606.0133233333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea procesului educațional în instituțiile de învățământ primar și secundar, ciclul I și II pentru anulşcolar 2026-2027",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 532.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 103.33333333333333,
+            "r": 416.3333333333333,
+            "t": 573.67999
+          },
+          "charspan": [
+            0,
+            141
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Cu privire la organizarea procesului educațional în instituțiile de învățământ primar și secundar, ciclul I și II pentru anulşcolar 2026-2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În scopul bunei organizări a procesului educațional în instituțiile de învățământ primar și secundar, ciclul I şi II pentru anul de studii 2026-2027,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 490.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.33333333333333,
+            "r": 559.0,
+            "t": 516.0133233333333
+          },
+          "charspan": [
+            0,
+            149
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "În scopul bunei organizări a procesului educațional în instituțiile de învățământ primar și secundar, ciclul I şi II pentru anul de studii 2026-2027,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 459.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 304.33333333333337,
+            "r": 360.0,
+            "t": 472.3466566666666
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. A organiza procesul educațional conform Planului - cadru pentru învățământul primar, gimnazial și liceal, anul de studii 2026-2027, aprobat prin ordinul MEC nr. 888 din 05.05.2026.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 394.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.33333333333333,
+            "r": 560.3333333333333,
+            "t": 436.01332333333335
+          },
+          "charspan": [
+            0,
+            183
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "A organiza procesul educațional conform Planului - cadru pentru învățământul primar, gimnazial și liceal, anul de studii 2026-2027, aprobat prin ordinul MEC nr. 888 din 05.05.2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Conducătorii instituțiilor de învățământ primar și secundar, ciclul I și II, conform competențelor:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 362.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.66666666666667,
+            "r": 560.3333333333333,
+            "t": 391.3466566666666
+          },
+          "charspan": [
+            0,
+            102
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Conducătorii instituțiilor de învățământ primar și secundar, ciclul I și II, conform competențelor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor organiza activitatea festivă dedicată începutului anului şcolar la data de 01 septembrie 2026, cu durata de cel mult 45 de minute, în formatul stabilit de către fiecare instituție de învățământ;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 319.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.0,
+            "r": 561.3333333333333,
+            "t": 361.34665666666666
+          },
+          "charspan": [
+            0,
+            200
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "vor organiza activitatea festivă dedicată începutului anului şcolar la data de 01 septembrie 2026, cu durata de cel mult 45 de minute, în formatul stabilit de către fiecare instituție de învățământ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor desfăşura Prima lecție tematică în clasele I-XII cu genericul Independența care ne unește\", dedicată împlinirii a 35 de ani de la proclamarea Independenței Republicii Moldova și organizată în cadrul Decadei ValorilorNaționale;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 279.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.66666666666667,
+            "r": 562.3333333333333,
+            "t": 317.01332333333323
+          },
+          "charspan": [
+            0,
+            232
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "vor desfăşura Prima lecție tematică în clasele I-XII cu genericul Independența care ne unește\", dedicată împlinirii a 35 de ani de la proclamarea Independenței Republicii Moldova și organizată în cadrul Decadei ValorilorNaționale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor aplica Planul - cadru pentru învățământul primar, gimnazial și liceal, anul de studii 2026-2027, aprobat ordinul MEC nr. 888 din 05.05.2026 și a Planurilor-individuale de învățământ, aprobate de MEC;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 230.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.0,
+            "r": 563.3333333333333,
+            "t": 271.67999
+          },
+          "charspan": [
+            0,
+            205
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "vor aplica Planul - cadru pentru învățământul primar, gimnazial și liceal, anul de studii 2026-2027, aprobat ordinul MEC nr. 888 din 05.05.2026 și a Planurilor-individuale de învățământ, aprobate de MEC;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor asigura funcționalitatea instituțiilor de învățământ pe tot parcursul anului de studii 2026-2027, prin crearea condițiilor igienico-sanitare și prevenirea situațiilor de risc pentru viața și sănătatea copiilor/elevilor și angajaților;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 187.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.66666666666667,
+            "r": 564.3333333333333,
+            "t": 227.34665666666672
+          },
+          "charspan": [
+            0,
+            240
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "vor asigura funcționalitatea instituțiilor de învățământ pe tot parcursul anului de studii 2026-2027, prin crearea condițiilor igienico-sanitare și prevenirea situațiilor de risc pentru viața și sănătatea copiilor/elevilor și angajaților;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor organiza activitatea instituțiilor de învățământ, privind completarea claselor (grupelor), conform prevederilor art. 51 din Codul Educației, pentru a asigura utilizarea rațională și eficientă a mijloacelor publice;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 141.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.66666666666667,
+            "r": 565.0,
+            "t": 182.34665666666672
+          },
+          "charspan": [
+            0,
+            220
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "vor organiza activitatea instituțiilor de învățământ, privind completarea claselor (grupelor), conform prevederilor art. 51 din Codul Educației, pentru a asigura utilizarea rațională și eficientă a mijloacelor publice;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor întreprinde măsurile necesare în scopul şcolarizării obligatorii a tuturor copiilor în vârstă de 7-16 ani;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 110.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.0,
+            "r": 565.3333333333333,
+            "t": 138.01332333333323
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "vor întreprinde măsurile necesare în scopul şcolarizării obligatorii a tuturor copiilor în vârstă de 7-16 ani;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor organiza alimentația elevilor din clasele I-IX, precum și a altor categorii de elevi din instituțiile de învățământ primar și secundar, ciclurile I și II, inclusiv a elevilor din",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 86.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.66666666666667,
+            "r": 566.3333333333333,
+            "t": 108.3466566666666
+          },
+          "charspan": [
+            0,
+            184
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "vor organiza alimentația elevilor din clasele I-IX, precum și a altor categorii de elevi din instituțiile de învățământ primar și secundar, ciclurile I și II, inclusiv a elevilor din"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "clasele/grupele cu program prelungit, în conformitate cu prevederile actelor normative în vigoare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 773.8684970800781,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.81770833333333,
+            "r": 553.9751790364583,
+            "t": 804.6309304500326
+          },
+          "charspan": [
+            0,
+            98
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "clasele/grupele cu program prelungit, în conformitate cu prevederile actelor normative în vigoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor asigura gratuit cu manuale elevii, conform prevederilor legislației în vigoare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 767.5677565201822,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.18998018900554,
+            "r": 517.8648274739583,
+            "t": 774.2391279801432
+          },
+          "charspan": [
+            0,
+            85
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "vor asigura gratuit cu manuale elevii, conform prevederilor legislației în vigoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor întreprinde măsurile necesare pentru asigurarea incluziunii educaționale a elevilor cu cerințe educaționale speciale, în funcție de necesitățile individuale ale acestora;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 737.9172183935547,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.30679512023926,
+            "r": 553.9751790364583,
+            "t": 758.3019636735025
+          },
+          "charspan": [
+            0,
+            176
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "vor întreprinde măsurile necesare pentru asigurarea incluziunii educaționale a elevilor cu cerințe educaționale speciale, în funcție de necesitățile individuale ale acestora;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor întreprinde măsurile necesare pentru asigurarea instituțiilor de învățământ cu cadre didactice.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 700.1127801204427,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.67906697591145,
+            "r": 554.7197265625,
+            "t": 728.651425546875
+          },
+          "charspan": [
+            0,
+            101
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "vor întreprinde măsurile necesare pentru asigurarea instituțiilor de învățământ cu cadre didactice."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Şefi Direcțiilor educației tineret și sport din sectoare (I. Musteață, A. Vutcariov, R. Spînu, E.Antoci, V. Rău), şef direcția managementul economico-financiar și evidența patrimoniului din cadrul DGETS (Sv. Ignatieva) și directorii de instituții de învățământ cu autonomie financiară:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 641.9236016536458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.30679512023926,
+            "r": 556.5810953776042,
+            "t": 699.3715183203125
+          },
+          "charspan": [
+            0,
+            288
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Şefi Direcțiilor educației tineret și sport din sectoare (I. Musteață, A. Vutcariov, R. Spînu, E.Antoci, V. Rău), şef direcția managementul economico-financiar și evidența patrimoniului din cadrul DGETS (Sv. Ignatieva) și directorii de instituții de învățământ cu autonomie financiară:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor asigura condițiile necesare pentru buna funcționare a instituțiilor de învățământ din subordine pe parcursul anului de studii 2026–2027, inclusiv asigurarea igienico-sanitară, funcționarea transportului şcolar și pregătirea instituțiilor pentru perioada toamnă-iarnă.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 601.8953627213541,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.16815439860027,
+            "r": 556.953369140625,
+            "t": 638.5879082942708
+          },
+          "charspan": [
+            0,
+            273
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "vor asigura condițiile necesare pentru buna funcționare a instituțiilor de învățământ din subordine pe parcursul anului de studii 2026–2027, inclusiv asigurarea igienico-sanitară, funcționarea transportului şcolar și pregătirea instituțiilor pentru perioada toamnă-iarnă."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Direcția management instituțional (D. Garbuz):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 584.105038828125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.54042689005534,
+            "r": 361.5106608072917,
+            "t": 593.7414727473958
+          },
+          "charspan": [
+            0,
+            49
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Direcția management instituțional (D. Garbuz):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va aduce prezentul ordin la cunoştința directorilor instituțiilor de învățământ primar și secundar;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 550.7481866145833,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.54042689005534,
+            "r": 557.6979166666667,
+            "t": 579.6574680273437
+          },
+          "charspan": [
+            0,
+            101
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "va aduce prezentul ordin la cunoştința directorilor instituțiilor de învățământ primar și secundar;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va monitoriza organizarea procesului educațional în anul de studii 2026-2027.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 542.2236708268229,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.65724182128906,
+            "r": 510.4193929036458,
+            "t": 549.2656630143229
+          },
+          "charspan": [
+            0,
+            79
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "va monitoriza organizarea procesului educațional în anul de studii 2026-2027."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Direcția managementul învățământului extraşcolar, tineret și sport (S. Butuc-Canațui):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 527.7690199479166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.40178553263347,
+            "r": 552.1138102213542,
+            "t": 534.0697605078125
+          },
+          "charspan": [
+            0,
+            89
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Direcția managementul învățământului extraşcolar, tineret și sport (S. Butuc-Canațui):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va monitoriza organizarea activităților tradiționale dedicate începutuluianului de studii 2026-2027;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 491.44712053385416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.77405675252278,
+            "r": 558.4424641927083,
+            "t": 519.2445041601562
+          },
+          "charspan": [
+            0,
+            102
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "va monitoriza organizarea activităților tradiționale dedicate începutuluianului de studii 2026-2027;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va monitoriza organizarea și realizării procesului educațional pe dimensiunea extraşcolară.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 461.4259616796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 103.8985595703125,
+            "r": 559.18701171875,
+            "t": 489.9645969335937
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "va monitoriza organizarea și realizării procesului educațional pe dimensiunea extraşcolară."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Direcția managementul curricular (S. Axînti):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 449.5657321875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.89087295532227,
+            "r": 345.1306966145833,
+            "t": 459.5727715755208
+          },
+          "charspan": [
+            0,
+            48
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Direcția managementul curricular (S. Axînti):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va monitoriza aplicarea Planului-cadru pentru învățământul primar, gimnazial și liceal în anul de studii 2026-2027.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 418.803281015625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.89087295532227,
+            "r": 560.3037923177083,
+            "t": 445.4887872005208
+          },
+          "charspan": [
+            0,
+            117
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "va monitoriza aplicarea Planului-cadru pentru învățământul primar, gimnazial și liceal în anul de studii 2026-2027."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Direcția managementul resurselor umane (V. Donțu):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 404.719296640625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.2631441752116,
+            "r": 385.7083333333333,
+            "t": 415.46762834635416
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Direcția managementul resurselor umane (V. Donțu):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va monitoriza procesul de asigurarea instituțiilor de învățământ cu cadre didactice conform actelor normative în vigoare.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 373.95684546875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.00768788655598,
+            "r": 560.3037923177083,
+            "t": 399.9010593359375
+          },
+          "charspan": [
+            0,
+            123
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "va monitoriza procesul de asigurarea instituțiilor de învățământ cu cadre didactice conform actelor normative în vigoare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "şefii 8. Responsabili de executarea prevederilor prezentului ordin se desemnează s'š Direcțiilor educației tineret și sport din sectoare), şefii subdiviziunilor DGETS conducătorii instituțiilor de învățământ primar și secundar, ciclul I şi II.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 331.7048516536458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.63541666666667,
+            "r": 561.4206136067708,
+            "t": 377.66318498697916
+          },
+          "charspan": [
+            0,
+            243
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "şefii 8. Responsabili de executarea prevederilor prezentului ordin se desemnează s'š Direcțiilor educației tineret și sport din sectoare), şefii subdiviziunilor DGETS conducătorii instituțiilor de învățământ primar și secundar, ciclul I şi II."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. Controlul realizării prevederilor prezentului ordin îi revine şefului adjunct al DGETS, domnul V. Crudu.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 297.97735328125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.37996037801106,
+            "r": 561.04833984375,
+            "t": 325.7747165625
+          },
+          "charspan": [
+            0,
+            107
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Controlul realizării prevederilor prezentului ordin îi revine şefului adjunct al DGETS, domnul V. Crudu."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: Daniela Garbuz, 022 235277",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 127.8573988541666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.59945424397787,
+            "r": 248.34002685546875,
+            "t": 137.8644789322916
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Ex.: Daniela Garbuz, 022 235277"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 98.20684546874998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 201.8060506184896,
+            "r": 475.0535481770833,
+            "t": 106.36073544270835
+          },
+          "charspan": [
+            0,
+            65
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "$ef adjunct DGETS",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 256.46661109375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 449.7390950520833,
+            "r": 562.9097086588542,
+            "t": 269.0680922135416
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "$ef adjunct DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 227.9279554947916,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 457.9290771484375,
+            "r": 563.281982421875,
+            "t": 239.41753882812498
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRI",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 149.72466773437498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 386.45286051432294,
+            "r": 400.2269287109375,
+            "t": 163.06740048177085
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "PRI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.58453101562498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 188.40426635742188,
+            "r": 487.3385416666667,
+            "t": 117.10902645833335
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova,"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,623 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    }
+  ],
+  "key_value_items": [],
+  "name": "5194f83744572c45fc6aece00c98a9d044fde7b5122f90721188b090389cc952",
+  "origin": {
+    "binary_hash": 1263453828949002578,
+    "filename": "5194f83744572c45fc6aece00c98a9d044fde7b5122f90721188b090389cc952.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 746.9203445489002,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 221.47260135535038,
+            "r": 333.2219472064394,
+            "t": 820.1292799912678
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 648.4949113778241,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.927642119436555,
+            "r": 262.07547141335226,
+            "t": 690.1612644916765
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 569.7955602054847,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 370.519365234375,
+            "r": 562.6424988162879,
+            "t": 679.8538171401234
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERALAL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 698.9181705729167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 142.2998555501302,
+            "r": 430.6116129557292,
+            "t": 747.4353061930339
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERALAL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "300326.01/1/4/426",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 653.5824772135417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.08705393473307,
+            "r": 261.2730712890625,
+            "t": 694.5436791992188
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "300326.01/1/4/426"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 595.5209944661459,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 279.9122111002604,
+            "r": 330.2775472005208,
+            "t": 612.2236108398438
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la participarea cadrelor didactice/elevilor la atelierul de formare anti-bullying",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 513.200946451823,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 47.12128003438314,
+            "r": 341.7782796223958,
+            "t": 550.5829858398438
+          },
+          "charspan": [
+            0,
+            92
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Cu privire la participarea cadrelor didactice/elevilor la atelierul de formare anti-bullying"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu scrisiarea nr.870 din 24.03.2026 parvenită de la Asociația Obştească SYNERGY din Moldoya privind formarea cadrelor didactice și elevilor în",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 454.3440738932292,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 46.328125635782875,
+            "r": 561.482177734375,
+            "t": 498.0890486653646
+          },
+          "charspan": [
+            0,
+            158
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În conformitate cu scrisiarea nr.870 din 24.03.2026 parvenită de la Asociația Obştească SYNERGY din Moldoya privind formarea cadrelor didactice și elevilor în"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 392.7034488932292,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 276.7396036783854,
+            "r": 334.639892578125,
+            "t": 409.80375000000004
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Direcția managementul învățământului extraşcolar, tineret și sport a DGETS (Silvia Butuc-Canațui, şefa) va conlucra cu instituțiile de învățământ din municipiul Chişinău și Asociația Obştească SYNERGY privind desfăşurarea atelierului de formare anti-bullying în cadrul proiectului Chişinău without Bullying\" (Chişinău fără Bullying).",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 296.46455729166667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 64.17410786946614,
+            "r": 559.8958740234375,
+            "t": 383.95446614583335
+          },
+          "charspan": [
+            0,
+            336
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Direcția managementul învățământului extraşcolar, tineret și sport a DGETS (Silvia Butuc-Canațui, şefa) va conlucra cu instituțiile de învățământ din municipiul Chişinău și Asociația Obştească SYNERGY privind desfăşurarea atelierului de formare anti-bullying în cadrul proiectului Chişinău without Bullying\" (Chişinău fără Bullying)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Controlul realizării prevederilor prezentului ordin revine șefei Direcției managementul învățământului extraşcolar, tineret și sport, Silvia Butuc-Canațui.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 49.504352213541665,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 59.01860173543294,
+            "r": 555.9300944010416,
+            "t": 91.65864908854167
+          },
+          "charspan": [
+            0,
+            158
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Controlul realizării prevederilor prezentului ordin revine șefei Direcției managementul învățământului extraşcolar, tineret și sport, Silvia Butuc-Canațui."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Conducătorii instituțiilor de învățământ secundar, ciclul I și II: IPLT V.Vasilache\" (Boldişor Stella), IPLT ,Principesa Natalia Dadiani\" (Tipu Valentina), IP Gimnaziul Durleşti (Anghelenici Tatiana), IPLT Mihai Viteazul\" (Demerji Valentina), IP Gimnaziul D.Matcovschi\" (Iaşciuc Inga), IPLT ,Gheorghe Asachi\" (Chiriac Nona), IPLT ,,Mihai Eminescu\" (Lungu Svetlana), IPLT ,N.Iorga\" (Berdos Rodica), LTPA ,,Elena Alistar\" (Babuc Lilia), IPLT Ginta Latină\" (Popescu Zinaida), IPLT Petru Zadnipru\" (Barnaciuc Daniela), Gimnaziul ,Steliana Grama\" (Bulgar Tatiana), IPLT Alexandru Ioan Cuza\" (Dobzeu Maia), IPLT Waldorf' (Munteanu Olga), LT G.Călinescu\" (Bugan Natalia) vor asigura participarea unui cadru didactic și al unui membru din Consiliul Elevilor la atelierul de formare antibullying, desfăşurat la data 04.04.2026, ora 09:00-18:00, în incinta Centrului Municipal de Tineret (mun.Chişinău, str.Mitropolit Varlam, 90)",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 84.89806966145841,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.398066202799484,
+            "r": 559.499267578125,
+            "t": 298.0552962239584
+          },
+          "charspan": [
+            0,
+            922
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Conducătorii instituțiilor de învățământ secundar, ciclul I și II: IPLT V.Vasilache\" (Boldişor Stella), IPLT ,Principesa Natalia Dadiani\" (Tipu Valentina), IP Gimnaziul Durleşti (Anghelenici Tatiana), IPLT Mihai Viteazul\" (Demerji Valentina), IP Gimnaziul D.Matcovschi\" (Iaşciuc Inga), IPLT ,Gheorghe Asachi\" (Chiriac Nona), IPLT ,,Mihai Eminescu\" (Lungu Svetlana), IPLT ,N.Iorga\" (Berdos Rodica), LTPA ,,Elena Alistar\" (Babuc Lilia), IPLT Ginta Latină\" (Popescu Zinaida), IPLT Petru Zadnipru\" (Barnaciuc Daniela), Gimnaziul ,Steliana Grama\" (Bulgar Tatiana), IPLT Alexandru Ioan Cuza\" (Dobzeu Maia), IPLT Waldorf' (Munteanu Olga), LT G.Călinescu\" (Bugan Natalia) vor asigura participarea unui cadru didactic și al unui membru din Consiliul Elevilor la atelierul de formare antibullying, desfăşurat la data 04.04.2026, ora 09:00-18:00, în incinta Centrului Municipal de Tineret (mun.Chişinău, str.Mitropolit Varlam, 90)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Monitorizarea realizării pręvederilor prezentului ordin revine şefului adjunct al DGETS, Valentin Crudu.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 784.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.66666666666667,
+            "r": 567.0,
+            "t": 821.96
+          },
+          "charspan": [
+            0,
+            107
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Monitorizarea realizării pręvederilor prezentului ordin revine şefului adjunct al DGETS, Valentin Crudu."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Andrei PAVALOI,",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 623.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 446.0,
+            "r": 564.0,
+            "t": 642.6266666666667
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Andrei PAVALOI,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CANCELARIA",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 621.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 398.3333333333333,
+            "r": 455.0,
+            "t": 627.96
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "CANCELARIA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Şef adjunct, DGETS",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 606.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 443.6666666666667,
+            "r": 564.6666666666666,
+            "t": 626.2933333333334
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Şef adjunct, DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex.Svetlana Nazaria, Tel.022 201627",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 84.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 41.0,
+            "r": 110.0,
+            "t": 104.62666666666667
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Ex.Svetlana Nazaria, Tel.022 201627"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99MD-2704, municipiulChişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 48.626666666666665,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 157.33333333333334,
+            "r": 437.0,
+            "t": 76.96000000000004
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Str. Mitropolit Dosoftei, 99MD-2704, municipiulChişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

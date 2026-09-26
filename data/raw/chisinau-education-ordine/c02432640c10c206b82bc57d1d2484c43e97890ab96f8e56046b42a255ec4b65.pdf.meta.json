@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "c02432640c10c206b82bc57d1d2484c43e97890ab96f8e56046b42a255ec4b65",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1781265092_ordin-de-totalizare-952.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "8552612",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 07:07:51 GMT",
+    "Etag": "\"6a2bf2c4-8280a4\"",
+    "Last-Modified": "Fri, 12 Jun 2026 11:51:32 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/c02432640c10c206b82bc57d1d2484c43e97890ab96f8e56046b42a255ec4b65.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1781265092_ordin-de-totalizare-952.pdf",
+  "retrieved_at": "2026-09-26T07:07:57.223033+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

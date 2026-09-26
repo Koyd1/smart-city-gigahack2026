@@ -1,0 +1,644 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/texts/14"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "6b0d14c9272a6cc125de0746d83c5f08e59bd1450633dd2b41f994ee16402da5",
+  "origin": {
+    "binary_hash": 4753994631962701221,
+    "filename": "6b0d14c9272a6cc125de0746d83c5f08e59bd1450633dd2b41f994ee16402da5.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 64.96136474609375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 337.3211364746094,
+            "r": 452.13336181640625,
+            "t": 177.22467041015625
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 734.9940795898438,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 271.2867736816406,
+            "r": 382.18487548828125,
+            "t": 808.5867614746094
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 637.7815704345703,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.66937255859375,
+            "r": 314.8358154296875,
+            "t": 661.5375823974609
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea și desfäşurarea seminarului municipal pentru psihologii din instituțiile cu învāțământ preşcolar",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 510.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.33333333333333,
+            "r": 307.33333333333337,
+            "t": 565.3333333333333
+          },
+          "charspan": [
+            0,
+            122
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Cu privire la organizarea și desfäşurarea seminarului municipal pentru psihologii din instituțiile cu învāțământ preşcolar"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu Planul de acțiuni al DGETS pentru anul de studii 2026 și în scopul dezvoltării competențelor profesionale a psihologilor din instituțiile cu învățāmânt preşcolar în lucrulcu copiii,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 437.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.0,
+            "r": 554.6666666666667,
+            "t": 492.6666666666667
+          },
+          "charspan": [
+            0,
+            200
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "În conformitate cu Planul de acțiuni al DGETS pentru anul de studii 2026 și în scopul dezvoltării competențelor profesionale a psihologilor din instituțiile cu învățāmânt preşcolar în lucrulcu copiii,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 400.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 312.33333333333337,
+            "r": 368.0,
+            "t": 416.6666666666667
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizeazăseminarul municipal pentru psihologii din instituțiile cu învățământ preşcolar, cu subiectul: Asistență psihologică și logopedică copiilor din învāțământul preşcolar\", la data de 29.04.2026, ora 13:00, în incinta Centrului psiho-socio-pedagogic, str. Veronica Micle 4A, mun. Chişinău,",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 327.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.33333333333333,
+            "r": 553.0,
+            "t": 398.0
+          },
+          "charspan": [
+            0,
+            301
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Se organizeazăseminarul municipal pentru psihologii din instituțiile cu învățământ preşcolar, cu subiectul: Asistență psihologică și logopedică copiilor din învāțământul preşcolar\", la data de 29.04.2026, ora 13:00, în incinta Centrului psiho-socio-pedagogic, str. Veronica Micle 4A, mun. Chişinău,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Directorii instituțiilor cu învățământ preşcolar, vor aduce la cunoştință psihologilor prevederile prezentului ordin, prin delegarea acestora la seminar.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 248.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.66666666666667,
+            "r": 550.0,
+            "t": 289.0
+          },
+          "charspan": [
+            0,
+            156
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Directorii instituțiilor cu învățământ preşcolar, vor aduce la cunoştință psihologilor prevederile prezentului ordin, prin delegarea acestora la seminar."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Pentru desfaşurarea activității, se desemnează, cu comunicat și oferirea suportului metodic, doamna Lilia Maximenco, psiholog și doamna Deli Tatiana, logoped.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 287.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.66666666666667,
+            "r": 551.0,
+            "t": 330.0
+          },
+          "charspan": [
+            0,
+            161
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Pentru desfaşurarea activității, se desemnează, cu comunicat și oferirea suportului metodic, doamna Lilia Maximenco, psiholog și doamna Deli Tatiana, logoped."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Responsabil de îndeplinirea prevederilor prezentului ordin se desemnează Cutrani Victoria, şef interimar al Centrului psiho-socio-pedagogic.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 209.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.66666666666667,
+            "r": 549.3333333333333,
+            "t": 248.66666666666663
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Responsabil de îndeplinirea prevederilor prezentului ordin se desemnează Cutrani Victoria, şef interimar al Centrului psiho-socio-pedagogic."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul asupra realizării prevederilor prezentului ordin revine dlui Andrei Pavaloi, şef adjunct a DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 174.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.66666666666667,
+            "r": 547.6666666666667,
+            "t": 208.66666666666663
+          },
+          "charspan": [
+            0,
+            110
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Controlul asupra realizării prevederilor prezentului ordin revine dlui Andrei Pavaloi, şef adjunct a DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Andrei PAVALOI adjunct DGETS",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 114.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 444.6666666666667,
+            "r": 546.6666666666667,
+            "t": 146.66666666666674
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Andrei PAVALOI adjunct DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "str. Mitropolit Dosoftei, 99, municipiul Chişināu, Republica Moldova, MD-2704; tel.: (022)201-601, e-mail:dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 41.33333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 149.33333333333331,
+            "r": 479.6666666666667,
+            "t": 72.66666666666674
+          },
+          "charspan": [
+            0,
+            124
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "str. Mitropolit Dosoftei, 99, municipiul Chişināu, Republica Moldova, MD-2704; tel.: (022)201-601, e-mail:dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: Cutrani V.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 96.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.33333333333333,
+            "r": 148.0,
+            "t": 110.33333333333326
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Ex.: Cutrani V."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "tel.022270667",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 85.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 149.33333333333331,
+            "t": 99.0
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "tel.022270667"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIULMUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 680.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 173.66666666666666,
+            "r": 493.3333333333333,
+            "t": 731.3333333333334
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "CONSILIULMUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01/1-7/503 nr. din 21.04.26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 635.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.0,
+            "r": 315.0,
+            "t": 667.0
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "01/1-7/503 nr. din 21.04.26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 580.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 309.0,
+            "r": 354.0,
+            "t": 594.6666666666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "ORDIN"
+    }
+  ],
+  "version": "1.10.0"
+}

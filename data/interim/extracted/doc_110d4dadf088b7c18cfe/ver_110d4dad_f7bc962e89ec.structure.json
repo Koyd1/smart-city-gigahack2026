@@ -1,0 +1,1272 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/33"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "8d5c4384664bf6f68677ab48b7d3e3024fed020cec01c78e96633724441c3838",
+  "origin": {
+    "binary_hash": 10836565757284595768,
+    "filename": "8d5c4384664bf6f68677ab48b7d3e3024fed020cec01c78e96633724441c3838.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 719.1426315307617,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 256.878662109375,
+            "r": 367.38055419921875,
+            "t": 791.0317344665527
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 611.3179626464844,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.55657196044922,
+            "r": 300.9550476074219,
+            "t": 652.5487060546875
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 135.95416259765625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 380.0238342285156,
+            "r": 555.8223876953125,
+            "t": 277.44110107421875
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 689.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 184.66666666666669,
+            "r": 460.0,
+            "t": 714.3333333333334
+          },
+          "charspan": [
+            0,
+            68
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "DIRECTIA GENERALÅ EDUCATIE, TINERET SI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 673.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 179.0,
+            "r": 467.3333333333333,
+            "t": 684.3333333333333
+          },
+          "charspan": [
+            0,
+            44
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "DIRECTIA GENERALÅ EDUCATIE, TINERET SI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "290526m.01/17/43",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 625.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.33333333333333,
+            "r": 280.33333333333337,
+            "t": 650.3333333333334
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "290526m.01/17/43"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Cu privire la finalizarea anului de studi 2025-2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 545.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.0,
+            "r": 271.66666666666663,
+            "t": 576.3333333333333
+          },
+          "charspan": [
+            0,
+            51
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Cu privire la finalizarea anului de studi 2025-2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În scopul finalizării eficiente a anului de studii 2025-2026, organizării și desfáşurării regulamentare a examenelor naționale de absolvire a gimnaziului și examenului național de bacalaureat,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 470.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 555.3333333333333,
+            "t": 524.0
+          },
+          "charspan": [
+            0,
+            192
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În scopul finalizării eficiente a anului de studii 2025-2026, organizării și desfáşurării regulamentare a examenelor naționale de absolvire a gimnaziului și examenului național de bacalaureat,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 453.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 296.66666666666663,
+            "r": 355.0,
+            "t": 470.0
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează la data de 29 mai 2026, activitățile tradiționale dedicate încheierii anului de studii 2025-2026, conform recomandărilor Planului-cadru pentru învățământul primar, gimnazial și liceal aprobat prin ordinul MEC nr. 266/2025.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 382.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.33333333333333,
+            "r": 556.0,
+            "t": 427.3333333333333
+          },
+          "charspan": [
+            0,
+            240
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Se organizează la data de 29 mai 2026, activitățile tradiționale dedicate încheierii anului de studii 2025-2026, conform recomandărilor Planului-cadru pentru învățământul primar, gimnazial și liceal aprobat prin ordinul MEC nr. 266/2025."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Direcția managementul curricular (S. Axînti):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 360.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 358.6666666666667,
+            "t": 372.0
+          },
+          "charspan": [
+            0,
+            48
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Direcția managementul curricular (S. Axînti):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va monitoriza realizarea curriculumului şcolar și a Planului-cadru pentru învățământul primar, gimnazial și liceal pentru anul de studii 2025-2026, aprobată prin ordinul MEC nr. 266/2025;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 304.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 557.6666666666667,
+            "t": 353.6666666666667
+          },
+          "charspan": [
+            0,
+            189
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "va monitoriza realizarea curriculumului şcolar și a Planului-cadru pentru învățământul primar, gimnazial și liceal pentru anul de studii 2025-2026, aprobată prin ordinul MEC nr. 266/2025;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va organiza procesul de restituire a manualelor și a literaturii în bibliotecile şcolare, la finele anului de studii 2025-2026;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 268.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.0,
+            "r": 558.3333333333333,
+            "t": 298.0
+          },
+          "charspan": [
+            0,
+            129
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "va organiza procesul de restituire a manualelor și a literaturii în bibliotecile şcolare, la finele anului de studii 2025-2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va elabora raportul cu privire la rezultatele testării naționale în învățământul primar, a examenelor naționale de absolvire a gimnaziului și a examenului național de bacalaureat cu concluziile relevante despre situația atestată și sugestiile de rigoare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 190.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.0,
+            "r": 559.0,
+            "t": 261.66666666666663
+          },
+          "charspan": [
+            0,
+            256
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "va elabora raportul cu privire la rezultatele testării naționale în învățământul primar, a examenelor naționale de absolvire a gimnaziului și a examenului național de bacalaureat cu concluziile relevante despre situația atestată și sugestiile de rigoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va monitoriza corectitudinea organizării şi desfăşurării examenelor de absolvire.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 179.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.66666666666667,
+            "r": 549.6666666666667,
+            "t": 187.66666666666663
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "va monitoriza corectitudinea organizării şi desfăşurării examenelor de absolvire."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Direcția managementul instituțional (D. Garbuz):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 157.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.33333333333333,
+            "r": 382.3333333333333,
+            "t": 169.0
+          },
+          "charspan": [
+            0,
+            51
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Direcția managementul instituțional (D. Garbuz):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va monitoriza organizarea și desfáşurarea Consiliilor profesorale în instituțiile de învățământ primar și secundar, ciclul I și II, privind finalizarea anului de studii 20252026, conform termenelor stabilite în proiectul managerial anual al instituției;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 104.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.66666666666667,
+            "r": 561.0,
+            "t": 150.33333333333326
+          },
+          "charspan": [
+            0,
+            255
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "va monitoriza organizarea și desfáşurarea Consiliilor profesorale în instituțiile de învățământ primar și secundar, ciclul I și II, privind finalizarea anului de studii 20252026, conform termenelor stabilite în proiectul managerial anual al instituției;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va aduce prezentul ordin la cunoştința directorilor instituțiilor de învățământ primar și secundar, ciclul I şi II.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 65.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.33333333333333,
+            "r": 561.6666666666667,
+            "t": 96.0
+          },
+          "charspan": [
+            0,
+            117
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "va aduce prezentul ordin la cunoştința directorilor instituțiilor de învățământ primar și secundar, ciclul I şi II."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 602.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.0,
+            "r": 342.0,
+            "t": 616.6666666666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Direcția managementul învățământului extraşcolar, tineret și sport (S. Canațui) va monitoriza:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 752.6290334065756,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.07065200805664,
+            "r": 552.2037760416667,
+            "t": 785.8225809733073
+          },
+          "charspan": [
+            0,
+            97
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Direcția managementul învățământului extraşcolar, tineret și sport (S. Canațui) va monitoriza:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- organizarea activităților tradiționale dedicate încheierii anului de studii 20252026;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 713.3387095133464,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.734375,
+            "r": 552.2037760416667,
+            "t": 747.8870951334635
+          },
+          "charspan": [
+            0,
+            87
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "organizarea activităților tradiționale dedicate încheierii anului de studii 20252026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- realizarea orelor din cadrul ,Managementul clasei\" privind securitatea vieții și sănătății copiilor în perioada vacanței estivale.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 678.1129048665364,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.74320602416992,
+            "r": 552.5400797526042,
+            "t": 710.9677429199219
+          },
+          "charspan": [
+            0,
+            132
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "realizarea orelor din cadrul ,Managementul clasei\" privind securitatea vieții și sănătății copiilor în perioada vacanței estivale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Serviciul managementul perfectării actelor de studii (A.Pîntea):",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 660.5,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.07948366800944,
+            "r": 454.6834309895833,
+            "t": 673.7096761067708
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Serviciul managementul perfectării actelor de studii (A.Pîntea):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- va asigura implementarea Instrucțiunii cu privire la personalizarea automatizată, eliberarea, evidența și păstrarea actelor de studii in instituțiile de invățămánt general, aprobată prin ordinul MEC nr. 199/2024.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 604.6129150390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.74320602416992,
+            "r": 553.5489095052083,
+            "t": 654.4032287597656
+          },
+          "charspan": [
+            0,
+            214
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "va asigura implementarea Instrucțiunii cu privire la personalizarea automatizată, eliberarea, evidența și păstrarea actelor de studii in instituțiile de invățămánt general, aprobată prin ordinul MEC nr. 199/2024."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Directorii instituțiilor de învățământ primar și secundar, ciclul I și II:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 585.6451619466146,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.07948366800944,
+            "r": 485.2846272786458,
+            "t": 599.8709716796875
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Directorii instituțiilor de învățământ primar și secundar, ciclul I și II:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "vor informa comunitatea educațională, elevii și părinții/reprezentanții legali ai acestora despre încheierea semestrului II al anului de studii 2025-2026;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 550.0806477864584,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.75203768412273,
+            "r": 552.8763427734375,
+            "t": 580.9032389322916
+          },
+          "charspan": [
+            0,
+            154
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "vor informa comunitatea educațională, elevii și părinții/reprezentanții legali ai acestora despre încheierea semestrului II al anului de studii 2025-2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor asigura desfăşurarea sărbătorii tradiționale cu durata de cel mult 45 minute;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 531.7903238932292,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.75203768412273,
+            "r": 545.478271484375,
+            "t": 543.3064575195312
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "vor asigura desfăşurarea sărbătorii tradiționale cu durata de cel mult 45 minute;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor asigura onorarea simbolurilor de stat și a municipiului Chişinău în cadrul desfăşurării activităților solemne dedicate sărbātorii tradiționale dedicate încheierii anului de studii2025-2026;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 474.2096761067708,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.08831532796223,
+            "r": 553.8851725260417,
+            "t": 525.016133626302
+          },
+          "charspan": [
+            0,
+            195
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "vor asigura onorarea simbolurilor de stat și a municipiului Chişinău în cadrul desfăşurării activităților solemne dedicate sărbātorii tradiționale dedicate încheierii anului de studii2025-2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "vor mobiliza cadrele didactice în vederea respectării prevederilor actelor normative cu privire la finalizarea anului de studii, organizarea și desfāşurarea examenelor de absolvire a gimnaziului și a liceului;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 418.6612955729167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.42459233601888,
+            "r": 554.8940022786458,
+            "t": 470.14516194661456
+          },
+          "charspan": [
+            0,
+            209
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "vor mobiliza cadrele didactice în vederea respectării prevederilor actelor normative cu privire la finalizarea anului de studii, organizarea și desfāşurarea examenelor de absolvire a gimnaziului și a liceului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- vor asigura corectitudinea completării documentației şcolare și a rapoartelor conform cerințelor stipulate în actele normative în vigoare.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 381.741943359375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.09714635213216,
+            "r": 555.2303059895833,
+            "t": 413.9193522135417
+          },
+          "charspan": [
+            0,
+            140
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "vor asigura corectitudinea completării documentației şcolare și a rapoartelor conform cerințelor stipulate în actele normative în vigoare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Responsabili pentru realizarea prevederilor prezentului ordin se desemnează: direcția managementul curricular (S. Axînti), direcția managementul instituțional (D. Garbuz), direcția managementul învăţământului extraşcolar, tineret și sport (S. Canațui), serviciul managementul perfectării actelor de studii (A. Pîntea) și directorii instituțiilor de învățământ primar și secundar, ciclul I și II.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 289.95161946614576,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.4334233601888,
+            "r": 555.90283203125,
+            "t": 377.3387044270833
+          },
+          "charspan": [
+            0,
+            398
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Responsabili pentru realizarea prevederilor prezentului ordin se desemnează: direcția managementul curricular (S. Axînti), direcția managementul instituțional (D. Garbuz), direcția managementul învăţământului extraşcolar, tineret și sport (S. Canațui), serviciul managementul perfectării actelor de studii (A. Pîntea) și directorii instituțiilor de învățământ primar și secundar, ciclul I și II."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Controlul realizării prevederilor prezentului ordin revine dlui V. Crudu, șef adjunct.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 250.32259114583337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.4334233601888,
+            "r": 557.584228515625,
+            "t": 285.54838053385424
+          },
+          "charspan": [
+            0,
+            89
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Controlul realizării prevederilor prezentului ordin revine dlui V. Crudu, șef adjunct."
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex.: D. Garbuz, 022 231608",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 93.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 202.0,
+            "t": 105.33333333333337
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Ex.: D. Garbuz, 022 231608"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Sef adjunct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 201.54838053385413,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 489.3199462890625,
+            "r": 556.2391357421875,
+            "t": 215.43550618489587
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Sef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ndrerPAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 184.6129150390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 452.3294677734375,
+            "r": 556.2391357421875,
+            "t": 197.14518229166663
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "ndrerPAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PAn",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 145.32259114583337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 416.3478190104167,
+            "r": 427.4449462890625,
+            "t": 159.88712565104163
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "PAn"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, municipiul Chişinau. MD)-2704. Republica Moldova. Tel.: (022)201601. www.chisinauedu.md. e-mail: dgetsmun@gmail.co",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 61.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 189.66666666666669,
+            "r": 488.3333333333333,
+            "t": 83.33333333333337
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Str. Mitropolit Dosoftei, 99, municipiul Chişinau. MD)-2704. Republica Moldova. Tel.: (022)201601. www.chisinauedu.md. e-mail: dgetsmun@gmail.co"
+    }
+  ],
+  "version": "1.10.0"
+}

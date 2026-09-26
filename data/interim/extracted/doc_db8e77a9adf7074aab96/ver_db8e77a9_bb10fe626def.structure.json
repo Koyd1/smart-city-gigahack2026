@@ -1,0 +1,1212 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/30"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/pictures/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    }
+  ],
+  "key_value_items": [],
+  "name": "93430ef37d6c8256c727f6776a1cb63c7024eb893e04850a2c505567635c27cc",
+  "origin": {
+    "binary_hash": 3193146038342657996,
+    "filename": "93430ef37d6c8256c727f6776a1cb63c7024eb893e04850a2c505567635c27cc.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 711.0340444199579,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 256.42692550761586,
+            "r": 368.3993228047006,
+            "t": 785.4225325630131
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 618.9403051550688,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.63454533928993,
+            "r": 304.8705857818399,
+            "t": 647.5814847591814
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 157.01043341815648,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.90111585783478,
+            "r": 216.41788757119403,
+            "t": 233.24206997115903
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.42421478009942,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 414.1860189962707,
+            "r": 555.0210819034448,
+            "t": 412.74407407712954
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIN NOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 714.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 286.66666666666663,
+            "r": 338.0,
+            "t": 720.0133233333333
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PRIN NOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 662.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 178.0,
+            "r": 467.6666666666667,
+            "t": 709.0133233333333
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "0/1/411 din 1305 26",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 617.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.66666666666667,
+            "r": 308.0,
+            "t": 649.67999
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "0/1/411 din 1305 26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr!",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 623.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.0,
+            "r": 99.0,
+            "t": 634.3466566666666
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "nr!"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la nr.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 597.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.33333333333333,
+            "r": 114.0,
+            "t": 611.67999
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "la nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 597.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 189.33333333333331,
+            "r": 209.0,
+            "t": 612.0133233333333
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "din"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 558.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 289.66666666666663,
+            "r": 352.6666666666667,
+            "t": 571.67999
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref.: Completarea bazei de date,",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 512.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.66666666666667,
+            "r": 274.33333333333337,
+            "t": 528.3466566666666
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Ref.: Completarea bazei de date,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "sesiunea de examene 2026",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 497.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 123.33333333333334,
+            "r": 275.33333333333337,
+            "t": 510.67999
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "sesiunea de examene 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Întru realizarea prevederilor Ordinului Ministerului Educației și Cercetării al Republicii Moldova nr. 892 din 06 mai 2026 Cu privire la completarea bazei de date sesiunea de examene 2026\", în conformitate cu prevederile Regulamentului cu privire la examenele naționale de bacalaureat, aprobat prin ordinul MECC nr. 47/2018 și a Instrucțiunii privind procedurile de administrare a Sistemului Automatizat de Prelucrare a Datelor, aprobată prin ordinul MECC nr. 114/2021,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 380.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 557.3333333333333,
+            "t": 478.34665666666666
+          },
+          "charspan": [
+            0,
+            469
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Întru realizarea prevederilor Ordinului Ministerului Educației și Cercetării al Republicii Moldova nr. 892 din 06 mai 2026 Cu privire la completarea bazei de date sesiunea de examene 2026\", în conformitate cu prevederile Regulamentului cu privire la examenele naționale de bacalaureat, aprobat prin ordinul MECC nr. 47/2018 și a Instrucțiunii privind procedurile de administrare a Sistemului Automatizat de Prelucrare a Datelor, aprobată prin ordinul MECC nr. 114/2021,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 366.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.66666666666663,
+            "r": 348.6666666666667,
+            "t": 379.67999
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Direcția managementul curricular (S. Axînti, șef):",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 332.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 381.3333333333333,
+            "t": 348.01332333333335
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Direcția managementul curricular (S. Axînti, șef):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.1.",
+      "orig": "1.1. va asigura, în perioada 25 mai-01 iunie 2026, introducerea în Sistemul Automatizat de Prelucrare a Datelor (SAPD) a mediilor anuale pentru clasa a XII-a și a XIII-a (licee cu învățământ seral) ale candidaților la examenul național de bacalaureat, sesiunea 2026, în conformitate cu pct.35-42 ale Secțiunii 6, Capitolul II din Instrucțiunea privind procedurile de administrare a Sistemului Autómatizat de Prelucrare a Datelor;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 236.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 556.6666666666667,
+            "t": 331.67999
+          },
+          "charspan": [
+            0,
+            429
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "va asigura, în perioada 25 mai-01 iunie 2026, introducerea în Sistemul Automatizat de Prelucrare a Datelor (SAPD) a mediilor anuale pentru clasa a XII-a și a XIII-a (licee cu învățământ seral) ale candidaților la examenul național de bacalaureat, sesiunea 2026, în conformitate cu pct.35-42 ale Secțiunii 6, Capitolul II din Instrucțiunea privind procedurile de administrare a Sistemului Autómatizat de Prelucrare a Datelor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2.",
+      "orig": "1.2. va asigura recepționarea de către persoana responsabilă de administrarea SAPD la nivel de municipiu, S. Golubev, a Anexelor nr.1 de la instituțiile de învățământ din subordine și verificarea corectitudinii datelor din anexe, confirmate prin semnătură fiecare pagină de către responsabilul de administrarea SAPD la nivel de municipiu;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 155.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 556.3333333333333,
+            "t": 235.67998999999998
+          },
+          "charspan": [
+            0,
+            338
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "va asigura recepționarea de către persoana responsabilă de administrarea SAPD la nivel de municipiu, S. Golubev, a Anexelor nr.1 de la instituțiile de învățământ din subordine și verificarea corectitudinii datelor din anexe, confirmate prin semnătură fiecare pagină de către responsabilul de administrarea SAPD la nivel de municipiu;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.3.",
+      "orig": "1.3. va transmite Agenției Naționale pentru Curriculum și Evaluare, până la 10 iunie 2026, datele din Anexa nr.1 din SAPD, aprobate. prin semnătură și ștampilă fiecare pagină a anexei de către şeful Direcției Generale Educație, Tineret și Sport;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 556.0,
+            "t": 156.34665666666672
+          },
+          "charspan": [
+            0,
+            245
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "va transmite Agenției Naționale pentru Curriculum și Evaluare, până la 10 iunie 2026, datele din Anexa nr.1 din SAPD, aprobate. prin semnătură și ștampilă fiecare pagină a anexei de către şeful Direcției Generale Educație, Tineret și Sport;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.4.",
+      "orig": "1.4. va aduce la cunoştință conducătorilor instituțiilor de învățământ, ciclul I prevederile prezentului ordin.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 77.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.66666666666667,
+            "r": 555.3333333333333,
+            "t": 107.01332333333323
+          },
+          "charspan": [
+            0,
+            111
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "va aduce la cunoştință conducătorilor instituțiilor de învățământ, ciclul I prevederile prezentului ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Directorii instituțiilor de învățământ secundar, ciclul II:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 61.679989999999975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.66666666666667,
+            "r": 414.6666666666667,
+            "t": 76.01332333333323
+          },
+          "charspan": [
+            0,
+            62
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Directorii instituțiilor de învățământ secundar, ciclul II:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. vor asigura introducerea în SAPD, de către responsabilul de administrarea SAPD la nivel de instituție, a notelor medii anuale la disciplinele școlare pentru clasa a XII-a'și a XIII-a (licee cu învățământ seral) ale candidaților la examenul național de bacalaureat;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 720.6524377132162,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.79071935017903,
+            "r": 558.8922526041667,
+            "t": 785.8809310858154
+          },
+          "charspan": [
+            0,
+            269
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "vor asigura introducerea în SAPD, de către responsabilul de administrarea SAPD la nivel de instituție, a notelor medii anuale la disciplinele școlare pentru clasa a XII-a'și a XIII-a (licee cu învățământ seral) ale candidaților la examenul național de bacalaureat;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. vor asigura realizarea de către responsabilul de administrarea SAPD la nivel de instituție a print screen-urilor pentru fiecare candidat, care conțin următoarele date: datele personale, notele medii anuale la disciplinele şcolare din Planul-cadru, profilul, limba străină, disciplina la solicitare;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 653.651435719401,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.44105084737141,
+            "r": 558.1929117838542,
+            "t": 719.943432993164
+          },
+          "charspan": [
+            0,
+            303
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "vor asigura realizarea de către responsabilul de administrarea SAPD la nivel de instituție a print screen-urilor pentru fiecare candidat, care conțin următoarele date: datele personale, notele medii anuale la disciplinele şcolare din Planul-cadru, profilul, limba străină, disciplina la solicitare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.4.",
+      "orig": "2.4. vor asigura verificarea datelor din Anexa nr.1 de către comisia responsabilă de corectitudinea datelor introduse în SAPD la nivel de instituție și confirmarea veridicității datelor din anexă prin semnătura membrilor comisiei pe fiecare pagină;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 556.8722100520833,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0913823445638,
+            "r": 558.1929117838542,
+            "t": 621.7461927994791
+          },
+          "charspan": [
+            0,
+            248
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "vor asigura verificarea datelor din Anexa nr.1 de către comisia responsabilă de corectitudinea datelor introduse în SAPD la nivel de instituție și confirmarea veridicității datelor din anexă prin semnătura membrilor comisiei pe fiecare pagină;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.3.",
+      "orig": "2.3. vor asigura verificarea de către fiecare candidat a datelor lui personale introduse în SAPD, confirmând veridicitatea acestora prin semnătura lor;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 621.0371880794271,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.44105084737141,
+            "r": 558.1929117838542,
+            "t": 654.7149427994791
+          },
+          "charspan": [
+            0,
+            151
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "vor asigura verificarea de către fiecare candidat a datelor lui personale introduse în SAPD, confirmând veridicitatea acestora prin semnătura lor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.5.",
+      "orig": "2.5. vor prezenta la DGETS, biroul 33 (S. Golubev), până la 02 iunie 2026, datele din Anexa nr.1 din SAPD, aprobate prin semnătură și ștampila instituției de învățământ.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 510.07785783854166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.74171384175618,
+            "r": 558.1929117838542,
+            "t": 557.9357069596354
+          },
+          "charspan": [
+            0,
+            169
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "vor prezenta la DGETS, biroul 33 (S. Golubev), până la 02 iunie 2026, datele din Anexa nr.1 din SAPD, aprobate prin semnătură și ștampila instituției de învățământ."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Responsabil de realizarea prevederilor prezentului ordin se desemnează S. Golubev, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 478.1726047460937,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.39204533894856,
+            "r": 557.4935709635417,
+            "t": 509.72334530598954
+          },
+          "charspan": [
+            0,
+            92
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Responsabil de realizarea prevederilor prezentului ordin se desemnează S. Golubev, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Controlul executării prevederilor prezentului ordin revine S. Axînti, şef al direcției managementul curricular.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 444.14035783854166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.74171384175618,
+            "r": 557.4935709635417,
+            "t": 477.46360002604166
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Controlul executării prevederilor prezentului ordin revine S. Axînti, şef al direcției managementul curricular."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Monitorizarea îndeplinirii prevederilor prezentului ordin revine V. Crudu, şef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 412.9441094661458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0913823445638,
+            "r": 558.8922526041667,
+            "t": 444.49485002604166
+          },
+          "charspan": [
+            0,
+            97
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Monitorizarea îndeplinirii prevederilor prezentului ordin revine V. Crudu, şef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: S. Axînti,(022)235272",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 246.3278578385416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.74171384175618,
+            "r": 218.31509399414062,
+            "t": 260.50795223958335
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Ex.: S. Axînti,(022)235272"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "S. Golubev (022)233442",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 233.21123999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.72182718912761,
+            "r": 227.40648396809897,
+            "t": 245.9733656510416
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "S. Golubev (022)233442"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Waued",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 181.0993422135416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.47016906738281,
+            "r": 173.55752563476562,
+            "t": 207.68707007812498
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Waued"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 346.6521172786458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 489.3082275390625,
+            "r": 557.1439208984375,
+            "t": 362.25022111979166
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Şef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Bavaloi",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 315.81036109375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 507.490966796875,
+            "r": 556.0948893229167,
+            "t": 329.2814711197917
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Bavaloi"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, municipiul Chişināu, MD-2704, Repub!ica Moliova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 99.56377906249998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 169.3615010579427,
+            "r": 470.0764567057292,
+            "t": 121.89739722656248
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Str. Mitropolit Dosoftei, 99, municipiul Chişināu, MD-2704, Repub!ica Moliova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

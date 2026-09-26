@@ -1,0 +1,1827 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/tables/0"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "35486be71696ab564d382591a54fe21dfabb5e5b39d8555ec871538df65fb67e",
+  "origin": {
+    "binary_hash": 14443417349142853246,
+    "filename": "35486be71696ab564d382591a54fe21dfabb5e5b39d8555ec871538df65fb67e.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 725.7889109992755,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 251.5184286221591,
+            "r": 363.3231424597538,
+            "t": 798.8803860557094
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 629.7759683644842,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.84104092684659,
+            "r": 279.8259022845644,
+            "t": 666.221225823982
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 49.50435920778841,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 393.7679453716856,
+            "r": 509.07625029592805,
+            "t": 162.2609588659335
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 697.6970693835465,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 307.9305886008523,
+            "r": 542.014639559659,
+            "t": 746.9295985643022
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 255.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 71.66666666666667,
+                "r": 92.0,
+                "t": 228.33333333333334
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr. o/p"
+            },
+            {
+              "bbox": {
+                "b": 255.0,
+                "coord_origin": "TOPLEFT",
+                "l": 99.66666666666666,
+                "r": 124.0,
+                "t": 229.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Cla- sa"
+            },
+            {
+              "bbox": {
+                "b": 255.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 143.33333333333331,
+                "r": 247.33333333333334,
+                "t": 228.33333333333334
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Numele, prenumele elevului"
+            },
+            {
+              "bbox": {
+                "b": 244.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 274.0,
+                "r": 402.0,
+                "t": 229.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "Instituția de învățământ"
+            },
+            {
+              "bbox": {
+                "b": 243.0,
+                "coord_origin": "TOPLEFT",
+                "l": 456.0,
+                "r": 501.6666666666667,
+                "t": 230.66666666666666
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 0,
+              "text": "Profesor"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 269.0,
+                "coord_origin": "TOPLEFT",
+                "l": 72.66666666666667,
+                "r": 83.66666666666667,
+                "t": 256.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1."
+            },
+            {
+              "bbox": {
+                "b": 269.0,
+                "coord_origin": "TOPLEFT",
+                "l": 100.33333333333334,
+                "r": 113.0,
+                "t": 256.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "11"
+            },
+            {
+              "bbox": {
+                "b": 270.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 131.66666666666669,
+                "r": 220.33333333333334,
+                "t": 256.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "Piroghova Olesea"
+            },
+            {
+              "bbox": {
+                "b": 271.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 266.33333333333337,
+                "r": 378.3333333333333,
+                "t": 256.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": "IPLT M.Koțiubinski\""
+            },
+            {
+              "bbox": {
+                "b": 271.0,
+                "coord_origin": "TOPLEFT",
+                "l": 417.0,
+                "r": 517.6666666666667,
+                "t": 258.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 1,
+              "text": "Zhyvohliad Svitlana"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 284.0,
+                "coord_origin": "TOPLEFT",
+                "l": 71.0,
+                "r": 83.66666666666667,
+                "t": 270.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 283.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 100.0,
+                "r": 113.0,
+                "t": 270.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "11"
+            },
+            {
+              "bbox": {
+                "b": 284.0,
+                "coord_origin": "TOPLEFT",
+                "l": 132.0,
+                "r": 208.0,
+                "t": 271.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "Danilova Anna"
+            },
+            {
+              "bbox": {
+                "b": 286.0,
+                "coord_origin": "TOPLEFT",
+                "l": 266.33333333333337,
+                "r": 378.3333333333333,
+                "t": 270.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": "IPLT M.Kotiubinski\""
+            },
+            {
+              "bbox": {
+                "b": 285.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 417.0,
+                "r": 517.6666666666667,
+                "t": 272.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 2,
+              "text": "Zhyvohliad Svitlana"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 297.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 71.66666666666667,
+                "r": 83.33333333333333,
+                "t": 284.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 297.0,
+                "coord_origin": "TOPLEFT",
+                "l": 100.33333333333334,
+                "r": 112.33333333333334,
+                "t": 285.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "11"
+            },
+            {
+              "bbox": {
+                "b": 298.0,
+                "coord_origin": "TOPLEFT",
+                "l": 132.0,
+                "r": 205.66666666666666,
+                "t": 285.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "Ihnatova Anna"
+            },
+            {
+              "bbox": {
+                "b": 300.0,
+                "coord_origin": "TOPLEFT",
+                "l": 266.33333333333337,
+                "r": 378.6666666666667,
+                "t": 285.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": "IPLT ,,M.Koțiubinski\""
+            },
+            {
+              "bbox": {
+                "b": 299.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 416.6666666666667,
+                "r": 518.0,
+                "t": 286.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 3,
+              "text": "Zhyvohliad Svitlana"
+            }
+          ]
+        ],
+        "num_cols": 5,
+        "num_rows": 4,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 255.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 71.66666666666667,
+              "r": 92.0,
+              "t": 228.33333333333334
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr. o/p"
+          },
+          {
+            "bbox": {
+              "b": 255.0,
+              "coord_origin": "TOPLEFT",
+              "l": 99.66666666666666,
+              "r": 124.0,
+              "t": 229.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Cla- sa"
+          },
+          {
+            "bbox": {
+              "b": 255.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 143.33333333333331,
+              "r": 247.33333333333334,
+              "t": 228.33333333333334
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Numele, prenumele elevului"
+          },
+          {
+            "bbox": {
+              "b": 244.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 274.0,
+              "r": 402.0,
+              "t": 229.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "Instituția de învățământ"
+          },
+          {
+            "bbox": {
+              "b": 243.0,
+              "coord_origin": "TOPLEFT",
+              "l": 456.0,
+              "r": 501.6666666666667,
+              "t": 230.66666666666666
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 0,
+            "text": "Profesor"
+          },
+          {
+            "bbox": {
+              "b": 269.0,
+              "coord_origin": "TOPLEFT",
+              "l": 72.66666666666667,
+              "r": 83.66666666666667,
+              "t": 256.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1."
+          },
+          {
+            "bbox": {
+              "b": 269.0,
+              "coord_origin": "TOPLEFT",
+              "l": 100.33333333333334,
+              "r": 113.0,
+              "t": 256.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "11"
+          },
+          {
+            "bbox": {
+              "b": 270.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 131.66666666666669,
+              "r": 220.33333333333334,
+              "t": 256.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "Piroghova Olesea"
+          },
+          {
+            "bbox": {
+              "b": 271.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 266.33333333333337,
+              "r": 378.3333333333333,
+              "t": 256.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": "IPLT M.Koțiubinski\""
+          },
+          {
+            "bbox": {
+              "b": 271.0,
+              "coord_origin": "TOPLEFT",
+              "l": 417.0,
+              "r": 517.6666666666667,
+              "t": 258.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 1,
+            "text": "Zhyvohliad Svitlana"
+          },
+          {
+            "bbox": {
+              "b": 284.0,
+              "coord_origin": "TOPLEFT",
+              "l": 71.0,
+              "r": 83.66666666666667,
+              "t": 270.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 283.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 100.0,
+              "r": 113.0,
+              "t": 270.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "11"
+          },
+          {
+            "bbox": {
+              "b": 284.0,
+              "coord_origin": "TOPLEFT",
+              "l": 132.0,
+              "r": 208.0,
+              "t": 271.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "Danilova Anna"
+          },
+          {
+            "bbox": {
+              "b": 286.0,
+              "coord_origin": "TOPLEFT",
+              "l": 266.33333333333337,
+              "r": 378.3333333333333,
+              "t": 270.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 2,
+            "text": "IPLT M.Kotiubinski\""
+          },
+          {
+            "bbox": {
+              "b": 285.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 417.0,
+              "r": 517.6666666666667,
+              "t": 272.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 2,
+            "text": "Zhyvohliad Svitlana"
+          },
+          {
+            "bbox": {
+              "b": 297.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 71.66666666666667,
+              "r": 83.33333333333333,
+              "t": 284.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 297.0,
+              "coord_origin": "TOPLEFT",
+              "l": 100.33333333333334,
+              "r": 112.33333333333334,
+              "t": 285.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "11"
+          },
+          {
+            "bbox": {
+              "b": 298.0,
+              "coord_origin": "TOPLEFT",
+              "l": 132.0,
+              "r": 205.66666666666666,
+              "t": 285.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "Ihnatova Anna"
+          },
+          {
+            "bbox": {
+              "b": 300.0,
+              "coord_origin": "TOPLEFT",
+              "l": 266.33333333333337,
+              "r": 378.6666666666667,
+              "t": 285.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 3,
+            "text": "IPLT ,,M.Koțiubinski\""
+          },
+          {
+            "bbox": {
+              "b": 299.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 416.6666666666667,
+              "r": 518.0,
+              "t": 286.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 3,
+            "text": "Zhyvohliad Svitlana"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 540.4697150899228,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.03355490944602,
+            "r": 544.9780232007575,
+            "t": 614.2991044190325
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: Valentina Coropcean, (022) 235271",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 65.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.0,
+            "r": 236.0,
+            "t": 79.29333333333341
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Ex.: Valentina Coropcean, (022) 235271"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FEINNOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 729.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 282.33333333333337,
+            "r": 332.0,
+            "t": 734.2933333333334
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "FEINNOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 708.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 208.0,
+            "r": 405.3333333333333,
+            "t": 724.96
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 676.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 172.66666666666669,
+            "r": 461.3333333333333,
+            "t": 710.2933333333333
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "O1//7/422300316",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 632.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.66666666666667,
+            "r": 281.0,
+            "t": 669.2933333333334
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "O1//7/422300316"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref.: Cu privire la delegarea elevilor la olimpiada republicană la limba și literatura ucraineană",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 546.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666667,
+            "r": 258.66666666666663,
+            "t": 590.6266666666667
+          },
+          "charspan": [
+            0,
+            97
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Ref.: Cu privire la delegarea elevilor la olimpiada republicană la limba și literatura ucraineană"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul ordinului Ministerului Educației și Cercetării al Republicii Moldova nr.1003 din 21.10.2025 Cu privire la Orarul olimpiadelor și concursurilor republicane pentru anul 2026 și pentru asigurarea participării eficiente a elevilor delegați la olimpiada republicană la limba și literatura ucraineană,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 465.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.0,
+            "r": 543.6666666666667,
+            "t": 529.6266666666668
+          },
+          "charspan": [
+            0,
+            306
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "În temeiul ordinului Ministerului Educației și Cercetării al Republicii Moldova nr.1003 din 21.10.2025 Cu privire la Orarul olimpiadelor și concursurilor republicane pentru anul 2026 și pentru asigurarea participării eficiente a elevilor delegați la olimpiada republicană la limba și literatura ucraineană,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 434.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 279.33333333333337,
+            "r": 328.3333333333333,
+            "t": 447.96000000000004
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se deleagă la olimpiada republicană la limba și literatura ucraineană,în perioada 2426.04.2026, în incinta Universității Pedagogice de Stat ,Ion Creangă\" (str.I.Creangă,1), primii şase lideri ai clasamentului (conform punctajului/scorului acumulat în descreştere) la olimpiada municipală, ediția 2026 și elevii premianți cu diplome de gradul I,II și III la etapa republicană din anul 2025 (Anexa nr. 1).",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 337.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.0,
+            "r": 543.0,
+            "t": 417.2933333333334
+          },
+          "charspan": [
+            0,
+            406
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se deleagă la olimpiada republicană la limba și literatura ucraineană,în perioada 2426.04.2026, în incinta Universității Pedagogice de Stat ,Ion Creangă\" (str.I.Creangă,1), primii şase lideri ai clasamentului (conform punctajului/scorului acumulat în descreştere) la olimpiada municipală, ediția 2026 și elevii premianți cu diplome de gradul I,II și III la etapa republicană din anul 2025 (Anexa nr. 1)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se desemnează conducător al echipei municipale Zhyvohliad Svitlana, profesoară, IPLT M.Koțiubinski\".",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 306.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.33333333333333,
+            "r": 542.6666666666667,
+            "t": 337.6266666666667
+          },
+          "charspan": [
+            0,
+            103
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se desemnează conducător al echipei municipale Zhyvohliad Svitlana, profesoară, IPLT M.Koțiubinski\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Conducătorul echipei municipale, Zhyvohliad Svitlana:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 290.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.33333333333333,
+            "r": 369.6666666666667,
+            "t": 305.96000000000004
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Conducătorul echipei municipale, Zhyvohliad Svitlana:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2",
+      "orig": "3.2 va verifica datele elevilor participanți la olimpiadă, din lista de înregistrare în Centrul desemnat pentru desfăşurarea probelor scrise, confirmând veridicitatea lor prin semnătură.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 233.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.33333333333333,
+            "r": 542.0,
+            "t": 264.6266666666668
+          },
+          "charspan": [
+            0,
+            186
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "va verifica datele elevilor participanți la olimpiadă, din lista de înregistrare în Centrul desemnat pentru desfăşurarea probelor scrise, confirmând veridicitatea lor prin semnătură."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1",
+      "orig": "3.1 va asigura prezența obligatorie a actului de identitate/certificatului de naştere în original și o copie a acestuia pentru fiecare participant la olimpiada republicană;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 262.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.33333333333333,
+            "r": 542.6666666666667,
+            "t": 291.96000000000004
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "va asigura prezența obligatorie a actului de identitate/certificatului de naştere în original și o copie a acestuia pentru fiecare participant la olimpiada republicană;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Responsabilă de îndeplinirea prevederilor prezentului ordin se desemnează V.Coropcean, specialist principal, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 207.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.33333333333333,
+            "r": 542.0,
+            "t": 236.2933333333333
+          },
+          "charspan": [
+            0,
+            118
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Responsabilă de îndeplinirea prevederilor prezentului ordin se desemnează V.Coropcean, specialist principal, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul realizării prevederilor prezentului ordin îi revine S. Axînti, şef al direcției managementul curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 178.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.33333333333333,
+            "r": 542.6666666666667,
+            "t": 209.2933333333333
+          },
+          "charspan": [
+            0,
+            124
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Controlul realizării prevederilor prezentului ordin îi revine S. Axînti, şef al direcției managementul curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Monitorizarea realizării prevederilor prezentului ordin revine V. Crudu, şef adjunot, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 159.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.66666666666667,
+            "r": 540.6666666666667,
+            "t": 178.62666666666678
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Monitorizarea realizării prevederilor prezentului ordin revine V. Crudu, şef adjunot, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "adjunct",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 117.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 502.6666666666667,
+            "r": 543.3333333333333,
+            "t": 130.62666666666678
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "VALOI",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 104.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 505.3333333333333,
+            "r": 542.6666666666667,
+            "t": 117.2933333333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "VALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 594.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 281.3333333333333,
+            "r": 333.3333333333333,
+            "t": 611.2933333333334
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 24.293333333333408,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.33333333333334,
+            "r": 454.6666666666667,
+            "t": 50.29333333333341
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr.1",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 731.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 486.66666666666663,
+            "r": 543.3333333333334,
+            "t": 750.2933333333334
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Anexa nr.1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "42/din30032026",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 701.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 426.6666666666667,
+            "r": 548.3333333333334,
+            "t": 736.96
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "42/din30032026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la ordinul nr.",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 706.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 304.3333333333333,
+            "r": 376.6666666666667,
+            "t": 727.2933333333334
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "la ordinul nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Prin decizia Consiliului municipal de coordonare la olimpiada republicană la Limba și literatura ucraineană, ediția 2026, sunt delegați:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 641.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.0,
+            "r": 483.3333333333333,
+            "t": 673.2933333333334
+          },
+          "charspan": [
+            0,
+            136
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Prin decizia Consiliului municipal de coordonare la olimpiada republicană la Limba și literatura ucraineană, ediția 2026, sunt delegați:"
+    }
+  ],
+  "version": "1.10.0"
+}

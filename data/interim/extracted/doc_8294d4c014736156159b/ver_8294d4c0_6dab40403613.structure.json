@@ -1,0 +1,870 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    }
+  ],
+  "key_value_items": [],
+  "name": "1186b1dfb3b817db7bed53bb65238a0e27d77436303318aacc7fc6d3327b9315",
+  "origin": {
+    "binary_hash": 14735715116166910741,
+    "filename": "1186b1dfb3b817db7bed53bb65238a0e27d77436303318aacc7fc6d3327b9315.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 735.8178452920631,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 278.53532374526515,
+            "r": 391.4917160866477,
+            "t": 811.8743625752453
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 253.50906008472066,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 373.45050041429926,
+            "r": 544.662549124053,
+            "t": 407.8622529912307
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PAINNOIENSINI",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 739.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 309.33333333333337,
+            "r": 360.6666666666667,
+            "t": 747.96
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PAINNOIENSINI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 683.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 200.33333333333331,
+            "r": 489.3333333333333,
+            "t": 726.96
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 716.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 236.66666666666666,
+            "r": 434.0,
+            "t": 739.6266666666667
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr. 01/1-7/1164 din 17.08.26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 650.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.33333333333333,
+            "r": 305.33333333333337,
+            "t": 676.6266666666667
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "nr. 01/1-7/1164 din 17.08.26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 611.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 297.66666666666663,
+            "r": 362.0,
+            "t": 636.2933333333334
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "cicul I și II, la tema:  Alegeri informate-Decizii asumate",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 521.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.0,
+            "r": 425.0,
+            "t": 551.2933333333333
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "cicul I și II, la tema:  Alegeri informate-Decizii asumate"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea și desfăşurarea sesiunilor de formare pentru coordonatorii și președinții Consiliilor Şcolare ale Elevilor (CŞE) din instituțiile de învățământ secundar,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 541.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.33333333333333,
+            "r": 395.0,
+            "t": 615.2933333333334
+          },
+          "charspan": [
+            0,
+            179
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Cu privire la organizarea și desfăşurarea sesiunilor de formare pentru coordonatorii și președinții Consiliilor Şcolare ale Elevilor (CŞE) din instituțiile de învățământ secundar,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În scopul realizării prevederilor Deciziei Consiliului municipal Chișinău",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 468.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 135.33333333333334,
+            "r": 551.3333333333333,
+            "t": 503.29333333333335
+          },
+          "charspan": [
+            0,
+            73
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "În scopul realizării prevederilor Deciziei Consiliului municipal Chișinău"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr. 4/3 din 13iulie 2026 Cu privire la aplicarea bugetului municipal Chișinău pentru anul 2026 în lectura a doua\", în temeiul Ordinelor DGETS nr. 01/17/1059 din 30.07.2026Cu privire la aplicarea Deciziei Consiliului municipal Chişinău nr. 4/3 din 13 iulie 2026 Cu privire la aplicarea bugetului municipal Chișinău pentru anul 2026 în lectura a doua\", nr.01/1-7/41 din 16.01.2026 privind aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS (tineret și sport) pentru anul 2026 și în conformitate cu prevederile Planului de activitate al Direcției Generale Educație, Tineret și Sport a Consiliului municipal Chişinău, pentru anul de studii 2026-2027,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 321.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.0,
+            "r": 550.6666666666667,
+            "t": 486.96000000000004
+          },
+          "charspan": [
+            0,
+            697
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "nr. 4/3 din 13iulie 2026 Cu privire la aplicarea bugetului municipal Chișinău pentru anul 2026 în lectura a doua\", în temeiul Ordinelor DGETS nr. 01/17/1059 din 30.07.2026Cu privire la aplicarea Deciziei Consiliului municipal Chişinău nr. 4/3 din 13 iulie 2026 Cu privire la aplicarea bugetului municipal Chișinău pentru anul 2026 în lectura a doua\", nr.01/1-7/41 din 16.01.2026 privind aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS (tineret și sport) pentru anul 2026 și în conformitate cu prevederile Planului de activitate al Direcției Generale Educație, Tineret și Sport a Consiliului municipal Chişinău, pentru anul de studii 2026-2027,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 284.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 308.66666666666663,
+            "r": 367.6666666666667,
+            "t": 303.62666666666667
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Direcția managementul învățământului extraşcolar, tineret și sport a DGETS (Silvia Butuc-Canațui, şefă) în colaborare cu Centrul Municipal de Tineret Chişinău (Petru Grecu, director) va organiza și desfăşura sesiuni de formare pentru coordonatorii și preşedinții Consiliilor Şcolare ale Elevilor (CŞE) din instituțiile de învățământ secundar, cicul I şi II, la tema: Alegeri informate-Decizii asumate\", în incinta sălii de şedințe a DGETS, conform următorului grafic: 22.09.2026 – sl Buiucani și sl Râșcani, 23.09.2026 – sl Botanica, sl Ciocana și sl Centru, începând cu ora13:30.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 125.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 112.0,
+            "r": 545.0,
+            "t": 272.96000000000004
+          },
+          "charspan": [
+            0,
+            583
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Direcția managementul învățământului extraşcolar, tineret și sport a DGETS (Silvia Butuc-Canațui, şefă) în colaborare cu Centrul Municipal de Tineret Chişinău (Petru Grecu, director) va organiza și desfăşura sesiuni de formare pentru coordonatorii și preşedinții Consiliilor Şcolare ale Elevilor (CŞE) din instituțiile de învățământ secundar, cicul I şi II, la tema: Alegeri informate-Decizii asumate\", în incinta sălii de şedințe a DGETS, conform următorului grafic: 22.09.2026 – sl Buiucani și sl Râșcani, 23.09.2026 – sl Botanica, sl Ciocana și sl Centru, începând cu ora13:30."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "preşedinte, se prezintă un reprezentant al CŞE).",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 45.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 122.66666666666666,
+            "r": 395.3333333333333,
+            "t": 71.62666666666678
+          },
+          "charspan": [
+            0,
+            48
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "preşedinte, se prezintă un reprezentant al CŞE)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Conducătorii instituțiilor de învățământ secundar, ciclul I și II din municipiul Chişinău, vor delega la sesiuni coordonatorii Consiliilor Şcolare ale Elevilor și preşedinții acestora (în cazul când nu este ales un",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 58.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 106.0,
+            "r": 540.6666666666667,
+            "t": 129.2933333333333
+          },
+          "charspan": [
+            0,
+            217
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Conducătorii instituțiilor de învățământ secundar, ciclul I și II din municipiul Chişinău, vor delega la sesiuni coordonatorii Consiliilor Şcolare ale Elevilor și preşedinții acestora (în cazul când nu este ales un"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Direcția managementul economico-financiar și evidența patrimoniului a DGETS (Svetlana Ignatieva, șefã) va asigura finanțarea sesiunilor de formare pentru coordonatorii și președinții Consiliilor Şcolare ale Elevilor (CŞE) din instituțiile de învățământ secundar, cicul I și II, la tema: Alegeri informate-Deciziiasumate\", conform devizului de cheltuieli (anexa nr.1);",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 700.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 128.0,
+            "r": 561.0,
+            "t": 817.2933333333334
+          },
+          "charspan": [
+            0,
+            370
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Direcția managementul economico-financiar și evidența patrimoniului a DGETS (Svetlana Ignatieva, șefã) va asigura finanțarea sesiunilor de formare pentru coordonatorii și președinții Consiliilor Şcolare ale Elevilor (CŞE) din instituțiile de învățământ secundar, cicul I și II, la tema: Alegeri informate-Deciziiasumate\", conform devizului de cheltuieli (anexa nr.1);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Se desemnează responsabilă de îndeplinirea prevederilor prezentului ordin, de executarea actelor financiare ale activității, conform legislației în vigoare, în baza contractului de răspundere materială, Meriacre Victoria, specialistă superioară în direcția managementul învățământului extraşcolar, tineret și sport a DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 566.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 122.33333333333333,
+            "r": 555.3333333333333,
+            "t": 668.2933333333334
+          },
+          "charspan": [
+            0,
+            326
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Se desemnează responsabilă de îndeplinirea prevederilor prezentului ordin, de executarea actelor financiare ale activității, conform legislației în vigoare, în baza contractului de răspundere materială, Meriacre Victoria, specialistă superioară în direcția managementul învățământului extraşcolar, tineret și sport a DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. Finanțarea activității se va efectua din contul bugetului DGETS pentru anul 2026, punctul 5 pe parcursul anului, 2026.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 654.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 140.0,
+            "r": 556.0,
+            "t": 705.2933333333333
+          },
+          "charspan": [
+            0,
+            123
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Finanțarea activității se va efectua din contul bugetului DGETS pentru anul 2026, punctul 5 pe parcursul anului, 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul realizării prevederilor prezentului ordin revine şefei direcției managementul învățământului extraşcolar, tineret și sport a DGETS, Silvia Butuc-Canațui.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 516.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.66666666666667,
+            "r": 551.6666666666667,
+            "t": 576.2933333333334
+          },
+          "charspan": [
+            0,
+            166
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Controlul realizării prevederilor prezentului ordin revine şefei direcției managementul învățământului extraşcolar, tineret și sport a DGETS, Silvia Butuc-Canațui."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Monitorizarea realizării prevederilor prezentului ordin revine dlui Crudu Valentin, şef adjunct al DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 479.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.0,
+            "r": 549.6666666666667,
+            "t": 520.96
+          },
+          "charspan": [
+            0,
+            108
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Monitorizarea realizării prevederilor prezentului ordin revine dlui Crudu Valentin, şef adjunct al DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 321.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 478.0,
+            "r": 546.3333333333334,
+            "t": 366.96000000000004
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Şef adjunct PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CONSILIUI",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 348.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 409.0,
+            "r": 443.3333333333333,
+            "t": 354.29333333333335
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "CONSILIUI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "NICI",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 331.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 459.3333333333333,
+            "r": 465.3333333333333,
+            "t": 347.96000000000004
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "NICI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "DIR",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 271.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 410.6666666666667,
+            "r": 420.3333333333333,
+            "t": 284.96000000000004
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "DIR"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex.Victoria Meriacre, Tel.022-232333",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 69.29333333333341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 158.0,
+            "t": 93.29333333333341
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Ex.Victoria Meriacre, Tel.022-232333"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.dgets.md, e-mail: dgetsmun@gmail.com 41414",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 23.626666666666665,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 167.33333333333331,
+            "r": 449.0,
+            "t": 56.626666666666665
+          },
+          "charspan": [
+            0,
+            158
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.dgets.md, e-mail: dgetsmun@gmail.com 41414"
+    }
+  ],
+  "version": "1.10.0"
+}

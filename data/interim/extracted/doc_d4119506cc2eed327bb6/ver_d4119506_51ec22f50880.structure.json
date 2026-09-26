@@ -1,0 +1,1085 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    }
+  ],
+  "key_value_items": [],
+  "name": "141617612ca46ca2e5a7707e14603f634a1b35f8432a261ca06ee1892c4bab3a",
+  "origin": {
+    "binary_hash": 11560425272776567610,
+    "filename": "141617612ca46ca2e5a7707e14603f634a1b35f8432a261ca06ee1892c4bab3a.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 730.9546484672202,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 254.02714743082956,
+            "r": 365.0956534571296,
+            "t": 804.7819532993343
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 627.6457430080676,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.24996504866837,
+            "r": 309.8624715449186,
+            "t": 675.720971050489
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 88.83713547659033,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 399.3670103956389,
+            "r": 550.5037127767473,
+            "t": 188.7877825014382
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIN NOEINSENE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 733.4560416666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 283.60772705078125,
+            "r": 336.56911214192706,
+            "t": 741.820625
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PRIN NOEINSENE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 683.2685416666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 176.19309488932294,
+            "r": 464.4969482421875,
+            "t": 730.414375
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "0512301/17/1426",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 643.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.41056950887044,
+            "r": 304.493896484375,
+            "t": 670.7216666666666
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "0512301/17/1426"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 603.805,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 294.05082194010413,
+            "r": 344.02846272786456,
+            "t": 620.1539583333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea activităților extracurriculare de iarnă în instituțiile publice cu învățământ preșcolar din municipiul Chişinău",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 523.2008333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.57825215657552,
+            "r": 339.5528564453125,
+            "t": 587.83625
+          },
+          "charspan": [
+            0,
+            137
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Cu privire la organizarea activităților extracurriculare de iarnă în instituțiile publice cu învățământ preșcolar din municipiul Chişinău"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În scopul organizării și desfăşurării eficiente a activităților extracurriculare de iarnă, în temeiul prevederilor Planului-cadru pentru învățământul preşcolar (ordinul MEC nr. 1164/2025), Regulamentului-tip al instituției de educație timpurie (ordinul MECC nr. 254/2017), Regulamentului sanitar pentru instituțiile de educație timpurie (HG nr. 1211/2016), Instrucțiunii cu privire la ocrotirea vieții și sănătății copiilor în instituțiile de educație timpurie (ordinul MEC nr. 592/2020), precum și în vederea asigurării protecției vieții şi sănătății copiilor și angajaților, prevenirii infecțiilor respiratorii acute, a traumatismelor și a incidentelor ce pot pune în pericol securitatea copiilor, precum și prevenirii colectărilor ilicite de bani în instituțiile cu învățământ preşcolar,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 346.02374999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.20528475443523,
+            "r": 555.5010172526042,
+            "t": 510.27374999999995
+          },
+          "charspan": [
+            0,
+            790
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "În scopul organizării și desfăşurării eficiente a activităților extracurriculare de iarnă, în temeiul prevederilor Planului-cadru pentru învățământul preşcolar (ordinul MEC nr. 1164/2025), Regulamentului-tip al instituției de educație timpurie (ordinul MECC nr. 254/2017), Regulamentului sanitar pentru instituțiile de educație timpurie (HG nr. 1211/2016), Instrucțiunii cu privire la ocrotirea vieții și sănătății copiilor în instituțiile de educație timpurie (ordinul MEC nr. 592/2020), precum și în vederea asigurării protecției vieții şi sănătății copiilor și angajaților, prevenirii infecțiilor respiratorii acute, a traumatismelor și a incidentelor ce pot pune în pericol securitatea copiilor, precum și prevenirii colectărilor ilicite de bani în instituțiile cu învățământ preşcolar,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 320.1695833333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 310.08841959635413,
+            "r": 369.76320393880206,
+            "t": 336.51854166666664
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Directorii instituțiilor cu învățământ preşcolar:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 293.1747916666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.85365804036458,
+            "r": 382.81707763671875,
+            "t": 312.1852083333332
+          },
+          "charspan": [
+            0,
+            52
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Directorii instituțiilor cu învățământ preşcolar:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2.",
+      "orig": "1.2. vor stabili formele de organizare a activităților extracurriculare în corelare cu Planul-cadru pentru învățământul preșcolar (cap. 1, tabelul 1.3, cap. 3, subcap.3.1, lit. e), pct.10, subcap.3.3, pct.7);",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 212.95083333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.57825215657552,
+            "r": 555.1280517578125,
+            "t": 265.03937499999995
+          },
+          "charspan": [
+            0,
+            208
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "vor stabili formele de organizare a activităților extracurriculare în corelare cu Planul-cadru pentru învățământul preșcolar (cap. 1, tabelul 1.3, cap. 3, subcap.3.1, lit. e), pct.10, subcap.3.3, pct.7);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.1.",
+      "orig": "1.1. vor organiza activitățile metodice cu cadrele didactice privind discutarea și coordonarea proiectelor didactice ale activităților extracurriculare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 260.47687499999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.32418696085612,
+            "r": 554.7550862630208,
+            "t": 296.97687499999995
+          },
+          "charspan": [
+            0,
+            152
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "vor organiza activitățile metodice cu cadrele didactice privind discutarea și coordonarea proiectelor didactice ale activităților extracurriculare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.3.",
+      "orig": "1.3. vor convoca şedința Consiliului reprezentativ al părinților la nivelul instituției, (Regulamentului-tip al instituției de educație timpurie cap. X, secțiunea 3, pct.207, secțiunea 4, pct.208, 212) în vederea, luării deciziilor privind formele de organizare a activităților extracurriculare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 148.69562499999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.57825215657552,
+            "r": 554.3821207682292,
+            "t": 216.37270833333332
+          },
+          "charspan": [
+            0,
+            295
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "vor convoca şedința Consiliului reprezentativ al părinților la nivelul instituției, (Regulamentului-tip al instituției de educație timpurie cap. X, secțiunea 3, pct.207, secțiunea 4, pct.208, 212) în vederea, luării deciziilor privind formele de organizare a activităților extracurriculare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.5.",
+      "orig": "1.5. vor informa părinții privind deciziile aprobate, cu emiterea ordinului intern, pe instituție şi contrasemnătura tuturor angajaților și părinților;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 67.33104166666658,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.95121955871582,
+            "r": 554.0091552734375,
+            "t": 102.69041666666658
+          },
+          "charspan": [
+            0,
+            151
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "vor informa părinții privind deciziile aprobate, cu emiterea ordinului intern, pe instituție şi contrasemnătura tuturor angajaților și părinților;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.4.",
+      "orig": "1.4. vor elabora, aproba orarul activităților extracurriculare (sărbători, festivaluri, excursii, teatru, vizionări, întâlniri culturale etc.) şi afişarea informațiilor relevante pe avizierele instituției;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 101.16958333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.57825215657552,
+            "r": 554.7550862630208,
+            "t": 150.97687499999995
+          },
+          "charspan": [
+            0,
+            205
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "vor elabora, aproba orarul activităților extracurriculare (sărbători, festivaluri, excursii, teatru, vizionări, întâlniri culturale etc.) şi afişarea informațiilor relevante pe avizierele instituției;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.6.",
+      "orig": "1.6. vor informa angajații și părinții privind respectarea strictă a prevederilor actelor legislative şi normative ce interzic colectările de bani sub orice formă (art. 135alin. (3) din Codul Educației, ordinul DGETS nr. 01/1-7/1392 din25.10.2024);",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 706.3169272867838,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.9933713277181,
+            "r": 554.6875,
+            "t": 773.0321505991617
+          },
+          "charspan": [
+            0,
+            248
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "vor informa angajații și părinții privind respectarea strictă a prevederilor actelor legislative şi normative ce interzic colectările de bani sub orice formă (art. 135alin. (3) din Codul Educației, ordinul DGETS nr. 01/1-7/1392 din25.10.2024);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.8.",
+      "orig": "1.8. vor organiza respectarea normelor sanitare obligatorii privind prelucrarea umedă a podelelor cu detergenți și substanțe biodistructive, aerisirea încăperilor după fiecare activitate, în perioada în care copiii nu se află în acestea;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 606.0675935872396,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.34090932210286,
+            "r": 552.9497884114583,
+            "t": 658.3102083333333
+          },
+          "charspan": [
+            0,
+            237
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "vor organiza respectarea normelor sanitare obligatorii privind prelucrarea umedă a podelelor cu detergenți și substanțe biodistructive, aerisirea încăperilor după fiecare activitate, în perioada în care copiii nu se află în acestea;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.7.",
+      "orig": "1.7. vor interzice servirea copiilor cu produse alimentare aduse de părinți, sub orice pretext, contrar prevederilor Instrucțiunii cu privire la ocrotirea vieții și sănătății copiilor în instituțiile de educație timpurie (cap. VIII, pct. 212);",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 653.7213309733072,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.9933713277181,
+            "r": 552.2547200520833,
+            "t": 707.3759025065103
+          },
+          "charspan": [
+            0,
+            243
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "vor interzice servirea copiilor cu produse alimentare aduse de părinți, sub orice pretext, contrar prevederilor Instrucțiunii cu privire la ocrotirea vieții și sănătății copiilor în instituțiile de educație timpurie (cap. VIII, pct. 212);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.9.",
+      "orig": "1.9. vor admite participarea părinților la activitățile extracurriculare, în funcție de situația epidemiologică, cu respectarea condițiilor igienice (încălțăminte de schimb/bahile, stare bună de sănătate);",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 560.1788199869791,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.34090932210286,
+            "r": 552.9497884114583,
+            "t": 611.0094677734374
+          },
+          "charspan": [
+            0,
+            205
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "vor admite participarea părinților la activitățile extracurriculare, în funcție de situația epidemiologică, cu respectarea condițiilor igienice (încălțăminte de schimb/bahile, stare bună de sănătate);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Direcția Managementul Instituțional (dna D. Garbuz, şefă):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 478.63800781249995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.67518870035808,
+            "r": 451.8162841796875,
+            "t": 498.05247721354164
+          },
+          "charspan": [
+            0,
+            61
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Direcția Managementul Instituțional (dna D. Garbuz, şefă):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.10.",
+      "orig": "1.10. vor asigura respectarea regulilor de securitate și vor delega responsabilitățile necesare angajaților pe perioada desfăşurării activităților extracurriculare, în conformitate cu prevederile IOVSC (cap. I, subcap. 3, pct. 70– 75) și cu legislația în vigoare.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 496.64053059895826,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.64583333333333,
+            "r": 552.9497884114583,
+            "t": 561.9437736002603
+          },
+          "charspan": [
+            0,
+            263
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "vor asigura respectarea regulilor de securitate și vor delega responsabilitățile necesare angajaților pe perioada desfăşurării activităților extracurriculare, în conformitate cu prevederile IOVSC (cap. I, subcap. 3, pct. 70– 75) și cu legislația în vigoare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. va informa directorii instituțiilor cu învățământ preşcolar privind prevederile prezentului ordin;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 449.33979003906245,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.9933713277181,
+            "r": 552.2547200520833,
+            "t": 482.52090169270826
+          },
+          "charspan": [
+            0,
+            103
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "va informa directorii instituțiilor cu învățământ preşcolar privind prevederile prezentului ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.3.",
+      "orig": "2.3. va monitoriza respectarea prevederilor prezentului ordin în instituțiile cu învățământ preşcolar.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 384.38951334635414,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.9933713277181,
+            "r": 552.2547200520833,
+            "t": 418.27659830729164
+          },
+          "charspan": [
+            0,
+            102
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "va monitoriza respectarea prevederilor prezentului ordin în instituțiile cu învățământ preşcolar."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. va oferi consultanță metodologică, la solicitare, privind organizarea activităților extracurriculare pentru grupele de copii de 2-6/7 ani.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 415.09967773437495,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.9933713277181,
+            "r": 552.2547200520833,
+            "t": 450.75173665364576
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "va oferi consultanță metodologică, la solicitare, privind organizarea activităților extracurriculare pentru grupele de copii de 2-6/7 ani."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Şefi DETS din sectoarele Botanica, Buiucani, Centru, Ciocana și Rîşcani (dl I. Musteață, dl A. Votcariov, dna N. Strajesco, dl V. Cruşinschi, interimar, dna V. Rău), vor asigura instituțiile din subordine cu echipament de protecție, materiale de curățenie și îngrijire în conformitate cu Standardele minime de dotare a instituției de educație timpurie (SMDIET - ordinul MEC nr.253/2017) în scopul asigurării secli  i  i siii i lo.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 286.6111116536457,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.64583333333333,
+            "r": 552.2547200520833,
+            "t": 385.80145996093745
+          },
+          "charspan": [
+            0,
+            433
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Şefi DETS din sectoarele Botanica, Buiucani, Centru, Ciocana și Rîşcani (dl I. Musteață, dl A. Votcariov, dna N. Strajesco, dl V. Cruşinschi, interimar, dna V. Rău), vor asigura instituțiile din subordine cu echipament de protecție, materiale de curățenie și îngrijire în conformitate cu Standardele minime de dotare a instituției de educație timpurie (SMDIET - ordinul MEC nr.253/2017) în scopul asigurării secli  i  i siii i lo."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul asupra executării prezentului ordin se pune în sarcina dlui Valentin Crudu, şef adjunct.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 176.47805501302082,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.34090932210286,
+            "r": 551.9071858723958,
+            "t": 209.65916666666658
+          },
+          "charspan": [
+            0,
+            101
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Controlul asupra executării prezentului ordin se pune în sarcina dlui Valentin Crudu, şef adjunct."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Responsabilitatea pentru executarea prezentului ordin revine: Direcției Managementul Instituțional (dnei D. Garbuz, şefă), Direcțiilor Educație, Tineret și Sport din sectoarele Botanica, Buiucani, Centru, Ciocana, Rîşcani (dl I. Musteață, şef, dl A. Votcariov, şef, dna N. Strajesco, şefă, dl V. Crușinschi, interimar, dna V. Rău, şefă), și a directorilor instituțiilor cu învățământ preșcolar.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 206.83523274739582,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.64583333333333,
+            "r": 551.9071858723958,
+            "t": 289.4350455729167
+          },
+          "charspan": [
+            0,
+            397
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Responsabilitatea pentru executarea prezentului ordin revine: Direcției Managementul Instituțional (dnei D. Garbuz, şefă), Direcțiilor Educație, Tineret și Sport din sectoarele Botanica, Buiucani, Centru, Ciocana, Rîşcani (dl I. Musteață, şef, dl A. Votcariov, şef, dna N. Strajesco, şefă, dl V. Crușinschi, interimar, dna V. Rău, şefă), și a directorilor instituțiilor cu învățământ preșcolar."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Şef adjunct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 156.00458496093745,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 467.8030192057292,
+            "r": 552.6022542317708,
+            "t": 174.36009440104158
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Şef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "AndreiPAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 121.41152669270832,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 439.6524658203125,
+            "r": 551.2121175130208,
+            "t": 136.23712890624995
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "AndreiPAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex. A. Monacu tel.:(022)201603 E. Buşilo tel.:(022)201 603",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 61.01333333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 104.33333333333333,
+            "r": 242.33333333333334,
+            "t": 85.01333333333332
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Ex. A. Monacu tel.:(022)201603 E. Buşilo tel.:(022)201 603"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 26.01333333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 167.66666666666669,
+            "r": 466.0,
+            "t": 51.34666666666658
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

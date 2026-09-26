@@ -1,0 +1,1157 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "8b1ff2c54e9d731be855265ac3eccd0543beb318681d51bde71d1e3a4a9dc7f6",
+  "origin": {
+    "binary_hash": 16653500232794753014,
+    "filename": "8b1ff2c54e9d731be855265ac3eccd0543beb318681d51bde71d1e3a4a9dc7f6.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 712.4763336181641,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 252.37901306152344,
+            "r": 360.5375671386719,
+            "t": 782.5197677612305
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 621.10888671875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.34878540039062,
+            "r": 264.72906494140625,
+            "t": 656.3964233398438
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 159.38043212890625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 390.87469482421875,
+            "r": 532.6854248046875,
+            "t": 313.86474609375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRIN NOE IMYINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 715.0126037597656,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 280.6187540690104,
+            "r": 331.29998779296875,
+            "t": 721.4002024332682
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FRIN NOE IMYINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÅU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 696.8583679199219,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 210.7249959309896,
+            "r": 402.1875,
+            "t": 710.3059488932292
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÅU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÃ EDUCATIE, TINERET I SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 667.9460754394531,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 176.6062520345052,
+            "r": 457.1750081380208,
+            "t": 695.8498026529949
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÃ EDUCATIE, TINERET I SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "31 0326.01121433",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 624.913818359375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.91249974568684,
+            "r": 263.39373779296875,
+            "t": 659.5413309733073
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "31 0326.01121433"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 590.2862955729166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 273.9937540690104,
+            "r": 322.3562418619792,
+            "t": 605.0786336263021
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea etapei municipale de atestare a cadrelor de conducere, sesiunea 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 542.8835652669271,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.9499994913737,
+            "r": 346.20623779296875,
+            "t": 572.1320597330729
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Cu privire la organizarea etapei municipale de atestare a cadrelor de conducere, sesiunea 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu prevederile Regulamentului de atestare a cadrelor de conducere din învățământul general și profesional tehnic, aprobat prin Ordinul ministrului educației și cercetării nr.1100 din 30.08.2023 și modificat prin Ordinul ministrului educației și cercetării nr.1711 din 02.10.2025, în scopul desfáşurării eficiente a etapei municipale de atestare a cadrelor de conducere, sesiunea2026,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 432.2772216796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.28749974568684,
+            "r": 528.7249755859375,
+            "t": 527.4188639322917
+          },
+          "charspan": [
+            0,
+            399
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "În conformitate cu prevederile Regulamentului de atestare a cadrelor de conducere din învățământul general și profesional tehnic, aprobat prin Ordinul ministrului educației și cercetării nr.1100 din 30.08.2023 și modificat prin Ordinul ministrului educației și cercetării nr.1711 din 02.10.2025, în scopul desfáşurării eficiente a etapei municipale de atestare a cadrelor de conducere, sesiunea2026,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 402.6925455729167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 270.01873779296875,
+            "r": 327.3249918619792,
+            "t": 416.476318359375
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Secția Dezvoltarea competențelor profesionale (şef, R. Tataru):",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 370.4183756510417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.25624974568684,
+            "r": 438.2937418619792,
+            "t": 384.2021077473958
+          },
+          "charspan": [
+            0,
+            66
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Secția Dezvoltarea competențelor profesionale (şef, R. Tataru):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.1.",
+      "orig": "1.1. va asigura organizarea etapei municipale de atestare a cadrelor de conducere în conformitate cu Regulamentul de atestare a cadrelor de conducere din învățământul general și profesional tehnic, aprobat prin Ordinul ministrului educației și cercetării nr.1100 din 30.08.2023 și modificat prin Ordinul ministrului educațieiși cercetării nr.1711 din 02.10.2025;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 293.09476725260424,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.9375,
+            "r": 528.7249755859375,
+            "t": 368.4012044270833
+          },
+          "charspan": [
+            0,
+            362
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "va asigura organizarea etapei municipale de atestare a cadrelor de conducere în conformitate cu Regulamentul de atestare a cadrelor de conducere din învățământul general și profesional tehnic, aprobat prin Ordinul ministrului educației și cercetării nr.1100 din 30.08.2023 și modificat prin Ordinul ministrului educațieiși cercetării nr.1711 din 02.10.2025;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2.",
+      "orig": "1.2. va organiza la data de 25 aprilie 2026, ora 8:00, în incinta IPLT Mihai Viteazul\" prezentarea publică a probei practice Planul de acțiuni realizat și a rezultatelor privind soluționarea unei probleme existente in cadrul institutiei pentru conferirea gradului managerial doi în cadrul Comisiei municipale de atestare;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 212.7454833984375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.9375,
+            "r": 529.0562337239583,
+            "t": 291.07763671875
+          },
+          "charspan": [
+            0,
+            321
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "va organiza la data de 25 aprilie 2026, ora 8:00, în incinta IPLT Mihai Viteazul\" prezentarea publică a probei practice Planul de acțiuni realizat și a rezultatelor privind soluționarea unei probleme existente in cadrul institutiei pentru conferirea gradului managerial doi în cadrul Comisiei municipale de atestare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.3.",
+      "orig": "1.3. va pune la dispoziția Comisiei municipale de atestare, în perioada 01 - 08.04.2026, pentru evaluare, materialele aferente atestării cadrelor de conducere;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 166.351318359375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.9375,
+            "r": 529.71875,
+            "t": 213.0816650390625
+          },
+          "charspan": [
+            0,
+            159
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "va pune la dispoziția Comisiei municipale de atestare, în perioada 01 - 08.04.2026, pentru evaluare, materialele aferente atestării cadrelor de conducere;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.4.",
+      "orig": "1.4. va informa conducătorii instituțiilor de învățământ preșcolar, primar și secundar, ciclul I și ciclul II, centrele extraşcolare, şcolile sportive și şcolile",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 137.10282389322913,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.59999974568684,
+            "r": 529.0562337239583,
+            "t": 166.351318359375
+          },
+          "charspan": [
+            0,
+            161
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "va informa conducătorii instituțiilor de învățământ preșcolar, primar și secundar, ciclul I și ciclul II, centrele extraşcolare, şcolile sportive și şcolile"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "de artă a Direcției Cultură a Primăriei municipiului Chişinãu cu prevederile prezentului ordin.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 748.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.66666666666666,
+            "r": 528.3333333333333,
+            "t": 777.3333333333334
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "de artă a Direcției Cultură a Primăriei municipiului Chişinãu cu prevederile prezentului ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Comisia municipală de atestare (Anexa nr.1):",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 734.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.0,
+            "r": 338.0,
+            "t": 745.3333333333334
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Comisia municipală de atestare (Anexa nr.1):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. va evalua materialele aferente procesului de atestare în cazul cadrelor de conducere care solicită conferirea gradului managerial doi/confirmarea gradului managerial doi, unu, superior;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 685.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.33333333333333,
+            "r": 529.3333333333333,
+            "t": 730.6666666666666
+          },
+          "charspan": [
+            0,
+            190
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "va evalua materialele aferente procesului de atestare în cazul cadrelor de conducere care solicită conferirea gradului managerial doi/confirmarea gradului managerial doi, unu, superior;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. va aloca pentru susținerea publică a Planului de acfiuni realizat și a rezultatelor privind soluționarea unei probleme existente în cadrul instituției 15 minute (10 min. pentru prezentare, 5 min. pentru întrebări și răspunsuri);",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 641.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.33333333333333,
+            "r": 530.3333333333333,
+            "t": 683.6666666666667
+          },
+          "charspan": [
+            0,
+            233
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "va aloca pentru susținerea publică a Planului de acfiuni realizat și a rezultatelor privind soluționarea unei probleme existente în cadrul instituției 15 minute (10 min. pentru prezentare, 5 min. pentru întrebări și răspunsuri);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.3.",
+      "orig": "2.3. va evalua prestația cadrelor de conducere care solicită conferirea gradului managerial doi în cadrul şedinței de susținere a Planului de actiuni realizat și a rezultatelor privind soluționarea unei probleme existente în cadrul instituției și va adopta una din următoarele decizii:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 578.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.0,
+            "r": 530.6666666666667,
+            "t": 636.6666666666666
+          },
+          "charspan": [
+            0,
+            285
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "va evalua prestația cadrelor de conducere care solicită conferirea gradului managerial doi în cadrul şedinței de susținere a Planului de actiuni realizat și a rezultatelor privind soluționarea unei probleme existente în cadrul instituției și va adopta una din următoarele decizii:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- se recomandă conferirea / nu se recomandă conferirea gradului managerial doi; - se recomandă confirmarea gradelor manageriale unu și superior.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 548.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 528.0,
+            "t": 575.0
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "se recomandă conferirea / nu se recomandă conferirea gradului managerial doi; - se recomandă confirmarea gradelor manageriale unu și superior."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.4.",
+      "orig": "2.4. va consemna în procese-verbale ședințele desfaşurate, care vor servi drept temei pentru emiterea ordinului de conferire/confirmare a gradelor manageriale;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 517.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.0,
+            "r": 531.0,
+            "t": 543.0
+          },
+          "charspan": [
+            0,
+            159
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "va consemna în procese-verbale ședințele desfaşurate, care vor servi drept temei pentru emiterea ordinului de conferire/confirmare a gradelor manageriale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.5.",
+      "orig": "2.5. va transmite responsabililor din cadrul secției Dezvoltarea competențelor profesionale (șef, R.Tataru) procesele-verbale ale şedințelor Comisiei municipale de atestare.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 466.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.33333333333333,
+            "r": 531.3333333333333,
+            "t": 512.3333333333333
+          },
+          "charspan": [
+            0,
+            173
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "va transmite responsabililor din cadrul secției Dezvoltarea competențelor profesionale (șef, R.Tataru) procesele-verbale ale şedințelor Comisiei municipale de atestare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Directorul Instituției Publice Liceul Teoretic Mihai Viteazul\" (Valentina Demerji) va asigura condițiile necesare de desfăşurare a etapei municipale de atestare a cadrelor de conducere, sesiunea 2026.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 422.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.0,
+            "r": 532.0,
+            "t": 465.6666666666667
+          },
+          "charspan": [
+            0,
+            203
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Directorul Instituției Publice Liceul Teoretic Mihai Viteazul\" (Valentina Demerji) va asigura condițiile necesare de desfăşurare a etapei municipale de atestare a cadrelor de conducere, sesiunea 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Activitatea membrilor Comisiei municipale de atestare se va considera drept activitate în baza Hărții creditare și metodologiei cuantificării, acumulārii și recunoașterii creditelor profesionale, pentru atestare la grad managerial.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 376.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.0,
+            "r": 532.6666666666667,
+            "t": 418.3333333333333
+          },
+          "charspan": [
+            0,
+            234
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Activitatea membrilor Comisiei municipale de atestare se va considera drept activitate în baza Hărții creditare și metodologiei cuantificării, acumulārii și recunoașterii creditelor profesionale, pentru atestare la grad managerial."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Responsabil de executarea prezentului ordin se desemnează R.Tataru, şef secția Dezvoltarea competențelor profesionale.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 343.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.66666666666667,
+            "r": 532.6666666666667,
+            "t": 371.3333333333333
+          },
+          "charspan": [
+            0,
+            121
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Responsabil de executarea prezentului ordin se desemnează R.Tataru, şef secția Dezvoltarea competențelor profesionale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Monitorizarea îndeplinirii prezentului ordin revine D.Munca-Aftenev, șef adjunct al DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 311.33333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.0,
+            "r": 534.0,
+            "t": 340.6666666666667
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Monitorizarea îndeplinirii prezentului ordin revine D.Munca-Aftenev, șef adjunct al DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "L. Ursu, 022225574",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 151.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.0,
+            "r": 168.66666666666669,
+            "t": 160.33333333333337
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "L. Ursu, 022225574"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "L. Ursu, 022225574",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 150.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.0,
+            "r": 169.33333333333331,
+            "t": 160.33333333333337
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "L. Ursu, 022225574"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "adjunct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 252.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 488.6666666666667,
+            "r": 534.3333333333333,
+            "t": 268.33333333333337
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 500.6666666666667,
+            "r": 532.6666666666667,
+            "t": 236.33333333333337
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "ALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex.: R.Tataru,022201607 Ex.:R.Tataru,022201607",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 160.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.66666666666667,
+            "r": 174.66666666666669,
+            "t": 170.66666666666663
+          },
+          "charspan": [
+            0,
+            46
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Ex.: R.Tataru,022201607 Ex.:R.Tataru,022201607"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinãu, RepublicaMoldova. Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 112.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 159.66666666666669,
+            "r": 450.6666666666667,
+            "t": 132.33333333333337
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinãu, RepublicaMoldova. Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

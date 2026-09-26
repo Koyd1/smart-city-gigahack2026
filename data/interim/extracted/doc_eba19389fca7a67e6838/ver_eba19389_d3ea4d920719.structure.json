@@ -1,0 +1,4749 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/63"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/83"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/groups/14"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/groups/15"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/groups/16"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/groups/17"
+      },
+      {
+        "$ref": "#/texts/108"
+      },
+      {
+        "$ref": "#/groups/18"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/groups/19"
+      },
+      {
+        "$ref": "#/texts/120"
+      },
+      {
+        "$ref": "#/groups/20"
+      },
+      {
+        "$ref": "#/groups/21"
+      },
+      {
+        "$ref": "#/texts/124"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/groups/22"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/pictures/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/7"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/8"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/67"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/9"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/10"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/11"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/82"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/12"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/13"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/14"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/15"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/102"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/16"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/17"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/18"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/19"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/20"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/21"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/22"
+    }
+  ],
+  "key_value_items": [],
+  "name": "1b360536e7d83c4b0c1b5dc06d173757ee7c14a8f598839d8af72f263b4f8d8b",
+  "origin": {
+    "binary_hash": 10013524137731919243,
+    "filename": "1b360536e7d83c4b0c1b5dc06d173757ee7c14a8f598839d8af72f263b4f8d8b.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "5": {
+      "page_no": 5,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "6": {
+      "page_no": 6,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "7": {
+      "page_no": 7,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "8": {
+      "page_no": 8,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 735.4117693225072,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 241.78659574572674,
+            "r": 353.1335256958008,
+            "t": 817.5419219800722
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 144.3993834617495,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 316.2412512411847,
+            "r": 429.8952528616886,
+            "t": 296.1819461382215
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 667.5475874170893,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 399.7754365816052,
+            "r": 551.2008771407365,
+            "t": 783.9089135583099
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/123"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/123"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 88.99832801749767,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.34690896360667,
+            "r": 137.55522146749817,
+            "t": 178.73740223244636
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 7
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PEIN NOIINSINI",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 738.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 272.3333333333333,
+            "r": 323.33333333333337,
+            "t": 744.0133233333333
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PEIN NOIINSINI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 720.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 199.33333333333334,
+            "r": 395.66666666666663,
+            "t": 735.67999
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 699.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 170.66666666666666,
+            "r": 445.0,
+            "t": 714.0133233333333
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 677.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 157.66666666666666,
+            "r": 458.3333333333333,
+            "t": 692.0133233333333
+          },
+          "charspan": [
+            0,
+            44
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 636.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 274.66666666666663,
+            "r": 329.0,
+            "t": 651.3466566666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nr. 01/1-7/519 din 24-04.2026",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 611.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.333333333333336,
+            "r": 284.0,
+            "t": 629.3466566666666
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Nr. 01/1-7/519 din 24-04.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la lansarea Concursului municipalAbsolventul anului - 2026\"",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 575.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.666666666666664,
+            "r": 248.33333333333334,
+            "t": 602.67999
+          },
+          "charspan": [
+            0,
+            70
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Cu privire la lansarea Concursului municipalAbsolventul anului - 2026\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Întru executarea Dispoziției Primarului General al municipiului Chişinău nr. 435-d din29.12.2025Cu privire la aplicarea bugetului municipal provizoriu pe anul 2026\", ordinului DGETS nr. 01/1-7/29 din 14.01.2025 ,Cu privire la aplicarea Dispoziției Primarului General al mun. Chişinău nr. 435-d din 29.12.2025 și aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS pentru anul 2026, Programul 08 Cultura\", compartimentul Activități pentru copii și tineret\" (86.03/0813/00239), Legii nr. 397/2003 privind finanțele publice locale, Hotărârii Guvernului Nr. 1151 din 02.09.2002 despre aprobarea Regulamentului cu privire la normativele de cheltuieli pentru desfăşurarea conferințelor, simpozioanelor, festivalurilor etc. de către instituțiile publice finanțate de la bugetul public național, Hotărârii Guvernului nr. 1213 din 27.12.2010 privind aprobarea unor măsuri de susținere a activităților pentru tineret în conformitate cu prevederile ordinului DGETS nr. 01/17/275 din 03.03.25 Cu privire la punerea în aplicare a deciziei Consiliului de administrație nr. 3/1 din 28.02.2025 Cu privire la aprobarea Regulamentului privind modalitatea de acordare a premiilor pentru elevi/sportivi, cadre didactice/manageriale pentru performanțe în domeniu\", precum și în scopul susținerii spiritului competitiv al absolvenților-liceeni, stimulării motivației elevilor pentru activitatea de învățare, promovării aptitudinilor deosebite și performanțe la disciplinele şcolare, implicării în activități extracurriculare,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 239.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.0,
+            "r": 552.0,
+            "t": 562.0133233333333
+          },
+          "charspan": [
+            0,
+            1553
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Întru executarea Dispoziției Primarului General al municipiului Chişinău nr. 435-d din29.12.2025Cu privire la aplicarea bugetului municipal provizoriu pe anul 2026\", ordinului DGETS nr. 01/1-7/29 din 14.01.2025 ,Cu privire la aplicarea Dispoziției Primarului General al mun. Chişinău nr. 435-d din 29.12.2025 și aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS pentru anul 2026, Programul 08 Cultura\", compartimentul Activități pentru copii și tineret\" (86.03/0813/00239), Legii nr. 397/2003 privind finanțele publice locale, Hotărârii Guvernului Nr. 1151 din 02.09.2002 despre aprobarea Regulamentului cu privire la normativele de cheltuieli pentru desfăşurarea conferințelor, simpozioanelor, festivalurilor etc. de către instituțiile publice finanțate de la bugetul public național, Hotărârii Guvernului nr. 1213 din 27.12.2010 privind aprobarea unor măsuri de susținere a activităților pentru tineret în conformitate cu prevederile ordinului DGETS nr. 01/17/275 din 03.03.25 Cu privire la punerea în aplicare a deciziei Consiliului de administrație nr. 3/1 din 28.02.2025 Cu privire la aprobarea Regulamentului privind modalitatea de acordare a premiilor pentru elevi/sportivi, cadre didactice/manageriale pentru performanțe în domeniu\", precum și în scopul susținerii spiritului competitiv al absolvenților-liceeni, stimulării motivației elevilor pentru activitatea de învățare, promovării aptitudinilor deosebite și performanțe la disciplinele şcolare, implicării în activități extracurriculare,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 263.66666666666663,
+            "r": 320.0,
+            "t": 237.01332333333323
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se lansează Concursul municipal ,Absolventul anului-2026\" destinat absolvenților din cadrul instituțiilor de învățământ secundar, ciclul II. Perioada de desfăşurare a concursului 27aprilie -20 mai 2026.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 166.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.0,
+            "r": 553.0,
+            "t": 213.34665666666672
+          },
+          "charspan": [
+            0,
+            205
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se lansează Concursul municipal ,Absolventul anului-2026\" destinat absolvenților din cadrul instituțiilor de învățământ secundar, ciclul II. Perioada de desfăşurare a concursului 27aprilie -20 mai 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se stabilesc etapele de desfăşurare a concursului, după cum urmează :",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 116.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.666666666666664,
+            "r": 473.3333333333333,
+            "t": 134.67998999999998
+          },
+          "charspan": [
+            0,
+            72
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Se stabilesc etapele de desfăşurare a concursului, după cum urmează :"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se aprobă Regulamentul de organizare și desfáşurare a Concursului municipal Absolventul anului −2026\"(anexa nr. 1).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 133.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.0,
+            "r": 552.3333333333333,
+            "t": 166.34665666666672
+          },
+          "charspan": [
+            0,
+            118
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Se aprobă Regulamentul de organizare și desfáşurare a Concursului municipal Absolventul anului −2026\"(anexa nr. 1)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Etapa I - 27 aprilie 2026 - inițierea concursului prin publicarea Regulamentului cu privire la organizarea și desfăşurarea Concursului municipal Absolventul anului - 2026\"pe site-ul DGETS: www.chisinauedu.dgets.md;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 65.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.0,
+            "r": 552.3333333333333,
+            "t": 118.01332333333335
+          },
+          "charspan": [
+            0,
+            216
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Etapa I - 27 aprilie 2026 - inițierea concursului prin publicarea Regulamentului cu privire la organizarea și desfăşurarea Concursului municipal Absolventul anului - 2026\"pe site-ul DGETS: www.chisinauedu.dgets.md;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Etapa a II - a - 05-15 mai 2026, prezentarea și înregistrarea la DGETS a dosarelor pentru concurs;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 765.0146686499023,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.16177876790366,
+            "r": 553.8879801432291,
+            "t": 798.2246810858154
+          },
+          "charspan": [
+            0,
+            100
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Etapa a II - a - 05-15 mai 2026, prezentarea și înregistrarea la DGETS a dosarelor pentru concurs;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Etapa a III-a - 18-21mai 2026, instituirea Comisiei pentru evaluarea dosarelor, organizarea și desfășurarea şedinței de evaluare a dosarelor;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 732.4824090266927,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.48788452148438,
+            "r": 551.1923828125,
+            "t": 763.6591566666666
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Etapa a III-a - 18-21mai 2026, instituirea Comisiei pentru evaluarea dosarelor, organizarea și desfășurarea şedinței de evaluare a dosarelor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Etapa a IV- a - 29mai –27 iunie 2026 – perioada stabilirii zilei de organizare a Ceremoniei de înmânare nominalizărilordin cadrul concursului.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 700.2890293066406,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.48788452148438,
+            "r": 551.8662923177084,
+            "t": 730.4491448665365
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Etapa a IV- a - 29mai –27 iunie 2026 – perioada stabilirii zilei de organizare a Ceremoniei de înmânare nominalizărilordin cadrul concursului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Direcția managementul învățământului extrașcolar, tineret și sport (Silvia ButucCanațui)în colaborare cu Direcția managementul curricular (Svetlana Axînti) vor:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 650.1351393326822,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 46.78231302897135,
+            "r": 551.1923828125,
+            "t": 681.6507643326822
+          },
+          "charspan": [
+            0,
+            163
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Direcția managementul învățământului extrașcolar, tineret și sport (Silvia ButucCanațui)în colaborare cu Direcția managementul curricular (Svetlana Axînti) vor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.1.",
+      "orig": "4.1. conlucra cu conducătorii instituțiilor de învățământ secundar, ciclul II privind promovarea concursului în mediul comunității educaționale;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 617.2639947200521,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.944091796875,
+            "r": 551.5293375651041,
+            "t": 649.1185072526041
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "conlucra cu conducătorii instituțiilor de învățământ secundar, ciclul II privind promovarea concursului în mediul comunității educaționale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2.",
+      "orig": "4.2. institui, prin ordinul DGETS, Comisia de evaluare a dosarelor înaintate și va organiza de comun acord ședința de evaluare a dosarelor depuse;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 585.4095025325521,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.60714213053384,
+            "r": 551.8662923177084,
+            "t": 617.2639947200521
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "institui, prin ordinul DGETS, Comisia de evaluare a dosarelor înaintate și va organiza de comun acord ședința de evaluare a dosarelor depuse;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.",
+      "orig": "4.3. acorda consultanță metodică depunătorilor de dosare referitor la condițiile de participare.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 554.2327447200521,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.28103637695312,
+            "r": 551.5293375651041,
+            "t": 585.070615
+          },
+          "charspan": [
+            0,
+            96
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "acorda consultanță metodică depunătorilor de dosare referitor la condițiile de participare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Secția Comunicare și Relații cu Publicul (Aliona Delinschi) va plasa pe rețeaua oficială a DGETS: www.chisinauedu.dgets.md, Regulamentul de desfaşurare a concursului cu anexele corespunzătoare.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 504.4177422786458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.086734771728516,
+            "r": 552.8771158854166,
+            "t": 553.8938775325521
+          },
+          "charspan": [
+            0,
+            196
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Secția Comunicare și Relații cu Publicul (Aliona Delinschi) va plasa pe rețeaua oficială a DGETS: www.chisinauedu.dgets.md, Regulamentul de desfaşurare a concursului cu anexele corespunzătoare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Dosarele candidaților urmează a fi prezentate pe suport de hârtie de către instituția depunătoare, la DGETS, bir. 14.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 471.54660783854166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.76062901814779,
+            "r": 551.8662923177084,
+            "t": 502.72334530598954
+          },
+          "charspan": [
+            0,
+            120
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Dosarele candidaților urmează a fi prezentate pe suport de hârtie de către instituția depunătoare, la DGETS, bir. 14."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Data limită de prezentare a dosarelor la DGETS – până la 15mai 2026. Dosarele vor conține informația aferentă anului de învățământ 2025-2026.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 437.3199639583333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.6730448404948,
+            "r": 485.4876708984375,
+            "t": 468.4967014257812
+          },
+          "charspan": [
+            0,
+            141
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Data limită de prezentare a dosarelor la DGETS – până la 15mai 2026. Dosarele vor conține informația aferentă anului de învățământ 2025-2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Se desemnează responsabil pentru perfectarea actelor, ce țin de lansarea și desfăşurarea concursului, Larisa Arhip, specialist principal, Direcția managementul învățământului extraşcolar, tineret și sport.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 375.9830905859375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.52125803629558,
+            "r": 552.2032470703125,
+            "t": 428.17026506510416
+          },
+          "charspan": [
+            0,
+            208
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Se desemnează responsabil pentru perfectarea actelor, ce țin de lansarea și desfăşurarea concursului, Larisa Arhip, specialist principal, Direcția managementul învățământului extraşcolar, tineret și sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Responsabil de executarea prevederilor prezentului ordin se desemneazăSilvia ButucCanațui, şef, Direcția managementul învățământului extrașcolar, tineret și sport, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 321.4238051041667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.18431091308594,
+            "r": 553.551025390625,
+            "t": 367.5111667578125
+          },
+          "charspan": [
+            0,
+            173
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Responsabil de executarea prevederilor prezentului ordin se desemneazăSilvia ButucCanațui, şef, Direcția managementul învățământului extrașcolar, tineret și sport, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. Controlul executării prevederilor prezentului ordin revine dlui Valentin Crudu şef adjunct al DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 281.7750827734375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.52125803629558,
+            "r": 554.5618489583334,
+            "t": 312.2741062109375
+          },
+          "charspan": [
+            0,
+            103
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Controlul executării prevederilor prezentului ordin revine dlui Valentin Crudu şef adjunct al DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Ex. Larisa Arhip Tel.022-235177",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 148.9350355729166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.532100677490234,
+            "r": 130.34523518880206,
+            "t": 174.35088843749998
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Ex. Larisa Arhip Tel.022-235177"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 232.97670223958335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 394.5119222005208,
+            "r": 506.7153727213542,
+            "t": 247.2095717057291
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "fadjunct al DGETS",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 208.2386244401041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 416.7504475911458,
+            "r": 528.2799886067708,
+            "t": 222.13262671874998
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "fadjunct al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 66.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 154.33333333333334,
+            "r": 454.3333333333333,
+            "t": 93.67998999999998
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa la decizia Consiliului de administrație nr. 3/4 din 20 februarie 2019",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 728.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.666666666666664,
+            "r": 226.66666666666666,
+            "t": 770.3466566666666
+          },
+          "charspan": [
+            0,
+            75
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Anexa la decizia Consiliului de administrație nr. 3/4 din 20 februarie 2019"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Regulamentul",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 606.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 258.33333333333337,
+            "r": 347.0,
+            "t": 624.67999
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Regulamentul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "privind acordarea premiilor de excelență pentru absolvenți în cadrul Concursului municipal Absolventul anului – 2026\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 566.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.0,
+            "r": 479.6666666666667,
+            "t": 599.67999
+          },
+          "charspan": [
+            0,
+            117
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "privind acordarea premiilor de excelență pentru absolvenți în cadrul Concursului municipal Absolventul anului – 2026\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "I. Dispoziții generale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 526.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.66666666666667,
+            "r": 176.33333333333334,
+            "t": 541.3466566666666
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "I. Dispoziții generale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.1.",
+      "orig": "1.1. Concursul municipal Absolventul anului - 2026\" este o activitate care se desfăşoară anual de către Direcția generală educație, tineret și sport a Consiliului municipal Chişinău la finele anului de studii în temeiul Regulamentului privind organizarea și funcționarea Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău, aprobat prin Decizia Consiliului Municipal Chişinău nr. 17/10 din 06.10.2020.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 423.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.666666666666664,
+            "r": 553.0,
+            "t": 517.0133233333333
+          },
+          "charspan": [
+            0,
+            428
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Concursul municipal Absolventul anului - 2026\" este o activitate care se desfăşoară anual de către Direcția generală educație, tineret și sport a Consiliului municipal Chişinău la finele anului de studii în temeiul Regulamentului privind organizarea și funcționarea Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău, aprobat prin Decizia Consiliului Municipal Chişinău nr. 17/10 din 06.10.2020."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2.",
+      "orig": "1.2. Concursul municipal Absolventul anului – 2026\" se organizează cu respectarea principiilor obiectivității, transparenței, echității, libertății de exprimare, competitivității.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 389.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 47.333333333333336,
+            "r": 553.0,
+            "t": 421.67999
+          },
+          "charspan": [
+            0,
+            179
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Concursul municipal Absolventul anului – 2026\" se organizează cu respectarea principiilor obiectivității, transparenței, echității, libertății de exprimare, competitivității."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.3.",
+      "orig": "1.3. La concurs sunt eligibili pentru participare toți absolvenții liceelor din municipiul Chişinău care au obținut performanțe înalte la disciplinele școlare și activități extracurriculare.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 333.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.33333333333333,
+            "r": 552.6666666666666,
+            "t": 380.67999
+          },
+          "charspan": [
+            0,
+            190
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "La concurs sunt eligibili pentru participare toți absolvenții liceelor din municipiul Chişinău care au obținut performanțe înalte la disciplinele școlare și activități extracurriculare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.4.",
+      "orig": "1.4. Pentru organizarea și desfăşurarea Concursului municipal Absolventul anului - 2026\", DGETS va institui prin ordin intern Comisia de concurs constituită din specialiștii DGETS și reprezentanții sectorului asociativ, asigurând partea egală la componența numerică.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 257.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.0,
+            "r": 553.3333333333334,
+            "t": 322.3466566666666
+          },
+          "charspan": [
+            0,
+            266
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Pentru organizarea și desfăşurarea Concursului municipal Absolventul anului - 2026\", DGETS va institui prin ordin intern Comisia de concurs constituită din specialiștii DGETS și reprezentanții sectorului asociativ, asigurând partea egală la componența numerică."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.5.",
+      "orig": "1.5. Organizarea și desfăşurarea concursului se realizează în conformitate cu:",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 229.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.66666666666667,
+            "r": 489.6666666666667,
+            "t": 246.01332333333323
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Organizarea și desfăşurarea concursului se realizează în conformitate cu:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Codul educației al Republicii Moldova nr. 152/2014;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 205.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.66666666666666,
+            "r": 390.3333333333333,
+            "t": 222.01332333333323
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Codul educației al Republicii Moldova nr. 152/2014;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Legea nr. 133/2011 privind protecția datelor cu caracter personal;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 180.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.66666666666666,
+            "r": 461.0,
+            "t": 197.67998999999998
+          },
+          "charspan": [
+            0,
+            68
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "Legea nr. 133/2011 privind protecția datelor cu caracter personal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Legea nr. 215/2016 cu privire la tineret;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 157.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.33333333333334,
+            "r": 317.3333333333333,
+            "t": 173.67998999999998
+          },
+          "charspan": [
+            0,
+            41
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "Legea nr. 215/2016 cu privire la tineret;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Hotărârea Guvernului nr. 1151/2002 despre aprobarea Regulamentului cu privire la normativele de cheltuieli pentru desfăşurarea conferințelor, simpozioanelor, festivalurilor etc. de către instituțiile publice finanțate de la bugetul public național;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 102.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.0,
+            "r": 554.3333333333334,
+            "t": 150.01332333333323
+          },
+          "charspan": [
+            0,
+            248
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Hotărârea Guvernului nr. 1151/2002 despre aprobarea Regulamentului cu privire la normativele de cheltuieli pentru desfăşurarea conferințelor, simpozioanelor, festivalurilor etc. de către instituțiile publice finanțate de la bugetul public național;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Hotărârea Guvernului nr. 1213/2010 privind aprobarea unor măsuri de susținere a activităților pentru tineret;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 64.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.33333333333334,
+            "r": 554.6666666666666,
+            "t": 95.67998999999998
+          },
+          "charspan": [
+            0,
+            109
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "Hotărârea Guvernului nr. 1213/2010 privind aprobarea unor măsuri de susținere a activităților pentru tineret;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr. 1",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 771.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 493.0,
+            "r": 550.3333333333334,
+            "t": 784.3466566666666
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "Anexa nr. 1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CONSILIUL",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 751.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 456.3333333333333,
+            "r": 490.0,
+            "t": 780.3466566666666
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "CONSILIUL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "EDUCA",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 750.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 455.0,
+            "r": 482.0,
+            "t": 771.0133233333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "EDUCA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "APROB:",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 729.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 485.6666666666667,
+            "r": 544.6666666666666,
+            "t": 746.0133233333333
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "APROB:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "5",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 723.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 497.0,
+            "r": 503.6666666666667,
+            "t": 731.67999
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "5"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Pavaloi",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 698.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 506.3333333333333,
+            "r": 551.0,
+            "t": 711.3466566666666
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "Pavaloi"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "快",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 699.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 417.6666666666667,
+            "r": 424.6666666666667,
+            "t": 706.67999
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "快"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "DGETS",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 682.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 504.0,
+            "r": 551.6666666666666,
+            "t": 695.67999
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 666.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 414.0,
+            "r": 433.0,
+            "t": 681.0133233333333
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "din"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2026",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 667.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 524.6666666666666,
+            "r": 552.3333333333334,
+            "t": 680.3466566666666
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· alte acte normative în vigoare.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 781.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.0,
+            "r": 260.66666666666663,
+            "t": 798.0133233333333
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "alte acte normative în vigoare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "II. Scopul și Obiectivele activității",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 756.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.666666666666664,
+            "r": 251.33333333333334,
+            "t": 773.0133233333333
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "II. Scopul și Obiectivele activității"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. Scopul concursului constă în identificarea, promovarea și recompensarea celor mai valoroşi absolvenți ai instituțiilor de învățământ liceal din municipiul Chişinău, care au demonstrat excelență academică, implicare activă în viața școlară și comunitară, precum și dezvoltarea competențelor personale și civice.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 679.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.0,
+            "r": 551.6666666666667,
+            "t": 747.67999
+          },
+          "charspan": [
+            0,
+            315
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "Scopul concursului constă în identificarea, promovarea și recompensarea celor mai valoroşi absolvenți ai instituțiilor de învățământ liceal din municipiul Chişinău, care au demonstrat excelență academică, implicare activă în viața școlară și comunitară, precum și dezvoltarea competențelor personale și civice."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "2.2. Obiectivele concursului:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 646.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.333333333333336,
+            "r": 224.33333333333334,
+            "t": 660.0133233333333
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "2.2. Obiectivele concursului:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "identificarea și susținerea elevilor cu performanțe deosebite;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.33333333333334,
+            "r": 428.6666666666667,
+            "t": 643.67999
+          },
+          "charspan": [
+            0,
+            62
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "identificarea și susținerea elevilor cu performanțe deosebite;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "stimularea excelenței în educație și a implicării în activități extracurriculare;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 612.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.66666666666666,
+            "r": 516.6666666666667,
+            "t": 626.0133233333333
+          },
+          "charspan": [
+            0,
+            81
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "stimularea excelenței în educație și a implicării în activități extracurriculare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "promovarea valorilor educaționale, culturale și civice;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 593.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.66666666666666,
+            "r": 394.3333333333333,
+            "t": 609.3466566666666
+          },
+          "charspan": [
+            0,
+            55
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "promovarea valorilor educaționale, culturale și civice;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "dezvoltarea spiritului competitiv și a responsabilității sociale în rândul tinerilor;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 576.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.0,
+            "r": 537.3333333333333,
+            "t": 592.3466566666666
+          },
+          "charspan": [
+            0,
+            85
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "dezvoltarea spiritului competitiv și a responsabilității sociale în rândul tinerilor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "orientarea profesională și susținerea parcursului educațional al absolvenților.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 560.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 520.0,
+            "t": 574.67999
+          },
+          "charspan": [
+            0,
+            79
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "orientarea profesională și susținerea parcursului educațional al absolvenților."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "III. Condițiile de desfășurare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 526.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.666666666666664,
+            "r": 224.0,
+            "t": 541.3466566666666
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "III. Condițiile de desfășurare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. Pentru accesibilitate, popularizare și transparență decizională, Regulamentul concursului Absolventul anului – 2026\" se plasează pe site-ul oficial al DGETS www.chisinauedu.dgets.md.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 460.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.333333333333336,
+            "r": 552.3333333333333,
+            "t": 508.01332333333335
+          },
+          "charspan": [
+            0,
+            187
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "Pentru accesibilitate, popularizare și transparență decizională, Regulamentul concursului Absolventul anului – 2026\" se plasează pe site-ul oficial al DGETS www.chisinauedu.dgets.md."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. Concursul municipal ,Absolventul anului - 2026\"conține următoarele:",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 442.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.333333333333336,
+            "r": 482.0,
+            "t": 457.3466566666666
+          },
+          "charspan": [
+            0,
+            72
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "Concursul municipal ,Absolventul anului - 2026\"conține următoarele:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Titlul Mare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 426.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 158.66666666666669,
+            "r": 228.0,
+            "t": 441.01332333333335
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "Titlul Mare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Absolventul anului – 2026\"",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 408.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 114.0,
+            "r": 282.0,
+            "t": 422.67999
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "Absolventul anului – 2026\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Nominalizări",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 389.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 150.66666666666669,
+            "r": 231.33333333333334,
+            "t": 404.0133233333333
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "Nominalizări"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Cel mai bun absolvent la profilul umanist – 2 persoane;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 371.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.0,
+            "r": 387.6666666666667,
+            "t": 387.34665666666666
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "Cel mai bun absolvent la profilul umanist – 2 persoane;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Cel mai bun absolvent la profilul real – 2 persoane;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 353.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 57.333333333333336,
+            "r": 361.6666666666667,
+            "t": 370.67999
+          },
+          "charspan": [
+            0,
+            55
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "Cel mai bun absolvent la profilul real – 2 persoane;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Cel mai bun absolvent la profilul artistic – 2 persoane;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 336.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 57.666666666666664,
+            "r": 378.6666666666667,
+            "t": 354.0133233333333
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "Cel mai bun absolvent la profilul artistic – 2 persoane;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Cel mai bun absolvent în domeniul tehnologilor informaționale - 2 persoane;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 319.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 57.666666666666664,
+            "r": 513.6666666666667,
+            "t": 336.34665666666666
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "Cel mai bun absolvent în domeniul tehnologilor informaționale - 2 persoane;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Cel mai bun absolvent inovator – 2 persoane;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 303.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.0,
+            "r": 328.6666666666667,
+            "t": 319.01332333333323
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "Cel mai bun absolvent inovator – 2 persoane;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Cel mai activ absolvent ce promovează voluntariatul - 2 persoane;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 285.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 57.666666666666664,
+            "r": 452.0,
+            "t": 302.67999
+          },
+          "charspan": [
+            0,
+            68
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "Cel mai activ absolvent ce promovează voluntariatul - 2 persoane;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Cel mai bun absolvent la profilul sportiv – 2 persoane;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 269.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.333333333333336,
+            "r": 379.6666666666667,
+            "t": 285.3466566666667
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "Cel mai bun absolvent la profilul sportiv – 2 persoane;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Cel mai activ absolvent la domeniul de ecologie – 2 persoane;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 252.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 57.666666666666664,
+            "r": 422.0,
+            "t": 269.3466566666667
+          },
+          "charspan": [
+            0,
+            64
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "Cel mai activ absolvent la domeniul de ecologie – 2 persoane;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "IV. Condițiile de participare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 219.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.0,
+            "r": 218.66666666666666,
+            "t": 234.67998999999998
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "IV. Condițiile de participare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.1.",
+      "orig": "4.1. Concursul municipal Absolventul anului - 2026\" se va desfăşura în baza concursului dosarelor depuse de către elevii absolvenți ai liceului, respectând prevederile Regulamentului concursului aprobat.",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 151.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.333333333333336,
+            "r": 553.6666666666667,
+            "t": 201.67998999999998
+          },
+          "charspan": [
+            0,
+            203
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/78",
+      "text": "Concursul municipal Absolventul anului - 2026\" se va desfăşura în baza concursului dosarelor depuse de către elevii absolvenți ai liceului, respectând prevederile Regulamentului concursului aprobat."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2.",
+      "orig": "4.2. Înscrierea în concurs se va efectua în baza cererii de participare.",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 133.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.0,
+            "r": 444.6666666666667,
+            "t": 151.67998999999998
+          },
+          "charspan": [
+            0,
+            72
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/79",
+      "text": "Înscrierea în concurs se va efectua în baza cererii de participare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cererea de participare se completează de către depunător (în formă liberă) pe numele managerului instituției și se anexează la dosar.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 98.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.333333333333336,
+            "r": 551.3333333333333,
+            "t": 133.3466566666666
+          },
+          "charspan": [
+            0,
+            133
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/80",
+      "text": "Cererea de participare se completează de către depunător (în formă liberă) pe numele managerului instituției și se anexează la dosar."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Dosarele perfectate se înaintează pentru examinare la Consiliul profesoral din instituție.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 79.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.666666666666664,
+            "r": 548.6666666666667,
+            "t": 97.67998999999998
+          },
+          "charspan": [
+            0,
+            90
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/81",
+      "text": "Dosarele perfectate se înaintează pentru examinare la Consiliul profesoral din instituție."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.",
+      "orig": "4.3. Consiliul profesoral examinează actele prezentate, selectează candidatura (sau mai",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 61.346656666666604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.333333333333336,
+            "r": 552.3333333333333,
+            "t": 79.67998999999998
+          },
+          "charspan": [
+            0,
+            87
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/82",
+      "text": "Consiliul profesoral examinează actele prezentate, selectează candidatura (sau mai"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "multe) și decide delegarea acesteia la concurs cu indicarea nominalizării. Instituția prezintă la DGETS anexat la dosar următoarele acte:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 761.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.666666666666664,
+            "r": 468.0,
+            "t": 799.3466566666666
+          },
+          "charspan": [
+            0,
+            137
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/83",
+      "text": "multe) și decide delegarea acesteia la concurs cu indicarea nominalizării. Instituția prezintă la DGETS anexat la dosar următoarele acte:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.1.",
+      "orig": "4.3.1. Decizia Consiliului profesoral ;",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 725.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.666666666666664,
+            "r": 266.66666666666663,
+            "t": 741.3466566666666
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/84",
+      "text": "Decizia Consiliului profesoral ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.2.",
+      "orig": "4.3.2. Cererea de participare a instituției (anexa nr. 1/1)",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 706.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.333333333333336,
+            "r": 364.6666666666667,
+            "t": 722.3466566666666
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/85",
+      "text": "Cererea de participare a instituției (anexa nr. 1/1)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.3.",
+      "orig": "4.3.3. Numele, prenumele profesorului-mentorului și obiectul profesat.",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 687.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.666666666666664,
+            "r": 452.3333333333333,
+            "t": 703.3466566666666
+          },
+          "charspan": [
+            0,
+            70
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/86",
+      "text": "Numele, prenumele profesorului-mentorului și obiectul profesat."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.4.",
+      "orig": "4.4. Dosarul candidatului se completează cu actele ce atestă activitatea acestuia pe parcursul clasei a XII-a a anului curent de studii cu indicarea clară a nominalizării, pentru care optează.",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 632.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.0,
+            "r": 549.0,
+            "t": 684.67999
+          },
+          "charspan": [
+            0,
+            192
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/87",
+      "text": "Dosarul candidatului se completează cu actele ce atestă activitatea acestuia pe parcursul clasei a XII-a a anului curent de studii cu indicarea clară a nominalizării, pentru care optează."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "4.5. Dosarul candidatului conține următoarele acte prezentate pe suport de hârtie:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 595.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.333333333333336,
+            "r": 536.3333333333333,
+            "t": 612.3466566666666
+          },
+          "charspan": [
+            0,
+            82
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/88",
+      "text": "4.5. Dosarul candidatului conține următoarele acte prezentate pe suport de hârtie:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "4.5.1. CV-ul candidatului;",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 561.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.333333333333336,
+            "r": 203.0,
+            "t": 575.0133233333333
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/89",
+      "text": "4.5.1. CV-ul candidatului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.5.2.",
+      "orig": "4.5.2. copia buletinului de identitate al candidatului;",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 542.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.66666666666667,
+            "r": 371.3333333333333,
+            "t": 557.0133233333333
+          },
+          "charspan": [
+            0,
+            55
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/90",
+      "text": "copia buletinului de identitate al candidatului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.5.3.decizia (sau extras)Consiliului profesoral referitor la propunerea candidaturii;",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 506.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.0,
+            "r": 478.0,
+            "t": 539.0133233333333
+          },
+          "charspan": [
+            0,
+            86
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/91",
+      "text": "4.5.3.decizia (sau extras)Consiliului profesoral referitor la propunerea candidaturii;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.5.4.",
+      "orig": "4.5.4. foaie matricolă după rezultatele semestrului I al anului de studii 20242025 cu media calculatăindicată;",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 468.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.66666666666667,
+            "r": 506.6666666666667,
+            "t": 501.67999
+          },
+          "charspan": [
+            0,
+            110
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/92",
+      "text": "foaie matricolă după rezultatele semestrului I al anului de studii 20242025 cu media calculatăindicată;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.5.5.copia diplomelor care atestă locul în clasament obținut la activități extracurriculare și extrașcolare etc.;",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 431.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.66666666666667,
+            "r": 483.0,
+            "t": 464.34665666666666
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/93",
+      "text": "4.5.5.copia diplomelor care atestă locul în clasament obținut la activități extracurriculare și extrașcolare etc.;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.5.6.",
+      "orig": "4.5.6. copia diplomelor, adeverințelor, certificatelor de participare, brevetelor de inventator, care confirmă performanțele obținute în cadrul competițiilor, turneelor, campionatelor sportive municipale, naționale și internaționale, olimpiadelor școlare, municipale, naționale și internaționale, organizate de către MEC, DGETS în anul precedent și curent de studii;",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 340.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.66666666666667,
+            "r": 516.0,
+            "t": 427.01332333333335
+          },
+          "charspan": [
+            0,
+            366
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/94",
+      "text": "copia diplomelor, adeverințelor, certificatelor de participare, brevetelor de inventator, care confirmă performanțele obținute în cadrul competițiilor, turneelor, campionatelor sportive municipale, naționale și internaționale, olimpiadelor școlare, municipale, naționale și internaționale, organizate de către MEC, DGETS în anul precedent și curent de studii;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.5.7.",
+      "orig": "4.5.7. copia publicațiilor, fotografia cupelor, medaliilor sau a altor distincții, ce atestă participarea candidatului la diferite concursuri, olimpiade și competiții stipulate în pct. 4.5.6.;",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 286.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.66666666666667,
+            "r": 513.3333333333333,
+            "t": 336.67999
+          },
+          "charspan": [
+            0,
+            192
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/95",
+      "text": "copia publicațiilor, fotografia cupelor, medaliilor sau a altor distincții, ce atestă participarea candidatului la diferite concursuri, olimpiade și competiții stipulate în pct. 4.5.6.;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.5.8.",
+      "orig": "4.5.8. indicarea sursei on-line (link-uri, site-uri, postări, platforme) referitor la profil;",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 248.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.66666666666667,
+            "r": 511.0,
+            "t": 283.67999
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/96",
+      "text": "indicarea sursei on-line (link-uri, site-uri, postări, platforme) referitor la profil;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Este necesar ca actele prezentate să fie vizibile și clare ca imagine.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 210.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.0,
+            "r": 492.0,
+            "t": 230.01332333333335
+          },
+          "charspan": [
+            0,
+            70
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/97",
+      "text": "Este necesar ca actele prezentate să fie vizibile și clare ca imagine."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.6.",
+      "orig": "4.6. Administrația instituției prezintă dosarul (sau mai multe) perfectat pentru concurs la DGETS, Direcția educație și tineret (str. Mitropolit Dosoftei, 99, bir. 14).",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 152.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.0,
+            "r": 551.6666666666667,
+            "t": 193.01332333333335
+          },
+          "charspan": [
+            0,
+            168
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/98",
+      "text": "Administrația instituției prezintă dosarul (sau mai multe) perfectat pentru concurs la DGETS, Direcția educație și tineret (str. Mitropolit Dosoftei, 99, bir. 14)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.8.",
+      "orig": "4.8. Dosarele incomplete nu participă în concurs. Dosarele câștigătoare nu se restituie.",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 117.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.0,
+            "r": 541.3333333333333,
+            "t": 138.3466566666666
+          },
+          "charspan": [
+            0,
+            88
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/99",
+      "text": "Dosarele incomplete nu participă în concurs. Dosarele câștigătoare nu se restituie."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.7.",
+      "orig": "4.7. Deținătorul dosarului poate participa doar la o singură nominalizare.",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 135.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.666666666666664,
+            "r": 469.6666666666667,
+            "t": 157.01332333333335
+          },
+          "charspan": [
+            0,
+            74
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/100",
+      "text": "Deținătorul dosarului poate participa doar la o singură nominalizare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "V. Etapele și perioada de desfășurare a concursului",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 82.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.666666666666664,
+            "r": 369.0,
+            "t": 102.01332333333335
+          },
+          "charspan": [
+            0,
+            51
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/101",
+      "text": "V. Etapele și perioada de desfășurare a concursului"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.1.",
+      "orig": "5.1. Concursul municipal Absolventul anului-2026\" se desfășoară respectând",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 62.346656666666604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.0,
+            "r": 552.6666666666667,
+            "t": 85.01332333333335
+          },
+          "charspan": [
+            0,
+            74
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/102",
+      "text": "Concursul municipal Absolventul anului-2026\" se desfășoară respectând"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "următoarele etape:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 780.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.0,
+            "r": 160.0,
+            "t": 795.67999
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/103",
+      "text": "următoarele etape:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "·Etapa I - 27 aprilie 2026 - inițierea concursului prin publicarea Regulamentului cu privire la organizarea și desfăşurarea Concursului municipal Absolventul anului - 2026\"pe site-ul DGETS: www.chisinauedu.dgets.md;",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 727.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.0,
+            "r": 553.0,
+            "t": 776.0133233333333
+          },
+          "charspan": [
+            0,
+            215
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/104",
+      "text": "·Etapa I - 27 aprilie 2026 - inițierea concursului prin publicarea Regulamentului cu privire la organizarea și desfăşurarea Concursului municipal Absolventul anului - 2026\"pe site-ul DGETS: www.chisinauedu.dgets.md;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Etapa a II - a - 05-15 mai 2026, prezentarea și înregistrarea la DGETS a dosarelor pentru concurs;",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 692.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.33333333333334,
+            "r": 554.6666666666667,
+            "t": 724.67999
+          },
+          "charspan": [
+            0,
+            100
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/105",
+      "text": "Etapa a II - a - 05-15 mai 2026, prezentarea și înregistrarea la DGETS a dosarelor pentru concurs;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Etapa a III-a - 18-21mai 2026, instituirea Comisiei pentru evaluarea dosarelor, organizarea și desfăşurarea şedinței de evaluare a dosarelor;",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 660.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666666,
+            "r": 552.6666666666667,
+            "t": 691.0133233333333
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/106",
+      "text": "Etapa a III-a - 18-21mai 2026, instituirea Comisiei pentru evaluarea dosarelor, organizarea și desfăşurarea şedinței de evaluare a dosarelor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Etapa a IV- a - 29mai– 27 iunie 2026 – perioada stabilirii zilei de organizare a Ceremoniei de înmânare nominalizărilor din cadrul concursului.",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666666,
+            "r": 553.3333333333333,
+            "t": 657.67999
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/107",
+      "text": "Etapa a IV- a - 29mai– 27 iunie 2026 – perioada stabilirii zilei de organizare a Ceremoniei de înmânare nominalizărilor din cadrul concursului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VI. Competențele Comisiei de concurs și criteriile de apreciere",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 572.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.666666666666664,
+            "r": 419.3333333333333,
+            "t": 594.67999
+          },
+          "charspan": [
+            0,
+            63
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/108",
+      "text": "VI. Competențele Comisiei de concurs și criteriile de apreciere"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.1.",
+      "orig": "6.1. Comisia de concurs, instituită prin ordinul şefului DGETS, va examina dosarele și le va aprecia conform criteriilor, stipulate în Fişa de evaluare a participantului (anexa nr. 1/2), asigurând confidențialitatea.",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 503.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.333333333333336,
+            "r": 550.6666666666667,
+            "t": 553.67999
+          },
+          "charspan": [
+            0,
+            216
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/109",
+      "text": "Comisia de concurs, instituită prin ordinul şefului DGETS, va examina dosarele și le va aprecia conform criteriilor, stipulate în Fişa de evaluare a participantului (anexa nr. 1/2), asigurând confidențialitatea."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.2.",
+      "orig": "6.2. În rezultatul evaluării, comisia de concurs va determina câştigătorul nominalizării indicate în pct. 3.2 al prezentului Regulament.",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 466.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.0,
+            "r": 551.6666666666667,
+            "t": 500.67999
+          },
+          "charspan": [
+            0,
+            136
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/110",
+      "text": "În rezultatul evaluării, comisia de concurs va determina câştigătorul nominalizării indicate în pct. 3.2 al prezentului Regulament."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.3.",
+      "orig": "6.3. Activitatea comisiei de concurs se consemnează în procesul-verbal cu indicarea listei nominale a câștigătorilor și a instituțiilor, care au înaintat dosarul.",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 431.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.0,
+            "r": 553.6666666666667,
+            "t": 463.0133233333333
+          },
+          "charspan": [
+            0,
+            162
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/111",
+      "text": "Activitatea comisiei de concurs se consemnează în procesul-verbal cu indicarea listei nominale a câștigătorilor și a instituțiilor, care au înaintat dosarul."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.4.",
+      "orig": "6.4. Comisia de concurs este în drept (la discreția comisiei) să acorde premii la mai mulți absolvenți la o nominalizare, din contul nominalizărilor unde au fost depuse mai puține dosare sau nu au fost identificați câștigători.",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 375.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.333333333333336,
+            "r": 554.0,
+            "t": 426.67999
+          },
+          "charspan": [
+            0,
+            227
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/112",
+      "text": "Comisia de concurs este în drept (la discreția comisiei) să acorde premii la mai mulți absolvenți la o nominalizare, din contul nominalizărilor unde au fost depuse mai puține dosare sau nu au fost identificați câștigători."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VII. Premierea învingătorilor",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 334.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.666666666666664,
+            "r": 236.66666666666666,
+            "t": 358.0133233333333
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/113",
+      "text": "VII. Premierea învingătorilor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.1.",
+      "orig": "7.1. Finanțarea cheltuielilor de organizare și desfáşurare a concursului sunt efectuate conform Hotărârii Guvernului nr. 1151 din 02 septembrie 2002 Despre aprobarea Regulamentului cu privire la normativele de cheltuieli pentru desfăşurarea conferințelor, simpozioanelor, festivalurilor etc. de către instituțiile publice finanțate de la bugetul de stat\"(Monitorul Oficial al Republicii Moldova, 2002, nr.126-127, art.1278)și Hotărârii Guvernului nr. 1213 din 27.12.2010 ,Privind aprobarea unor măsuri de susținere a activităților pentru tineret\"(Monitorul Oficial al Republicii Moldova, 2010, nr. 18-21a, art. Nr. 60).",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 181.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.333333333333336,
+            "r": 556.0,
+            "t": 313.67999
+          },
+          "charspan": [
+            0,
+            619
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/114",
+      "text": "Finanțarea cheltuielilor de organizare și desfáşurare a concursului sunt efectuate conform Hotărârii Guvernului nr. 1151 din 02 septembrie 2002 Despre aprobarea Regulamentului cu privire la normativele de cheltuieli pentru desfăşurarea conferințelor, simpozioanelor, festivalurilor etc. de către instituțiile publice finanțate de la bugetul de stat\"(Monitorul Oficial al Republicii Moldova, 2002, nr.126-127, art.1278)și Hotărârii Guvernului nr. 1213 din 27.12.2010 ,Privind aprobarea unor măsuri de susținere a activităților pentru tineret\"(Monitorul Oficial al Republicii Moldova, 2010, nr. 18-21a, art. Nr. 60)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.2.",
+      "orig": "7.2. Premierea finaliştilor concursului se va efectua în baza deciziei Comisiei de concurs în urma evaluării a dosarelor, consemnate în proces - verbal, conform Regulamentului în vigoare, care prevede următoarele:",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 119.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.666666666666664,
+            "r": 556.0,
+            "t": 169.3466566666666
+          },
+          "charspan": [
+            0,
+            213
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/115",
+      "text": "Premierea finaliştilor concursului se va efectua în baza deciziei Comisiei de concurs în urma evaluării a dosarelor, consemnate în proces - verbal, conform Regulamentului în vigoare, care prevede următoarele:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Titlul MareAbsolventul anului - 2026\" Diploma și premiul bănesc în valoare de 10 000.00 (zece mii) lei;",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 76.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.33333333333333,
+            "r": 458.3333333333333,
+            "t": 114.3466566666666
+          },
+          "charspan": [
+            0,
+            105
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/116",
+      "text": "Titlul MareAbsolventul anului - 2026\" Diploma și premiul bănesc în valoare de 10 000.00 (zece mii) lei;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Titlul Cel mai bun Absolvent\" la nominalizările menționate în pct. 3.2. dil (l  0   di od  ai:",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 762.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.33333333333333,
+            "r": 506.3333333333333,
+            "t": 798.67999
+          },
+          "charspan": [
+            0,
+            96
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/117",
+      "text": "Titlul Cel mai bun Absolvent\" la nominalizările menționate în pct. 3.2. dil (l  0   di od  ai:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.3.",
+      "orig": "7.3. Profesorilor-mentori ai absolvenților - finaliști li se acordă diploma de merit a DGETS.",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 724.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.666666666666664,
+            "r": 525.3333333333333,
+            "t": 757.0133233333333
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/118",
+      "text": "Profesorilor-mentori ai absolvenților - finaliști li se acordă diploma de merit a DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.4.",
+      "orig": "7.4. Instituția, care reprezintă câștigătorul, este menționată cu diploma de gratitudine a DGETS.",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 681.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.666666666666664,
+            "r": 549.3333333333333,
+            "t": 713.67999
+          },
+          "charspan": [
+            0,
+            97
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/119",
+      "text": "Instituția, care reprezintă câștigătorul, este menționată cu diploma de gratitudine a DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VIII. Dispoziții fnale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 626.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.333333333333336,
+            "r": 183.66666666666666,
+            "t": 649.3466566666666
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/120",
+      "text": "VIII. Dispoziții fnale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.1.",
+      "orig": "8.1. DGETS va elabora ordinul de totalizare și va publica pe site-ul DGETS.",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 602.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.0,
+            "r": 493.0,
+            "t": 625.67999
+          },
+          "charspan": [
+            0,
+            75
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/121",
+      "text": "DGETS va elabora ordinul de totalizare și va publica pe site-ul DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.2.",
+      "orig": "8.2. Festivitatea de premiere a absolvenților va fi anunțată suplimentar.",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 579.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.666666666666664,
+            "r": 454.0,
+            "t": 597.67999
+          },
+          "charspan": [
+            0,
+            73
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/122",
+      "text": "Festivitatea de premiere a absolvenților va fi anunțată suplimentar."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Larisa Arhip, 022-235177 Specialist/principal, responsabil",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 68.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 63.333333333333336,
+            "r": 209.66666666666666,
+            "t": 95.67998999999998
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/123",
+      "text": "Larisa Arhip, 022-235177 Specialist/principal, responsabil"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexa nr. 1 1/1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 771.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 485.0,
+            "r": 550.6666666666666,
+            "t": 785.0133233333333
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/124",
+      "text": "Anexa nr. 1 1/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "FORMULAR CERERE de",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 680.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 227.33333333333334,
+            "r": 379.66666666666663,
+            "t": 699.3466566666666
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/125",
+      "text": "FORMULAR CERERE de"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Prin prezenta, instituția în persoana conducător, înaintează dosar (e) pentru participare la Concursul municipal Absolventul anului – 2026\"",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 576.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.333333333333336,
+            "r": 522.0,
+            "t": 656.3466566666666
+          },
+          "charspan": [
+            0,
+            139
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/126",
+      "text": "Prin prezenta, instituția în persoana conducător, înaintează dosar (e) pentru participare la Concursul municipal Absolventul anului – 2026\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Dosarul nr. 1",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 527.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 57.333333333333336,
+            "r": 132.33333333333331,
+            "t": 542.0133233333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/127",
+      "text": "Dosarul nr. 1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nominalizarea",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 479.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.0,
+            "r": 139.33333333333331,
+            "t": 494.01332333333335
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/128",
+      "text": "Nominalizarea"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Dosarul nr. 2",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 433.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.0,
+            "r": 130.33333333333331,
+            "t": 446.67999
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/129",
+      "text": "Dosarul nr. 2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nominalizarea nume, prenume candidat nume, prenume candidat",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 385.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.333333333333336,
+            "r": 139.0,
+            "t": 400.0133233333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 8
+        },
+        {
+          "bbox": {
+            "b": 511.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 146.66666666666669,
+            "r": 289.66666666666663,
+            "t": 525.0133233333333
+          },
+          "charspan": [
+            14,
+            36
+          ],
+          "page_no": 8
+        },
+        {
+          "bbox": {
+            "b": 417.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 146.66666666666669,
+            "r": 290.0,
+            "t": 430.3466566666666
+          },
+          "charspan": [
+            37,
+            59
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/130",
+      "text": "Nominalizarea nume, prenume candidat nume, prenume candidat"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Semnătura",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 209.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 491.6666666666667,
+            "r": 554.3333333333333,
+            "t": 223.01332333333323
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/131",
+      "text": "Semnătura"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "L.$.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 140.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.333333333333336,
+            "r": 88.0,
+            "t": 165.01332333333335
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/132",
+      "text": "L.$."
+    }
+  ],
+  "version": "1.10.0"
+}

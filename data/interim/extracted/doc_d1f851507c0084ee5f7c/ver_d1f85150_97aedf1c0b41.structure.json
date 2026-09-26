@@ -1,0 +1,5445 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/105"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/texts/113"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/126"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/135"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/groups/14"
+      },
+      {
+        "$ref": "#/pictures/10"
+      },
+      {
+        "$ref": "#/texts/151"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/7"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/8"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/9"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/10"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/11"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/12"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        },
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/13"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/14"
+    }
+  ],
+  "key_value_items": [],
+  "name": "deaa4644b6e5b9bfb601b54721630a59ad90751010c3101c4a5e044086786730",
+  "origin": {
+    "binary_hash": 5358725281797924656,
+    "filename": "deaa4644b6e5b9bfb601b54721630a59ad90751010c3101c4a5e044086786730.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "5": {
+      "page_no": 5,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "6": {
+      "page_no": 6,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "7": {
+      "page_no": 7,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "8": {
+      "page_no": 8,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.347900390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.63818359375,
+            "r": 579.5726318359375,
+            "t": 40.48590087890625
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 710.5559692382812,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 277.4859619140625,
+            "r": 379.49169921875,
+            "t": 781.8510093688965
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 119.78424072265625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 196.31068420410156,
+            "r": 254.4645233154297,
+            "t": 163.03759765625
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.979248046875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 400.531982421875,
+            "r": 519.1215209960938,
+            "t": 218.29541015625
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.05401611328125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.5489196777344,
+            "r": 579.7340698242188,
+            "t": 40.3092041015625
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.35302734375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.65167236328125,
+            "r": 579.4968872070312,
+            "t": 40.2637939453125
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.26568603515625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.7668151855469,
+            "r": 579.6367797851562,
+            "t": 40.234375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 4
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/6"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.39892578125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.8236389160156,
+            "r": 579.7152099609375,
+            "t": 40.0728759765625
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 5
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/7"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.3162841796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.7104797363281,
+            "r": 579.7018432617188,
+            "t": 40.26629638671875
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 6
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/8"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.326904296875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.7422180175781,
+            "r": 579.6658935546875,
+            "t": 40.41571044921875
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 7
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/9"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 10.39093017578125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.7297058105469,
+            "r": 579.7557983398438,
+            "t": 40.5111083984375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 8
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/10"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexă la ordinul DGETS nr. 01/1-7/1615 din 13.11.2025",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 767.2827606201172,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 356.9375,
+            "r": 521.3477783203125,
+            "t": 813.5907255808512
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Anexă la ordinul DGETS nr. 01/1-7/1615 din 13.11.2025"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CODUL",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 735.0524190266927,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 249.4102579752604,
+            "r": 294.91666666666663,
+            "t": 749.1300354003906
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CODUL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "de etică și deontologie al angajaților Direcției generale educație, tineret și sport a Consiliului municipal Chișinău și Direcțiilor educație, tineret și sport din sectoare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 691.3376973470052,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.64262835184734,
+            "r": 464.8317464192708,
+            "t": 734.6819559733073
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "de etică și deontologie al angajaților Direcției generale educație, tineret și sport a Consiliului municipal Chișinău și Direcțiilor educație, tineret și sport din sectoare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Capitolul I. Dispoziții generale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 666.1461588541666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 180.41666666666669,
+            "r": 336.01924641927087,
+            "t": 681.7056376139323
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Capitolul I. Dispoziții generale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Codul de etică și deontologie (în continuare Cod) al angajaților Direcției generale educație, tineret și sport (în continuare DGETS ) și a Direcțiilor educație, tineret și sport din sectoare (în continuare DETS) reglementează principiile fundamentale și normele generale de conduită profesională a personalului din cadrul DGETS și a DETS, în exercitarea atribuțiilor și responsabilităților funcționale ale acestora.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 571.3074544270834,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.17467943827312,
+            "r": 513.6410319010417,
+            "t": 651.6980794270834
+          },
+          "charspan": [
+            0,
+            418
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Codul de etică și deontologie (în continuare Cod) al angajaților Direcției generale educație, tineret și sport (în continuare DGETS ) și a Direcțiilor educație, tineret și sport din sectoare (în continuare DETS) reglementează principiile fundamentale și normele generale de conduită profesională a personalului din cadrul DGETS și a DETS, în exercitarea atribuțiilor și responsabilităților funcționale ale acestora."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Prezentul Cod a fost elaborat în conformitate cu prevederile Codului muncii, Legii nr.158/2008 cu privire la funcția publică și statutul funcționarului public, Legii nr.25/2017 privind Codulde conduită a funcționarului public, Legii integrității nr.82/2017, Legii nr.229/2010 privind controlul financiar public intern și Legii nr.133/2016 privind declararea averii și intereselor personale.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 492.76914469401044,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.17467943827312,
+            "r": 512.9070638020833,
+            "t": 570.9369913736979
+          },
+          "charspan": [
+            0,
+            393
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Prezentul Cod a fost elaborat în conformitate cu prevederile Codului muncii, Legii nr.158/2008 cu privire la funcția publică și statutul funcționarului public, Legii nr.25/2017 privind Codulde conduită a funcționarului public, Legii integrității nr.82/2017, Legii nr.229/2010 privind controlul financiar public intern și Legii nr.133/2016 privind declararea averii și intereselor personale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Obiectivele prezentului Cod sunt orientate spre sporirea calității activității profesionale, buna administrare a resurselor și realizarea obiectivelor generale și specifice DGETS și DETS. De asemenea, Codul urmărește prevenirea și combaterea faptelor de corupție din cadrul DGETS și DETS, prin:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 427.5675048828125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.80769220987956,
+            "r": 512.173095703125,
+            "t": 490.91680908203125
+          },
+          "charspan": [
+            0,
+            297
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Obiectivele prezentului Cod sunt orientate spre sporirea calității activității profesionale, buna administrare a resurselor și realizarea obiectivelor generale și specifice DGETS și DETS. De asemenea, Codul urmărește prevenirea și combaterea faptelor de corupție din cadrul DGETS și DETS, prin:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) reglementarea normelor de conduită profesională necesare dezvoltării unor",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 411.6375732421875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 132.34134928385416,
+            "r": 511.8061116536458,
+            "t": 425.3447265625
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "reglementarea normelor de conduită profesională necesare dezvoltării unor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "relații sociale și profesionale corespunzătoare, care contribuie la crearea și menținerea unei imagini favorabile a DGETS și a DETS, precum și a personalului din cadrul acestora, în conformitate cu interesul public și a legislația în vigoare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 361.9954427083333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.44070561726888,
+            "r": 511.4391276041667,
+            "t": 409.0443522135417
+          },
+          "charspan": [
+            0,
+            242
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "relații sociale și profesionale corespunzătoare, care contribuie la crearea și menținerea unei imagini favorabile a DGETS și a DETS, precum și a personalului din cadrul acestora, în conformitate cu interesul public și a legislația în vigoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) crearea unui climat de încredere și respect reciproc între partenerii externi/ instituții/societatea civilă și angajații DGETS și DETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 330.1355794270833,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.44070561726888,
+            "r": 511.0721435546875,
+            "t": 360.5135904947917
+          },
+          "charspan": [
+            0,
+            138
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "crearea unui climat de încredere și respect reciproc între partenerii externi/ instituții/societatea civilă și angajații DGETS și DETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Capitolul II. Principiile fundamentale de conduită",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 297.53474934895837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 177.11377970377606,
+            "r": 428.5,
+            "t": 311.98282877604174
+          },
+          "charspan": [
+            0,
+            50
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Capitolul II. Principiile fundamentale de conduită"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. În exercitarea atribuțiilor funcționale, angajații DGETS și DETS au obligația de a",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 263.82255045572913,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.07371838887532,
+            "r": 511.0721435546875,
+            "t": 281.60481770833337
+          },
+          "charspan": [
+            0,
+            85
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "În exercitarea atribuțiilor funcționale, angajații DGETS și DETS au obligația de a"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "respecta principiile fundamentale de conduită profesională și morală, prevăzute de legislația în vigoare și de prezentul Cod și să le aplice în interes public.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 232.3331298828125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.07371838887532,
+            "r": 510.338134765625,
+            "t": 263.82255045572913
+          },
+          "charspan": [
+            0,
+            159
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "respecta principiile fundamentale de conduită profesională și morală, prevăzute de legislația în vigoare și de prezentul Cod și să le aplice în interes public."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Activitatea angajaților DGETS și DETS să fie guvernată de următoarele principii fundamentale:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 201.21419270833337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.07371838887532,
+            "r": 509.9711507161458,
+            "t": 231.22176106770837
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Activitatea angajaților DGETS și DETS să fie guvernată de următoarele principii fundamentale:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) Legalitatea – principiul conform căruia, angajațiiDGETS și DETS au obligația de fundamentale ale persoanelor, inclusiv tratatele internaționale la care Republica",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 151.20157877604163,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.80769220987956,
+            "r": 509.6041666666667,
+            "t": 198.25048828125
+          },
+          "charspan": [
+            0,
+            164
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Legalitatea – principiul conform căruia, angajațiiDGETS și DETS au obligația de fundamentale ale persoanelor, inclusiv tratatele internaționale la care Republica"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "a respecta reglementările legislației în vigoare, drepturile, libertățile constituționale și Moldova este parte, să acționeze în conformitate cu prevederile cadrului legal în vigoare, ordinele, indicațiile obligatorii spre executare a conducătorului;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 117.48933919270837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.44070561726888,
+            "r": 509.6041666666667,
+            "t": 181.9500732421875
+          },
+          "charspan": [
+            0,
+            250
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "a respecta reglementările legislației în vigoare, drepturile, libertățile constituționale și Moldova este parte, să acționeze în conformitate cu prevederile cadrului legal în vigoare, ordinele, indicațiile obligatorii spre executare a conducătorului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 513.0,
+            "r": 566.3333333333334,
+            "t": 36.66666666666663
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CS",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 16.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 503.3333333333333,
+            "r": 517.0,
+            "t": 26.0
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "CS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CamScanner",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 12.666666666666629,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 514.3333333333334,
+            "r": 578.0,
+            "t": 26.33333333333337
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "CamScanner"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 94.52058919270837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 526.1186116536458,
+            "r": 534.9263102213542,
+            "t": 106.37548828125
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÃ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 667.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 206.66666666666669,
+            "r": 468.6666666666667,
+            "t": 711.0
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÃ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "13.11.25m.01/1-411615",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 123.0,
+            "r": 321.33333333333337,
+            "t": 659.6666666666666
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "13.11.25m.01/1-411615"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ORDIN Cu privire la aprobarea Codului de etică și deontologie al angajaților Direcției generale educație, tineret și sport aConsiliului municipal.Chișinău și a Direcțiilor educație, tineret și sport din sectoare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 521.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 106.0,
+            "r": 357.6666666666667,
+            "t": 608.0
+          },
+          "charspan": [
+            0,
+            211
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "ORDIN Cu privire la aprobarea Codului de etică și deontologie al angajaților Direcției generale educație, tineret și sport aConsiliului municipal.Chișinău și a Direcțiilor educație, tineret și sport din sectoare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În scopul stabilirii normelor de etică și deontologie în cadrul Direcției generale educație, tineret: și sport a Consiliului municipal Chişinău și a Direcțiilor educație, tineret și sport din sectoare, precum și în vederea sporirii calității activității profesionale și a oferirii unor servicii publice decalitáte, pentru asigurarea unei administrări mai eficiente în interesul public, contribuind la prevenirea și combaterea corupției, precum și la crearea unui climat de încredere între cetățeni și administrația publică locală, în Legii nr. 25/2017 privind Codul de conduită a funcționarului public, Legii nr. 82/2017 133/2016 privind declararea averii și intereselor personale, Codului Muncii al Republicii Moldova nr. 154/2003,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 331.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 106.0,
+            "r": 534.6666666666667,
+            "t": 506.3333333333333
+          },
+          "charspan": [
+            0,
+            732
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "În scopul stabilirii normelor de etică și deontologie în cadrul Direcției generale educație, tineret: și sport a Consiliului municipal Chişinău și a Direcțiilor educație, tineret și sport din sectoare, precum și în vederea sporirii calității activității profesionale și a oferirii unor servicii publice decalitáte, pentru asigurarea unei administrări mai eficiente în interesul public, contribuind la prevenirea și combaterea corupției, precum și la crearea unui climat de încredere între cetățeni și administrația publică locală, în Legii nr. 25/2017 privind Codul de conduită a funcționarului public, Legii nr. 82/2017 133/2016 privind declararea averii și intereselor personale, Codului Muncii al Republicii Moldova nr. 154/2003,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 303.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 263.66666666666663,
+            "r": 313.33333333333337,
+            "t": 318.66666666666674
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se aprobă Codul de etică și deontologie al angajaților Direcției generale educație, tineret și sport a Consiliului municipal Chişinău și Direcțiilor educație, tineret și sport din sectoare, conform anexei la prezentul ordin.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 248.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.33333333333333,
+            "r": 533.0,
+            "t": 289.66666666666674
+          },
+          "charspan": [
+            0,
+            227
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Se aprobă Codul de etică și deontologie al angajaților Direcției generale educație, tineret și sport a Consiliului municipal Chişinău și Direcțiilor educație, tineret și sport din sectoare, conform anexei la prezentul ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Direcția managementul resurselor umane din cadrul Direcției generale educație, tineret și sport și șefii Direcțiilor educație, tineret și sport din sectoare vor aduce la cunoștința angajaților prevederile prezentului Cod,: contrasemnătură.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 206.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 104.66666666666667,
+            "r": 533.3333333333333,
+            "t": 247.66666666666674
+          },
+          "charspan": [
+            0,
+            242
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Direcția managementul resurselor umane din cadrul Direcției generale educație, tineret și sport și șefii Direcțiilor educație, tineret și sport din sectoare vor aduce la cunoștința angajaților prevederile prezentului Cod,: contrasemnătură."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Controlul executării prezentuluiordin mi-l asum.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 192.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.0,
+            "r": 369.6666666666667,
+            "t": 205.0
+          },
+          "charspan": [
+            0,
+            51
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Controlul executării prezentuluiordin mi-l asum."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "V. Dontu,0222016118 O.Mitu, 022235380",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 119.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.0,
+            "r": 192.0,
+            "t": 144.66666666666674
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "V. Dontu,0222016118 O.Mitu, 022235380"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chlslnauedu.md, e-mail: dgetsmun@gmall.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 89.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 185.33333333333331,
+            "r": 458.6666666666667,
+            "t": 114.33333333333326
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chlslnauedu.md, e-mail: dgetsmun@gmall.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 149.33333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 427.3333333333333,
+            "r": 518.3333333333333,
+            "t": 164.0
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 512.6666666666666,
+            "r": 566.3333333333334,
+            "t": 37.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CSCamScanner",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 11.333333333333371,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 501.6666666666667,
+            "r": 578.0,
+            "t": 28.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "CSCamScanner"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexă la ordinul DGETS nr. 01/1-7/1615 din 13.11.2025",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 761.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 351.3333333333333,
+            "r": 521.0,
+            "t": 807.3333333333334
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Anexă la ordinul DGETS nr. 01/1-7/1615 din 13.11.2025"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CODUL",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 727.4077631632487,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 243.89915974934897,
+            "r": 290.63212076822913,
+            "t": 742.5816529591879
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "CODUL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "de etică și deontologie al angajaților Direcției generale educație, tineret și sport a Consiliului municipal Chişinău și Direcțiilor educație, tineret și sport din sectoare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 684.5836690266926,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.0113639831543,
+            "r": 462.2088216145833,
+            "t": 726.0589726765951
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "de etică și deontologie al angajaților Direcției generale educație, tineret și sport a Consiliului municipal Chişinău și Direcțiilor educație, tineret și sport din sectoare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Capitolul I. Dispoziții generale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 659.6310526529949,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 175.46875,
+            "r": 333.3593953450521,
+            "t": 673.7933451334636
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Capitolul I. Dispoziții generale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Codul de etică și deontologie (în continuare Cod) al angajaților Direcției generale",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.946065266927,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.34517097473145,
+            "r": 512.9474690755208,
+            "t": 644.4571533203125
+          },
+          "charspan": [
+            0,
+            86
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Codul de etică și deontologie (în continuare Cod) al angajaților Direcției generale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "educație, tineret și sport (în continuare DGETS ) și a Direcțiilor educație, tineret și sport din sectoare (în continuare DETS) reglementează principiile fundamentale și normele generale de conduită profesională a personalului din cadrul DGETS și a DETS, în exercitarea atribuțiilor și responsabilităților funcționale ale acestora.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 563.5297444661459,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.67755699157715,
+            "r": 513.28125,
+            "t": 627.9344787597656
+          },
+          "charspan": [
+            0,
+            331
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "educație, tineret și sport (în continuare DGETS ) și a Direcțiilor educație, tineret și sport din sectoare (în continuare DETS) reglementează principiile fundamentale și normele generale de conduită profesională a personalului din cadrul DGETS și a DETS, în exercitarea atribuțiilor și responsabilităților funcționale ale acestora."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Prezentul Cod a fost elaborat în conformitate cu prevederile Codului muncii, Legii nr.158/2008 cu privire la funcția publică și statutul funcționarului public, Legii nr.25/2017 privind Codul de conduită a funcționarului public, Legii integrității nr.82/2017, Legii nr.229/2010 privind controlul financiar public intern și Legii nr.133/2016 privind declararea averii și intereselor personale.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 485.29990641276044,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.34517097473145,
+            "r": 512.6136474609375,
+            "t": 564.5413208007812
+          },
+          "charspan": [
+            0,
+            394
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Prezentul Cod a fost elaborat în conformitate cu prevederile Codului muncii, Legii nr.158/2008 cu privire la funcția publică și statutul funcționarului public, Legii nr.25/2017 privind Codul de conduită a funcționarului public, Legii integrității nr.82/2017, Legii nr.229/2010 privind controlul financiar public intern și Legii nr.133/2016 privind declararea averii și intereselor personale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Obiectivele prezentului Cod sunt orientate spre sporirea calității activității profesionale, buna administrare a resurselor și realizarea obiectivelor generale și specifice DGETS și DETS. De asemenea, Codul urmărește prevenirea și combaterea faptelor de corupție din cadrul DGETS și DETS, prin:",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 421.23236083984375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.6789779663086,
+            "r": 512.6136474609375,
+            "t": 483.95111083984375
+          },
+          "charspan": [
+            0,
+            297
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "Obiectivele prezentului Cod sunt orientate spre sporirea calității activității profesionale, buna administrare a resurselor și realizarea obiectivelor generale și specifice DGETS și DETS. De asemenea, Codul urmărește prevenirea și combaterea faptelor de corupție din cadrul DGETS și DETS, prin:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) reglementarea normelor de conduită profesională necesare dezvoltării unor",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 406.0584716796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 128.73579915364584,
+            "r": 512.6136474609375,
+            "t": 418.53476969401044
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "reglementarea normelor de conduită profesională necesare dezvoltării unor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "relații sociale și profesionale corespunzătoare, care contribuie la crearea și menținerea unei imagini favorabile a DGETS și a DETS, precum și a personalului din cadrul acestora, în conformitate cu interesul public și a legislația în vigoare;",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 356.4904378255208,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.01278432210286,
+            "r": 512.9474690755208,
+            "t": 402.3492838541667
+          },
+          "charspan": [
+            0,
+            242
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "relații sociale și profesionale corespunzătoare, care contribuie la crearea și menținerea unei imagini favorabile a DGETS și a DETS, precum și a personalului din cadrul acestora, în conformitate cu interesul public și a legislația în vigoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) crearea unui climat de încredere și respect reciproc între partenerii externi/",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 341.3165283203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 128.40199279785156,
+            "r": 512.9474690755208,
+            "t": 354.4672444661458
+          },
+          "charspan": [
+            0,
+            81
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "crearea unui climat de încredere și respect reciproc între partenerii externi/"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "instituții/societatea civilă și angajații DGETS și DETS.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 324.4566650390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.34659131368001,
+            "r": 361.399169921875,
+            "t": 338.6189371744792
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "instituții/societatea civilă și angajații DGETS și DETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Capitolul II. Principiile fundamentale de conduită",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 293.43448893229174,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 174.4673360188802,
+            "r": 430.4971923828125,
+            "t": 306.92236328125
+          },
+          "charspan": [
+            0,
+            50
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "Capitolul II. Principiile fundamentale de conduită"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. În exercitarea atribuțiilor funcționale, angajații DGETS șiDETS au obligația de a respecta principiile fundamentale de conduită profesională și morală, prevăzute de legislația în vigoare și de prezentul Cod și să le aplice în interes public.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 227.34375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.34659131368001,
+            "r": 514.2826741536458,
+            "t": 274.5513916015625
+          },
+          "charspan": [
+            0,
+            244
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "În exercitarea atribuțiilor funcționale, angajații DGETS șiDETS au obligația de a respecta principiile fundamentale de conduită profesională și morală, prevăzute de legislația în vigoare și de prezentul Cod și să le aplice în interes public."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Activitatea angajaților DGETS și DETS să fie guvernată de următoarele principii fundamentale:",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 194.29838053385413,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.68039830525716,
+            "r": 513.9488932291667,
+            "t": 225.320556640625
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "Activitatea angajaților DGETS și DETS să fie guvernată de următoarele principii fundamentale:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) Legalitatea – principiul conform căruia, angajații DGETS și DETS au obligația de fundamentale ale persoanelor, inclusiv tratatele internaționale la care Republica Moldova este parte, să acționeze în conformitate cu prevederile cadrului legal în",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 128.2076416015625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.68039830525716,
+            "r": 515.617919921875,
+            "t": 191.93798828125
+          },
+          "charspan": [
+            0,
+            247
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "Legalitatea – principiul conform căruia, angajații DGETS și DETS au obligația de fundamentale ale persoanelor, inclusiv tratatele internaționale la care Republica Moldova este parte, să acționeze în conformitate cu prevederile cadrului legal în"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "a respecta reglementările legislației în vigoare, drepturile, libertățile constituționale și vigoare, ordinele, indicațiile obligatorii spre executare a conducătorului;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 111.3477783203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.68039830525716,
+            "r": 514.6164957682292,
+            "t": 175.078125
+          },
+          "charspan": [
+            0,
+            168
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "a respecta reglementările legislației în vigoare, drepturile, libertățile constituționale și vigoare, ordinele, indicațiile obligatorii spre executare a conducătorului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 512.6666666666666,
+            "r": 566.3333333333334,
+            "t": 37.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CSCamScanner",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 11.333333333333371,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 501.6666666666667,
+            "r": 578.0,
+            "t": 28.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "CSCamScanner"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 89.429931640625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 532.9758707682292,
+            "r": 542.3224690755208,
+            "t": 101.56905110677087
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) Prioritatea interesului public - principiul conform căruia, în exercitarea atribuțiilor funcționale, angajații DGETS și DETS au îndatorirea de a considera interesul public prioritar interesului personal;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 761.2076568603516,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.24161593119304,
+            "r": 530.5784912109375,
+            "t": 811.220261891683
+          },
+          "charspan": [
+            0,
+            206
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "Prioritatea interesului public - principiul conform căruia, în exercitarea atribuțiilor funcționale, angajații DGETS și DETS au îndatorirea de a considera interesul public prioritar interesului personal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "c)",
+      "orig": "c) Integritatea morală - principiul conform căruia, în exercitarea atribuțiilor funcționale, DGETS și DETS le este interzis să solicite sau să accepte, direct sau indirect, pentru ei sau pentru altcineva, vreun avantaj ori beneficiu moral sau material sau să admită abuzuri în serviciu;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 696.0060424804688,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.7202746073405,
+            "r": 530.9481608072917,
+            "t": 760.4667307535807
+          },
+          "charspan": [
+            0,
+            286
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "Integritatea morală - principiul conform căruia, în exercitarea atribuțiilor funcționale, DGETS și DETS le este interzis să solicite sau să accepte, direct sau indirect, pentru ei sau pentru altcineva, vreun avantaj ori beneficiu moral sau material sau să admită abuzuri în serviciu;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "d)",
+      "orig": "d) Egalitatea,imparțialitatea și nediscriminarea– principii conform cărora, în exercitarea atribuțiilor funcționale angajații DGETS și DETS, asigură egalitatea de tratament a tuturor persoanelor prin aplicarea acelorași reguli juridice în situații identice sau similare cu o atitudine obiectivă, nediscriminatorie, neutră față de orice interese economice, religioase sau de altă natură, fãră a acorda prioritate unor persoane sau grupuri în funcție de rasă, naționalitate, origine etnică, limbă, religie, sex, opinie, apartenență politică, avere sau origine socială;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 582.273681640625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.08993911743164,
+            "r": 530.5784912109375,
+            "t": 694.1537272135417
+          },
+          "charspan": [
+            0,
+            566
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "Egalitatea,imparțialitatea și nediscriminarea– principii conform cărora, în exercitarea atribuțiilor funcționale angajații DGETS și DETS, asigură egalitatea de tratament a tuturor persoanelor prin aplicarea acelorași reguli juridice în situații identice sau similare cu o atitudine obiectivă, nediscriminatorie, neutră față de orice interese economice, religioase sau de altă natură, fãră a acorda prioritate unor persoane sau grupuri în funcție de rasă, naționalitate, origine etnică, limbă, religie, sex, opinie, apartenență politică, avere sau origine socială;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "e)",
+      "orig": "e) Onestitatea și corectitudinea – principii conform cărora, în exercitarea atribuțiilor funcționale, angajații DGETS și DETS, trebuie să aibă un comportament bazat pe respect, bună credință, corectitudine și amabilitate în relațiile cu cetățenii, conducători, colegii și să acționeze întru îndeplinirea conformă a sarcinilor trasate;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 516.3311360677083,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.35060946146648,
+            "r": 529.4695231119792,
+            "t": 581.9032185872396
+          },
+          "charspan": [
+            0,
+            334
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "Onestitatea și corectitudinea – principii conform cărora, în exercitarea atribuțiilor funcționale, angajații DGETS și DETS, trebuie să aibă un comportament bazat pe respect, bună credință, corectitudine și amabilitate în relațiile cu cetățenii, conducători, colegii și să acționeze întru îndeplinirea conformă a sarcinilor trasate;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "f)",
+      "orig": "f) Transparența – principiul conform căruia, activitățile desfăşurate de angajații DGETS și DETS în exercitarea atribuțiilor funcționale, sunt publice și pot fi supuse monitorizării de către cetățeni;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 469.2822265625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.7202746073405,
+            "r": 528.3605143229167,
+            "t": 516.7015991210938
+          },
+          "charspan": [
+            0,
+            200
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "Transparența – principiul conform căruia, activitățile desfăşurate de angajații DGETS și DETS în exercitarea atribuțiilor funcționale, sunt publice și pot fi supuse monitorizării de către cetățeni;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "g)",
+      "orig": "g) Independența - principiul conformcăruia, apartenența politică a angajaților DGETS și DETS nu trebuie să influențeze comportamentul și deciziile acestora, precum și politicile, deciziile și acțiunile autorității publice;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 420.0105794270833,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.7202746073405,
+            "r": 527.6211751302083,
+            "t": 467.0594482421875
+          },
+          "charspan": [
+            0,
+            222
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "Independența - principiul conformcăruia, apartenența politică a angajaților DGETS și DETS nu trebuie să influențeze comportamentul și deciziile acestora, precum și politicile, deciziile și acțiunile autorității publice;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "h)",
+      "orig": "h) Imparțialitatea politică – principiul conform căruia, angajații DGETS și DETS sunt obligați să adopte o atitudine neutră față de orice interes politic în exercitarea atribuțiilor funcționale. Apartenența politică a angajaților nu trebuie să influențeze comportamentul și deciziile acestora;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 356.2908121744792,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.08993911743164,
+            "r": 526.51220703125,
+            "t": 418.1582438151042
+          },
+          "charspan": [
+            0,
+            293
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "Imparțialitatea politică – principiul conform căruia, angajații DGETS și DETS sunt obligați să adopte o atitudine neutră față de orice interes politic în exercitarea atribuțiilor funcționale. Apartenența politică a angajaților nu trebuie să influențeze comportamentul și deciziile acestora;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "i)",
+      "orig": "i) Profesionalismul – principiul conform căruia, angajații DGETS și DETS sunt obligați să-și exercite atribuțiile funcționale cu maximă responsabilitate, competență, eficiență, corectitudine șiconștiinciozitate, prin aplicarea cunoştințelor teoretice și aptitudinilor dobândite;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 291.45963541666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.35060946146648,
+            "r": 526.8818359375,
+            "t": 354.4384765625
+          },
+          "charspan": [
+            0,
+            278
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "Profesionalismul – principiul conform căruia, angajații DGETS și DETS sunt obligați să-și exercite atribuțiile funcționale cu maximă responsabilitate, competență, eficiență, corectitudine șiconștiinciozitate, prin aplicarea cunoştințelor teoretice și aptitudinilor dobândite;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "j)",
+      "orig": "j) Loialitatea – principiul conform căruia, angajații DGETSși DETS au obligația:",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 275.52970377604163,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.82926813761394,
+            "r": 505.4413248697917,
+            "t": 289.977783203125
+          },
+          "charspan": [
+            0,
+            80
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "Loialitatea – principiul conform căruia, angajații DGETSși DETS au obligația:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- prin actele sau faptele lor să respecte Constituția Republicii Moldova, legislația în vigoare și să acționeze pentru punerea în aplicare a ordinelor, în conformitate cu atribuțiile care le revin, cu respectarea eticii profesionale;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 227.73990885416663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.98094495137532,
+            "r": 526.51220703125,
+            "t": 273.67740885416663
+          },
+          "charspan": [
+            0,
+            233
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "prin actele sau faptele lor să respecte Constituția Republicii Moldova, legislația în vigoare și să acționeze pentru punerea în aplicare a ordinelor, în conformitate cu atribuțiile care le revin, cu respectarea eticii profesionale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- să apere în mod loial imaginea și prestigiul DGETS și a DETS, precum și să se abțină de la orice act sau fapt care poate prejudicia imaginea sau interesele legale ale entităților;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 177.727294921875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.98094495137532,
+            "r": 526.8818359375,
+            "t": 225.51708984375
+          },
+          "charspan": [
+            0,
+            181
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "să apere în mod loial imaginea și prestigiul DGETS și a DETS, precum și să se abțină de la orice act sau fapt care poate prejudicia imaginea sau interesele legale ale entităților;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "k)",
+      "orig": "k) Confidențialitatea - principiul conform căruia, angajații DGETS și DETS au obligația:",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 145.4969482421875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.87195078531902,
+            "r": 526.8818359375,
+            "t": 177.3568115234375
+          },
+          "charspan": [
+            0,
+            88
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "Confidențialitatea - principiul conform căruia, angajații DGETS și DETS au obligația:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- să garanteze securitatea datelor și informațiilor la care au acces în exercitarea atribuțiilor funcționale, dacă această dezvăluire este de natură să atragă avantaje",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 112.525634765625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.13262176513672,
+            "r": 527.2515055338542,
+            "t": 143.64461263020837
+          },
+          "charspan": [
+            0,
+            167
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "să garanteze securitatea datelor și informațiilor la care au acces în exercitarea atribuțiilor funcționale, dacă această dezvăluire este de natură să atragă avantaje"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 513.0,
+            "r": 566.3333333333334,
+            "t": 36.66666666666663
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CS",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 16.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 503.3333333333333,
+            "r": 517.0,
+            "t": 26.0
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "CS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CamScanner",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 12.666666666666629,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 514.3333333333334,
+            "r": 578.0,
+            "t": 26.33333333333337
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "CamScanner"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 91.77970377604163,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 543.1470947265625,
+            "r": 555.3460286458333,
+            "t": 104.37548828125
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "neċuvenite ori să prejudicieze imaginea sau drepturile DGETS și a DETS sau a persoanelor fizice și juridice;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 779.5645167032877,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.1640625,
+            "r": 517.48828125,
+            "t": 811.8387095133463
+          },
+          "charspan": [
+            0,
+            108
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "neċuvenite ori să prejudicieze imaginea sau drepturile DGETS și a DETS sau a persoanelor fizice și juridice;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- să nu dezvăluie informații care nu au caracter public, în alte condiții decât cele prevăzute de lege, în scopul protejării informațiilor confidențiale, vieții private a cetățenilor și a securității naționale;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 730.2258097330729,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.27734375,
+            "r": 517.859375,
+            "t": 778.0806452433268
+          },
+          "charspan": [
+            0,
+            210
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "să nu dezvăluie informații care nu au caracter public, în alte condiții decât cele prevăzute de lege, în scopul protejării informațiilor confidențiale, vieții private a cetățenilor și a securității naționale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- să asigure protecția informațiilor confidențiale la care au acces, să nu admită modificarea sau distrugerea lor necondiționată;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 697.5806477864583,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.76171875,
+            "r": 516.74609375,
+            "t": 728.3709716796875
+          },
+          "charspan": [
+            0,
+            129
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "să asigure protecția informațiilor confidențiale la care au acces, să nu admită modificarea sau distrugerea lor necondiționată;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- să nu comunice persoanelor terțe sau să divulge în public informația de uz intern, date personale ale persoanelor terțe, parole, alte date de identitate utilizate pentru asigurarea accesului la resursele informaționale.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 648.6128946940104,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.390625,
+            "r": 517.859375,
+            "t": 695.3548380533855
+          },
+          "charspan": [
+            0,
+            221
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "să nu comunice persoanelor terțe sau să divulge în public informația de uz intern, date personale ale persoanelor terțe, parole, alte date de identitate utilizate pentru asigurarea accesului la resursele informaționale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Capitolul III. Obligațiile și drepturile angajaților",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 616.3387044270834,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 180.90625,
+            "r": 435.10546875,
+            "t": 630.8064575195312
+          },
+          "charspan": [
+            0,
+            52
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "Capitolul III. Obligațiile și drepturile angajaților"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. În exercitarea atribuțiilor funcționale, angajații DGETS și DETS au obligația de a respecta următoarele norme de conduită:",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 571.0806477864584,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.53515625,
+            "r": 518.97265625,
+            "t": 602.9838663736979
+          },
+          "charspan": [
+            0,
+            125
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "În exercitarea atribuțiilor funcționale, angajații DGETS și DETS au obligația de a respecta următoarele norme de conduită:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) să respecte legislația în vigoare și să aplice principiile din prezentul Cod în activitate de zi cu zi, în cadrul DGETS și DETS ;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 535.8387044270833,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.01953125,
+            "r": 517.48828125,
+            "t": 566.6290283203125
+          },
+          "charspan": [
+            0,
+            132
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "să respecte legislația în vigoare și să aplice principiile din prezentul Cod în activitate de zi cu zi, în cadrul DGETS și DETS ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) să execute în termen, cu responsabilitate, conștiincios, obiectiv și imparțial sarcinile și atribuțiile de serviciu stabilite în Fișa postului;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 501.7096761067708,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.390625,
+            "r": 518.23046875,
+            "t": 532.8709716796875
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "să execute în termen, cu responsabilitate, conștiincios, obiectiv și imparțial sarcinile și atribuțiile de serviciu stabilite în Fișa postului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "c)",
+      "orig": "c) să fie loiali DGETS și DETS ;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 483.1612955729167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 126.7265625,
+            "r": 292.234375,
+            "t": 497.6290283203125
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/78",
+      "text": "să fie loiali DGETS și DETS ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "d)",
+      "orig": "d) sǎ asigure informarea activă, corectă și la timp a cetățenilor asupra chestiunilor de interes public;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 450.51611328125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.390625,
+            "r": 517.1171875,
+            "t": 481.6774088541667
+          },
+          "charspan": [
+            0,
+            104
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/79",
+      "text": "sǎ asigure informarea activă, corectă și la timp a cetățenilor asupra chestiunilor de interes public;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "e)",
+      "orig": "e) să asigure accesul liber la informație;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 434.5644938151042,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 126.7265625,
+            "r": 329.34375,
+            "t": 449.0322672526042
+          },
+          "charspan": [
+            0,
+            42
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/80",
+      "text": "să asigure accesul liber la informație;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "f)",
+      "orig": "f) să respecte termenele prevăzute de lege privind furnizarea informației;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 416.3870849609375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 126.35546875,
+            "r": 488.54296875,
+            "t": 430.8548177083333
+          },
+          "charspan": [
+            0,
+            74
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/81",
+      "text": "să respecte termenele prevăzute de lege privind furnizarea informației;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "g)",
+      "orig": "g) în exercițiul funcției să nu răspundă la provocările sau insultele adresate de orice persoană cu care discută, cu privire la persoana sa, a colegilor DGETS și DETS;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 382.258056640625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.76171875,
+            "r": 517.48828125,
+            "t": 412.3064371744792
+          },
+          "charspan": [
+            0,
+            167
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/82",
+      "text": "în exercițiul funcției să nu răspundă la provocările sau insultele adresate de orice persoană cu care discută, cu privire la persoana sa, a colegilor DGETS și DETS;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "h)",
+      "orig": "h) să respecte și să utilizeze cu maximă eficiență programul de muncă stabilit;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 364.0806477864583,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.984375,
+            "r": 505.2421875,
+            "t": 377.8064371744792
+          },
+          "charspan": [
+            0,
+            79
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/83",
+      "text": "să respecte și să utilizeze cu maximă eficiență programul de muncă stabilit;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "i)",
+      "orig": "i) să-și perfecționeze continuu nivelul de pregătire profesională, conform necesităților de dezvoltare profesională, identificate în cadrul procedurii de evaluare a performanțelor profesionale individuale anuale;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 313.6290283203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.6484375,
+            "r": 517.48828125,
+            "t": 360.0
+          },
+          "charspan": [
+            0,
+            212
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/84",
+      "text": "să-și perfecționeze continuu nivelul de pregătire profesională, conform necesităților de dezvoltare profesională, identificate în cadrul procedurii de evaluare a performanțelor profesionale individuale anuale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "j)",
+      "orig": "j) să ateste un comportament demn și civilizat în relațiile cu conducerea DGETS și DETS, conducătorii ierarhic superiori și colegii, bazat pe corectitudine și amabilitate, cu respectarea principiilormoralității, eticii profesionaleși culturii generale;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 243.8870849609375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.01953125,
+            "r": 517.1171875,
+            "t": 308.80643717447924
+          },
+          "charspan": [
+            0,
+            252
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/85",
+      "text": "să ateste un comportament demn și civilizat în relațiile cu conducerea DGETS și DETS, conducătorii ierarhic superiori și colegii, bazat pe corectitudine și amabilitate, cu respectarea principiilormoralității, eticii profesionaleși culturii generale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "k)",
+      "orig": "k) să manifeste corectitudine și respect în relațiile cu persoanele din afara DGETS și DETS cu care interacționează în procesul exercitării atribuțiilor funcționale;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 210.5,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.1328125,
+            "r": 517.1171875,
+            "t": 241.29032389322913
+          },
+          "charspan": [
+            0,
+            165
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/86",
+      "text": "să manifeste corectitudine și respect în relațiile cu persoanele din afara DGETS și DETS cu care interacționează în procesul exercitării atribuțiilor funcționale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1)",
+      "orig": "1) să elimine orice formă de discriminare bazate pe aspecte de naționalitate, convingeri religioase, politice, stare materială, sănătate, vârstă, sex, opini, etc.;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 175.258056640625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.50390625,
+            "r": 516.74609375,
+            "t": 206.79032389322913
+          },
+          "charspan": [
+            0,
+            163
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/87",
+      "text": "să elimine orice formă de discriminare bazate pe aspecte de naționalitate, convingeri religioase, politice, stare materială, sănătate, vârstă, sex, opini, etc.;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "m)",
+      "orig": "m) să asigure ocrotirea proprietății publice a municipiului Chişinău, să evite cauzarea oricărui prejudiciu;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 139.6451416015625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.1328125,
+            "r": 517.48828125,
+            "t": 170.80643717447913
+          },
+          "charspan": [
+            0,
+            108
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/88",
+      "text": "să asigure ocrotirea proprietății publice a municipiului Chişinău, să evite cauzarea oricărui prejudiciu;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "n)",
+      "orig": "n) să evite conflictul de interese și să informeze şeful DGETS și şefii DETS imediat, dar nu mai târziu de 3 zile de la data constatării, despre conflictul de interese",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 105.51611328125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.76171875,
+            "r": 517.859375,
+            "t": 136.30647786458337
+          },
+          "charspan": [
+            0,
+            167
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/89",
+      "text": "să evite conflictul de interese și să informeze şeful DGETS și şefii DETS imediat, dar nu mai târziu de 3 zile de la data constatării, despre conflictul de interese"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 512.6666666666666,
+            "r": 566.3333333333334,
+            "t": 37.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/90",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CSCamScanner",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 11.333333333333371,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 501.6666666666667,
+            "r": 578.0,
+            "t": 28.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/91",
+      "text": "CSCamScanner"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "3",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 91.41935221354163,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 533.81640625,
+            "r": 544.578125,
+            "t": 104.774169921875
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/92",
+      "text": "3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "reál în care se află, precum și să nu emită acte administrative, să nu încheie acte juridice, să nu ia sau să nu participe la luarea unor decizii în exercitarea funcției până la soluționarea conflictului de interese real;",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 764.2590738932291,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.44070561726888,
+            "r": 511.2740478515625,
+            "t": 814.3679434458414
+          },
+          "charspan": [
+            0,
+            221
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/93",
+      "text": "reál în care se află, precum și să nu emită acte administrative, să nu încheie acte juridice, să nu ia sau să nu participe la luarea unor decizii în exercitarea funcției până la soluționarea conflictului de interese real;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "o)",
+      "orig": "o) să nu admită influențe necorespunzătoare și să desfăşoare în mod legal activitatea pentru care a intervenit influența necorespunzătoare, precum și să facă neîntârziat un denunț în formă scrisă despre exercitarea influenței necorespunzătoare la persoana responsabilă din cadrul DGETS și DETS desemnată de conducător, sau, să depună un denunț despre exercitarea influenței necorespunzătoare la Centrul Național Anticorupție dacă după ce a depus un denunț în modul prevăzut, conducătorul nu-și onorează obligațiile prevăzute de lege.",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 647.461181640625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.27564112345378,
+            "r": 510.5400797526042,
+            "t": 760.2061513264974
+          },
+          "charspan": [
+            0,
+            533
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/94",
+      "text": "să nu admită influențe necorespunzătoare și să desfăşoare în mod legal activitatea pentru care a intervenit influența necorespunzătoare, precum și să facă neîntârziat un denunț în formă scrisă despre exercitarea influenței necorespunzătoare la persoana responsabilă din cadrul DGETS și DETS desemnată de conducător, sau, să depună un denunț despre exercitarea influenței necorespunzătoare la Centrul Național Anticorupție dacă după ce a depus un denunț în modul prevăzut, conducătorul nu-și onorează obligațiile prevăzute de lege."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Angajații DGETS și DETS care sunt delegați să reprezinte entitatea în cadrul unor reuniuni internaționale, conferințe, seminare și alte activități organizate peste hotarele pării, sunt obligați să respecte codul de etică profesională și legile tării gazdă, să demonstreze respect față de tradițiile locale și să contribuie la transmiterea unei bune imagini a ţării noastre.",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 567.8765055338541,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.90865389506023,
+            "r": 509.8061116536458,
+            "t": 646.7242838541666
+          },
+          "charspan": [
+            0,
+            376
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/95",
+      "text": "Angajații DGETS și DETS care sunt delegați să reprezinte entitatea în cadrul unor reuniuni internaționale, conferințe, seminare și alte activități organizate peste hotarele pării, sunt obligați să respecte codul de etică profesională și legile tării gazdă, să demonstreze respect față de tradițiile locale și să contribuie la transmiterea unei bune imagini a ţării noastre."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. În exercitarea atribuțiilor funcționale, angajații DGETS și DETS pot accepta, conform normelor de politețe și de ospitalitate, cu prilejul anumitor acțiuni de protocol, unanim recunoscute, semne de atenție și suvenire simbolice ale căror valoare nu depăşeşte normele stabilite de legislația în vigoare.",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 501.5559488932292,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.90865389506023,
+            "r": 508.7051188151042,
+            "t": 566.7711588541666
+          },
+          "charspan": [
+            0,
+            305
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/96",
+      "text": "În exercitarea atribuțiilor funcționale, angajații DGETS și DETS pot accepta, conform normelor de politețe și de ospitalitate, cu prilejul anumitor acțiuni de protocol, unanim recunoscute, semne de atenție și suvenire simbolice ale căror valoare nu depăşeşte normele stabilite de legislația în vigoare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Angajaților DGETS și DETS le este interzis să solicite sau să accepte cadouri, servicii, favoruri, invitații sau orice alt avantaj, destinate personal sau familiei, dacă oferirea sau acordarea lor este legată, în mod direct sau indirect, de îndeplinirea atribuțiilor de serviciu.",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 438.5513916015625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.54166666666667,
+            "r": 507.6041666666667,
+            "t": 500.4506022135417
+          },
+          "charspan": [
+            0,
+            282
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/97",
+      "text": "Angajaților DGETS și DETS le este interzis să solicite sau să accepte cadouri, servicii, favoruri, invitații sau orice alt avantaj, destinate personal sau familiei, dacă oferirea sau acordarea lor este legată, în mod direct sau indirect, de îndeplinirea atribuțiilor de serviciu."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. Cadourile a căror valoare depăşește limitele stabilite, se transmit în gestiunea comisiei specializate a DGETS și a DETS și se înscriu într-un registru special. Informația din registrul special menționat este publică.",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 390.2847900390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.17467943827312,
+            "r": 507.6041666666667,
+            "t": 437.07763671875
+          },
+          "charspan": [
+            0,
+            220
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/98",
+      "text": "Cadourile a căror valoare depăşește limitele stabilite, se transmit în gestiunea comisiei specializate a DGETS și a DETS și se înscriu într-un registru special. Informația din registrul special menționat este publică."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "10.",
+      "orig": "10. În cazul în care angajaților DGETS și DETS li se propune un avantaj necuvenit, ei trebuie să întreprindă măsurile necesare pentru a-și asigura protecția, implicit:",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 358.5982666015625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.80769220987956,
+            "r": 507.6041666666667,
+            "t": 389.179443359375
+          },
+          "charspan": [
+            0,
+            167
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/99",
+      "text": "În cazul în care angajaților DGETS și DETS li se propune un avantaj necuvenit, ei trebuie să întreprindă măsurile necesare pentru a-și asigura protecția, implicit:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) să refuze avantajul necuvenit;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 342.3865966796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 135.47916666666666,
+            "r": 291.44873046875,
+            "t": 356.0191650390625
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/100",
+      "text": "să refuze avantajul necuvenit;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) acesta nu trebuie acceptat pentru a fi folosit ca probă;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 326.91178385416674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 135.47916666666666,
+            "r": 400.07692464192706,
+            "t": 340.1759033203125
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/101",
+      "text": "acesta nu trebuie acceptat pentru a fi folosit ca probă;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "c)",
+      "orig": "c) să încerce să identifice persoana care i-a propus avantajul;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 310.3316650390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 135.47916666666666,
+            "r": 421.3621826171875,
+            "t": 324.3326416015625
+          },
+          "charspan": [
+            0,
+            63
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/102",
+      "text": "să încerce să identifice persoana care i-a propus avantajul;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "d)",
+      "orig": "d) să-și asigure martori în momentul în care le este propus avantajul, de exemplu, colegii de serviciu;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 277.17138671875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.54166666666667,
+            "r": 507.6041666666667,
+            "t": 308.1209716796875
+          },
+          "charspan": [
+            0,
+            103
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/103",
+      "text": "să-și asigure martori în momentul în care le este propus avantajul, de exemplu, colegii de serviciu;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "e)",
+      "orig": "e) să raporteze orice tentativă a avantajului necuvenit conducătorilor ierarhic superiori sau autorităților abilitate.",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 245.85331217447913,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.80769220987956,
+            "r": 507.2371826171875,
+            "t": 275.69759114583337
+          },
+          "charspan": [
+            0,
+            118
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/104",
+      "text": "să raporteze orice tentativă a avantajului necuvenit conducătorilor ierarhic superiori sau autorităților abilitate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Capitolul IV. Restricțiile angajaților",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 215.27217610677087,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 213.6474405924479,
+            "r": 396.0400797526042,
+            "t": 229.273193359375
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/105",
+      "text": "Capitolul IV. Restricțiile angajaților"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "11.",
+      "orig": "11. În exercitarea atribuțiilor funcționale, angajaților DGETS și DETS le este interzis:",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 185.79638671875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.44070561726888,
+            "r": 501.3653971354167,
+            "t": 203.1134033203125
+          },
+          "charspan": [
+            0,
+            88
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/106",
+      "text": "În exercitarea atribuțiilor funcționale, angajaților DGETS și DETS le este interzis:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) să exprime în public aprecieri neconforme cu realitatea în legătură cu activitatea DGETS și DETS, cu politicile și strategiile acesteia ori cu proiectele de acte cu caracter normativ sau individual;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 138.2666015625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.44070561726888,
+            "r": 507.6041666666667,
+            "t": 184.6910400390625
+          },
+          "charspan": [
+            0,
+            201
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/107",
+      "text": "să exprime în public aprecieri neconforme cu realitatea în legătură cu activitatea DGETS și DETS, cu politicile și strategiile acesteia ori cu proiectele de acte cu caracter normativ sau individual;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) să facă aprecieri neautorizate în legătură cu litigiile aflate în curs de",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 122.42342122395837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.83654022216797,
+            "r": 507.6041666666667,
+            "t": 135.6875
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/108",
+      "text": "să facă aprecieri neautorizate în legătură cu litigiile aflate în curs de"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 513.0,
+            "r": 566.3333333333334,
+            "t": 36.66666666666663
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/109",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CS",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 16.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 503.3333333333333,
+            "r": 517.0,
+            "t": 26.0
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/110",
+      "text": "CS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CamScanner",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 12.666666666666629,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 514.3333333333334,
+            "r": 578.0,
+            "t": 26.33333333333337
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/111",
+      "text": "CamScanner"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 98.8427734375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 523.7516276041667,
+            "r": 532.9263102213542,
+            "t": 110.633056640625
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/112",
+      "text": "4"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "soľuționare, în care DGETS și DETS are calitate de parte;",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 799.7419357299805,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.01480229695638,
+            "r": 372.9045817057292,
+            "t": 815.0050404866537
+          },
+          "charspan": [
+            0,
+            57
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/113",
+      "text": "soľuționare, în care DGETS și DETS are calitate de parte;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "c)",
+      "orig": "c) să dezvăluie neautorizat informații care nu au caracter public sau să remită documente care conțin aceste informații, la solicitarea reprezentanților unei alte autorități sau instituții;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 749.5917358398438,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.74342091878255,
+            "r": 513.1636149088542,
+            "t": 798.2883071899414
+          },
+          "charspan": [
+            0,
+            189
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/114",
+      "text": "să dezvăluie neautorizat informații care nu au caracter public sau să remită documente care conțin aceste informații, la solicitarea reprezentanților unei alte autorități sau instituții;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "d)",
+      "orig": "d) să dezvăluie informații la care au acces în exercitarea atribuțiilor funcționale, dacă această dezvăluire este de natură să atragă avantaje necuvenite ori să prejudicieze imaginea și drepturile autorităților publice municipale, instituțiilor publice, precum și ale persoanelor juridice și fizice;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 684.1784261067709,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.47203890482585,
+            "r": 513.5279541015625,
+            "t": 747.4112904866537
+          },
+          "charspan": [
+            0,
+            299
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/115",
+      "text": "să dezvăluie informații la care au acces în exercitarea atribuțiilor funcționale, dacă această dezvăluire este de natură să atragă avantaje necuvenite ori să prejudicieze imaginea și drepturile autorităților publice municipale, instituțiilor publice, precum și ale persoanelor juridice și fizice;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "e)",
+      "orig": "e) să acorde asistență și consultanță persoanelor fizice sau juridice în vederea promovării de acțiuni judiciare sau de altă natură împotriva autorităților publice municipale;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 635.8452555338541,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.37911160786946,
+            "r": 513.8922526041667,
+            "t": 682.7248026529948
+          },
+          "charspan": [
+            0,
+            175
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/116",
+      "text": "să acorde asistență și consultanță persoanelor fizice sau juridice în vederea promovării de acțiuni judiciare sau de altă natură împotriva autorităților publice municipale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "f)",
+      "orig": "f) să întrebuințeze expresii care lezează onoarea și imaginea autorităților publice municipale sau a angajaților;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 604.9556477864584,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.47203890482585,
+            "r": 513.5279541015625,
+            "t": 635.1184488932291
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/117",
+      "text": "să întrebuințeze expresii care lezează onoarea și imaginea autorităților publice municipale sau a angajaților;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "sua ia ia a a ia a a a ia i publice municipale sau a altor persoane juridice sau fizice;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 572.2490030924479,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.47203890482585,
+            "r": 512.79931640625,
+            "t": 603.8654174804688
+          },
+          "charspan": [
+            0,
+            88
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/118",
+      "text": "sua ia ia a a ia a a a ia i publice municipale sau a altor persoane juridice sau fizice;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "na a as s ae s  ae  oe co s i materiale sau morale autorităților publice municipale sau altor persoane juridice sau Gie",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 523.1890055338542,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.37911160786946,
+            "r": 513.5279541015625,
+            "t": 571.8855794270834
+          },
+          "charspan": [
+            0,
+            119
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/119",
+      "text": "na a as s ae s  ae  oe co s i materiale sau morale autorităților publice municipale sau altor persoane juridice sau Gie"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "i)",
+      "orig": "i) să solicite personal sau să accepte cadouri, să beneficieze de recompense sau exercitarea atribuțiilor funcționale;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 477.3996988932292,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.56496683756511,
+            "r": 512.79931640625,
+            "t": 522.8256022135417
+          },
+          "charspan": [
+            0,
+            118
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/120",
+      "text": "să solicite personal sau să accepte cadouri, să beneficieze de recompense sau exercitarea atribuțiilor funcționale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "j)",
+      "orig": "j) să impună colegilor să se înscrie în organizații sau asociații, indiferent de natura acestora, ori să le sugereze acest lucru, promițându-le acordarea unor avantaje materiale, nemateriale sau profesionale;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 429.429931640625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.74342091878255,
+            "r": 512.79931640625,
+            "t": 474.8558349609375
+          },
+          "charspan": [
+            0,
+            208
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/121",
+      "text": "să impună colegilor să se înscrie în organizații sau asociații, indiferent de natura acestora, ori să le sugereze acest lucru, promițându-le acordarea unor avantaje materiale, nemateriale sau profesionale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "k)",
+      "orig": "k) să se prezinte la locul de muncă în stare de ebrietate sau sub influența unor substanțe stupefiante și să consume alcool în orele de program;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 397.8135172526042,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.10772959391277,
+            "r": 513.1636149088542,
+            "t": 427.24951171875
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/122",
+      "text": "să se prezinte la locul de muncă în stare de ebrietate sau sub influența unor substanțe stupefiante și să consume alcool în orele de program;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1)",
+      "orig": "1) fumatul, în afara locurilor prevăzute pentru fumat;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 382.18701171875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 126.63157653808594,
+            "r": 381.28369140625,
+            "t": 394.90625
+          },
+          "charspan": [
+            0,
+            54
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/123",
+      "text": "fumatul, în afara locurilor prevăzute pentru fumat;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "m)",
+      "orig": "m) să neglijeze repetat sau să tergiverseze sistematic îndeplinirea sarcinilor;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 366.1970621744792,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 126.99588521321616,
+            "r": 490.9407552083333,
+            "t": 378.9163411458333
+          },
+          "charspan": [
+            0,
+            79
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/124",
+      "text": "să neglijeze repetat sau să tergiverseze sistematic îndeplinirea sarcinilor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "n)",
+      "orig": "n) să întârzie nemotivat la serviciu și să absenteze fară motive întemeiate de la lucru timp de 4 ore consecutive (fără a ține cont de pauza de masă) în timpul zilei de muncã.",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 316.046875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.50904337565105,
+            "r": 503.3272705078125,
+            "t": 362.5630289713542
+          },
+          "charspan": [
+            0,
+            175
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/125",
+      "text": "să întârzie nemotivat la serviciu și să absenteze fară motive întemeiate de la lucru timp de 4 ore consecutive (fără a ține cont de pauza de masă) în timpul zilei de muncã."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Capitolul V. Măsurile de asigurare a integrității instituționale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 285.52067057291663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 148.85443623860675,
+            "r": 464.34619140625,
+            "t": 297.87650553385413
+          },
+          "charspan": [
+            0,
+            64
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/126",
+      "text": "Capitolul V. Măsurile de asigurare a integrității instituționale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "12.",
+      "orig": "12. Climatul de integritate instituțională al angajaților DGETS și DETS se cultivă prin realizarea următoarelor măsuri:",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 237.5509033203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.6652946472168,
+            "r": 513.8922526041667,
+            "t": 265.53328450520837
+          },
+          "charspan": [
+            0,
+            119
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/127",
+      "text": "Climatul de integritate instituțională al angajaților DGETS și DETS se cultivă prin realizarea următoarelor măsuri:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) angajarea și promovarea angajaților în bază de merit și de integritate profesională;",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 203.7540283203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.3009859720866,
+            "r": 514.620849609375,
+            "t": 234.28023274739587
+          },
+          "charspan": [
+            0,
+            87
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/128",
+      "text": "angajarea și promovarea angajaților în bază de merit și de integritate profesională;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "b)respectarea regimului juridic al incompatibilităților, restricțiilor în ierarhie și al limitărilor de publicitate;",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 169.2303466796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.6652946472168,
+            "r": 514.620849609375,
+            "t": 199.75655110677087
+          },
+          "charspan": [
+            0,
+            116
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/129",
+      "text": "b)respectarea regimului juridic al incompatibilităților, restricțiilor în ierarhie și al limitărilor de publicitate;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "c)",
+      "orig": "c) respectarea regimului juridic al declarării averii și intereselor personale;",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 151.78678385416663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 133.55345153808594,
+            "r": 493.1266276041667,
+            "t": 164.50606282552087
+          },
+          "charspan": [
+            0,
+            79
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/130",
+      "text": "respectarea regimului juridic al declarării averii și intereselor personale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "d)",
+      "orig": "d) respectarea regimului juridic al conflictelor de interese;",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 132.52620442708337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 133.91776021321616,
+            "r": 415.16444905598956,
+            "t": 144.882080078125
+          },
+          "charspan": [
+            0,
+            61
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/131",
+      "text": "respectarea regimului juridic al conflictelor de interese;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "e)",
+      "orig": "e) neadmiterea favoritismului;",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 112.538818359375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 133.55345153808594,
+            "r": 282.19160970052087,
+            "t": 125.98486328125
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/132",
+      "text": "neadmiterea favoritismului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 512.6666666666666,
+            "r": 566.3333333333334,
+            "t": 37.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/133",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CSCamScanner",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 11.333333333333371,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 501.6666666666667,
+            "r": 578.0,
+            "t": 28.0
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/134",
+      "text": "CSCamScanner"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "5",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 100.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 532.0,
+            "r": 541.0,
+            "t": 112.33333333333337
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/135",
+      "text": "5"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "f)",
+      "orig": "f) respectarea regimului juridic al cadourilor;",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 797.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 134.0,
+            "r": 352.6666666666667,
+            "t": 810.3333333333334
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/136",
+      "text": "respectarea regimului juridic al cadourilor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "g)",
+      "orig": "g) neadmiterea, denunțarea și tratarea influențelor necorespunzătoare;",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 778.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 133.66666666666666,
+            "r": 472.6666666666667,
+            "t": 792.0
+          },
+          "charspan": [
+            0,
+            70
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/137",
+      "text": "neadmiterea, denunțarea și tratarea influențelor necorespunzătoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "h)",
+      "orig": "h) neadmiterea, denunfarea manifestărilor de corupție și protecția avertizorilor de integritate;",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 741.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 516.6666666666667,
+            "t": 772.0
+          },
+          "charspan": [
+            0,
+            96
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/138",
+      "text": "neadmiterea, denunfarea manifestărilor de corupție și protecția avertizorilor de integritate;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "i)",
+      "orig": "i) intoleranța față de incidentele de integritate;",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 724.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 133.66666666666666,
+            "r": 358.3333333333333,
+            "t": 738.3333333333334
+          },
+          "charspan": [
+            0,
+            50
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/139",
+      "text": "intoleranța față de incidentele de integritate;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "j)",
+      "orig": "j) asigurarea transparenței în procesul decizional;",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 707.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 133.0,
+            "r": 373.0,
+            "t": 722.0
+          },
+          "charspan": [
+            0,
+            51
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/140",
+      "text": "asigurarea transparenței în procesul decizional;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "k)",
+      "orig": "k) asigurarea accesului la informații de interes public;",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 691.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 134.33333333333334,
+            "r": 394.6666666666667,
+            "t": 705.3333333333333
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/141",
+      "text": "asigurarea accesului la informații de interes public;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1)",
+      "orig": "1) gestionarea transparentă și responsabilă a patrimoniului public;",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 672.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 134.0,
+            "r": 450.3333333333333,
+            "t": 686.6666666666666
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/142",
+      "text": "gestionarea transparentă și responsabilă a patrimoniului public;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "m)",
+      "orig": "m) respectarea normelor de etică și conduită;",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 654.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 134.0,
+            "r": 352.3333333333333,
+            "t": 667.6666666666666
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/143",
+      "text": "respectarea normelor de etică și conduită;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "n)",
+      "orig": "n) respectarea regimului de restricții și limitări în legătură cu încetarea raporturilor de muncă sau de serviciu.",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 620.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.0,
+            "r": 517.0,
+            "t": 650.0
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/144",
+      "text": "respectarea regimului de restricții și limitări în legătură cu încetarea raporturilor de muncă sau de serviciu."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Capitolul VI. Dispoziții finale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 586.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 230.66666666666666,
+            "r": 383.0,
+            "t": 600.6666666666666
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/145",
+      "text": "Capitolul VI. Dispoziții finale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "13.",
+      "orig": "13. Prevederile prezentului Cod sunt obligatorii pentru toți angajații DGETS și DETS.",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 557.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.33333333333333,
+            "r": 515.0,
+            "t": 572.3333333333334
+          },
+          "charspan": [
+            0,
+            85
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/146",
+      "text": "Prevederile prezentului Cod sunt obligatorii pentru toți angajații DGETS și DETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "14.",
+      "orig": "14. Încălcarea prevederilor prezentului Cod atrage angajații DGETS și DETS la răspunderea disciplinară, contravențională, civilă sau penală, în condițiile legislației.",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 508.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.33333333333333,
+            "r": 516.3333333333333,
+            "t": 557.3333333333333
+          },
+          "charspan": [
+            0,
+            167
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/147",
+      "text": "Încălcarea prevederilor prezentului Cod atrage angajații DGETS și DETS la răspunderea disciplinară, contravențională, civilă sau penală, în condițiile legislației."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scanned with",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 27.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 513.0,
+            "r": 566.3333333333334,
+            "t": 36.66666666666663
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/148",
+      "text": "Scanned with"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CS",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 16.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 503.3333333333333,
+            "r": 517.0,
+            "t": 26.0
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/149",
+      "text": "CS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CamScanner",
+      "parent": {
+        "$ref": "#/pictures/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 12.666666666666629,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 514.3333333333334,
+            "r": 578.0,
+            "t": 26.33333333333337
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/150",
+      "text": "CamScanner"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 93.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 531.6666666666666,
+            "r": 542.0,
+            "t": 105.66666666666663
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/151",
+      "text": "6"
+    }
+  ],
+  "version": "1.10.0"
+}

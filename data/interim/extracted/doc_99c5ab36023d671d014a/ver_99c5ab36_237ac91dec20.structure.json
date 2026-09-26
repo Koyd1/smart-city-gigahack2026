@@ -1,0 +1,3166 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/tables/1"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "2ba854edb76fc5484998731de2c09494cb94e7088d15ab77b82a0b2fb8789a6c",
+  "origin": {
+    "binary_hash": 13270431551586867820,
+    "filename": "2ba854edb76fc5484998731de2c09494cb94e7088d15ab77b82a0b2fb8789a6c.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 704.4389109241076,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 245.3375024905621,
+            "r": 357.51066971746866,
+            "t": 777.5931957696614
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 606.1916579775267,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.33692438010402,
+            "r": 298.50039875824183,
+            "t": 641.6740933211696
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 386.953800293649,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 324.71816659197714,
+            "r": 526.6898212980744,
+            "t": 533.8194701848165
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 527.797559299262,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.537995598044176,
+            "r": 98.41514802510306,
+            "t": 793.3114055888661
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 48.78070875623473,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.70335906265566,
+            "r": 414.2854746118328,
+            "t": 810.4364653906819
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 4
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 187.1646525065104,
+                "coord_origin": "TOPLEFT",
+                "l": 182.48406982421875,
+                "r": 199.37315877278644,
+                "t": 126.82729085286458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Comentarii"
+            },
+            {
+              "bbox": {
+                "b": 184.42204793294272,
+                "coord_origin": "TOPLEFT",
+                "l": 325.45220947265625,
+                "r": 486.4877522786458,
+                "t": 122.51747639973958
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Comentarii Comentarii"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 345.06048583984375,
+                "coord_origin": "TOPLEFT",
+                "l": 178.9491424560547,
+                "r": 209.19240315755206,
+                "t": 280.41330973307294
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "Calificativul DA/NU"
+            },
+            {
+              "bbox": {
+                "b": 342.7096761067708,
+                "coord_origin": "TOPLEFT",
+                "l": 321.1317342122396,
+                "r": 496.6997477213542,
+                "t": 275.7116902669271
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Calificativul Calificativul DA/NU DA/NU"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 786.6202799479166,
+                "coord_origin": "TOPLEFT",
+                "l": 169.1299031575521,
+                "r": 303.8498738606771,
+                "t": 352.50469970703125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "Procesele-verbale ale ședințelor Consiliului profesoral și materialele Procesele-verbale ale ședințelor Consiliului de administrație și materialele Indicatori de evaluare (instituțiile de învățământ primar, gimnazial, liceal și îndosariate (rapoarte, note informative etc.) pentru anul de studii 2025-2026. Regulamentul de organizare și funcționare a instituției de învățământ. Planul anual de activitate al instituției de învăţământ. Planul de dezvoltare al instituției de învățământ. I. Managementul instituțional extraşcolar) 1 2 3 4 5."
+            },
+            {
+              "bbox": {
+                "b": 784.26953125,
+                "coord_origin": "TOPLEFT",
+                "l": 293.2450968424479,
+                "r": 519.4803873697917,
+                "t": 350.15391031901044
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Registrul de evidență a ordinelor și Mapa cu ordine cu referire la activitatea de bază (constituire comisii, inițiere/rezultatele monitorizării interne, excursii anexate (rapoarte, note informative etc.) pentru anul de studii 2025-2026. Registrul proceselor-verbale ale şedințelor Consiliilor de administrație. Registrul proceselor-verbale ale şedințelor Consiliului pedagogic. Indicatori de evaluare (instituțiile de învățământ preșcolar) Indicatori de evaluare (instituțiile de învățământ general) Statutul/Regulamentul de organizare și funcționare al IET. Raportul anual de activitate al instituției de învăţământ. II. Managementul resurselor umane Planul anual de activitate. Regulamentul intern. etc.). 6. 1 234 5. 1"
+            }
+          ]
+        ],
+        "num_cols": 2,
+        "num_rows": 3,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 187.1646525065104,
+              "coord_origin": "TOPLEFT",
+              "l": 182.48406982421875,
+              "r": 199.37315877278644,
+              "t": 126.82729085286458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Comentarii"
+          },
+          {
+            "bbox": {
+              "b": 184.42204793294272,
+              "coord_origin": "TOPLEFT",
+              "l": 325.45220947265625,
+              "r": 486.4877522786458,
+              "t": 122.51747639973958
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Comentarii Comentarii"
+          },
+          {
+            "bbox": {
+              "b": 345.06048583984375,
+              "coord_origin": "TOPLEFT",
+              "l": 178.9491424560547,
+              "r": 209.19240315755206,
+              "t": 280.41330973307294
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "Calificativul DA/NU"
+          },
+          {
+            "bbox": {
+              "b": 342.7096761067708,
+              "coord_origin": "TOPLEFT",
+              "l": 321.1317342122396,
+              "r": 496.6997477213542,
+              "t": 275.7116902669271
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Calificativul Calificativul DA/NU DA/NU"
+          },
+          {
+            "bbox": {
+              "b": 786.6202799479166,
+              "coord_origin": "TOPLEFT",
+              "l": 169.1299031575521,
+              "r": 303.8498738606771,
+              "t": 352.50469970703125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "Procesele-verbale ale ședințelor Consiliului profesoral și materialele Procesele-verbale ale ședințelor Consiliului de administrație și materialele Indicatori de evaluare (instituțiile de învățământ primar, gimnazial, liceal și îndosariate (rapoarte, note informative etc.) pentru anul de studii 2025-2026. Regulamentul de organizare și funcționare a instituției de învățământ. Planul anual de activitate al instituției de învăţământ. Planul de dezvoltare al instituției de învățământ. I. Managementul instituțional extraşcolar) 1 2 3 4 5."
+          },
+          {
+            "bbox": {
+              "b": 784.26953125,
+              "coord_origin": "TOPLEFT",
+              "l": 293.2450968424479,
+              "r": 519.4803873697917,
+              "t": 350.15391031901044
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Registrul de evidență a ordinelor și Mapa cu ordine cu referire la activitatea de bază (constituire comisii, inițiere/rezultatele monitorizării interne, excursii anexate (rapoarte, note informative etc.) pentru anul de studii 2025-2026. Registrul proceselor-verbale ale şedințelor Consiliilor de administrație. Registrul proceselor-verbale ale şedințelor Consiliului pedagogic. Indicatori de evaluare (instituțiile de învățământ preșcolar) Indicatori de evaluare (instituțiile de învățământ general) Statutul/Regulamentul de organizare și funcționare al IET. Raportul anual de activitate al instituției de învăţământ. II. Managementul resurselor umane Planul anual de activitate. Regulamentul intern. etc.). 6. 1 234 5. 1"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 51.445772148941955,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 157.21348924470428,
+            "r": 528.0634301061439,
+            "t": 809.5400872182614
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 344.1424560546875,
+                "coord_origin": "TOPLEFT",
+                "l": 231.037353515625,
+                "r": 251.50860595703125,
+                "t": 126.36155192057292
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Comentarii Calificativul"
+            },
+            {
+              "bbox": {
+                "b": 183.07122802734375,
+                "coord_origin": "TOPLEFT",
+                "l": 333.787353515625,
+                "r": 351.10919189453125,
+                "t": 123.60483805338542
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Comentarii"
+            }
+          ],
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 341.77956136067706,
+                "coord_origin": "TOPLEFT",
+                "l": 244.81608072916666,
+                "r": 361.73850504557294,
+                "t": 277.58736165364587
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Calificativul DA/NU DA/NU"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": ""
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 738.747314453125,
+                "coord_origin": "TOPLEFT",
+                "l": 75.14080429077148,
+                "r": 213.71551513671875,
+                "t": 359.50132242838544
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "Ordinul cu privire la desemnarea persoanei responsabile de evidența timpului Evaluarea semestrială/trimestrială. Regulament, criterii de evaluare, fişe de evaluare, ordine cu privire la acordarea sporului pentru performanță. Dosare personale. Fişele postului. Contractele individuale de muncă. SChe - phe ne n r ra e d2 Tabelele estimative a timpului de muncă pentru cadrele didactice. Tabelele de evidență a timpului de muncă (tabele de pontaj). Ordinele cu privire la personal. de muncă."
+            },
+            {
+              "bbox": {
+                "b": 786.399169921875,
+                "coord_origin": "TOPLEFT",
+                "l": 201.9051717122396,
+                "r": 365.67527262369794,
+                "t": 357.53224690755206
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Evidența cadrelor debutante (cadre didactice angajate prin repartizarea MEC). Indicatori de evaluare (instituțiile de învățământ primar, gimnazial, liceal) Indicatori de evaluare (instituțiile de învățământ preșcolar, extraşcolar) III. Monitorizarea și gestiunea exploatării și reparației edificiilor Starea sălii de festivități: calitatea reparației, amenajarea sălii Sa a aiat ai, as  a aili Starea teritoriului instituției de învățământ (amenajare) Executarea lucrărilor de reparație curentă Starea blocurilor sanitare"
+            },
+            {
+              "bbox": {
+                "b": 767.1021321614584,
+                "coord_origin": "TOPLEFT",
+                "l": 366.46262613932294,
+                "r": 415.6724039713542,
+                "t": 465.0443522135417
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "Starea teritoriului instituției de învățământ (amenajare) Starea pavilioanelor (instituțiile preşcolare) Executarea lucrărilor de reparație curentă 1 2i 3"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 791.91259765625,
+                "coord_origin": "TOPLEFT",
+                "l": 86.16379292805989,
+                "r": 215.29022216796875,
+                "t": 774.1908365885416
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3 4 5 6. 7"
+            },
+            {
+              "bbox": {
+                "b": 787.5806477864584,
+                "coord_origin": "TOPLEFT",
+                "l": 213.71551513671875,
+                "r": 366.46262613932294,
+                "t": 741.8977864583334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "NdI NIdI 8 1 2 3 4 5"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": ""
+            }
+          ]
+        ],
+        "num_cols": 3,
+        "num_rows": 4,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 344.1424560546875,
+              "coord_origin": "TOPLEFT",
+              "l": 231.037353515625,
+              "r": 251.50860595703125,
+              "t": 126.36155192057292
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Comentarii Calificativul"
+          },
+          {
+            "bbox": {
+              "b": 183.07122802734375,
+              "coord_origin": "TOPLEFT",
+              "l": 333.787353515625,
+              "r": 351.10919189453125,
+              "t": 123.60483805338542
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Comentarii"
+          },
+          {
+            "bbox": {
+              "b": 341.77956136067706,
+              "coord_origin": "TOPLEFT",
+              "l": 244.81608072916666,
+              "r": 361.73850504557294,
+              "t": 277.58736165364587
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Calificativul DA/NU DA/NU"
+          },
+          {
+            "bbox": {
+              "b": 738.747314453125,
+              "coord_origin": "TOPLEFT",
+              "l": 75.14080429077148,
+              "r": 213.71551513671875,
+              "t": 359.50132242838544
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "Ordinul cu privire la desemnarea persoanei responsabile de evidența timpului Evaluarea semestrială/trimestrială. Regulament, criterii de evaluare, fişe de evaluare, ordine cu privire la acordarea sporului pentru performanță. Dosare personale. Fişele postului. Contractele individuale de muncă. SChe - phe ne n r ra e d2 Tabelele estimative a timpului de muncă pentru cadrele didactice. Tabelele de evidență a timpului de muncă (tabele de pontaj). Ordinele cu privire la personal. de muncă."
+          },
+          {
+            "bbox": {
+              "b": 786.399169921875,
+              "coord_origin": "TOPLEFT",
+              "l": 201.9051717122396,
+              "r": 365.67527262369794,
+              "t": 357.53224690755206
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Evidența cadrelor debutante (cadre didactice angajate prin repartizarea MEC). Indicatori de evaluare (instituțiile de învățământ primar, gimnazial, liceal) Indicatori de evaluare (instituțiile de învățământ preșcolar, extraşcolar) III. Monitorizarea și gestiunea exploatării și reparației edificiilor Starea sălii de festivități: calitatea reparației, amenajarea sălii Sa a aiat ai, as  a aili Starea teritoriului instituției de învățământ (amenajare) Executarea lucrărilor de reparație curentă Starea blocurilor sanitare"
+          },
+          {
+            "bbox": {
+              "b": 767.1021321614584,
+              "coord_origin": "TOPLEFT",
+              "l": 366.46262613932294,
+              "r": 415.6724039713542,
+              "t": 465.0443522135417
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "Starea teritoriului instituției de învățământ (amenajare) Starea pavilioanelor (instituțiile preşcolare) Executarea lucrărilor de reparație curentă 1 2i 3"
+          },
+          {
+            "bbox": {
+              "b": 787.5806477864584,
+              "coord_origin": "TOPLEFT",
+              "l": 213.71551513671875,
+              "r": 366.46262613932294,
+              "t": 741.8977864583334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "NdI NIdI 8 1 2 3 4 5"
+          },
+          {
+            "bbox": {
+              "b": 791.91259765625,
+              "coord_origin": "TOPLEFT",
+              "l": 86.16379292805989,
+              "r": 215.29022216796875,
+              "t": 774.1908365885416
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3 4 5 6. 7"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 48.78070875623473,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.70335906265566,
+            "r": 414.2854746118328,
+            "t": 810.4364653906819
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 4
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/1"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se aprobă:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 425.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.66666666666666,
+            "r": 191.33333333333331,
+            "t": 438.34665666666666
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Se aprobă:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.1.",
+      "orig": "1.1. Evaluarea nivelului de pregătire a instituțiilor de învățământ general către debutul anului de studii 2026-2027, în perioada 18 - 21 august 2026;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 402.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.0,
+            "r": 533.3333333333333,
+            "t": 422.34665666666666
+          },
+          "charspan": [
+            0,
+            150
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "Evaluarea nivelului de pregătire a instituțiilor de învățământ general către debutul anului de studii 2026-2027, în perioada 18 - 21 august 2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2.",
+      "orig": "1.2. Indicatorii de evaluare a nivelului de pregătire a instituțiilor de învățământ general către debutul anului de studii 2026-2027, conform Anexei.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 371.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.33333333333333,
+            "r": 534.6666666666667,
+            "t": 390.34665666666666
+          },
+          "charspan": [
+            0,
+            149
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "Indicatorii de evaluare a nivelului de pregătire a instituțiilor de învățământ general către debutul anului de studii 2026-2027, conform Anexei."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Direcția management instituțional: 2.1 va solicita structurilor municipale delegarea reprezentanților în comisiile de evaluare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 312.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.66666666666667,
+            "r": 536.3333333333333,
+            "t": 356.67999
+          },
+          "charspan": [
+            0,
+            130
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Direcția management instituțional: 2.1 va solicita structurilor municipale delegarea reprezentanților în comisiile de evaluare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. va elabora Actul de evaluare în baza indicatorilor stabiliți în procesul de evaluare a instituțiilor.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 281.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333333,
+            "r": 537.3333333333333,
+            "t": 310.01332333333335
+          },
+          "charspan": [
+            0,
+            106
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "va elabora Actul de evaluare în baza indicatorilor stabiliți în procesul de evaluare a instituțiilor."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Conducătorii instituțiilor de învățământ și şefii DETS din sectoare, conform competențelor:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 246.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.66666666666667,
+            "r": 538.3333333333333,
+            "t": 276.67999
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Conducătorii instituțiilor de învățământ și şefii DETS din sectoare, conform competențelor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. vor asigura finalizarea, până la 17 august 2026, a lucrărilor de pregătire a instituțiilor de învățământ pentru anul de studii 20262027, utilizând în acest scop resursele materiale, financiare și umane necesare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 184.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 115.66666666666666,
+            "r": 541.3333333333333,
+            "t": 245.01332333333335
+          },
+          "charspan": [
+            0,
+            216
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "vor asigura finalizarea, până la 17 august 2026, a lucrărilor de pregătire a instituțiilor de învățământ pentru anul de studii 20262027, utilizând în acest scop resursele materiale, financiare și umane necesare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. vor asigura funcționalitatea instituțiilor de învățământ pe tot parcursul anului de studii 2026-2027, prin crearea condițiilor igienico-sanitare și prevenirea situațiilor de risc pentru viața și sănătatea copiilor și angajaților;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 122.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.33333333333334,
+            "r": 543.6666666666667,
+            "t": 182.34665666666672
+          },
+          "charspan": [
+            0,
+            234
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "vor asigura funcționalitatea instituțiilor de învățământ pe tot parcursul anului de studii 2026-2027, prin crearea condițiilor igienico-sanitare și prevenirea situațiilor de risc pentru viața și sănătatea copiilor și angajaților;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.3.",
+      "orig": "3.3. vor propune soluții pentru lichidarea lacunelor depistate în cadrul procesului de pregătire a instituțiilor de învăţământ către anul de studii 2026-2027.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 74.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 121.66666666666666,
+            "r": 545.3333333333333,
+            "t": 116.67998999999998
+          },
+          "charspan": [
+            0,
+            158
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "vor propune soluții pentru lichidarea lacunelor depistate în cadrul procesului de pregătire a instituțiilor de învăţământ către anul de studii 2026-2027."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIN NOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 707.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 274.33333333333337,
+            "r": 328.0,
+            "t": 713.3466566666666
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "PRIN NOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 692.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 202.66666666666666,
+            "r": 401.0,
+            "t": 702.67999
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 666.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 154.0,
+            "r": 473.3333333333333,
+            "t": 686.67999
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 612.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.33333333333333,
+            "r": 84.33333333333333,
+            "t": 625.0133233333333
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01/1/7/102/din030426",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 612.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.0,
+            "r": 303.66666666666663,
+            "t": 640.3466566666666
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "01/1/7/102/din030426"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la evaluarea nivelului de pregătire a instituțiilor de învățământ general către anul de studii 2026-2027",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 557.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.0,
+            "r": 342.3333333333333,
+            "t": 599.3466566666666
+          },
+          "charspan": [
+            0,
+            115
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Cu privire la evaluarea nivelului de pregătire a instituțiilor de învățământ general către anul de studii 2026-2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În scopul bunei organizări a procesului de pregătire a instituțiilor de învățământ general (preşcolar, şcolar și extraşcolar), către anul de studii 20262027,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 486.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.0,
+            "r": 531.0,
+            "t": 537.3466566666666
+          },
+          "charspan": [
+            0,
+            157
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "În scopul bunei organizări a procesului de pregătire a instituțiilor de învățământ general (preşcolar, şcolar și extraşcolar), către anul de studii 20262027,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 463.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 277.0,
+            "r": 336.6666666666667,
+            "t": 476.34665666666666
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Direcția managementul resurselor umane, va întreprinde măsuri de rigoare de comun acord cu conducătorii instituțiilor de învățământ în vederea asigurării instituțiilor cu cadre didactice.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 708.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.333333333333336,
+            "r": 519.0,
+            "t": 752.0133233333333
+          },
+          "charspan": [
+            0,
+            190
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Direcția managementul resurselor umane, va întreprinde măsuri de rigoare de comun acord cu conducătorii instituțiilor de învățământ în vederea asigurării instituțiilor cu cadre didactice."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Responsabili de executarea prevederilor prezentului ordin se desemnează șefii Direcțiilor educației tineret și sport din sectoare (I. Musteață, A. Votcariov, R. Spînu, V. Rău, E. Antoci), conducătorii instituțiilor de învățământ general, direcția management instituțional (D. Garbuz) și direcția managementul resurselor umane (V. Donțu).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 626.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 63.0,
+            "r": 522.0,
+            "t": 702.3466566666666
+          },
+          "charspan": [
+            0,
+            340
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Responsabili de executarea prevederilor prezentului ordin se desemnează șefii Direcțiilor educației tineret și sport din sectoare (I. Musteață, A. Votcariov, R. Spînu, V. Rău, E. Antoci), conducătorii instituțiilor de învățământ general, direcția management instituțional (D. Garbuz) și direcția managementul resurselor umane (V. Donțu)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Controlul realizării prevederilor prezentului ordin îi revine şefului adjunct al DGETS, dl Valentin Crudu.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 595.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.66666666666667,
+            "r": 523.3333333333333,
+            "t": 622.67999
+          },
+          "charspan": [
+            0,
+            109
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Controlul realizării prevederilor prezentului ordin îi revine şefului adjunct al DGETS, dl Valentin Crudu."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "adjunct DGETS ndrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 469.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 425.6666666666667,
+            "r": 528.3333333333334,
+            "t": 496.67999
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "adjunct DGETS ndrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CONSILIUL",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 478.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 364.3333333333333,
+            "r": 403.3333333333333,
+            "t": 490.34665666666666
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "CONSILIUL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "EDUCATIB",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 467.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 364.0,
+            "r": 407.6666666666667,
+            "t": 486.67999
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "EDUCATIB"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: D. Garbuz, 022 201608,",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 141.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 243.66666666666666,
+            "t": 153.67998999999998
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Ex.: D. Garbuz, 022 201608,"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 114.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 168.0,
+            "r": 468.0,
+            "t": 131.01332333333335
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anex la oro   6",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 518.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.0,
+            "r": 102.66666666666666,
+            "t": 799.67999
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Anex la oro   6"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Indicatorii de evaluare a nivelului de pregătire a instituțiilor de învățământ general privind pregătirea către debutul anului de studii 2026-2027",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.31776669270835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.28431383768718,
+            "r": 155.7757364908854,
+            "t": 654.9071425065104
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Indicatorii de evaluare a nivelului de pregătire a instituțiilor de învățământ general privind pregătirea către debutul anului de studii 2026-2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Registrul de evidență a sancțiunilor disciplinare și a mențiunilor.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.34462216145835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 510.8394775390625,
+            "r": 533.6201171875,
+            "t": 424.91989885416666
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Registrul de evidență a sancțiunilor disciplinare și a mențiunilor."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 55.843320078124975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 517.123779296875,
+            "r": 534.7984212239583,
+            "t": 73.0824965104166
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Comentarii",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 656.2458571061197,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 233.7930908203125,
+            "r": 251.50860595703125,
+            "t": 715.3184380794271
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Comentarii"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Comentarii",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 658.6087619726562,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 333.787353515625,
+            "r": 351.10919189453125,
+            "t": 718.0751519466146
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Comentarii"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Calificativul",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 497.5375339453125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 231.037353515625,
+            "r": 248.35919189453125,
+            "t": 562.1235528255208
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Calificativul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Calificativul",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 499.9004286393229,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 330.24424235026044,
+            "r": 347.9597574869792,
+            "t": 564.0926283463541
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "Calificativul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "DA/NU",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 506.5953342382812,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 244.81608072916666,
+            "r": 262.1379191080729,
+            "t": 553.8533908789062
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "DA/NU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "DA/NU",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 508.1705905859375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 344.4166666666667,
+            "r": 361.73850504557294,
+            "t": 555.4286675716146
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "DA/NU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ordinul cu privire la desemnarea persoanei responsabile de evidența timpului",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 102.93267554687498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.14080429077148,
+            "r": 101.12356313069662,
+            "t": 482.17866757161454
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Ordinul cu privire la desemnarea persoanei responsabile de evidența timpului"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Evidența cadrelor debutante (cadre didactice angajate prin repartizarea MEC).",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 105.2956312760416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 201.9051717122396,
+            "r": 227.88792928059897,
+            "t": 484.1477430924479
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Evidența cadrelor debutante (cadre didactice angajate prin repartizarea MEC)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Evaluarea semestrială/trimestrială. Regulament, criterii de evaluare, fişe de",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 104.9018324479166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 145.60919189453125,
+            "r": 169.62355550130206,
+            "t": 472.33322893229166
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Evaluarea semestrială/trimestrială. Regulament, criterii de evaluare, fişe de"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Indicatori de evaluare (instituțiile de învățământ primar, gimnazial, liceal)",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 103.72035458333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 239.6982625325521,
+            "r": 266.862060546875,
+            "t": 475.4837823177083
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Indicatori de evaluare (instituțiile de învățământ primar, gimnazial, liceal)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Indicatori de evaluare (instituțiile de învățământ preșcolar, extraşcolar)",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.05230445312498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 340.87355550130206,
+            "r": 365.67527262369794,
+            "t": 462.09397111979166
+          },
+          "charspan": [
+            0,
+            74
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Indicatori de evaluare (instituțiile de învățământ preșcolar, extraşcolar)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "III. Monitorizarea și gestiunea exploatării și reparației edificiilor",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 55.280820078124975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 217.65229288736978,
+            "r": 246.78448486328125,
+            "t": 449.8856377864583
+          },
+          "charspan": [
+            0,
+            69
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "III. Monitorizarea și gestiunea exploatării și reparației edificiilor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "evaluare, ordine cu privire la acordarea sporului pentru performanță.",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 104.11415341145835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 160.96263631184894,
+            "r": 184.1896464029948,
+            "t": 435.70822893229166
+          },
+          "charspan": [
+            0,
+            69
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "evaluare, ordine cu privire la acordarea sporului pentru performanță."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Dosare personale. Fişele postului. Contractele individuale de muncă.",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 104.9018324479166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 187.73275756835938,
+            "r": 213.71551513671875,
+            "t": 438.8587823177083
+          },
+          "charspan": [
+            0,
+            68
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Dosare personale. Fişele postului. Contractele individuale de muncă."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "SChe - phe ne n r ra e d2",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 103.72035458333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 131.43677775065106,
+            "r": 156.63218180338544,
+            "t": 428.6195245052083
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "SChe - phe ne n r ra e d2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Tabelele estimative a timpului de muncă pentru cadrele didactice.",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 104.11415341145835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.65804545084634,
+            "r": 141.6724090576172,
+            "t": 422.71225725260416
+          },
+          "charspan": [
+            0,
+            65
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "Tabelele estimative a timpului de muncă pentru cadrele didactice."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Starea sălii de festivități: calitatea reparației, amenajarea sălii",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 106.87090796874998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 278.67240397135413,
+            "r": 301.112060546875,
+            "t": 405.77813453125
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "Starea sălii de festivități: calitatea reparației, amenajarea sălii"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Tabelele de evidență a timpului de muncă (tabele de pontaj).",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 103.72035458333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 104.27298482259116,
+            "r": 127.8936767578125,
+            "t": 396.72031389322916
+          },
+          "charspan": [
+            0,
+            60
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "Tabelele de evidență a timpului de muncă (tabele de pontaj)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Sa a aiat ai, as  a aili",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.26470679687498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 293.6321818033854,
+            "r": 315.28448486328125,
+            "t": 383.33054338541666
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "Sa a aiat ai, as  a aili"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Starea teritoriului instituției de învățământ (amenajare)",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.65850562499998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 321.9770100911458,
+            "r": 343.62929280598956,
+            "t": 375.06040178385416
+          },
+          "charspan": [
+            0,
+            57
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "Starea teritoriului instituției de învățământ (amenajare)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Starea teritoriului instituției de învățământ (amenajare)",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.05230445312498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 379.0603434244792,
+            "r": 401.1063232421875,
+            "t": 376.6356377864583
+          },
+          "charspan": [
+            0,
+            57
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "Starea teritoriului instituției de învățământ (amenajare)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Starea pavilioanelor (instituțiile preşcolare)",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.83998348958335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 395.5948079427083,
+            "r": 415.6724039713542,
+            "t": 321.10743954427073
+          },
+          "charspan": [
+            0,
+            46
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "Starea pavilioanelor (instituțiile preşcolare)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Executarea lucrărilor de reparație curentă",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 106.4770277604166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 266.4683837890625,
+            "r": 286.54597981770837,
+            "t": 310.47438290364573
+          },
+          "charspan": [
+            0,
+            42
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "Executarea lucrărilor de reparație curentă"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Executarea lucrărilor de reparație curentă",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.44618466145835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 366.46262613932294,
+            "r": 386.54022216796875,
+            "t": 312.4434584244792
+          },
+          "charspan": [
+            0,
+            42
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "Executarea lucrărilor de reparație curentă"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ordinele cu privire la personal.",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 104.9018324479166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 179.85919189453125,
+            "r": 198.362060546875,
+            "t": 257.7028578385416
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "Ordinele cu privire la personal."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Starea blocurilor sanitare",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.65850562499998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 312.13505045572913,
+            "r": 329.06321207682294,
+            "t": 233.6800306901041
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "Starea blocurilor sanitare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "de muncă.",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 104.11415341145835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.36781565348306,
+            "r": 112.93390401204428,
+            "t": 156.09804013020835
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "de muncă."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "NdI",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 59.612851328124975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 250.32757568359375,
+            "r": 266.4683837890625,
+            "t": 99.7822035416666
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "NdI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "NIdI",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 56.06849911458335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 349.92816162109375,
+            "r": 366.46262613932294,
+            "t": 95.4501722916666
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "NIdI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 74.9716566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 373.54884847005206,
+            "r": 386.93389892578125,
+            "t": 91.11822242187498
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2i",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 74.5778578385416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 385.35919189453125,
+            "r": 401.8936767578125,
+            "t": 90.7243422135416
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "2i"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "3",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 74.9716566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 400.31894938151044,
+            "r": 415.6724039713542,
+            "t": 91.11822242187498
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "3",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 49.767392343749975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.16379292805989,
+            "r": 101.91091918945312,
+            "t": 65.91387671874998
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "4",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 52.13026669270835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 142.8534444173177,
+            "r": 156.63218180338544,
+            "t": 67.09535458333335
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "4"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "5",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 53.705543385416604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 153.87643432617188,
+            "r": 173.16666666666669,
+            "t": 65.12627906249998
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "5"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "6.",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 53.705543385416604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 184.58333333333331,
+            "r": 199.54310099283853,
+            "t": 67.48915341145835
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "6."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "7",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 54.887021249999975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 197.57470703125,
+            "r": 215.29022216796875,
+            "t": 65.91387671874998
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "7"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "8",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 54.099342213541604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 213.71551513671875,
+            "r": 227.88792928059897,
+            "t": 68.2768324479166
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "8"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 55.674618906249975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 275.12931315104163,
+            "r": 286.93965657552087,
+            "t": 69.8520277604166
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 54.887021249999975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 285.75860595703125,
+            "r": 303.8678181966146,
+            "t": 69.0644301041666
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "3",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 56.06849911458335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 298.3563232421875,
+            "r": 317.64654541015625,
+            "t": 69.0644301041666
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "4",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 55.674618906249975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 315.67816162109375,
+            "r": 330.24424235026044,
+            "t": 70.24590796874998
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "4"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "5",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 56.46229794270835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 329.45688883463544,
+            "r": 344.4166666666667,
+            "t": 70.63970679687498
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "5"
+    }
+  ],
+  "version": "1.10.0"
+}

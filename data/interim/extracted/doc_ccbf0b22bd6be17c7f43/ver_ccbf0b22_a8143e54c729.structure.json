@@ -1,0 +1,1688 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/groups/3"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/pictures/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "922ac3b9bfbacc908da991c8e1e0cd133382bde7fab02e414e7d62e782ac325c",
+  "origin": {
+    "binary_hash": 5655785453516501596,
+    "filename": "922ac3b9bfbacc908da991c8e1e0cd133382bde7fab02e414e7d62e782ac325c.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 596.0
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 842.0,
+        "width": 596.0
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 842.0,
+        "width": 596.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 711.8569641113281,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 264.8829650878906,
+            "r": 372.08477783203125,
+            "t": 781.8571968078613
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.8796997070312,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 104.996337890625,
+            "r": 308.1100158691406,
+            "t": 655.795654296875
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 180.54693603515625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 145.1315460205078,
+            "r": 280.6436767578125,
+            "t": 216.75775146484375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 153.8983154296875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 372.94439697265625,
+            "r": 529.5675659179688,
+            "t": 267.36285400390625
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FEINNCIENSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 716.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 294.0,
+            "r": 342.66666666666663,
+            "t": 721.3333333333334
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FEINNCIENSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 697.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 226.0,
+            "r": 411.3333333333333,
+            "t": 711.6666666666667
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 668.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 192.66666666666669,
+            "r": 464.0,
+            "t": 698.0
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01/",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 633.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.33333333333333,
+            "r": 146.0,
+            "t": 651.3333333333334
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "01/"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 629.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 203.0,
+            "r": 221.33333333333331,
+            "t": 644.6666666666666
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "din"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 631.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.0,
+            "r": 118.33333333333333,
+            "t": 640.0
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 589.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 297.66666666666663,
+            "r": 356.6666666666667,
+            "t": 603.0
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref: Organizarea și desfășurarea examenelor naționale de absolvire a gimnaziului, în regim de externat, sesiunea 2026",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 546.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.33333333333333,
+            "r": 444.3333333333333,
+            "t": 575.6666666666667
+          },
+          "charspan": [
+            0,
+            117
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Ref: Organizarea și desfășurarea examenelor naționale de absolvire a gimnaziului, în regim de externat, sesiunea 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Întru realizarea prevederilor Regulamentului cu privire la examenele nai t t   it t     a VII, secțiunea 1,2), în scopul asigurării condițiilor optime pentru desfáșurarea examenelor naționale de absolvire a gimnaziului și susținerea acestora de către candidați în sesiunea 2026,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 454.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 104.66666666666667,
+            "r": 549.0,
+            "t": 532.0
+          },
+          "charspan": [
+            0,
+            278
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Întru realizarea prevederilor Regulamentului cu privire la examenele nai t t   it t     a VII, secțiunea 1,2), în scopul asigurării condițiilor optime pentru desfáșurarea examenelor naționale de absolvire a gimnaziului și susținerea acestora de către candidați în sesiunea 2026,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 425.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 300.33333333333337,
+            "r": 353.6666666666667,
+            "t": 439.0
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se aprobă Centrul de susținere a examenelor de absolvire a gimnaziului în regim de externat, Instituția Publică Liceul Teoretic cu Frecvență Redusă nr. 1 (str. Korolenco, 1).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 378.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.33333333333333,
+            "r": 548.3333333333333,
+            "t": 423.66666666666663
+          },
+          "charspan": [
+            0,
+            177
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Se aprobă Centrul de susținere a examenelor de absolvire a gimnaziului în regim de externat, Instituția Publică Liceul Teoretic cu Frecvență Redusă nr. 1 (str. Korolenco, 1)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Directorul Instituției Publice Liceul Teoretic cu Frecvență Redusă nr.1 (N. Cojocari):",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 348.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.0,
+            "r": 548.3333333333333,
+            "t": 379.33333333333337
+          },
+          "charspan": [
+            0,
+            89
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Directorul Instituției Publice Liceul Teoretic cu Frecvență Redusă nr.1 (N. Cojocari):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. va aproba componența nominală a Comisiei instituționale de organizare a examenelor de absolvire a gimnaziului pentru candidații externi;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 319.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.0,
+            "r": 550.0,
+            "t": 348.0
+          },
+          "charspan": [
+            0,
+            141
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "va aproba componența nominală a Comisiei instituționale de organizare a examenelor de absolvire a gimnaziului pentru candidații externi;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. va organiza susținerea examenelor de absolvire a gimnaziului, în regim de externat, pentru candidații care au atins vârsta de 16 ani și au însușit, în mod individual, conținutul curricular pentru nivelul de învățământ respectiv;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 274.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.33333333333333,
+            "r": 549.0,
+            "t": 317.33333333333326
+          },
+          "charspan": [
+            0,
+            233
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "va organiza susținerea examenelor de absolvire a gimnaziului, în regim de externat, pentru candidații care au atins vârsta de 16 ani și au însușit, în mod individual, conținutul curricular pentru nivelul de învățământ respectiv;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.3.",
+      "orig": "2.3. va primi cererile (modelul în anexă) candidaților pentru susținerea examenelor de absolvire a gimnaziului, în regim de externat, în perioada 12.01.202613.02.2026, la care se anexează situația școlară a ultimului an de studii și copia actului de identitate;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 213.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.66666666666667,
+            "r": 550.3333333333333,
+            "t": 272.33333333333326
+          },
+          "charspan": [
+            0,
+            261
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "va primi cererile (modelul în anexă) candidaților pentru susținerea examenelor de absolvire a gimnaziului, în regim de externat, în perioada 12.01.202613.02.2026, la care se anexează situația școlară a ultimului an de studii și copia actului de identitate;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.4.",
+      "orig": "2.4. va organiza în perioada 03.03-24.04.2026 consultații și susținerea probelor de diferență de programă pentru certificarea gradului de însuşire a conținutului curricular la disciplinele prevăzute de Planul-cadru pentru învățământul gimnazial, anul de studii în curs, pentru ultima clasă de gimnaziu, cu excepția disciplinelor Educația fizică și Educația tehnologică;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 138.33333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.66666666666667,
+            "r": 550.3333333333333,
+            "t": 213.0
+          },
+          "charspan": [
+            0,
+            369
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "va organiza în perioada 03.03-24.04.2026 consultații și susținerea probelor de diferență de programă pentru certificarea gradului de însuşire a conținutului curricular la disciplinele prevăzute de Planul-cadru pentru învățământul gimnazial, anul de studii în curs, pentru ultima clasă de gimnaziu, cu excepția disciplinelor Educația fizică și Educația tehnologică;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.5.",
+      "orig": "2.5. va asigura condiții pentru candidați să beneficieze de servicile bibliotecii, cabinetelor, laboratoarelor instituției de învățământ respective;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 106.0,
+            "r": 549.3333333333333,
+            "t": 137.33333333333326
+          },
+          "charspan": [
+            0,
+            148
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "va asigura condiții pentru candidați să beneficieze de servicile bibliotecii, cabinetelor, laboratoarelor instituției de învățământ respective;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.6.",
+      "orig": "2.6. va elabora orarul probelor de diferență de programă pentru certificarea gradului de însuşire a conținutului curricular și va anunța candidații nu mai târziu decât cu 5 zile înainte de începutul acestora;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 744.8744964599609,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 103.06919860839844,
+            "r": 547.7723388671875,
+            "t": 798.9334678649902
+          },
+          "charspan": [
+            0,
+            208
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "va elabora orarul probelor de diferență de programă pentru certificarea gradului de însuşire a conținutului curricular și va anunța candidații nu mai târziu decât cu 5 zile înainte de începutul acestora;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.8.",
+      "orig": "2.8. va desfăşura Consiliul profesoral, care în baza rezultatelor obținute la probele de certificare a gradului de însuşire a conținutului curricular la disciplinele de studiu, decide admiterea candidatului la examenele de absolvire, cu condiția că candidatul a obținut la toate probele de diferență de programă o notă mai mare sau egală cu 5\" (cinci);",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 642.7631123860677,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.81026840209961,
+            "r": 543.8683268229167,
+            "t": 722.6149241129557
+          },
+          "charspan": [
+            0,
+            352
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "va desfăşura Consiliul profesoral, care în baza rezultatelor obținute la probele de certificare a gradului de însuşire a conținutului curricular la disciplinele de studiu, decide admiterea candidatului la examenele de absolvire, cu condiția că candidatul a obținut la toate probele de diferență de programă o notă mai mare sau egală cu 5\" (cinci);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.7.",
+      "orig": "2.7. va asigura susținerea, în scris, a unei probe de diferență de program pe zi, păstrându-se aceste probe în arhiva instituției de învățământ;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 711.3084716796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.29464340209961,
+            "r": 544.5781656901042,
+            "t": 753.7076619466146
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "va asigura susținerea, în scris, a unei probe de diferență de program pe zi, păstrându-se aceste probe în arhiva instituției de învățământ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.9.",
+      "orig": "2.9. va asigura remunerarea cadrelor didactice pentru desfășurarea consultațiilor și probelor de diferență pentru învățământul gimnazial din fondul de salarizare a cadrelor didactice din instituție;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 595.0640258789062,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.39062627156575,
+            "r": 541.7388509114583,
+            "t": 646.296376546224
+          },
+          "charspan": [
+            0,
+            198
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "va asigura remunerarea cadrelor didactice pentru desfășurarea consultațiilor și probelor de diferență pentru învățământul gimnazial din fondul de salarizare a cadrelor didactice din instituție;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Consiliul profesoral al Instituției Publice Liceul Teoretic cu Frecvență Redusă nr.1 va aproba decizia cu privire la absolvirea gimnaziului, în conformitate cu rezultatele examenelor.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 506.73236083984375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.19642893473308,
+            "r": 538.8995768229167,
+            "t": 555.1381225585938
+          },
+          "charspan": [
+            0,
+            186
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Consiliul profesoral al Instituției Publice Liceul Teoretic cu Frecvență Redusă nr.1 va aproba decizia cu privire la absolvirea gimnaziului, în conformitate cu rezultatele examenelor."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.10.",
+      "orig": "2.10. va asigura desfáşurarea examenelor de absolvire, în regim de externat, concomitent cu examenele de absolvire în învățământul gimnazial, conform orarului aprobat de către Ministerul Educației și Cercetării.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 545.9516194661458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.97098286946614,
+            "r": 539.2544759114583,
+            "t": 600.3639119466146
+          },
+          "charspan": [
+            0,
+            211
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "va asigura desfáşurarea examenelor de absolvire, în regim de externat, concomitent cu examenele de absolvire în învățământul gimnazial, conform orarului aprobat de către Ministerul Educației și Cercetării."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Directorul Instituției Publice Liceul Teoretic cu Frecvență Redusă nr.1, N. Cojocari, va consemna absolvirea în Registrul de evidență și va elibera Certificatul de studii gimnaziale absolvenților care au promovat examenele de absolvire a gimnaziului.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 445.960205078125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.77678680419922,
+            "r": 537.8348388671875,
+            "t": 509.55898030598956
+          },
+          "charspan": [
+            0,
+            253
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Directorul Instituției Publice Liceul Teoretic cu Frecvență Redusă nr.1, N. Cojocari, va consemna absolvirea în Registrul de evidență și va elibera Certificatul de studii gimnaziale absolvenților care au promovat examenele de absolvire a gimnaziului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.1.",
+      "orig": "5.1. va monitoriza procesul de organizare și desfășurare a examenelor de absolvire a gimnaziului, în regim de externat;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 397.2011311848958,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.35714340209961,
+            "r": 535.7053629557292,
+            "t": 432.8871256510417
+          },
+          "charspan": [
+            0,
+            119
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "va monitoriza procesul de organizare și desfășurare a examenelor de absolvire a gimnaziului, în regim de externat;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Direcția management curricular (S. Axînti, şef):",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 425.8205973307292,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.77678680419922,
+            "r": 361.08929443359375,
+            "t": 448.4334716796875
+          },
+          "charspan": [
+            0,
+            51
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Direcția management curricular (S. Axînti, şef):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.2.",
+      "orig": "5.2. va asigura constituirea bazei de date statistice cu referire la candidații la examenele de absolvire a gimnaziului, în regim de externat;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 363.9884440104167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.6473217010498,
+            "r": 534.6406656901042,
+            "t": 402.8543701171875
+          },
+          "charspan": [
+            0,
+            142
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "va asigura constituirea bazei de date statistice cu referire la candidații la examenele de absolvire a gimnaziului, în regim de externat;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Responsabil de realizarea prevederilor prezentului ordin se desemnează S. Axînti, şef al direcției management curricular și N. Cojocari, directorul Instituției Publice Liceul Teoretic cu Frecvență Redusă nr.1.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 290.49650065104163,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.22767893473308,
+            "r": 532.8660888671875,
+            "t": 341.7288411458333
+          },
+          "charspan": [
+            0,
+            212
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Responsabil de realizarea prevederilor prezentului ordin se desemnează S. Axînti, şef al direcției management curricular și N. Cojocari, directorul Instituției Publice Liceul Teoretic cu Frecvență Redusă nr.1."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.3.",
+      "orig": "5.3. va informa directorul Instituției Publice Liceul Teoretic cu Frecvență Redusă nr.1 cu conținutul prezentului ordin.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 337.1356201171875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.58258946736653,
+            "r": 534.2857259114583,
+            "t": 372.46826171875
+          },
+          "charspan": [
+            0,
+            120
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "va informa directorul Instituției Publice Liceul Teoretic cu Frecvență Redusă nr.1 cu conținutul prezentului ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Monitorizarea îndeplinirii prevederilor prezentului ordin revineV.Crudu, şef adjunct al DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 265.76363118489587,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.1629467010498,
+            "r": 533.575927734375,
+            "t": 298.26969401041674
+          },
+          "charspan": [
+            0,
+            97
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Monitorizarea îndeplinirii prevederilor prezentului ordin revineV.Crudu, şef adjunct al DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Ex.: S. Axînti,(022)235272",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 166.12552897135413,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.359375,
+            "r": 243.2589314778646,
+            "t": 183.43851725260413
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Ex.: S. Axînti,(022)235272"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Newell",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 184.14518229166663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 208.4776814778646,
+            "r": 283.71875,
+            "t": 216.6512451171875
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Newell"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "MV",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 183.085205078125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 147.43303934733075,
+            "r": 199.95982869466144,
+            "t": 206.05143229166663
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "MV"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Şef adjunct",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 210.29134114583337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 464.013427734375,
+            "r": 531.4464518229167,
+            "t": 228.66434733072913
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Şef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 185.20515950520837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 445.203125,
+            "r": 529.6719156901042,
+            "t": 201.8115234375
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, municipiul Chişinãu, MD-2704, Republica Moldova, Tel.: (022) 201 601,www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 113.12654622395837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 165.17857360839844,
+            "r": 447.6875,
+            "t": 142.09932454427087
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Str. Mitropolit Dosoftei, 99, municipiul Chişinãu, MD-2704, Republica Moldova, Tel.: (022) 201 601,www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexa",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 746.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 512.3333333333334,
+            "r": 547.6666666666666,
+            "t": 760.3333333333334
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Anexa"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Doamna/Domnule director,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 682.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 257.33333333333337,
+            "r": 388.0,
+            "t": 700.0
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Doamna/Domnule director,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Subsemnatul(a) numele, prenumele domiciliat(ă). adresa completă telefon instituția in care activează sau învață",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 537.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 429.0,
+            "t": 678.3333333333334
+          },
+          "charspan": [
+            0,
+            111
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Subsemnatul(a) numele, prenumele domiciliat(ă). adresa completă telefon instituția in care activează sau învață"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "rog să-mi aprobați înscrierea în lista candidaților la susținerea, în regim de externat, a examenelor de absolvire a gimnaziului.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 489.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.33333333333333,
+            "r": 538.6666666666667,
+            "t": 521.3333333333334
+          },
+          "charspan": [
+            0,
+            129
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "rog să-mi aprobați înscrierea în lista candidaților la susținerea, în regim de externat, a examenelor de absolvire a gimnaziului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "La cerere anexez (bifează):",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 452.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.33333333333333,
+            "r": 223.66666666666666,
+            "t": 469.66666666666663
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "La cerere anexez (bifează):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "orig": "□Copia buletinului de identitate",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 423.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 112.0,
+            "r": 274.0,
+            "t": 442.3333333333333
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "□Copia buletinului de identitate"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "orig": "Situația academică în original eliberată de instituția de învățământ",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 390.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.33333333333333,
+            "r": 434.6666666666667,
+            "t": 413.6666666666667
+          },
+          "charspan": [
+            0,
+            68
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Situația academică în original eliberată de instituția de învățământ"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "orig": "Copia certificatului de căsătorie (în caz de schimbare a numelui de familie)",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 403.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.66666666666667,
+            "r": 475.3333333333333,
+            "t": 428.0
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "Copia certificatului de căsătorie (în caz de schimbare a numelui de familie)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "checkbox_unselected",
+      "orig": "□ Certificat de confirmare a studiilor din instituția de învățământ care a eliberat documentul",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 371.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.33333333333333,
+            "r": 536.0,
+            "t": 399.6666666666667
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "□ Certificat de confirmare a studiilor din instituția de învățământ care a eliberat documentul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Data Semnătura",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 319.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.0,
+            "r": 114.66666666666666,
+            "t": 334.6666666666667
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 3
+        },
+        {
+          "bbox": {
+            "b": 314.33333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 257.0,
+            "r": 308.33333333333337,
+            "t": 330.0
+          },
+          "charspan": [
+            5,
+            14
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "Data Semnătura"
+    }
+  ],
+  "version": "1.10.0"
+}

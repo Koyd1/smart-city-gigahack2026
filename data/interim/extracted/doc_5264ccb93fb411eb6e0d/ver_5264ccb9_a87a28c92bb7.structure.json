@@ -1,0 +1,3273 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/tables/0"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        }
+      ],
+      "content_layer": "body",
+      "label": "unspecified",
+      "name": "rich_cell_group_1_0_0",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "2afc6542f2c4cf045c7fde4f57782e1d496299121f71c0e82bd2effb05fd417f",
+  "origin": {
+    "binary_hash": 3157850150156452223,
+    "filename": "2afc6542f2c4cf045c7fde4f57782e1d496299121f71c0e82bd2effb05fd417f.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.92,
+        "width": 595.2
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 595.5,
+        "width": 842.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 704.4036022108354,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 147.85853164980077,
+            "r": 214.72166477689808,
+            "t": 786.0732253122217
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 78.99816979197601,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 276.35715938286495,
+            "r": 358.5232104000629,
+            "t": 167.04504031509805
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/groups/2"
+        }
+      ],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": ""
+            }
+          ]
+        ],
+        "num_cols": 1,
+        "num_rows": 1,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "ref": {
+              "$ref": "#/groups/2"
+            },
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": ""
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 15.346306666431815,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 40.03782272338867,
+            "r": 802.4223022460938,
+            "t": 521.2813561586726
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Ministerul Educației și Cercetării al Republicii Moldova",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 670.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.33333333333333,
+            "r": 264.33333333333337,
+            "t": 697.5866666666666
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Ministerul Educației și Cercetării al Republicii Moldova"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 651.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 163.33333333333331,
+            "r": 200.66666666666669,
+            "t": 662.92
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "04.08.2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 633.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 103.66666666666667,
+            "r": 165.33333333333331,
+            "t": 646.5866666666666
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "04.08.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.1582",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 632.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 188.66666666666669,
+            "r": 238.66666666666666,
+            "t": 647.2533333333333
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "nr.1582"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "mun. Chişinău",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 615.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 148.0,
+            "r": 215.33333333333331,
+            "t": 628.2533333333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "mun. Chişinău"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la aprobarea Calendarului anului de studii 2026-2027 pentru învățământul preșcolar",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 542.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.66666666666667,
+            "r": 277.0,
+            "t": 581.5866666666666
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Cu privire la aprobarea Calendarului anului de studii 2026-2027 pentru învățământul preșcolar"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul prevederilor art.140, al. (2), al. (6), al. (7), al. (8) și al. (9) al Codului educației nr.152/2014 cu modificările ulterioare, pct. 9, subpct. 9.10. din Regulamentul cu privire la organizarea și funcționarea Ministerului Educației și Cercetării, aprobat prin Hotărârea Guvernului nr. 146/2021 cu modificările ulterioare și în vederea organizării procesului educațional în învățământul preşcolar, Ministrul educației și cercetării emite prezentul",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 447.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.0,
+            "r": 542.0,
+            "t": 523.92
+          },
+          "charspan": [
+            0,
+            458
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "În temeiul prevederilor art.140, al. (2), al. (6), al. (7), al. (8) și al. (9) al Codului educației nr.152/2014 cu modificările ulterioare, pct. 9, subpct. 9.10. din Regulamentul cu privire la organizarea și funcționarea Ministerului Educației și Cercetării, aprobat prin Hotărârea Guvernului nr. 146/2021 cu modificările ulterioare și în vederea organizării procesului educațional în învățământul preşcolar, Ministrul educației și cercetării emite prezentul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 420.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 296.0,
+            "r": 338.33333333333337,
+            "t": 431.5866666666666
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDIN:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.1",
+      "orig": "1.1 Calendarul anului de studii 2026-2027 în învățământul preşcolar, conform Anexei la prezentul ordin;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 363.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.66666666666667,
+            "r": 542.0,
+            "t": 389.58666666666664
+          },
+          "charspan": [
+            0,
+            103
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Calendarul anului de studii 2026-2027 în învățământul preşcolar, conform Anexei la prezentul ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se aprobă:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 389.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.0,
+            "r": 159.0,
+            "t": 402.91999999999996
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se aprobă:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2",
+      "orig": "1.2 aplicarea Planului-cadru pentru învățământul preşcolar, aprobat prin ordinul MEC nr. 1164/2025, cu modificările ulterioare, aprobate prin ordinul MEC nr. 1473/2026.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 336.58666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.66666666666667,
+            "r": 542.3333333333333,
+            "t": 363.58666666666664
+          },
+          "charspan": [
+            0,
+            168
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "aplicarea Planului-cadru pentru învățământul preşcolar, aprobat prin ordinul MEC nr. 1164/2025, cu modificările ulterioare, aprobate prin ordinul MEC nr. 1473/2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1",
+      "orig": "2.1 va aduce la cunoştință prevederile prezentului ordin Organelor locale de specialitate în domeniul învățământului;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 298.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.0,
+            "r": 541.6666666666667,
+            "t": 324.5866666666666
+          },
+          "charspan": [
+            0,
+            117
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "va aduce la cunoştință prevederile prezentului ordin Organelor locale de specialitate în domeniul învățământului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Direcția politici curriculare în învățământ general:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 324.25333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.0,
+            "r": 338.0,
+            "t": 337.2533333333333
+          },
+          "charspan": [
+            0,
+            55
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Direcția politici curriculare în învățământ general:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2",
+      "orig": "2.2 va monitoriza implementarea Planului-cadru de învățământ pentru învățământul preșcolar.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 284.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.33333333333333,
+            "r": 540.0,
+            "t": 298.25333333333333
+          },
+          "charspan": [
+            0,
+            91
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "va monitoriza implementarea Planului-cadru de învățământ pentru învățământul preșcolar."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1",
+      "orig": "3.1 vor aduce la cunoştința fondatorilor instituțiilor de învățământ preșcolar și instituțiilor de învățământ preşcolar de pe teritoriul unității administrativ-teritoriale prevederile prezentului ordin;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 233.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.0,
+            "r": 541.3333333333333,
+            "t": 272.91999999999996
+          },
+          "charspan": [
+            0,
+            202
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "vor aduce la cunoştința fondatorilor instituțiilor de învățământ preșcolar și instituțiilor de învățământ preşcolar de pe teritoriul unității administrativ-teritoriale prevederile prezentului ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Organele locale de specialitate în domeniul învățământului:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 271.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.66666666666667,
+            "r": 380.3333333333333,
+            "t": 285.91999999999996
+          },
+          "charspan": [
+            0,
+            62
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Organele locale de specialitate în domeniul învățământului:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2",
+      "orig": "3.2 vor monitoriza respectarea prevederilor prezentului ordin.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 220.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.33333333333333,
+            "r": 389.3333333333333,
+            "t": 233.5866666666666
+          },
+          "charspan": [
+            0,
+            62
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "vor monitoriza respectarea prevederilor prezentului ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul executări prezentului ordin se pune în sarcina doamneiValentina Olaru, Secretar de stat.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 156.25333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.66666666666667,
+            "r": 541.3333333333333,
+            "t": 182.91999999999996
+          },
+          "charspan": [
+            0,
+            101
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Controlul executări prezentului ordin se pune în sarcina doamneiValentina Olaru, Secretar de stat."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Aplicarea prezentului ordin se pune în sarcina Direcției politici curriculare în învățământul general, şefilor Organelor locale de specialitate în domeniul învățământului și conducătorilor instituțiilor de învățământ preşcolar.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 181.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.66666666666667,
+            "r": 541.6666666666667,
+            "t": 221.25333333333333
+          },
+          "charspan": [
+            0,
+            230
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Aplicarea prezentului ordin se pune în sarcina Direcției politici curriculare în învățământul general, şefilor Organelor locale de specialitate în domeniul învățământului și conducătorilor instituțiilor de învățământ preşcolar."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ministru Dan PERCIUN",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 117.25333333333322,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 188.33333333333331,
+            "r": 233.66666666666666,
+            "t": 129.91999999999996
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 1
+        },
+        {
+          "bbox": {
+            "b": 117.25333333333322,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 367.3333333333333,
+            "r": 443.3333333333333,
+            "t": 128.25333333333322
+          },
+          "charspan": [
+            9,
+            20
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Ministru Dan PERCIUN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Q",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 92.5866666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 263.33333333333337,
+            "r": 354.0,
+            "t": 146.25333333333322
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Q"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex: Zotea N., tel. 022-232443",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 77.5866666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.33333333333333,
+            "r": 194.66666666666669,
+            "t": 88.5866666666667
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Ex: Zotea N., tel. 022-232443"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexa la ordinul MEC nr. 1582 din 07.08.2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 548.1756009624639,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 604.68,
+            "r": 813.6010999999999,
+            "t": 557.6451
+          },
+          "charspan": [
+            0,
+            44
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Anexa la ordinul MEC nr. 1582 din 07.08.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "CALENDARUL ANULUI DE STUDII 2026-2027 ÎN ÎNVĂȚĂMÂNTUL PREȘCOLAR",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 528.1426656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 213.359,
+            "r": 628.6166000000001,
+            "t": 537.7251
+          },
+          "charspan": [
+            0,
+            63
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "CALENDARUL ANULUI DE STUDII 2026-2027 ÎN ÎNVĂȚĂMÂNTUL PREȘCOLAR"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Semestrul I",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 506.467736492891,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 391.44,
+            "r": 450.468,
+            "t": 516.874
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Semestrul I"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Septembrie",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 492.667736492891,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.12,
+            "r": 163.71194999999997,
+            "t": 503.074
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Septembrie"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Octombrie",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 492.667736492891,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 288.359,
+            "r": 343.59155,
+            "t": 503.074
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Octombrie"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Noiembrie",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 492.667736492891,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 486.6,
+            "r": 540.5130000000001,
+            "t": 503.074
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Noiembrie"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Decembrie",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 492.667736492891,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 672.6,
+            "r": 727.8333000000002,
+            "t": 503.074
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Decembrie"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ln Ma Mi Jo Vi Sâ Du",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 480.1366009624639,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.28,
+            "r": 213.84455,
+            "t": 489.60609999999997
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Ln Ma Mi Jo Vi Sâ Du"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ln MaMi Jo Vi Sâ Du",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 480.1366009624639,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 248.52,
+            "r": 392.88455,
+            "t": 489.60609999999997
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Ln MaMi Jo Vi Sâ Du"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ln Ma Mi Jo Vi Sâ Du",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 480.1366009624639,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 437.88,
+            "r": 589.4445499999999,
+            "t": 489.60609999999997
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Ln Ma Mi Jo Vi Sâ Du"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ln Ma Mi Jo Vi Sâ Du",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 480.1366009624639,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 635.28,
+            "r": 787.0845499999999,
+            "t": 489.60609999999997
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "Ln Ma Mi Jo Vi Sâ Du"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 467.5366009624639,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.359,
+            "r": 59.884,
+            "t": 477.0061
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1 23456",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 467.42366568720377,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.4,
+            "r": 208.32500000000002,
+            "t": 477.0061
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "1 23456"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "5",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 467.5366009624639,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 234.0,
+            "r": 239.525,
+            "t": 477.0061
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "5"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1 2 3 4",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 467.42366568720377,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 319.2,
+            "r": 390.125,
+            "t": 477.0061
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "1 2 3 4"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 467.42366568720377,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 576.0,
+            "r": 581.525,
+            "t": 477.0061
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 467.5366009624639,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 613.44,
+            "r": 624.48455,
+            "t": 477.0061
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "13"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1 23456",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 467.42366568720377,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 658.8,
+            "r": 779.165,
+            "t": 477.0061
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "1 23456"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2 7 8 9 10 11 12 13 6 5 6 7 8 9 10 11 9 2 3 4 5 6 7 8",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 454.70266568720376,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.359,
+            "r": 581.525,
+            "t": 464.2851
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "2 7 8 9 10 11 12 13 6 5 6 7 8 9 10 11 9 2 3 4 5 6 7 8"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "14 7 8 9 10 11 12 13",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 454.70266568720376,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 612.24,
+            "r": 784.68455,
+            "t": 464.2851
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "14 7 8 9 10 11 12 13"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "3 14 15 16 17 18 19 20 7 12 13 14 15 16 17 18 10 9 10 11 12 13 14 15",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 442.1026656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.359,
+            "r": 587.04455,
+            "t": 451.68510000000003
+          },
+          "charspan": [
+            0,
+            68
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "3 14 15 16 17 18 19 20 7 12 13 14 15 16 17 18 10 9 10 11 12 13 14 15"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "15 14 15 16 17 18 19 20",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 442.1026656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 612.24,
+            "r": 784.68455,
+            "t": 451.68510000000003
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "15 14 15 16 17 18 19 20"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "4 15 22 23 24 25 26 27 8 19 20 21 22 23 24 25 11 16 17 18 19 20 21 22",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 429.50266568720383,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.359,
+            "r": 587.04455,
+            "t": 439.0851
+          },
+          "charspan": [
+            0,
+            69
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "4 15 22 23 24 25 26 27 8 19 20 21 22 23 24 25 11 16 17 18 19 20 21 22"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "16 21 22 23 24 25 26 27",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 429.50266568720383,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 612.24,
+            "r": 784.68455,
+            "t": 439.0851
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "16 21 22 23 24 25 26 27"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "5 28 29 30",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 416.7826656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.359,
+            "r": 126.60355,
+            "t": 426.3651
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "5 28 29 30"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "26 27 28 29 30 31",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 416.7826656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 253.559,
+            "r": 373.80355,
+            "t": 426.3651
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "26 27 28 29 30 31"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "12 23 24 25 26 27 28 29",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 416.7826656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 416.04,
+            "r": 587.04455,
+            "t": 426.3651
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "12 23 24 25 26 27 28 29"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "28 29 30 31",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 416.7826656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 635.28,
+            "r": 719.16455,
+            "t": 426.3651
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "28 29 30 31"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Semestrul II",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 389.228736492891,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 389.159,
+            "r": 452.7477,
+            "t": 399.635
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "Semestrul II"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ianuarie",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 375.42873649289095,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 113.64,
+            "r": 157.7139,
+            "t": 385.835
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "Ianuarie"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Februarie",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 375.42873649289095,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 294.72,
+            "r": 345.99315,
+            "t": 385.835
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "Februarie"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Martie",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 375.42873649289095,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 500.52,
+            "r": 535.7142000000001,
+            "t": 385.835
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "Martie"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Aprilie",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 375.42873649289095,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 684.0,
+            "r": 720.0333000000003,
+            "t": 385.835
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "Aprilie"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ln Ma Mi Jo Vi Sâ Du",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 362.89560096246396,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.359,
+            "r": 217.92454999999998,
+            "t": 372.3651
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "Ln Ma Mi Jo Vi Sâ Du"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ln MaMi Jo Vi Sâ Du",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 362.89560096246396,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 254.159,
+            "r": 398.40355,
+            "t": 372.3651
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "Ln MaMi Jo Vi Sâ Du"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ln Ma Mi Jo Vi Sâ Du",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 362.89560096246396,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 442.68,
+            "r": 593.64455,
+            "t": 372.3651
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "Ln Ma Mi Jo Vi Sâ Du"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ln Ma Mi Jo Vi Sâ Du",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 362.89560096246396,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 637.44,
+            "r": 788.4035499999999,
+            "t": 372.3651
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "Ln Ma Mi Jo Vi Sâ Du"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1 2 3",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 350.1826656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 163.2,
+            "r": 212.405,
+            "t": 359.76509999999996
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "1 2 3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "20 1 2 3 4 5 6 7",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 350.1826656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 237.359,
+            "r": 395.525,
+            "t": 359.76509999999996
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "20 1 2 3 4 5 6 7"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1 2 34567",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 350.1826656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 446.04,
+            "r": 589.684,
+            "t": 359.76509999999996
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "1 2 34567"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "27",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 350.29560096246394,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 615.6,
+            "r": 626.64455,
+            "t": 359.76509999999996
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "27"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1 2 3 4",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 350.1826656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 709.559,
+            "r": 780.4839999999999,
+            "t": 359.76509999999996
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "1 2 3 4"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "4 5 6 7 8 9 10 21 8 9 10 11 12 13 14 24 8 9 10 11 12 13 14 28 5 6 7 8 9 10 11",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 337.46266568720375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.759,
+            "r": 786.0035499999999,
+            "t": 347.0451
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "4 5 6 7 8 9 10 21 8 9 10 11 12 13 14 24 8 9 10 11 12 13 14 28 5 6 7 8 9 10 11"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "17 11 12 13 14 15 16 17 22 15 16 17 18 19 20 21 25 15 16 17 18 19 20 21 29 12 13 14 15 16 17 18",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 324.0236656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.92,
+            "r": 786.0035499999999,
+            "t": 333.60609999999997
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "17 11 12 13 14 15 16 17 22 15 16 17 18 19 20 21 25 15 16 17 18 19 20 21 29 12 13 14 15 16 17 18"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "18 18 19 20 21 22 23 24 23 22 23 24 25 26 27 28 26 22 23 24 25 26 27 28 30 19 20 21 22 23 24 25",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 311.3026656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.92,
+            "r": 786.0035499999999,
+            "t": 320.88509999999997
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "18 18 19 20 21 22 23 24 23 22 23 24 25 26 27 28 26 22 23 24 25 26 27 28 30 19 20 21 22 23 24 25"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "19 25 26 27 28 29 30 31",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 298.7026656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.92,
+            "r": 217.92455,
+            "t": 308.28510000000006
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "19 25 26 27 28 29 30 31"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "27 29 30 31",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 298.7026656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 420.84,
+            "r": 503.16454999999996,
+            "t": 308.28510000000006
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "27 29 30 31"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "31 26 27 28 29 30",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 298.7026656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 615.6,
+            "r": 742.4445499999999,
+            "t": 308.28510000000006
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "31 26 27 28 29 30"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Mai",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 285.9826656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 126.48,
+            "r": 145.50025,
+            "t": 295.56510000000003
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "Mai"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ln Ma Mi Jo Vi Sâ Du",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 273.1366009624639,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.359,
+            "r": 217.92454999999998,
+            "t": 282.60609999999997
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "Ln Ma Mi Jo Vi Sâ Du"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1 2",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 260.3026656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 185.04,
+            "r": 212.405,
+            "t": 269.88509999999997
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "1 2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "34 56789",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 247.3426656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.759,
+            "r": 212.405,
+            "t": 256.92510000000004
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "34 56789"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "32 10 11 12 13 14 15 16",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 234.2636656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.92,
+            "r": 217.92455,
+            "t": 243.84609999999998
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "32 10 11 12 13 14 15 16"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "33 17 18 19 20 21 22 23",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 221.18266568720378,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.92,
+            "r": 217.92455,
+            "t": 230.76509999999996
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "33 17 18 19 20 21 22 23"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "34 24 25 26 27 28 29 30",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 208.1026656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.92,
+            "r": 217.92455,
+            "t": 217.68510000000003
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "34 24 25 26 27 28 29 30"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "31",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 195.14266568720382,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.759,
+            "r": 85.80355,
+            "t": 204.7251
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "31"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Durata anului de studii 2026-2027: 01 septembrie 2026 - 31 august 2027",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 169.8236656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.64,
+            "r": 402.3636499999999,
+            "t": 179.40610000000004
+          },
+          "charspan": [
+            0,
+            70
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/78",
+      "text": "Durata anului de studii 2026-2027: 01 septembrie 2026 - 31 august 2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Semestrul I: 01 septembrie - 24 decembrie 2026",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 157.22366568720378,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.64,
+            "r": 289.2036499999999,
+            "t": 166.80610000000001
+          },
+          "charspan": [
+            0,
+            46
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/79",
+      "text": "Semestrul I: 01 septembrie - 24 decembrie 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Semestrul II: 11 ianuarie - 31 mai 2027",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 144.50266568720377,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.64,
+            "r": 248.52365000000003,
+            "t": 154.0851
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/80",
+      "text": "Semestrul II: 11 ianuarie - 31 mai 2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Evaluarea și monitorizarea dezvoltării copiilor",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 169.8236656872038,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 642.0928999999999,
+            "t": 179.40610000000004
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/81",
+      "text": "Evaluarea și monitorizarea dezvoltării copiilor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Evaluarea inițială:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 154.22366568720378,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 510.43865,
+            "t": 163.80610000000001
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/82",
+      "text": "Evaluarea inițială:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "15 septembrie - 15 octombrie 2026",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 141.61560096246387,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 578.8836499999999,
+            "t": 151.0851
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/83",
+      "text": "15 septembrie - 15 octombrie 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Evaluarea formativă / monitorizarea:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 125.90266568720381,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 598.9948999999999,
+            "t": 135.4851
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/84",
+      "text": "Evaluarea formativă / monitorizarea:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "16 octombrie 2026 - 31 martie 2027 (grupele pregătitoare)",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 113.29560096246388,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 681.7978499999999,
+            "t": 122.76509999999996
+          },
+          "charspan": [
+            0,
+            57
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/85",
+      "text": "16 octombrie 2026 - 31 martie 2027 (grupele pregătitoare)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "16 octombrie 2026 - 14 aprilie 2027 (grupele I mică - mare)",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 100.69560096246391,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 690.9182999999999,
+            "t": 110.16510000000005
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/86",
+      "text": "16 octombrie 2026 - 14 aprilie 2027 (grupele I mică - mare)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Evaluarea finală:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 84.98266568720379,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 504.31964999999997,
+            "t": 94.56510000000003
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/87",
+      "text": "Evaluarea finală:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01-30 aprilie 2027 (grupele pregătitoare)",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 72.37660096246384,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 604.2774,
+            "t": 81.84609999999998
+          },
+          "charspan": [
+            0,
+            41
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/88",
+      "text": "01-30 aprilie 2027 (grupele pregătitoare)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "15 aprilie - 14 mai 2027 (grupele I mică - mare)",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 59.77660096246393,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 637.27685,
+            "t": 69.24610000000007
+          },
+          "charspan": [
+            0,
+            48
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/89",
+      "text": "15 aprilie - 14 mai 2027 (grupele I mică - mare)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Perioadele 11 - 31 mai 2027 (pentru grupele pregătitoare) și 17 - 31 mai 2027",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 44.05560096246393,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 768.0026499999999,
+            "t": 53.525100000000066
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/90",
+      "text": "Perioadele 11 - 31 mai 2027 (pentru grupele pregătitoare) și 17 - 31 mai 2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "(pentru grupele I mică - mare) sunt destinate recuperării eventualelor decalaje",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 31.455600962463905,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 766.7714499999997,
+            "t": 40.92510000000004
+          },
+          "charspan": [
+            0,
+            79
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/91",
+      "text": "(pentru grupele I mică - mare) sunt destinate recuperării eventualelor decalaje"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "în realizarea indicatorilor de dezvoltare, în funcție de progresul copiilor.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 18.855600962463882,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.759,
+            "r": 740.1598,
+            "t": 28.32510000000002
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/92",
+      "text": "în realizarea indicatorilor de dezvoltare, în funcție de progresul copiilor."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Durata perioadelor recreative în anul de studii 2026 - 2027",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 118.70266568720382,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.64,
+            "r": 345.12364999999994,
+            "t": 128.28510000000006
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/93",
+      "text": "Durata perioadelor recreative în anul de studii 2026 - 2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Perioadă recreativă de toamnă: 24 octombrie - 01 noiembrie 2026",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 93.38266568720377,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.64,
+            "r": 372.00364999999994,
+            "t": 102.9651
+          },
+          "charspan": [
+            0,
+            63
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/94",
+      "text": "Perioadă recreativă de toamnă: 24 octombrie - 01 noiembrie 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Perioadă recreativă intersemestrială (de iarnă): 25 decembrie 2026 -",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 80.78266568720369,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.64,
+            "r": 387.484,
+            "t": 90.36509999999998
+          },
+          "charspan": [
+            0,
+            68
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/95",
+      "text": "Perioadă recreativă intersemestrială (de iarnă): 25 decembrie 2026 -"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "10 ianuarie 2027",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 68.29560096246394,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.64,
+            "r": 142.56365000000002,
+            "t": 77.76510000000007
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/96",
+      "text": "10 ianuarie 2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Perioadă recreativă de primăvară: 01 - 08 martie 2027",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 55.46366568720373,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.64,
+            "r": 322.80364999999995,
+            "t": 65.04610000000002
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/97",
+      "text": "Perioadă recreativă de primăvară: 01 - 08 martie 2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Perioadă recreativă de Paști: 01 - 10 mai 2027",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 42.86266568720373,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.64,
+            "r": 284.2836499999999,
+            "t": 52.445100000000025
+          },
+          "charspan": [
+            0,
+            46
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/98",
+      "text": "Perioadă recreativă de Paști: 01 - 10 mai 2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Perioadă recreativă estivală: 01 iunie - 31 august 2027",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 30.142665687203703,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.64,
+            "r": 319.80364999999995,
+            "t": 39.7251
+          },
+          "charspan": [
+            0,
+            55
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/99",
+      "text": "Perioadă recreativă estivală: 01 iunie - 31 august 2027"
+    }
+  ],
+  "version": "1.10.0"
+}

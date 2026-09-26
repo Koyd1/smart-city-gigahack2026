@@ -1,0 +1,783 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "c9e8420e0799a060f6006feb564d083a98110a33696ec72c11062b697835cf06",
+  "origin": {
+    "binary_hash": 1226715680493391622,
+    "filename": "c9e8420e0799a060f6006feb564d083a98110a33696ec72c11062b697835cf06.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 712.7564392089844,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 261.08758544921875,
+            "r": 372.38714599609375,
+            "t": 787.0487022399902
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 598.6409149169922,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.40635681152344,
+            "r": 340.8613586425781,
+            "t": 644.1523132324219
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 95.574951171875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 372.61834716796875,
+            "r": 493.8533020019531,
+            "t": 218.8831787109375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 675.9269104003906,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 177.28570556640625,
+            "r": 475.1071370442708,
+            "t": 713.2419331868489
+          },
+          "charspan": [
+            0,
+            68
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "DIRECTIA GENERALÅ EDUCATIE, TINERET ŞISPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 657.8235880533854,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 154.03571065266925,
+            "r": 498.3571370442708,
+            "t": 679.9909261067708
+          },
+          "charspan": [
+            0,
+            43
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "DIRECTIA GENERALÅ EDUCATIE, TINERET ŞISPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 615.7056477864584,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.60714213053386,
+            "r": 106.79761759440103,
+            "t": 629.0060424804688
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "100426 din01/1-21475",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 604.2525227864584,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.89285532633464,
+            "r": 323.05950927734375,
+            "t": 646.3704630533854
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "100426 din01/1-21475"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la orgnizarea seminarului municipal pentru cadrele de conducere din instituțiile de învățământ primar și secundar, ciclul I și II",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 551.7898152669271,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.76190439860027,
+            "r": 315.30950927734375,
+            "t": 597.6023152669271
+          },
+          "charspan": [
+            0,
+            140
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Cu privire la orgnizarea seminarului municipal pentru cadrele de conducere din instituțiile de învățământ primar și secundar, ciclul I și II"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În vederea îmbunătățirii calitāții educației in sistemul de invățământ din municipiul Chişinău, precum și în scopul dezvoltării competentelor manageriale și financiare a cadrelor de conducere din instituțiile de învățământ primar și secundar, ciclul I și II.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 493.7852783203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.39285659790039,
+            "r": 558.142822265625,
+            "t": 543.6617838541666
+          },
+          "charspan": [
+            0,
+            258
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "În vederea îmbunătățirii calitāții educației in sistemul de invățământ din municipiul Chişinău, precum și în scopul dezvoltării competentelor manageriale și financiare a cadrelor de conducere din instituțiile de învățământ primar și secundar, ciclul I și II."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 469.03173828125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 296.1190388997396,
+            "r": 345.9404703776042,
+            "t": 483.8099772135417
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează la data de 15 aprilie 2026, ora 10:00, cu prezençă fizică, în incinta IPLT Petru Zadnipru\" (sectorul Ciocana, str. N. M. Spătaru, nr. 9/3), seminarul municipal pentru cadrele de conducere din instituțiile de invățământ primar și secundar, ciclul I și II, cu genericul Gestionarea finanțelor publice de către instituțiile de învătāmânt\", conform agendei (Anexa nr. 1).",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 391.446044921875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.33333269755046,
+            "r": 557.0356852213542,
+            "t": 463.4899088541667
+          },
+          "charspan": [
+            0,
+            385
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se organizează la data de 15 aprilie 2026, ora 10:00, cu prezençă fizică, în incinta IPLT Petru Zadnipru\" (sectorul Ciocana, str. N. M. Spătaru, nr. 9/3), seminarul municipal pentru cadrele de conducere din instituțiile de invățământ primar și secundar, ciclul I și II, cu genericul Gestionarea finanțelor publice de către instituțiile de învătāmânt\", conform agendei (Anexa nr. 1)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Participarea cadrelor de conducere din instituțiile de învătāmânt primar și secundar, ciclul I și II, este obligatorie.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 336.7666015625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.11904716491699,
+            "r": 554.8214111328125,
+            "t": 366.6925455729167
+          },
+          "charspan": [
+            0,
+            122
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Participarea cadrelor de conducere din instituțiile de învătāmânt primar și secundar, ciclul I și II, este obligatorie."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Directorul IPLT Petru Zadnipru (D. Barnaciuc) va asigura condiții optime pentru buna desfäşurare a activității de formare.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 362.9979654947917,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.11904716491699,
+            "r": 555.1904703776042,
+            "t": 394.7711588541667
+          },
+          "charspan": [
+            0,
+            125
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Directorul IPLT Petru Zadnipru (D. Barnaciuc) va asigura condiții optime pentru buna desfäşurare a activității de formare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Direcția managment instituțional (D.Garbuz, şefà):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 319.4022216796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.38095219930013,
+            "r": 344.4642740885417,
+            "t": 339.3528238932292
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Direcția managment instituțional (D.Garbuz, şefà):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2.",
+      "orig": "4.2. va asigura prezența cadrelor de conducere la seminar.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 291.69303385416674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.78571319580078,
+            "r": 396.86903889973956,
+            "t": 311.274169921875
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "va asigura prezența cadrelor de conducere la seminar."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.1.va informa cadrele de conducere despre organizarea activității de formare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 302.4072265625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.3095219930013,
+            "r": 497.6190185546875,
+            "t": 326.05240885416674
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "4.1.va informa cadrele de conducere despre organizarea activității de formare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Direcția management economico-financiar și evidența patrimoniului a DGETS (Sv. Ignatieva. şefà) va efectua finanțarea activității de formare, conform devizului de cheltueli (Anexa 2), in limita alocațiilor, prevăzute în bugetul DGETS, din Programul de activitäți și manifestāri educative, sportive și cultural-artistice al DGETS pentru anul2026.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 235.5357666015625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.33333269755046,
+            "r": 553.7142740885417,
+            "t": 297.97379557291674
+          },
+          "charspan": [
+            0,
+            348
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Direcția management economico-financiar și evidența patrimoniului a DGETS (Sv. Ignatieva. şefà) va efectua finanțarea activității de formare, conform devizului de cheltueli (Anexa 2), in limita alocațiilor, prevăzute în bugetul DGETS, din Programul de activitäți și manifestāri educative, sportive și cultural-artistice al DGETS pentru anul2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex. D.Garbuz, 022-20-16-08 Ex. D.Garbuz, 022-20-16-08",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 119.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.33333333333333,
+            "r": 200.33333333333334,
+            "t": 137.66666666666663
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Ex. D.Garbuz, 022-20-16-08 Ex. D.Garbuz, 022-20-16-08"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Monitorizarea realizārii prevederilor prezentului ordin revine V. Crudu, şefadjunct al DGETS.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 214.10734049479163,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.5952377319336,
+            "r": 553.34521484375,
+            "t": 243.29435221354163
+          },
+          "charspan": [
+            0,
+            96
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Monitorizarea realizārii prevederilor prezentului ordin revine V. Crudu, şefadjunct al DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Şef adjunet",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 175.31449381510413,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 494.297607421875,
+            "r": 552.2380777994792,
+            "t": 191.94002278645837
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Şef adjunet"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "rei PAVALOI",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 148.71370442708337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 481.75,
+            "r": 551.1309407552083,
+            "t": 163.86136881510413
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "rei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704. municipiul Chişinãu. Republica Moldova. Tel.: (022)201601. www.chisinauedu.md. c-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 70.758544921875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 164.7380879720052,
+            "r": 463.297607421875,
+            "t": 99.57609049479163
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704. municipiul Chişinãu. Republica Moldova. Tel.: (022)201601. www.chisinauedu.md. c-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

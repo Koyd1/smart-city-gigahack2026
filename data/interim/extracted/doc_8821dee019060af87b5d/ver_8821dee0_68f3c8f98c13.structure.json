@@ -1,0 +1,4334 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/88"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/texts/91"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/texts/93"
+      },
+      {
+        "$ref": "#/texts/94"
+      },
+      {
+        "$ref": "#/texts/95"
+      },
+      {
+        "$ref": "#/texts/96"
+      },
+      {
+        "$ref": "#/texts/97"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/101"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/groups/12"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/pictures/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/7"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/8"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/9"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/89"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/10"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/11"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/pictures/6"
+        },
+        {
+          "$ref": "#/texts/123"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/12"
+    }
+  ],
+  "key_value_items": [],
+  "name": "cc3a205218b24ba76f7acee51bd2d5c353f611a5ac5c374c3a5d72f95ac96570",
+  "origin": {
+    "binary_hash": 4205644042329482608,
+    "filename": "cc3a205218b24ba76f7acee51bd2d5c353f611a5ac5c374c3a5d72f95ac96570.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "5": {
+      "page_no": 5,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "6": {
+      "page_no": 6,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "7": {
+      "page_no": 7,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 750.0768555260653,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 256.9451063281578,
+            "r": 368.6767564381849,
+            "t": 823.6250564601265
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 591.1539031002757,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.52904639685714,
+            "r": 166.1946756462763,
+            "t": 614.3931906018869
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 138.4233840755428,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 323.4890487548009,
+            "r": 439.4242526163191,
+            "t": 279.0326436157161
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 724.1757611450726,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 336.8269182571309,
+            "r": 569.2309857996999,
+            "t": 837.4648153011093
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 30.401893230596556,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.539080887096844,
+            "r": 100.05183887507292,
+            "t": 142.61765121529834
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 6
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 694.9274210283222,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 397.7780667728706,
+            "r": 563.5691458027475,
+            "t": 811.0678552776432
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 7
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 13.619089547403291,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 156.50203423007224,
+            "r": 203.2934027734539,
+            "t": 96.00286701301411
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 7
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/6"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "101",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 767.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 269.66666666666663,
+            "r": 283.33333333333337,
+            "t": 775.0133233333333
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "101"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRINNOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 754.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 287.33333333333337,
+            "r": 339.0,
+            "t": 760.3466566666666
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "FRINNOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 733.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 211.0,
+            "r": 407.6666666666667,
+            "t": 749.3466566666666
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 691.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 143.0,
+            "r": 466.0,
+            "t": 730.67999
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 630.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 279.0,
+            "r": 343.6666666666667,
+            "t": 652.3466566666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nr01/+-y521",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 592.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.0,
+            "r": 168.0,
+            "t": 614.0133233333333
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Nr01/+-y521"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din 24. 104.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 592.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 177.33333333333334,
+            "r": 253.33333333333334,
+            "t": 610.3466566666666
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "din 24. 104."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea și desfáşurarea Concursului municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chişinău, ediția 2026",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 536.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.666666666666664,
+            "r": 337.6666666666667,
+            "t": 591.67999
+          },
+          "charspan": [
+            0,
+            207
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Cu privire la organizarea și desfáşurarea Concursului municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chişinău, ediția 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2026",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 590.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 270.66666666666663,
+            "r": 298.66666666666663,
+            "t": 606.0133233333333
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Întru executarea Dispoziției Primarului General al municipiului Chişinău nr. 435-d din 29.12.2025 Cu privire la aplicarea bugetului municipal provizoriu pe anul 2026\", ordinului DGETS nr. 01/1-7/29 din 14.01.2025,Cu privire la aplicarea Dispoziției Primarului General al mun. Chişinău nr. 435-d din 29.12.2025 și aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS pentru anul 2026, Programul 08 Cultura\", compartimentul Activități pentru copii și tineret\" (86.03/0813/00239), pct. 3 , aprilie, Legii nr. 397/2003 privind finanțele publice locale, Hotărârii Guvernului Nr. 1151 din 02.09.2002 despre aprobarea Regulamentului cu privire la normativele de cheltuieli pentru desfăşurarea conferințelor, simpozioanelor, festivalurilor etc. de către instituțiile publice finanțate de la bugetul public național, Hotărârii Guvernului nr. 1213 din 27.12.2010 privind aprobarea unor măsuri de susținere a activităților pentru tineret, ordinului DGETS nr. 01/1-7/275 din 03.03.25 Cu privire la punerea în aplicare a deciziei Consiliului de administrație nr. 3/1 din 28.02.2025 Cu privire la aprobarea Regulamentului privind modalitatea de acordare a premiilor pentru elevi/sportivi, cadre didactice/manageriale pentru performanțe în domeniu\", precum și în scopul cultivării și popularizării artei corale în mediul copiilor și tinerilor, sprijinirii formațiilor corale existente și înființarea colectivelor noi, creării posibilităților de creștere profesională a dirijorilor de cor și a schimbului de informații din domeniul muzicii corale,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 202.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.333333333333336,
+            "r": 566.3333333333334,
+            "t": 493.67999
+          },
+          "charspan": [
+            0,
+            1580
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Întru executarea Dispoziției Primarului General al municipiului Chişinău nr. 435-d din 29.12.2025 Cu privire la aplicarea bugetului municipal provizoriu pe anul 2026\", ordinului DGETS nr. 01/1-7/29 din 14.01.2025,Cu privire la aplicarea Dispoziției Primarului General al mun. Chişinău nr. 435-d din 29.12.2025 și aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS pentru anul 2026, Programul 08 Cultura\", compartimentul Activități pentru copii și tineret\" (86.03/0813/00239), pct. 3 , aprilie, Legii nr. 397/2003 privind finanțele publice locale, Hotărârii Guvernului Nr. 1151 din 02.09.2002 despre aprobarea Regulamentului cu privire la normativele de cheltuieli pentru desfăşurarea conferințelor, simpozioanelor, festivalurilor etc. de către instituțiile publice finanțate de la bugetul public național, Hotărârii Guvernului nr. 1213 din 27.12.2010 privind aprobarea unor măsuri de susținere a activităților pentru tineret, ordinului DGETS nr. 01/1-7/275 din 03.03.25 Cu privire la punerea în aplicare a deciziei Consiliului de administrație nr. 3/1 din 28.02.2025 Cu privire la aprobarea Regulamentului privind modalitatea de acordare a premiilor pentru elevi/sportivi, cadre didactice/manageriale pentru performanțe în domeniu\", precum și în scopul cultivării și popularizării artei corale în mediul copiilor și tinerilor, sprijinirii formațiilor corale existente și înființarea colectivelor noi, creării posibilităților de creștere profesională a dirijorilor de cor și a schimbului de informații din domeniul muzicii corale,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 173.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 262.66666666666663,
+            "r": 321.3333333333333,
+            "t": 189.34665666666672
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se lansează activitatea extraşcolară – Concursul municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chişinău, ediția 2026, începând cu data de 27 aprilie 2026.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.333333333333336,
+            "r": 565.3333333333334,
+            "t": 158.67998999999998
+          },
+          "charspan": [
+            0,
+            243
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Se lansează activitatea extraşcolară – Concursul municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chişinău, ediția 2026, începând cu data de 27 aprilie 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Direcția managementul învățământului extraşcolar, tineret și sport (Silvia ButucCanațui) va:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 63.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.333333333333336,
+            "r": 564.3333333333334,
+            "t": 95.67998999999998
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Direcția managementul învățământului extraşcolar, tineret și sport (Silvia ButucCanațui) va:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. organiza și desfăşura în data de 20 mai 2026 în mun. Chişinău, ora 13.30, în incinta Liceului Teoretic Antioh Cantemir\" (director - Iurie Rexa), Sala de Festivități, Concursul",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 26.346656666666718,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.333333333333336,
+            "r": 565.0,
+            "t": 64.34665666666672
+          },
+          "charspan": [
+            0,
+            180
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "organiza și desfăşura în data de 20 mai 2026 în mun. Chişinău, ora 13.30, în incinta Liceului Teoretic Antioh Cantemir\" (director - Iurie Rexa), Sala de Festivități, Concursul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chişinău, ediția 2026;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 772.1678923234049,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.357421239217125,
+            "r": 566.2827555338541,
+            "t": 806.4153727158609
+          },
+          "charspan": [
+            0,
+            154
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chişinău, ediția 2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.3.",
+      "orig": "2.3. disemina informația referitor la activitate în mediul instituțional;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 707.1322706803385,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.010850270589195,
+            "r": 445.6759847005208,
+            "t": 725.8127109472656
+          },
+          "charspan": [
+            0,
+            73
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "disemina informația referitor la activitate în mediul instituțional;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. colabora cu conducătorii instituțiilor de învățământ primar, secundar ciclul I, II şi extrașcolar din municipiul Chişinău în vederea asigurării participării colectivelor corale în concurs;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 725.1208469335937,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.664279301961265,
+            "r": 566.6293131510416,
+            "t": 773.8975625301107
+          },
+          "charspan": [
+            0,
+            193
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "colabora cu conducătorii instituțiilor de învățământ primar, secundar ciclul I, II şi extrașcolar din municipiul Chişinău în vederea asigurării participării colectivelor corale în concurs;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.4.",
+      "orig": "2.4. emite ordinul de instituire a Comisiei de jurizare a concursului din cadrul specialiştilor din domeniul;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 676.6900608007812,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.664279301961265,
+            "r": 566.2827555338541,
+            "t": 708.8619459733072
+          },
+          "charspan": [
+            0,
+            109
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "emite ordinul de instituire a Comisiei de jurizare a concursului din cadrul specialiştilor din domeniul;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se aprobă Regulamentul Concursului municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chișinău, ediția2026 (anexa nr.1);",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 610.9625827734375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.010850270589195,
+            "r": 565.589599609375,
+            "t": 659.047421640625
+          },
+          "charspan": [
+            0,
+            204
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Se aprobă Regulamentul Concursului municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chișinău, ediția2026 (anexa nr.1);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se aprobă formular de aplicare pentru înregistrare la Concursul municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chişinău, ediția 2026 (anexa nr.2);",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 547.3106866145833,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.317708333333336,
+            "r": 566.2827555338541,
+            "t": 596.0873996679687
+          },
+          "charspan": [
+            0,
+            234
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Se aprobă formular de aplicare pentru înregistrare la Concursul municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chişinău, ediția 2026 (anexa nr.2);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Administrația Liceului Teoretic Antioh Cantemir\"(director - Iurie Rexa) va asigura condițiile necesare și va contribui la buna organizare și derulare a Concursului municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chișinău, ediția2025 în data de 2D mai 2026.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 469.1295749609375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.971136728922524,
+            "r": 565.589599609375,
+            "t": 533.4733249609375
+          },
+          "charspan": [
+            0,
+            343
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Administrația Liceului Teoretic Antioh Cantemir\"(director - Iurie Rexa) va asigura condițiile necesare și va contribui la buna organizare și derulare a Concursului municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din mun. Chișinău, ediția2025 în data de 2D mai 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Se numește responsabil de organizarea și desfăşurarea activității Larisa Arhip, specialist principal, Direcția managementul învățământului extrașcolar, tineret și sport.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 418.9691338802083,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.971136728922524,
+            "r": 564.896484375,
+            "t": 453.9084649348958
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Se numește responsabil de organizarea și desfăşurarea activității Larisa Arhip, specialist principal, Direcția managementul învățământului extrașcolar, tineret și sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Secția Comunicare și Relații cu Publicul (Aliona Delinschi) va publica pe rețelele oficiale ale DGETS www.chisinauedu.dgets.md şi Facebook informația aferentă activității.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 370.1924004817708,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.317708333333336,
+            "r": 565.2430419921875,
+            "t": 405.8236260677083
+          },
+          "charspan": [
+            0,
+            174
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Secția Comunicare și Relații cu Publicul (Aliona Delinschi) va publica pe rețelele oficiale ale DGETS www.chisinauedu.dgets.md şi Facebook informația aferentă activității."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Responsabil de executarea prevederilor prezentului ordin se desemnează Silvia ButucCanațui, şef, Direcția managementul învățământului extrașcolar, tineret și sport, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 322.45350888020823,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.317708333333336,
+            "r": 565.589599609375,
+            "t": 357.7387872005208
+          },
+          "charspan": [
+            0,
+            174
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Responsabil de executarea prevederilor prezentului ordin se desemnează Silvia ButucCanațui, şef, Direcția managementul învățământului extrașcolar, tineret și sport, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Monitorizarea executării prevederilor prezentului ordin revine dlui Valentin Crudu, șef adjunct al DGETS",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 279.90358212239585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.277994791666664,
+            "r": 566.6293131510416,
+            "t": 311.037656015625
+          },
+          "charspan": [
+            0,
+            107
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Monitorizarea executării prevederilor prezentului ordin revine dlui Valentin Crudu, șef adjunct al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex. Larisa Arhip,",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 170.24244930989585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.317708333333336,
+            "r": 130.29622395833331,
+            "t": 184.4257582291666
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Ex. Larisa Arhip,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Tel.022-235177",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 158.8266371354166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.317708333333336,
+            "r": 128.216791788737,
+            "t": 172.31805152343748
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Tel.022-235177"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Andrei PAVALOI adjunct al DGETS",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 197.2253187760416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.109130859375,
+            "r": 535.7845052083333,
+            "t": 228.35939266927085
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Andrei PAVALOI adjunct al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 82.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 158.66666666666666,
+            "r": 458.6666666666667,
+            "t": 111.3466566666666
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "IUL",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 807.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 417.3333333333333,
+            "r": 424.6666666666667,
+            "t": 823.67999
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "IUL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr. 1 APROB: Andrei Pavaloi Şef adjunct al DGETS",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 725.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 436.0,
+            "r": 571.6666666666666,
+            "t": 789.67999
+          },
+          "charspan": [
+            0,
+            54
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Anexa nr. 1 APROB: Andrei Pavaloi Şef adjunct al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "10600",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 752.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 389.3333333333333,
+            "r": 412.3333333333333,
+            "t": 761.3466566666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "10600"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CHISI",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 752.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 424.0,
+            "r": 440.0,
+            "t": 767.3466566666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "CHISI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "R e g u l a m e n t u l",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 672.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 244.33333333333334,
+            "r": 378.6666666666667,
+            "t": 688.0133233333333
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "R e g u l a m e n t u l"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "de desfăşurare a Concursului municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar (ediția 2026)",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 637.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.33333333333333,
+            "r": 545.6666666666667,
+            "t": 671.0133233333333
+          },
+          "charspan": [
+            0,
+            165
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "de desfăşurare a Concursului municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar (ediția 2026)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "NOTIUNI GENERALE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 607.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 234.33333333333334,
+            "r": 381.3333333333333,
+            "t": 622.0133233333333
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "NOTIUNI GENERALE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Concursul municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din municipiul Chişinău este organizat de către Direcția generală educație, tineret și sport a Consiliului municipal Chișinău și se desfăşoară anual în perioada lunilor aprilie-mai, având ca temei Dispoziția Primarului General al municipiului Chişinău nr. 435-d din 29.12.2025 Cu privire la aplicarea bugetului municipal provizoriu pe anul 2026\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 495.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.0,
+            "r": 561.6666666666666,
+            "t": 594.0133233333333
+          },
+          "charspan": [
+            0,
+            478
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Concursul municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II și extraşcolar din municipiul Chişinău este organizat de către Direcția generală educație, tineret și sport a Consiliului municipal Chișinău și se desfăşoară anual în perioada lunilor aprilie-mai, având ca temei Dispoziția Primarului General al municipiului Chişinău nr. 435-d din 29.12.2025 Cu privire la aplicarea bugetului municipal provizoriu pe anul 2026\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "DGETS desfășoară activitățile în temeiul Regulamentului privind organizarea și funcționarea Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău, aprobat prin Decizia Consiliului Municipal Chișinău nr. 17/10 din 06.10.2020",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 446.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.666666666666664,
+            "r": 565.6666666666666,
+            "t": 496.01332333333335
+          },
+          "charspan": [
+            0,
+            248
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "DGETS desfășoară activitățile în temeiul Regulamentului privind organizarea și funcționarea Direcției generale educație, tineret și sport a Consiliului Municipal Chişinău, aprobat prin Decizia Consiliului Municipal Chișinău nr. 17/10 din 06.10.2020"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "OBIECTIVELE CONCURSULUI I.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 403.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 192.0,
+            "r": 424.66666666666663,
+            "t": 427.67999
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "OBIECTIVELE CONCURSULUI I."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Concursul municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, ciclul II şi extraşcolar îşi propune realizarea următoarelor obiective:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 342.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.0,
+            "r": 549.3333333333333,
+            "t": 388.0133233333333
+          },
+          "charspan": [
+            0,
+            186
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Concursul municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, ciclul II şi extraşcolar îşi propune realizarea următoarelor obiective:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "dezvoltarea și promovarea artei corale de amatori; evidențierea realizărilor obținute în dezvoltarea artei corale;",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 307.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.66666666666666,
+            "r": 452.6666666666667,
+            "t": 340.0133233333333
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "dezvoltarea și promovarea artei corale de amatori; evidențierea realizărilor obținute în dezvoltarea artei corale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "îmbogățirea repertoriului colectivelor corale cu cele mai noi creații din patrimoniul național și din clasica mondială;",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 260.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.0,
+            "r": 549.3333333333333,
+            "t": 293.3466566666666
+          },
+          "charspan": [
+            0,
+            119
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "îmbogățirea repertoriului colectivelor corale cu cele mai noi creații din patrimoniul național și din clasica mondială;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "promovarea culturii interpretative corale;",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 292.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.33333333333334,
+            "r": 341.6666666666667,
+            "t": 308.3466566666666
+          },
+          "charspan": [
+            0,
+            42
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "promovarea culturii interpretative corale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "valorificarea creației compozitorilor autohtoni și compozitorilor clasici în arta interpretativă corală;",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 230.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.66666666666666,
+            "r": 548.3333333333333,
+            "t": 262.01332333333335
+          },
+          "charspan": [
+            0,
+            104
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "valorificarea creației compozitorilor autohtoni și compozitorilor clasici în arta interpretativă corală;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "stimularea activității de creație a colectivelor corale din instituțiile deînvățământ primar, secundar, ciclul I, ciclul II și extraşcolar;",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 179.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.66666666666666,
+            "r": 548.3333333333333,
+            "t": 213.67998999999998
+          },
+          "charspan": [
+            0,
+            139
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "stimularea activității de creație a colectivelor corale din instituțiile deînvățământ primar, secundar, ciclul I, ciclul II și extraşcolar;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "educația patriotică a elevilor prin intermediul cântecului coral;",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 211.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.33333333333334,
+            "r": 465.3333333333333,
+            "t": 230.3466566666666
+          },
+          "charspan": [
+            0,
+            65
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "educația patriotică a elevilor prin intermediul cântecului coral;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "dezvoltarea și perfecționarea capacităților interpretative ale lucrărilor corale în unison și pe voci.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 148.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.33333333333334,
+            "r": 548.0,
+            "t": 181.3466566666666
+          },
+          "charspan": [
+            0,
+            102
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "dezvoltarea și perfecționarea capacităților interpretative ale lucrărilor corale în unison și pe voci."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "SCOPUL CONCURSULUI ⅡI.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 106.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 151.33333333333331,
+            "r": 362.6666666666667,
+            "t": 130.3466566666666
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "SCOPUL CONCURSULUI ⅡI."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scopul Concursului municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, ciclul II și extraşcolar constă în promovarea și dezvoltarea artei corale în rândul elevilor, prin valorificarea potențialului artistic și creativ al acestora, stimularea interesului pentru muzica corală și cultivarea gustului estetic.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 29.679989999999975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.333333333333336,
+            "r": 565.3333333333334,
+            "t": 97.3466566666666
+          },
+          "charspan": [
+            0,
+            359
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "Scopul Concursului municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, ciclul II și extraşcolar constă în promovarea și dezvoltarea artei corale în rândul elevilor, prin valorificarea potențialului artistic și creativ al acestora, stimularea interesului pentru muzica corală și cultivarea gustului estetic."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Concursul urmărește susținerea și încurajarea activităților cultural-artistice în instituțiile de învățământ, promovarea patrimoniului muzical național și universal, precum și consolidarea spiritului de colaborare, disciplină și expresie artistică în cadrul colectivelor corale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 740.0573398535156,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.088068644205734,
+            "r": 565.7571207682291,
+            "t": 805.4177251125082
+          },
+          "charspan": [
+            0,
+            277
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "Concursul urmărește susținerea și încurajarea activităților cultural-artistice în instituțiile de învățământ, promovarea patrimoniului muzical național și universal, precum și consolidarea spiritului de colaborare, disciplină și expresie artistică în cadrul colectivelor corale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "III. LOCUL ŞI MODUL DE ORGANIZARE A CONCURSULUI",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 693.808174000651,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 193.43323771158853,
+            "r": 501.7878824869792,
+            "t": 725.9150363867187
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "III. LOCUL ŞI MODUL DE ORGANIZARE A CONCURSULUI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Concursul municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, ciclul II și extraşcolar se desfăşoară anual, în lunile aprilie-mai.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.8300144140625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.81013298034668,
+            "r": 551.2012532552084,
+            "t": 676.2258477473958
+          },
+          "charspan": [
+            0,
+            183
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "Concursul municipal al colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, ciclul II și extraşcolar se desfăşoară anual, în lunile aprilie-mai."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Locul desfăşurării concursului va fi stabilit de către Direcția generală educație, tineret și sport a Consiliului municipal Chişinău și comunicat instituțiilor participante în timp util.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 594.4298068945312,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.81013298034668,
+            "r": 550.4351399739584,
+            "t": 628.8300144140625
+          },
+          "charspan": [
+            0,
+            186
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "Locul desfăşurării concursului va fi stabilit de către Direcția generală educație, tineret și sport a Consiliului municipal Chişinău și comunicat instituțiilor participante în timp util."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Colectivele corale vor evolua în baza ofertelor (cererilor de participare) prezentate în prealabil la DGETS, conform unui program/orar de evoluare aprobat și adus la cunoștința participanților.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 548.1806410416666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.427083333333336,
+            "r": 550.8181966145834,
+            "t": 596.3409397070312
+          },
+          "charspan": [
+            0,
+            193
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "Colectivele corale vor evolua în baza ofertelor (cererilor de participare) prezentate în prealabil la DGETS, conform unui program/orar de evoluare aprobat și adus la cunoștința participanților."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Participanții se vor prezenta la concurs în ținută scenică adecvată caracterului artistic al prestației sau în port național.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 514.5448988541666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.57623100280762,
+            "r": 549.6690266927084,
+            "t": 547.0339735611979
+          },
+          "charspan": [
+            0,
+            125
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "Participanții se vor prezenta la concurs în ținută scenică adecvată caracterului artistic al prestației sau în port național."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "IV. CONDITIILE DE PARTICIPARE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 481.6735813085937,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 143.25379435221356,
+            "r": 399.1306966145833,
+            "t": 498.4914727473958
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "IV. CONDITIILE DE PARTICIPARE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În cadrul concursului participă trei categorii de coruri:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 448.03781877604166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.81013298034668,
+            "r": 351.24953206380206,
+            "t": 467.1490655208333
+          },
+          "charspan": [
+            0,
+            57
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "În cadrul concursului participă trei categorii de coruri:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "corul mic;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 434.65997046875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.45407358805338,
+            "r": 140.57244873046875,
+            "t": 448.802304453125
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "corul mic;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· corul mediu;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 418.22434221354166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 62.81344858805339,
+            "r": 153.97916666666669,
+            "t": 433.5133233333333
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "corul mediu;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· corul mare.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 402.5531182552083,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 62.04734802246094,
+            "r": 146.70123291015625,
+            "t": 417.842099375
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "corul mare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Programul artistic al colectivelor corale va include în mod obligatoriu interpretarea pieselor a cappella\"(fără acompaniament instrumental).",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 369.2995782161458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.04403432210287,
+            "r": 550.0520833333334,
+            "t": 402.1709161067708
+          },
+          "charspan": [
+            0,
+            140
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "Programul artistic al colectivelor corale va include în mod obligatoriu interpretarea pieselor a cappella\"(fără acompaniament instrumental)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Cerințe privind repertoriul:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 354.01059709635416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.57623100280762,
+            "r": 214.1178995768229,
+            "t": 369.6818210546875
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "Cerințe privind repertoriul:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Corul mie – 3 piese la alegere, interpretate în unison și/sau cu elemente de două voci;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 321.13929989583323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.66429901123047,
+            "r": 550.4351399739584,
+            "t": 354.01059709635416
+          },
+          "charspan": [
+            0,
+            89
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "Corul mie – 3 piese la alegere, interpretate în unison și/sau cu elemente de două voci;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Corul mare – 4 piese la alegere, interpretate cu elemente de trei voci.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 269.9212416276041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 62.81344858805339,
+            "r": 475.7405192057292,
+            "t": 289.41469052083335
+          },
+          "charspan": [
+            0,
+            73
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "Corul mare – 4 piese la alegere, interpretate cu elemente de trei voci."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Corul mediu – 4 piese la alegere, interpretate la două voci și/sau cu elemente de trei voci;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 289.0324476822916,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.9015146891276,
+            "r": 550.4351399739584,
+            "t": 321.9037448828125
+          },
+          "charspan": [
+            0,
+            92
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "Corul mediu – 4 piese la alegere, interpretate la două voci și/sau cu elemente de trei voci;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Categorii de vârstă și componență:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 255.3967054947916,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.95928064982096,
+            "r": 256.2533162434896,
+            "t": 272.97902157552085
+          },
+          "charspan": [
+            0,
+            34
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "Categorii de vârstă și componență:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Corul mediu (elevii claselor V-IX) - până la 30–40 de participanți;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 220.61427548177085,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 63.19649759928386,
+            "r": 465.78125,
+            "t": 240.10772437499998
+          },
+          "charspan": [
+            0,
+            69
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "Corul mediu (elevii claselor V-IX) - până la 30–40 de participanți;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Corul mic (elevii claselor I–IV) − până la 30–40 de participanți;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 236.6677015885416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 62.81344858805339,
+            "r": 445.0965983072917,
+            "t": 256.92559546875
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "Corul mic (elevii claselor I–IV) − până la 30–40 de participanți;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Corul mare (elevii claselorX-XII) - până la 30 de participanți.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 204.94305152343748,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.13541666666666,
+            "r": 442.7982991536458,
+            "t": 223.67205542968748
+          },
+          "charspan": [
+            0,
+            63
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "Corul mare (elevii claselorX-XII) - până la 30 de participanți."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Studiourile muzicale pot participa în concurs cu colective corale constituite fără restricții de vârstă, evoluând într-o categorie separată față de colectivele corale din instituțiile de învățământ.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 161.3694838151041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.427083333333336,
+            "r": 550.8181966145834,
+            "t": 208.00087216145835
+          },
+          "charspan": [
+            0,
+            198
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "Studiourile muzicale pot participa în concurs cu colective corale constituite fără restricții de vârstă, evoluând într-o categorie separată față de colectivele corale din instituțiile de învățământ."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Repertoriul colectivelor corale va include lucrări din patrimoniul coral național și universal, atât din creația clasică, cât și contemporană.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 125.82256812499998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.04403432210287,
+            "r": 550.8181966145834,
+            "t": 160.22279598958335
+          },
+          "charspan": [
+            0,
+            142
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "Repertoriul colectivelor corale va include lucrări din patrimoniul coral național și universal, atât din creația clasică, cât și contemporană."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Durata evoluării:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 113.2092054947916,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.81013298034668,
+            "r": 150.14867146809894,
+            "t": 127.73370093749998
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "Durata evoluării:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· corul mic – până la 10 minute;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 95.2446058854166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 63.962595621744796,
+            "r": 254.72113037109375,
+            "t": 112.0624769791666
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "corul mic – până la 10 minute;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "corul mare – până la 20 de minute.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 62.755592213541604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.22017161051431,
+            "r": 277.7040812174479,
+            "t": 79.95562476562498
+          },
+          "charspan": [
+            0,
+            34
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "corul mare – până la 20 de minute."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "corul mediu – până la 15 minute;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 78.80897763020835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.45407358805338,
+            "r": 268.5108846028646,
+            "t": 96.3913344010416
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "corul mediu – până la 15 minute;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "V. JURIUL L CONCURSULUI",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 793.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 204.33333333333334,
+            "r": 409.33333333333337,
+            "t": 817.0133233333333
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "V. JURIUL L CONCURSULUI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Pentru evaluarea prestațiilor din cadrul concursului va fi constituit un juriu competent în domeniul muzicii corale, format din 3 persoane: un președinte și 2 membri.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 744.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.666666666666664,
+            "r": 552.0,
+            "t": 778.67999
+          },
+          "charspan": [
+            0,
+            166
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "Pentru evaluarea prestațiilor din cadrul concursului va fi constituit un juriu competent în domeniul muzicii corale, format din 3 persoane: un președinte și 2 membri."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Juriul va aprecia nivelul artistic al colectivelor participante, ținând cont de următoarele aspecte: măiestria interpretativă, originalitatea și cultura interpretativă, ținuta scenică şi vestimentația colectivului și a dirijorului, valoarea și diversitatea repertoriului, dinamica și expresivitatea interpretării, precum și corectitudinea alegerii lucrărilor în raport cu vârsta participanților.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 665.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.666666666666664,
+            "r": 552.0,
+            "t": 746.0133233333333
+          },
+          "charspan": [
+            0,
+            395
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "Juriul va aprecia nivelul artistic al colectivelor participante, ținând cont de următoarele aspecte: măiestria interpretativă, originalitatea și cultura interpretativă, ținuta scenică şi vestimentația colectivului și a dirijorului, valoarea și diversitatea repertoriului, dinamica și expresivitatea interpretării, precum și corectitudinea alegerii lucrărilor în raport cu vârsta participanților."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Programul prezentat în concurs trebuie să reflecte nivelul de pregătire al colectivului coral, prin diversitatea autorilor și a lucrărilor interpretate.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 630.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 46.333333333333336,
+            "r": 551.6666666666666,
+            "t": 665.0133233333333
+          },
+          "charspan": [
+            0,
+            152
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/78",
+      "text": "Programul prezentat în concurs trebuie să reflecte nivelul de pregătire al colectivului coral, prin diversitatea autorilor și a lucrărilor interpretate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Criterii de evaluare:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 601.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 47.0,
+            "r": 169.33333333333334,
+            "t": 615.67999
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/79",
+      "text": "Criterii de evaluare:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "prestația scenică;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 584.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.66666666666666,
+            "r": 179.66666666666666,
+            "t": 599.0133233333333
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/80",
+      "text": "prestația scenică;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "gradul de complexitate al lucrărilor;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 567.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333334,
+            "r": 285.0,
+            "t": 584.3466566666666
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/81",
+      "text": "gradul de complexitate al lucrărilor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "vestimentația și cultura scenică;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 553.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666666,
+            "r": 262.33333333333337,
+            "t": 568.3466566666666
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/82",
+      "text": "vestimentația și cultura scenică;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "numărul de participanți;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 537.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666666,
+            "r": 218.33333333333334,
+            "t": 552.67999
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/83",
+      "text": "numărul de participanți;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "diversitatea lucrărilor și a autorilor;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 521.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666666,
+            "r": 282.0,
+            "t": 537.0133233333333
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/84",
+      "text": "diversitatea lucrărilor și a autorilor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "corespunderea repertoriului cu vârsta artiștilor;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 489.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.0,
+            "r": 346.0,
+            "t": 505.34665666666666
+          },
+          "charspan": [
+            0,
+            49
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/85",
+      "text": "corespunderea repertoriului cu vârsta artiștilor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "originalitatea interpretării colectivului și/sau a solistului;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 504.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.33333333333334,
+            "r": 399.6666666666667,
+            "t": 521.3466566666666
+          },
+          "charspan": [
+            0,
+            62
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/86",
+      "text": "originalitatea interpretării colectivului și/sau a solistului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "maniera interpretativă a colectivului;",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 474.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333334,
+            "r": 290.0,
+            "t": 489.34665666666666
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/87",
+      "text": "maniera interpretativă a colectivului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Activitatea juriului va fi consemnată într-un proces-verbal, care va constitui temei pentru stabilirea rezultatelor și desemnarea câştigătorilor.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 425.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.666666666666664,
+            "r": 541.6666666666667,
+            "t": 458.67999
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/88",
+      "text": "Activitatea juriului va fi consemnată într-un proces-verbal, care va constitui temei pentru stabilirea rezultatelor și desemnarea câştigătorilor."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "maniera interpretativă a solistului (după caz).",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 457.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333334,
+            "r": 336.0,
+            "t": 474.34665666666666
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/89",
+      "text": "maniera interpretativă a solistului (după caz)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Membrii juriului vor fi contractați de către Direcția generală educație, tineret şi sport a Consiliului municipal Chişinău (DGETS), în baza contractelor de prestări servicii, pentru volumul de lucru stabilit, cu achitarea onorariului corespunzător.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 376.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.0,
+            "r": 548.3333333333333,
+            "t": 426.67999
+          },
+          "charspan": [
+            0,
+            248
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/90",
+      "text": "Membrii juriului vor fi contractați de către Direcția generală educație, tineret şi sport a Consiliului municipal Chişinău (DGETS), în baza contractelor de prestări servicii, pentru volumul de lucru stabilit, cu achitarea onorariului corespunzător."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VI. PREMIEREA ÎNVINGÅTORILOR",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 328.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.33333333333334,
+            "r": 399.6666666666667,
+            "t": 347.67999
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/91",
+      "text": "VI. PREMIEREA ÎNVINGÅTORILOR"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Regulamentul concursului prevede acordarea diplomelor și premiilor pentru locul I, II, III, mențiuni.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 282.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.666666666666664,
+            "r": 550.6666666666666,
+            "t": 313.67999
+          },
+          "charspan": [
+            0,
+            101
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/92",
+      "text": "Regulamentul concursului prevede acordarea diplomelor și premiilor pentru locul I, II, III, mențiuni."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Suma premiilor bănești va fi stabilită de către juriu, reieșind din suma disponibilă acordată de către DGETS pentru acțiunea respective, stipulată în anexa la acest regulament.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 236.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.333333333333336,
+            "r": 551.0,
+            "t": 282.67999
+          },
+          "charspan": [
+            0,
+            176
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/93",
+      "text": "Suma premiilor bănești va fi stabilită de către juriu, reieșind din suma disponibilă acordată de către DGETS pentru acțiunea respective, stipulată în anexa la acest regulament."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Juriul are dreptul să intervină cu modificări la modalitatea de repartizare a premiilor, reieșind din prestația artisitică și suma disponibilă.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 202.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.333333333333336,
+            "r": 549.6666666666666,
+            "t": 236.3466566666666
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/94",
+      "text": "Juriul are dreptul să intervină cu modificări la modalitatea de repartizare a premiilor, reieșind din prestația artisitică și suma disponibilă."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VII. CONFIRMAREA PARTICIPÅRII",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 153.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 143.66666666666669,
+            "r": 389.0,
+            "t": 173.3466566666666
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/95",
+      "text": "VII. CONFIRMAREA PARTICIPÅRII"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Oferta de participare și programul evoluării în cadrul concursului se prezintă completată până la 18.05.2026 la Direcția generală educație, tineret și sport a Consiliului municipal Chişinău, str. Mitropolit Dosoftei, 99, biroul nr.14, pe suport de hârtie cu semnătura și sigiliul corespunzător.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 72.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.0,
+            "r": 534.0,
+            "t": 140.01332333333335
+          },
+          "charspan": [
+            0,
+            294
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/96",
+      "text": "Oferta de participare și programul evoluării în cadrul concursului se prezintă completată până la 18.05.2026 la Direcția generală educație, tineret și sport a Consiliului municipal Chişinău, str. Mitropolit Dosoftei, 99, biroul nr.14, pe suport de hârtie cu semnătura și sigiliul corespunzător."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ordinea evoluării participanților va fi anunțată suplimentar în urmă perfectării ofertelor și stabilirii programului de evaluare.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 41.679989999999975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.666666666666664,
+            "r": 529.3333333333333,
+            "t": 76.01332333333335
+          },
+          "charspan": [
+            0,
+            129
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/97",
+      "text": "Ordinea evoluării participanților va fi anunțată suplimentar în urmă perfectării ofertelor și stabilirii programului de evaluare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VIII. DISPOZITII FINALE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 772.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 143.66666666666666,
+            "r": 330.33333333333337,
+            "t": 799.0133233333333
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/98",
+      "text": "VIII. DISPOZITII FINALE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Direcția generală educație, tineret și sport a Consiliului municipal Chişinău (DGETS) va publica rezultatele concursului pe site-ul oficial al instituției: www.chisinauedu.dgets.md și le va aduce la cunoștința administrațiilor instituțiilor de învățământ participante.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 683.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.333333333333336,
+            "r": 552.0,
+            "t": 756.3466566666666
+          },
+          "charspan": [
+            0,
+            268
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/99",
+      "text": "Direcția generală educație, tineret și sport a Consiliului municipal Chişinău (DGETS) va publica rezultatele concursului pe site-ul oficial al instituției: www.chisinauedu.dgets.md și le va aduce la cunoștința administrațiilor instituțiilor de învățământ participante."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "De asemenea, DGETS își rezervă dreptul de a mediatiza rezultatele concursului prin intermediul mijloacelor de informare și al platformelor instituționale.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 645.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.666666666666664,
+            "r": 551.3333333333334,
+            "t": 682.67999
+          },
+          "charspan": [
+            0,
+            154
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/100",
+      "text": "De asemenea, DGETS își rezervă dreptul de a mediatiza rezultatele concursului prin intermediul mijloacelor de informare și al platformelor instituționale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Larisa Arhip, specialist principal Tel.022-235177",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 141.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.0,
+            "r": 211.66666666666666,
+            "t": 170.01332333333335
+          },
+          "charspan": [
+            0,
+            49
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/101",
+      "text": "Larisa Arhip, specialist principal Tel.022-235177"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr. 2",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 794.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 515.0,
+            "r": 564.6666666666667,
+            "t": 805.0133233333333
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/102",
+      "text": "Anexa nr. 2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "APROB:",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 779.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 515.0,
+            "r": 564.0,
+            "t": 792.67999
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/103",
+      "text": "APROB:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ahndrei Pavaloi,",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 734.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 486.3333333333333,
+            "r": 563.0,
+            "t": 747.0133233333333
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/104",
+      "text": "Ahndrei Pavaloi,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "umet al DGETS",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 720.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 481.0,
+            "r": 563.3333333333333,
+            "t": 732.67999
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/105",
+      "text": "umet al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "FORMULAR DE APLICARE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 670.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 203.33333333333334,
+            "r": 413.0,
+            "t": 686.0133233333333
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/106",
+      "text": "FORMULAR DE APLICARE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "pentru Concursul municipal colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II şi extraşcolar din mun. Chișinău, ediția 2026 2D mai 2026Chişinău Liceul Teoretic Antioh Cantemir\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 600.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.333333333333336,
+            "r": 559.3333333333333,
+            "t": 650.3466566666666
+          },
+          "charspan": [
+            0,
+            220
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/107",
+      "text": "pentru Concursul municipal colectivelor corale ale elevilor din instituțiile de învățământ primar, secundar, ciclul I, II şi extraşcolar din mun. Chișinău, ediția 2026 2D mai 2026Chişinău Liceul Teoretic Antioh Cantemir\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Denumirea Instituției",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 537.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.333333333333336,
+            "r": 179.33333333333334,
+            "t": 554.3466566666666
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/108",
+      "text": "Denumirea Instituției"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Denumirea colectivului de cor",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 506.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.666666666666664,
+            "r": 229.66666666666666,
+            "t": 523.0133233333333
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/109",
+      "text": "Denumirea colectivului de cor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nr. de copii",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 474.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.0,
+            "r": 122.33333333333333,
+            "t": 492.0133233333333
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/110",
+      "text": "Nr. de copii"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Categoria cor (mare, mediu, mic, mixt)",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 443.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.333333333333336,
+            "r": 278.33333333333337,
+            "t": 460.0133233333333
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/111",
+      "text": "Categoria cor (mare, mediu, mic, mixt)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Program (denumirea pieselor și durata)",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 427.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.333333333333336,
+            "r": 279.66666666666663,
+            "t": 444.67999
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/112",
+      "text": "Program (denumirea pieselor și durata)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 356.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.666666666666664,
+            "r": 69.66666666666667,
+            "t": 373.3466566666666
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/113",
+      "text": "2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "3",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 319.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.0,
+            "r": 68.66666666666667,
+            "t": 336.01332333333335
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/114",
+      "text": "3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Solişti.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 282.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.0,
+            "r": 93.0,
+            "t": 301.01332333333323
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/115",
+      "text": "Solişti."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 267.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.66666666666667,
+            "r": 84.0,
+            "t": 284.3466566666667
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/116",
+      "text": "1."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 249.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.66666666666667,
+            "r": 83.66666666666666,
+            "t": 267.01332333333323
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/117",
+      "text": "2."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Conducător:",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 198.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.0,
+            "r": 122.66666666666667,
+            "t": 213.67998999999998
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/118",
+      "text": "Conducător:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "(nume, prenume, nr. de telefon, email)",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 181.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.0,
+            "r": 269.66666666666663,
+            "t": 198.01332333333323
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/119",
+      "text": "(nume, prenume, nr. de telefon, email)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Maestru de concert",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 134.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.0,
+            "r": 165.66666666666669,
+            "t": 150.01332333333323
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/120",
+      "text": "Maestru de concert"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "(nume, prenume)",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 116.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.333333333333336,
+            "r": 150.33333333333331,
+            "t": 133.67998999999998
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/121",
+      "text": "(nume, prenume)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Instituția Conducător",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 86.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.666666666666664,
+            "r": 101.33333333333334,
+            "t": 104.01332333333323
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 7
+        },
+        {
+          "bbox": {
+            "b": 70.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 421.6666666666667,
+            "r": 485.3333333333333,
+            "t": 84.67998999999998
+          },
+          "charspan": [
+            11,
+            21
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/122",
+      "text": "Instituția Conducător"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "L.Ş.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 22.346656666666604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 431.0,
+            "r": 459.6666666666667,
+            "t": 41.679989999999975
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/123",
+      "text": "L.Ş."
+    }
+  ],
+  "version": "1.10.0"
+}

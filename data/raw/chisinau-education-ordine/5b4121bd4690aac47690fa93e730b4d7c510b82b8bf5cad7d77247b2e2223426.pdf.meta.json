@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "5b4121bd4690aac47690fa93e730b4d7c510b82b8bf5cad7d77247b2e2223426",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1772701525_ordin-total-fiz-mun.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "641562",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 06:57:10 GMT",
+    "Etag": "\"69a94755-9ca1a\"",
+    "Last-Modified": "Thu, 05 Mar 2026 09:05:25 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/5b4121bd4690aac47690fa93e730b4d7c510b82b8bf5cad7d77247b2e2223426.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1772701525_ordin-total-fiz-mun.pdf",
+  "retrieved_at": "2026-09-26T06:57:11.263520+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

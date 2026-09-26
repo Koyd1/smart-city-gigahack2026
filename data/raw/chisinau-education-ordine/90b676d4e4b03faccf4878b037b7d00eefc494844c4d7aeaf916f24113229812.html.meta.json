@@ -1,0 +1,19 @@
+{
+  "category": "education",
+  "content_sha256": "90b676d4e4b03faccf4878b037b7d00eefc494844c4d7aeaf916f24113229812",
+  "final_url": "https://chisinauedu.dgets.md/ordine?page=22",
+  "headers": {
+    "Cache-Control": "no-cache, private",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Sat, 26 Sep 2026 07:29:50 GMT",
+    "Server": "openresty",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6IkxWZWZma05GY3FwS0F2QmZhMWZOU0E9PSIsInZhbHVlIjoiTStlcEU2anM1ZXlXZ2x6b3lPeURNdG1qUnEvV0FYblFNSkM0V1RIcE5CRExhS21vbFdMS3ZIK0VTUnBnOGpDa0Q1OUhublExL0puUTMrSjJxZGhkQVpVWHlWSDF0NHdqZVYwMExSWUZBQnE1K0tMMXlUVmNlSW9qZU1rZFVyam0iLCJtYWMiOiI4OGJiMTA4ZmUyMmQ2N2JmMjA1NGM3ZDRkNDJiZjY2NWRlY2Q2OWFkZjk5YjBkYTFlYTQ5Njg2MjMyMzVkZWE2IiwidGFnIjoiIn0%3D; expires=Sat, 26 Sep 2026 09:29:50 GMT; Max-Age=7200; path=/, chisinauedu_session=eyJpdiI6Ik1iWnRtbGRKWVZQVExXNzB5eGtBR0E9PSIsInZhbHVlIjoiVDBPRitBYjlEYm84V0lsREMyQnM4NWNwdnY5L2ZuMjIxN0hPKzgyT01Zd1N2SHo3UnY3Rk1hZi9BMUppb2dpWmFXSkVtd0hPSFFUeWZEQTRYL2dHczB2UEcyT2xWemdOZlVUQmtWTHBXRlY3VlZteXY2elhxRWtjMzhZOUcxSGIiLCJtYWMiOiI2NTBmNTgzMTMyN2E5MzhmZDcwNWY2YmJiNzU2Mzc0MzMyMTc5NDIwYzFjMzE1N2ZiMTE3Nzc1YzZjYTkzOTFkIiwidGFnIjoiIn0%3D; expires=Sat, 26 Sep 2026 09:29:50 GMT; Max-Age=7200; path=/; httponly",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/90b676d4e4b03faccf4878b037b7d00eefc494844c4d7aeaf916f24113229812.html",
+  "requested_url": "https://chisinauedu.dgets.md/ordine?page=22",
+  "retrieved_at": "2026-09-26T07:29:50.351705+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

@@ -1,0 +1,1403 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/37"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/pictures/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    }
+  ],
+  "key_value_items": [],
+  "name": "560b2f8ca86141088f7517ee516eb9ed4ebe865a92c42d6e40e1abc06f319045",
+  "origin": {
+    "binary_hash": 4675206731174875205,
+    "filename": "560b2f8ca86141088f7517ee516eb9ed4ebe865a92c42d6e40e1abc06f319045.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 722.6756753555842,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 257.3363776392585,
+            "r": 369.0669612828197,
+            "t": 795.1405365011722
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 245.81279102249107,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 350.06289450626247,
+            "r": 462.9239021331992,
+            "t": 357.7690956504133
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIN",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 726.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 287.6666666666667,
+            "r": 304.66666666666663,
+            "t": 731.67999
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PRIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 706.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 214.0,
+            "r": 411.66666666666663,
+            "t": 721.67999
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 675.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 178.66666666666666,
+            "r": 468.3333333333333,
+            "t": 708.3466566666666
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "26.08.26 11-7 1102 nr. 01",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 632.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.66666666666667,
+            "r": 288.0,
+            "t": 657.67999
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "26.08.26 11-7 1102 nr. 01"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea și funcționarea claselor/grupelor cu program prelungit",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 534.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 288.33333333333337,
+            "t": 581.0133233333333
+          },
+          "charspan": [
+            0,
+            80
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Cu privire la organizarea și funcționarea claselor/grupelor cu program prelungit"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul prevederilor art. 27 alin. (6) din Codul educației al Republicii Moldova nr. 152/2014, Hotărârii Guvernului nr. 429/2024 cu privire la aprobarea Regulamentului sanitar pentru instituțiile de învățământ primar, secundar, ciclul I și II, și profesional tehnic, cu modificările ulterioare, în baza Ordinului Ministerului Educației și Cercetării nr. 363 din 22 martie 2024 și în baza Ordinului Direcției generale educație, tineret și sport a Consiliului municipal Chişinău nr. 01/1-7/516 din 24.04.26,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 425.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.33333333333333,
+            "r": 541.3333333333333,
+            "t": 519.67999
+          },
+          "charspan": [
+            0,
+            508
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "În temeiul prevederilor art. 27 alin. (6) din Codul educației al Republicii Moldova nr. 152/2014, Hotărârii Guvernului nr. 429/2024 cu privire la aprobarea Regulamentului sanitar pentru instituțiile de învățământ primar, secundar, ciclul I și II, și profesional tehnic, cu modificările ulterioare, în baza Ordinului Ministerului Educației și Cercetării nr. 363 din 22 martie 2024 și în baza Ordinului Direcției generale educație, tineret și sport a Consiliului municipal Chişinău nr. 01/1-7/516 din 24.04.26,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 409.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 269.0,
+            "r": 332.0,
+            "t": 422.67999
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se dispune, în perioada 01 septembrie 2026 – 31 mai 2027, funcționarea claselor/grupelor cu program prelungit (C/GPP) în toate instituțiile de învățământ primar și secundar, ciclul I și II, din municipiul Chişinău.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 362.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 540.3333333333333,
+            "t": 409.01332333333335
+          },
+          "charspan": [
+            0,
+            217
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se dispune, în perioada 01 septembrie 2026 – 31 mai 2027, funcționarea claselor/grupelor cu program prelungit (C/GPP) în toate instituțiile de învățământ primar și secundar, ciclul I și II, din municipiul Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Directorii instituțiilor de învățământ primar și secundar, ciclul I și II, din municipiul Chişinău vor:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 331.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 539.3333333333333,
+            "t": 361.0133233333333
+          },
+          "charspan": [
+            0,
+            106
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Directorii instituțiilor de învățământ primar și secundar, ciclul I și II, din municipiul Chişinău vor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- crea condiții, în baza normelor sanitare, prevăzute în Cap. VIII din Regulamentul sanitar pentru instituțiile de învățământ primar, secundar, ciclul I și II, și profesional tehnic, aprobat prin Hotărârea Guvernului nr. 429/2024, pentru buna funcționare a C/GPP;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 282.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.66666666666667,
+            "r": 539.6666666666667,
+            "t": 330.0133233333333
+          },
+          "charspan": [
+            0,
+            263
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "crea condiții, în baza normelor sanitare, prevăzute în Cap. VIII din Regulamentul sanitar pentru instituțiile de învățământ primar, secundar, ciclul I și II, și profesional tehnic, aprobat prin Hotărârea Guvernului nr. 429/2024, pentru buna funcționare a C/GPP;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- elabora și aproba, în baza deciziei Consiliului de administrație, actul administrativ cu privire la durata și programul de activitate al C/GPP;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 221.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.33333333333333,
+            "r": 538.6666666666667,
+            "t": 252.34665666666672
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "elabora și aproba, în baza deciziei Consiliului de administrație, actul administrativ cu privire la durata și programul de activitate al C/GPP;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- asigura, începând cu data de 01 septembrie 2026, înscrierea elevilor în C/GPP, în temeiul cererilor părinților/reprezentanților legali/responsabililor legali ai copiilor;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 250.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.66666666666667,
+            "r": 538.6666666666667,
+            "t": 283.01332333333323
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "asigura, începând cu data de 01 septembrie 2026, înscrierea elevilor în C/GPP, în temeiul cererilor părinților/reprezentanților legali/responsabililor legali ai copiilor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- constitui C/GPP în limita resurselor financiare bugetare alocate și normelor sanitare;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 202.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.0,
+            "r": 496.6666666666667,
+            "t": 220.67998999999998
+          },
+          "charspan": [
+            0,
+            88
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "constitui C/GPP în limita resurselor financiare bugetare alocate și normelor sanitare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- prezenta Direcției management instituțional, din cadrul Direcției generale educație, tineret și sport a Consiliului municipal Chişinău (DGETS), date privind numărul de C/GPP constituite, inclusiv, numărul de elevi per C/GPP, în baza formularului solicitat, până la data de 15 septembrie 2026;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 126.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333333,
+            "r": 537.6666666666667,
+            "t": 188.34665666666672
+          },
+          "charspan": [
+            0,
+            294
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "prezenta Direcției management instituțional, din cadrul Direcției generale educație, tineret și sport a Consiliului municipal Chişinău (DGETS), date privind numărul de C/GPP constituite, inclusiv, numărul de elevi per C/GPP, în baza formularului solicitat, până la data de 15 septembrie 2026;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- aproba actul administrativ cu privire la organizarea și funcționarea C/GPP;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 187.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.0,
+            "r": 450.3333333333333,
+            "t": 204.01332333333323
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "aproba actul administrativ cu privire la organizarea și funcționarea C/GPP;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- asigura înregistrarea evidenței activităților educaționale și frecvența elevilor în catalogul C/GPP;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 96.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.0,
+            "r": 536.6666666666667,
+            "t": 125.67998999999998
+          },
+          "charspan": [
+            0,
+            102
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "asigura înregistrarea evidenței activităților educaționale și frecvența elevilor în catalogul C/GPP;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- organiza alimentația elevilor în conformitate cu prevederile actelor normative și administrative în vigoare;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 63.346656666666604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.0,
+            "r": 536.6666666666667,
+            "t": 94.01332333333335
+          },
+          "charspan": [
+            0,
+            110
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "organiza alimentația elevilor în conformitate cu prevederile actelor normative și administrative în vigoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 598.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 289.66666666666663,
+            "r": 338.0,
+            "t": 610.67999
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- realiza activități de prevenire și contracarare a acumulărilor ilicite de bani de la părinți/reprezentanții legali/responsabilii legali pentru funcționarea C/GPP;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 762.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 543.6666666666667,
+            "t": 793.3466566666666
+          },
+          "charspan": [
+            0,
+            164
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "realiza activități de prevenire și contracarare a acumulărilor ilicite de bani de la părinți/reprezentanții legali/responsabilii legali pentru funcționarea C/GPP;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "3. Instituțiile de învățământ primar și secundar, ciclul I și II cu autonomie financiară, vor:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 746.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 521.3333333333333,
+            "t": 761.3466566666666
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "3. Instituțiile de învățământ primar și secundar, ciclul I și II cu autonomie financiară, vor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- realiza activitățile prevăzute în pct. 2 al prezentului ordin;",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 731.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 373.3333333333333,
+            "t": 745.67999
+          },
+          "charspan": [
+            0,
+            64
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "realiza activitățile prevăzute în pct. 2 al prezentului ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- asigura gestionarea resurselor financiare alocate de APL, în scopul funcționării eficiente a C/GPP;",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 699.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 543.0,
+            "t": 729.67999
+          },
+          "charspan": [
+            0,
+            101
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "asigura gestionarea resurselor financiare alocate de APL, în scopul funcționării eficiente a C/GPP;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Direcțiile educație, tineret și sport din sectoarele: Botanica (domnul Ion Musteață, şef direcție), Buiucani (domnul Alexandr Votcariov, şef direcție), Centru (doamna Rodica Spînu, şefă (interimară) direcție), Ciocana (doamna Eugenia Antoci, şefa direcție), Rîşcani (doamna Valentina Rău, şefa direcție) vor:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 636.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 543.6666666666667,
+            "t": 699.0133233333333
+          },
+          "charspan": [
+            0,
+            311
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Direcțiile educație, tineret și sport din sectoarele: Botanica (domnul Ion Musteață, şef direcție), Buiucani (domnul Alexandr Votcariov, şef direcție), Centru (doamna Rodica Spînu, şefă (interimară) direcție), Ciocana (doamna Eugenia Antoci, şefa direcție), Rîşcani (doamna Valentina Rău, şefa direcție) vor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- asigura gestionarea corectă și eficientă a resurselor financiare alocate de APL, în scopul bunei funcționari a C/GPP;",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 606.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.66666666666667,
+            "r": 542.0,
+            "t": 635.67999
+          },
+          "charspan": [
+            0,
+            119
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "asigura gestionarea corectă și eficientă a resurselor financiare alocate de APL, în scopul bunei funcționari a C/GPP;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- monitoriza, periodic, prezența elevilor și durata activităților C/GPP;",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 589.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.33333333333333,
+            "r": 420.6666666666667,
+            "t": 604.0133233333333
+          },
+          "charspan": [
+            0,
+            72
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "monitoriza, periodic, prezența elevilor și durata activităților C/GPP;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- informa, după caz, DGETS despre neregulile depistate și măsurile întreprinse.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 573.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.66666666666667,
+            "r": 469.6666666666667,
+            "t": 588.3466566666666
+          },
+          "charspan": [
+            0,
+            79
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "informa, după caz, DGETS despre neregulile depistate și măsurile întreprinse."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Direcția management instituțional (doamna Daniela Garbuz, şefă Direcție) va:",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 557.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.66666666666667,
+            "r": 475.6666666666667,
+            "t": 572.67999
+          },
+          "charspan": [
+            0,
+            79
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Direcția management instituțional (doamna Daniela Garbuz, şefă Direcție) va:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- acorda suport instituțiilor de învăţământ primar și secundar, ciclul I și II din municipiul Chişinău în organizarea funcționării C/GPP;",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 527.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.33333333333333,
+            "r": 541.3333333333333,
+            "t": 556.67999
+          },
+          "charspan": [
+            0,
+            137
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "acorda suport instituțiilor de învăţământ primar și secundar, ciclul I și II din municipiul Chişinău în organizarea funcționării C/GPP;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- generaliza datele privind numărul de clase/grupe și numărul de elevi care frecventează C/GPP;",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 496.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.33333333333333,
+            "r": 541.6666666666667,
+            "t": 526.0133233333333
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "generaliza datele privind numărul de clase/grupe și numărul de elevi care frecventează C/GPP;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- monitoriza activitatea C/GPP în instituțiile de învățământ primar și secundar, ciclul I și II din municipiul Chişinău;",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 465.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.66666666666667,
+            "r": 541.0,
+            "t": 495.0133233333333
+          },
+          "charspan": [
+            0,
+            120
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "monitoriza activitatea C/GPP în instituțiile de învățământ primar și secundar, ciclul I și II din municipiul Chişinău;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- prezenta, la solicitare, conducerii DGETS note informative cu referire la activitatea C/GPP.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 448.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.33333333333333,
+            "r": 533.3333333333333,
+            "t": 463.67999
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "prezenta, la solicitare, conducerii DGETS note informative cu referire la activitatea C/GPP."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Responsabil de realizarea prevederilor prezentului ordin se desemnează domnul Valentin Crudu, șef adjunct, Direcția generală educație, tineret și sport a Consiliului municipal Chişinău.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 402.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.33333333333333,
+            "r": 541.0,
+            "t": 447.67999
+          },
+          "charspan": [
+            0,
+            188
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Responsabil de realizarea prevederilor prezentului ordin se desemnează domnul Valentin Crudu, șef adjunct, Direcția generală educație, tineret și sport a Consiliului municipal Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Controlul realizării prevederilor prezentului ordin mi-1 asum.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 385.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.33333333333333,
+            "r": 391.0,
+            "t": 400.67999
+          },
+          "charspan": [
+            0,
+            65
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "Controlul realizării prevederilor prezentului ordin mi-1 asum."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Andrei PAVALOI,",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 348.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 443.3333333333333,
+            "r": 539.3333333333333,
+            "t": 361.0133233333333
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Andrei PAVALOI,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "f&djunct al DGETS",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 309.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 434.3333333333333,
+            "r": 539.0,
+            "t": 320.3466566666667
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "f&djunct al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "0600",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 280.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 413.3333333333333,
+            "r": 430.6666666666667,
+            "t": 280.3466566666666
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "0600"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: Viorica Mart, 022 235277",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 109.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.33333333333333,
+            "r": 209.66666666666666,
+            "t": 126.01332333333335
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Ex.: Viorica Mart, 022 235277"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 66.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 159.33333333333334,
+            "r": 460.0,
+            "t": 95.3466566666666
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

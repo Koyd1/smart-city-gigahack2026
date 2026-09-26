@@ -1,0 +1,845 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/20"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "495dfe325bc1f5a55a0401de0153f81de0a793bae15f1e5e62a49b99901590bf",
+  "origin": {
+    "binary_hash": 7107977195747119295,
+    "filename": "495dfe325bc1f5a55a0401de0153f81de0a793bae15f1e5e62a49b99901590bf.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.92,
+        "width": 595.2
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.92,
+        "width": 595.2
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 727.9611095437527,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 263.3622964948616,
+            "r": 375.75060461671563,
+            "t": 801.9022952553212
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 609.2992968228084,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.73419951368498,
+            "r": 331.8659248505663,
+            "t": 657.0079287886449
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 380.33406905294316,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 367.5395035916527,
+            "r": 565.8209698773071,
+            "t": 496.80044982185274
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "1. Se aprobă:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 229.50064778645833,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 121.05156453450522,
+            "r": 196.7664082845052,
+            "t": 244.98453450520833
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "1. Se aprobă:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1.1. Lista participanților la Conferința Transfrontalieră Educație Online fără Hotare: Conectăm Comunități, Cultivăm Valori UNESCO\", ediția 2026, pentru eliberarea certificatelor de participare, în valoare de 6 ore de implicare, conform prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul structurilor de asistență psihopedagogică, aprobat prin Ordinul Ministerului Educației și Cercetării nr. 1091 din 07.10.2020 și modificat prin Ordinul Ministerului Educației şi Cercetării nr. 1574 din 05.09.2025 (Anexa nr. 1).",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 100.98453450520833,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.31875038146973,
+            "r": 570.6812744140625,
+            "t": 229.50064778645833
+          },
+          "charspan": [
+            0,
+            617
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "1.1. Lista participanților la Conferința Transfrontalieră Educație Online fără Hotare: Conectăm Comunități, Cultivăm Valori UNESCO\", ediția 2026, pentru eliberarea certificatelor de participare, în valoare de 6 ore de implicare, conform prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul structurilor de asistență psihopedagogică, aprobat prin Ordinul Ministerului Educației și Cercetării nr. 1091 din 07.10.2020 și modificat prin Ordinul Ministerului Educației şi Cercetării nr. 1574 din 05.09.2025 (Anexa nr. 1)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2.",
+      "orig": "1.2. Lista prezentatorilor în cadrul Conferinței Transfrontaliere Educație Online fără Hotare: Conectăm Comunități, Cultivăm Valori UNESCO\", ediția 2026, pentru",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 53.37166015624996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.09531275431316,
+            "r": 569.9047037760417,
+            "t": 84.72647786458333
+          },
+          "charspan": [
+            0,
+            160
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "Lista prezentatorilor în cadrul Conferinței Transfrontaliere Educație Online fără Hotare: Conectăm Comunități, Cultivăm Valori UNESCO\", ediția 2026, pentru"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÅU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 671.5651619466146,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 179.68203735351562,
+            "r": 480.2117513020833,
+            "t": 713.3716194661458
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÅU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01/1//1013n3006",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 627.0490283203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 103.1906255086263,
+            "r": 300.4375,
+            "t": 656.0812955729166
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "01/1//1013n3006"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 631.6941902669271,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.09531275431316,
+            "r": 106.296875,
+            "t": 642.5329048665365
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 582.5329150390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 311.30938720703125,
+            "r": 361.78594970703125,
+            "t": 598.40388671875
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la totalizarea Conferinței Transfrontaliere Educație Online fără Hotare: Conectăm Comunități, Cultivăm Valori UNESCO\", ediția 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 518.661943359375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 128.0406290690104,
+            "r": 441.7718912760417,
+            "t": 565.5006477864583
+          },
+          "charspan": [
+            0,
+            141
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Cu privire la totalizarea Conferinței Transfrontaliere Educație Online fără Hotare: Conectăm Comunități, Cultivăm Valori UNESCO\", ediția 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu prevederile Planului de activitate al Direcției Generale Educație, Tineret și Sport a Consiliului municipal Chișinău și în vederea promovării valorilor educației incluzive, a cooperării internaționale și a schimbului de bune practici educaționale, la data de 25 iunie 2026, s-a desfăşurat Conferinta Transfrontalieră cu genericul Educație Online fără Hotare: Conectăm Comunități, Cultivăm Valori UNESCO\", ediția 2026.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 405.6296761067708,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.5421880086263,
+            "r": 569.9047037760417,
+            "t": 504.3393725585937
+          },
+          "charspan": [
+            0,
+            436
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "În conformitate cu prevederile Planului de activitate al Direcției Generale Educație, Tineret și Sport a Consiliului municipal Chișinău și în vederea promovării valorilor educației incluzive, a cooperării internaționale și a schimbului de bune practici educaționale, la data de 25 iunie 2026, s-a desfăşurat Conferinta Transfrontalieră cu genericul Educație Online fără Hotare: Conectăm Comunități, Cultivăm Valori UNESCO\", ediția 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Evenimentul a reunit cadre didactice, reprezentanți ai instituțiilor educaționale, parteneri naționali și internaționali, având drept scop promovarea transformării digitale în educație, valorificarea experiențelor inovatoare, dezvoltarea colaborării transfrontaliere și promovarea valorilor UNESCO în comunitatea educațională.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 325.88777343749996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.31875038146973,
+            "r": 569.9047037760417,
+            "t": 406.01680175781246
+          },
+          "charspan": [
+            0,
+            326
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Evenimentul a reunit cadre didactice, reprezentanți ai instituțiilor educaționale, parteneri naționali și internaționali, având drept scop promovarea transformării digitale în educație, valorificarea experiențelor inovatoare, dezvoltarea colaborării transfrontaliere și promovarea valorilor UNESCO în comunitatea educațională."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Luând act de nivelul de implicare a participanților și contribuția acestora la realizarea obiectivelor Conferintei,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 293.37161946614583,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.93046887715657,
+            "r": 568.7398681640625,
+            "t": 325.5006477864582
+          },
+          "charspan": [
+            0,
+            115
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Luând act de nivelul de implicare a participanților și contribuția acestora la realizarea obiectivelor Conferintei,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 262.79097167968746,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 321.01641845703125,
+            "r": 377.31719970703125,
+            "t": 277.50064778645833
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "eliberarea certificatelor de participare, în valoare de 30 ore de implicare, conform prevederilor cadrului normativ în vigoare (Anexa nr. 2).",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 766.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.33333333333333,
+            "r": 567.6666666666667,
+            "t": 799.2533333333333
+          },
+          "charspan": [
+            0,
+            141
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "eliberarea certificatelor de participare, în valoare de 30 ore de implicare, conform prevederilor cadrului normativ în vigoare (Anexa nr. 2)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.3.",
+      "orig": "1.3. Lista participanților cu postere care au participat la expoziția de postere pentru eliberarea certificatelor de participare, în valoare de 30 ore de implicare, conform prevederilor cadrului normativ în vigoare (Anexa nr. 3).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 702.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.0,
+            "r": 568.3333333333333,
+            "t": 751.2533333333333
+          },
+          "charspan": [
+            0,
+            229
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Lista participanților cu postere care au participat la expoziția de postere pentru eliberarea certificatelor de participare, în valoare de 30 ore de implicare, conform prevederilor cadrului normativ în vigoare (Anexa nr. 3)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Responsabil de executarea prezentului ordin se desemnează Tamara Munteanu, şefa Secției Învățarea pe tot Parcursul Vieții a Direcției Generale Educație, Tineret și Sport.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 639.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.33333333333333,
+            "r": 568.6666666666667,
+            "t": 686.92
+          },
+          "charspan": [
+            0,
+            173
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Responsabil de executarea prezentului ordin se desemnează Tamara Munteanu, şefa Secției Învățarea pe tot Parcursul Vieții a Direcției Generale Educație, Tineret și Sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Controlul realizării prevederilor prezentului ordin revine dnei Daniela Munca-Aftenev, şefă adjunctă a Direcției Generale Educație, Tineret și Sport.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 606.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.33333333333333,
+            "r": 567.6666666666667,
+            "t": 638.5866666666666
+          },
+          "charspan": [
+            0,
+            152
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Controlul realizării prevederilor prezentului ordin revine dnei Daniela Munca-Aftenev, şefă adjunctă a Direcției Generale Educație, Tineret și Sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "himctal DGETS,",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 434.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 450.3333333333333,
+            "r": 562.6666666666666,
+            "t": 448.58666666666664
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "himctal DGETS,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 418.58666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 477.6666666666667,
+            "r": 538.6666666666666,
+            "t": 432.58666666666664
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Executor: Tamara Munteanu",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 134.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.0,
+            "r": 198.0,
+            "t": 144.25333333333333
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Executor: Tamara Munteanu"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Telefon: (+373) 783 222 00",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 123.25333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.33333333333333,
+            "r": 195.33333333333331,
+            "t": 134.5866666666666
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Telefon: (+373) 783 222 00"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2004, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 91.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 181.0,
+            "r": 480.0,
+            "t": 115.58666666666659
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2004, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

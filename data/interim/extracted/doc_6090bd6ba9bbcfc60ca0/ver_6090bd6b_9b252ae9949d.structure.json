@@ -1,0 +1,812 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/18"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "ef195ed78e4ef95319f919bbdadbef36d2e15ec30891c3e4b5c24ab255ef9872",
+  "origin": {
+    "binary_hash": 13097112796153223282,
+    "filename": "ef195ed78e4ef95319f919bbdadbef36d2e15ec30891c3e4b5c24ab255ef9872.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 703.8071441650391,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 276.279296875,
+            "r": 386.93206787109375,
+            "t": 777.3410568237305
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 580.6714782714844,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.9819564819336,
+            "r": 315.87677001953125,
+            "t": 623.0597534179688
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 433.03070068359375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 369.0690002441406,
+            "r": 566.8548583984375,
+            "t": 554.1620178222656
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 114.43994140625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 237.4970703125,
+            "r": 282.5173034667969,
+            "t": 141.15118408203125
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "10",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 694.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 267.0,
+            "r": 396.66666666666663,
+            "t": 786.0
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "10"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET $I SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 637.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 191.66666666666669,
+            "r": 491.3333333333333,
+            "t": 681.0
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET $I SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "OR DIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 539.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 303.33333333333337,
+            "r": 366.0,
+            "t": 553.6666666666667
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "OR DIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la conferirea/confirmarea gradelor didactice",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 509.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.0,
+            "r": 408.6666666666667,
+            "t": 524.3333333333333
+          },
+          "charspan": [
+            0,
+            55
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Cu privire la conferirea/confirmarea gradelor didactice"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul proceselor-verbale nr.2 din 25.04.2026, 26.05.2026 ale Comisiei municipale de atestare, deciziilor Consiliilor profesorale ale instituțiilor de învāțământ, art.131 alin. (3) din Codul Educației al Republicii Moldova nr.152/2014 și în conformitate cu pct.48, 49, 51, 52 din Regulamentul de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul structurilor de asistență psihopedagogică, aprobat prin Ordinul ministrului educației, culturii și cercetārii nr.1091 din 07.10.2020 și modificat prin Ordinul ministrului educației și cercetării nr.2335 din 30.09.2024, dispoziției Primarului general al municipiului Chişinău nr.856-dc din 08.07.2026 Cu privire la acordarea concediului de odihnă anual dlui Andrei Pavaloi,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 336.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.33333333333333,
+            "r": 570.0,
+            "t": 498.3333333333333
+          },
+          "charspan": [
+            0,
+            761
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În temeiul proceselor-verbale nr.2 din 25.04.2026, 26.05.2026 ale Comisiei municipale de atestare, deciziilor Consiliilor profesorale ale instituțiilor de învāțământ, art.131 alin. (3) din Codul Educației al Republicii Moldova nr.152/2014 și în conformitate cu pct.48, 49, 51, 52 din Regulamentul de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul structurilor de asistență psihopedagogică, aprobat prin Ordinul ministrului educației, culturii și cercetārii nr.1091 din 07.10.2020 și modificat prin Ordinul ministrului educației și cercetării nr.2335 din 30.09.2024, dispoziției Primarului general al municipiului Chişinău nr.856-dc din 08.07.2026 Cu privire la acordarea concediului de odihnă anual dlui Andrei Pavaloi,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 304.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 324.0,
+            "r": 382.0,
+            "t": 319.33333333333337
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se conferă gradul didactic doi cadrelor didactice din instituțiile de învățământ general, conform anexei nr.1.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 256.33333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.33333333333333,
+            "r": 570.0,
+            "t": 287.66666666666674
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Se conferă gradul didactic doi cadrelor didactice din instituțiile de învățământ general, conform anexei nr.1."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se confirmă și se pāstrează în baza art.131 din Codul educației al Republicii Moldova nr.152/2014 gradele didactice doi/unu/superior, deținute de cadrele didactice din instituțiile de învāțământ general, dupā cum urmează:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 207.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.0,
+            "r": 570.0,
+            "t": 255.33333333333326
+          },
+          "charspan": [
+            0,
+            224
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se confirmă și se pāstrează în baza art.131 din Codul educației al Republicii Moldova nr.152/2014 gradele didactice doi/unu/superior, deținute de cadrele didactice din instituțiile de învāțământ general, dupā cum urmează:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "gradul didactic doi, conform anexei nr.2;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 191.33333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 154.33333333333334,
+            "r": 386.0,
+            "t": 206.66666666666674
+          },
+          "charspan": [
+            0,
+            41
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "gradul didactic doi, conform anexei nr.2;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "gradul didactic unu, conform anexei nr.3;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 175.33333333333326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 154.66666666666666,
+            "r": 389.3333333333333,
+            "t": 190.66666666666674
+          },
+          "charspan": [
+            0,
+            41
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "gradul didactic unu, conform anexei nr.3;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "gradul didactic superior, conform anexei nr.4.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 159.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 153.66666666666666,
+            "r": 414.0,
+            "t": 174.33333333333326
+          },
+          "charspan": [
+            0,
+            46
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "gradul didactic superior, conform anexei nr.4."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se stabilește sporul lunar pentru cadrele didactice, în funcție de gradul didactic conferit/confirmat prin prezentul ordin, de la data emiterii acestuia, în conformitate cu prevederile pct.11 din Nota la Tabelul nr.1 al Anexei nr.7 la Legea nr.270/2018 privind sistemul unitar de salarizare în sectorul bugetar și pct.3 din Nota la Tabelul nr.2 al anexei la Hotārârea Guvernului",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 79.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.33333333333333,
+            "r": 571.0,
+            "t": 159.66666666666674
+          },
+          "charspan": [
+            0,
+            381
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Se stabilește sporul lunar pentru cadrele didactice, în funcție de gradul didactic conferit/confirmat prin prezentul ordin, de la data emiterii acestuia, în conformitate cu prevederile pct.11 din Nota la Tabelul nr.1 al Anexei nr.7 la Legea nr.270/2018 privind sistemul unitar de salarizare în sectorul bugetar și pct.3 din Nota la Tabelul nr.2 al anexei la Hotārârea Guvernului"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "nt.1234/2018 privind condițiile de salarizare a personalului din instituțiile de învățământ care funcționează în regim de autogestiune financiar-economică.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 753.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 134.0,
+            "r": 569.0,
+            "t": 791.0
+          },
+          "charspan": [
+            0,
+            155
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "nt.1234/2018 privind condițiile de salarizare a personalului din instituțiile de învățământ care funcționează în regim de autogestiune financiar-economică."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul realizării prevederilor prezentului ordin mi-l asum.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 688.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.33333333333333,
+            "r": 478.6666666666667,
+            "t": 709.0
+          },
+          "charspan": [
+            0,
+            65
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Controlul realizării prevederilor prezentului ordin mi-l asum."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Responsabili de executarea prevederilor prezentului ordin se desemnează Secția dezvoltarea competențelor profesionale (Rodica Tataru, șefà) și conducātorii instituțiilor de învățământ general.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 705.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.33333333333333,
+            "r": 568.3333333333333,
+            "t": 757.0
+          },
+          "charspan": [
+            0,
+            195
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Responsabili de executarea prevederilor prezentului ordin se desemnează Secția dezvoltarea competențelor profesionale (Rodica Tataru, șefà) și conducātorii instituțiilor de învățământ general."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "riela Munca-Aftenev",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 480.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 451.3333333333333,
+            "r": 567.3333333333334,
+            "t": 495.6666666666667
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "riela Munca-Aftenev"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2u",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 115.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 253.66666666666666,
+            "r": 282.66666666666663,
+            "t": 131.33333333333337
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "2u"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex.: Lilia Ursu, 022 22 55 74",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 123.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.66666666666667,
+            "r": 230.66666666666666,
+            "t": 138.0
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Ex.: Lilia Ursu, 022 22 55 74"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoltei, 99, MD-2704. municipiul Chişinãu, Republica Moldova. Tel.: (022)201601., www.chisinauedu.md. e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 78.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 183.33333333333331,
+            "r": 479.6666666666667,
+            "t": 104.0
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Str. Mitropolit Dosoltei, 99, MD-2704. municipiul Chişinãu, Republica Moldova. Tel.: (022)201601., www.chisinauedu.md. e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

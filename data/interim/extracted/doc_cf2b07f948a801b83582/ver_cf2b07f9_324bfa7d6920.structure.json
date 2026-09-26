@@ -1,0 +1,3815 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/51"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/66"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/texts/68"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/102"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/pictures/8"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/pictures/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/pictures/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/50"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/7"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/8"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/9"
+    }
+  ],
+  "key_value_items": [],
+  "name": "85e086dc4d266a88a2091da7e24a72f86d33fd483c07d6350ea26b936f3b4dba",
+  "origin": {
+    "binary_hash": 1054523543728639418,
+    "filename": "85e086dc4d266a88a2091da7e24a72f86d33fd483c07d6350ea26b936f3b4dba.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "5": {
+      "page_no": 5,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 727.4033624287092,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 261.55921919854694,
+            "r": 373.3882529321453,
+            "t": 811.1184208455088
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 624.6833913867767,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.73143317869047,
+            "r": 287.1928985841482,
+            "t": 656.4076273165296
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 126.46296565275065,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 362.55380681185113,
+            "r": 475.0042248494193,
+            "t": 279.4062808542624
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 658.6253205179173,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 274.2662280805959,
+            "r": 330.5384530352906,
+            "t": 744.7370812245917
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 498.33177255968684,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 357.1149801881522,
+            "r": 561.8381793171927,
+            "t": 590.4281505918143
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 64.01832355905196,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.32683909729823,
+            "r": 528.7051991548475,
+            "t": 122.16204960819778
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 679.512947808582,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 326.6750411454783,
+            "r": 528.2597818177499,
+            "t": 773.6053092086188
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 4
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/6"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 70.25417287977348,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 256.38722248461426,
+            "r": 357.1201906385998,
+            "t": 124.43993110740166
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 5
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/7"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 69.00538009751267,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 368.87965930093856,
+            "r": 541.6291882569998,
+            "t": 93.23274102645041
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 5
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/8"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 631.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.0,
+            "r": 81.66666666666667,
+            "t": 643.67999
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRIN NOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 731.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 291.33333333333337,
+            "r": 343.3333333333333,
+            "t": 738.0133233333333
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "FRIN NOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 708.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 215.66666666666666,
+            "r": 412.3333333333333,
+            "t": 723.67999
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 692.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 184.66666666666669,
+            "r": 460.6666666666667,
+            "t": 707.3466566666666
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 675.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 182.33333333333331,
+            "r": 471.0,
+            "t": 691.3466566666666
+          },
+          "charspan": [
+            0,
+            44
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01/11698sin28M",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 625.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333333,
+            "r": 266.66666666666663,
+            "t": 660.3466566666666
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "01/11698sin28M"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2025",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 630.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 261.33333333333337,
+            "r": 289.0,
+            "t": 645.3466566666666
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "2025"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la lansarea Concursului municipal pentru acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate, ediția 2025",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 565.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.66666666666667,
+            "r": 294.0,
+            "t": 619.67999
+          },
+          "charspan": [
+            0,
+            158
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Cu privire la lansarea Concursului municipal pentru acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate, ediția 2025"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Întru executarea prevederilor Deciziilor Consiliului municipal Chişinău nr. 8/7 din 10.10.2013Despre aprobarea Regulamentului privind acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate\", Dispoziției Primarului General al municipiului Chişinău nr. 588-d din 27.12.2024 Cu privire la aplicarea bugetului municipal provizoriu pe anul 2025\", ordinului DGETS nr. 01/1-7/41 din 16.01.2025 Cu privire la aplicarea Dispoziției Primarului General al mun. Chişinău nr. 588-d din 27.12.2024 de către DGETS și a ordinului DGETS nr. 01/1-7/50 din 17.01.2025 Cu privire la aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS pentru anul 2025, Programul 08Cultura\", compartimentul Activități pentru copii și tineret\" (86.03/0813/00239), pct. 1, luna octombrie, precum și în scopul încurajării și susținerii materiale a elevilor şi tinerilor care au obținut succese excelente la învățătură, activități extracurriculare, performanțe excepționale la competițiile municipale, naționale și internaționale la diverse discipline şcolare, precum și în domeniul sportului, a persoanelor în etate, care și-au adus aportul considerabil la dezvoltareași promovarea valorilor educaționale,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 267.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.66666666666667,
+            "r": 566.3333333333333,
+            "t": 542.0133233333333
+          },
+          "charspan": [
+            0,
+            1254
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Întru executarea prevederilor Deciziilor Consiliului municipal Chişinău nr. 8/7 din 10.10.2013Despre aprobarea Regulamentului privind acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate\", Dispoziției Primarului General al municipiului Chişinău nr. 588-d din 27.12.2024 Cu privire la aplicarea bugetului municipal provizoriu pe anul 2025\", ordinului DGETS nr. 01/1-7/41 din 16.01.2025 Cu privire la aplicarea Dispoziției Primarului General al mun. Chişinău nr. 588-d din 27.12.2024 de către DGETS și a ordinului DGETS nr. 01/1-7/50 din 17.01.2025 Cu privire la aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS pentru anul 2025, Programul 08Cultura\", compartimentul Activități pentru copii și tineret\" (86.03/0813/00239), pct. 1, luna octombrie, precum și în scopul încurajării și susținerii materiale a elevilor şi tinerilor care au obținut succese excelente la învățătură, activități extracurriculare, performanțe excepționale la competițiile municipale, naționale și internaționale la diverse discipline şcolare, precum și în domeniul sportului, a persoanelor în etate, care și-au adus aportul considerabil la dezvoltareași promovarea valorilor educaționale,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 278.0,
+            "r": 334.3333333333333,
+            "t": 254.67998999999998
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează și se desfăşoară, în perioada 01 – 12 decembrie 2025, în colaborare cu Direcția generală cultură și patrimoniu cultural, Concursul municipal pentru acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate, ediția 2025, pentru anul de studii2024–2025.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 164.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.33333333333333,
+            "r": 566.6666666666667,
+            "t": 227.34665666666672
+          },
+          "charspan": [
+            0,
+            305
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Se organizează și se desfăşoară, în perioada 01 – 12 decembrie 2025, în colaborare cu Direcția generală cultură și patrimoniu cultural, Concursul municipal pentru acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate, ediția 2025, pentru anul de studii2024–2025."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se lansează oficial, la data de 01.12.2025, Concursul municipal pentru acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate, ediția 2025, în instituțiile de învățământ general din municipiul Chișinău prin publicarea pe siteul oficial al DGETSwww.chisinauedu.md.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 90.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.0,
+            "r": 566.3333333333333,
+            "t": 154.34665666666672
+          },
+          "charspan": [
+            0,
+            305
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Se lansează oficial, la data de 01.12.2025, Concursul municipal pentru acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate, ediția 2025, în instituțiile de învățământ general din municipiul Chișinău prin publicarea pe siteul oficial al DGETSwww.chisinauedu.md."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. Concursul se desfăşoară în conformitate cu Regulamentul privind acordarea Premiului de merit, aprobat prin Decizia CMC nr. 8/7 din 10.10.2013 (se anexează).",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 42.679989999999975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.0,
+            "r": 567.0,
+            "t": 79.34665666666672
+          },
+          "charspan": [
+            0,
+            161
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Concursul se desfăşoară în conformitate cu Regulamentul privind acordarea Premiului de merit, aprobat prin Decizia CMC nr. 8/7 din 10.10.2013 (se anexează)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. Etapele de desfăşurare a concursului sunt stabilite după cum urmează:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 775.2935662532552,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.28723462422688,
+            "r": 484.9007161458333,
+            "t": 791.1137935583496
+          },
+          "charspan": [
+            0,
+            74
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Etapele de desfăşurare a concursului sunt stabilite după cum urmează:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Prezentarea dosarelor la DGETS (suport de hârtie): 01–11 decembrie 2025;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 743.3091912532552,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.85461044311523,
+            "r": 512.41845703125,
+            "t": 758.0976662898763
+          },
+          "charspan": [
+            0,
+            74
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Prezentarea dosarelor la DGETS (suport de hârtie): 01–11 decembrie 2025;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Instituirea Comisiei de evaluare a dosarelor: 11 decembrie 2025;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 727.4889652197265,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.51063919067383,
+            "r": 452.911376953125,
+            "t": 741.9335198665365
+          },
+          "charspan": [
+            0,
+            66
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Instituirea Comisiei de evaluare a dosarelor: 11 decembrie 2025;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Şedința Comisiei de evaluare a DGETS: 15–17 decembrie 2025;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 710.6369805598958,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.51063919067383,
+            "r": 452.911376953125,
+            "t": 726.1132887467447
+          },
+          "charspan": [
+            0,
+            61
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Şedința Comisiei de evaluare a DGETS: 15–17 decembrie 2025;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Anunțarea rezultatelor concursului: 19 decembrie 2025;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 694.8167494401041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.51063919067383,
+            "r": 408.195068359375,
+            "t": 709.2613091731771
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Anunțarea rezultatelor concursului: 19 decembrie 2025;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Data limită de prezentare a dosarelor : 11 decembrie 2025",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 678.9965284928385,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.85461044311523,
+            "r": 419.8900960286458,
+            "t": 693.4410780533854
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Data limită de prezentare a dosarelor : 11 decembrie 2025"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Adresa pentru prezentarea dosarelor: mun. Chișinău, str. M. Dosoftei, 99, bir.14.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 662.1445387467447,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.16666793823242,
+            "r": 547.8475341796875,
+            "t": 677.6208469335937
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Adresa pentru prezentarea dosarelor: mun. Chișinău, str. M. Dosoftei, 99, bir.14."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Valabilitatea actelor prezentate: anul de studii 2024-2025",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 646.6682305598958,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.85461044311523,
+            "r": 414.3865559895833,
+            "t": 661.1127902929687
+          },
+          "charspan": [
+            0,
+            60
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Valabilitatea actelor prezentate: anul de studii 2024-2025"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Direcția managementul învățământului extraşcolar, tineret și sport (Silvia ButucCanațui, șef) în colaborare cu Direcția managementul curricular (Svetlana Axînti, şef), Direcția managementul resurselor umane (Veronica Donțu, șef) va:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 576.5089491471354,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.5992914835612,
+            "r": 563.6702473958333,
+            "t": 628.784492360026
+          },
+          "charspan": [
+            0,
+            235
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Direcția managementul învățământului extraşcolar, tineret și sport (Silvia ButucCanațui, șef) în colaborare cu Direcția managementul curricular (Svetlana Axînti, şef), Direcția managementul resurselor umane (Veronica Donțu, șef) va:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. conlucra cu managerii instituțiilor de învățământ primar, secundar, ciclul I, II, extraşcolar și școlile sportive în vederea încurajării participării elevilor în concurs;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 531.4557061458333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.5992914835612,
+            "r": 563.6702473958333,
+            "t": 565.1596652929687
+          },
+          "charspan": [
+            0,
+            175
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "conlucra cu managerii instituțiilor de învățământ primar, secundar, ciclul I, II, extraşcolar și școlile sportive în vederea încurajării participării elevilor în concurs;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. institui prin ordin DGETS Comisia de evaluare a dosarelor pentru Concursul municipal pentru acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate, ediția 2025.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 466.4551975195312,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.5992914835612,
+            "r": 564.3581949869792,
+            "t": 518.0429050390625
+          },
+          "charspan": [
+            0,
+            204
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "institui prin ordin DGETS Comisia de evaluare a dosarelor pentru Concursul municipal pentru acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate, ediția 2025."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Secția CRP (Aliona Delinschi) va publica pe pagina oficială DGETS www. chisinauedu.md informația referitor la desfăşurarea concursului.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 420.0262627864583,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.25531959533691,
+            "r": 565.3900960286458,
+            "t": 454.7619805598958
+          },
+          "charspan": [
+            0,
+            138
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Secția CRP (Aliona Delinschi) va publica pe pagina oficială DGETS www. chisinauedu.md informația referitor la desfăşurarea concursului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Se desemnează responsabil pentru perfectarea actelor, ce țin de lansarea și desfaşurarea concursului, Larisa Arhip, specialist principal, Direcția managementul învățământului extraşcolar, tineret și sport.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 353.99399553385416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.5992914835612,
+            "r": 565.3900960286458,
+            "t": 408.67697893229166
+          },
+          "charspan": [
+            0,
+            208
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Se desemnează responsabil pentru perfectarea actelor, ce țin de lansarea și desfaşurarea concursului, Larisa Arhip, specialist principal, Direcția managementul învățământului extraşcolar, tineret și sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Se desemnează responsabil pentru executarea prevederilor prezentului ordin dna Silvia Butuc-Canațui, şef, Direcția managementul învățământului extraşcolar, tineret și sport.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 307.56508114583323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.94326273600261,
+            "r": 565.3900960286458,
+            "t": 343.3325372005208
+          },
+          "charspan": [
+            0,
+            176
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Se desemnează responsabil pentru executarea prevederilor prezentului ordin dna Silvia Butuc-Canațui, şef, Direcția managementul învățământului extraşcolar, tineret și sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Monitorizarea executării prevederilor prezentului ordin mi-l asum.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 280.05165341145835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.63120651245117,
+            "r": 459.1028645833333,
+            "t": 297.2475355729167
+          },
+          "charspan": [
+            0,
+            69
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Monitorizarea executării prevederilor prezentului ordin mi-l asum."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Ex. Larisa Arhip Tel. 022-235177",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 160.71209449218748,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.97517776489258,
+            "r": 142.64893595377606,
+            "t": 185.47417945312498
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Ex. Larisa Arhip Tel. 022-235177"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.33693173177085,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 459.4468180338542,
+            "r": 564.7021484375,
+            "t": 238.7814711197916
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "ef adjunct al DGETS",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 195.7917250260416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 443.6241455078125,
+            "r": 564.0142008463542,
+            "t": 209.5484388932291
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "ef adjunct al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "BD",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 215.0511244401041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 412.3227132161458,
+            "r": 424.0177408854167,
+            "t": 221.2416761979166
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "BD"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIM",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 136.63783505208335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 391.6844075520833,
+            "r": 405.0993245442708,
+            "t": 152.8019789322916
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "PRIM"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "SPORT",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 149.36281063802085,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 421.2659912109375,
+            "r": 450.1595865885417,
+            "t": 153.8337172135416
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 59.346656666666604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 167.33333333333334,
+            "r": 464.6666666666667,
+            "t": 83.67998999999998
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "R.P.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 754.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 405.3333333333333,
+            "r": 446.6666666666667,
+            "t": 782.3466566666666
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "R.P."
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "00023165 00023165",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 736.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 492.0,
+            "r": 534.7135416666667,
+            "t": 749.791549232076
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "00023165 00023165"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 629.2498854264322,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 141.84493001302084,
+            "r": 462.7402750651042,
+            "t": 656.4689711197916
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "DECIZIE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 607.6867140397135,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 278.7696329752604,
+            "r": 339.50803629557294,
+            "t": 625.3614475195312
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "DECIZIE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nr.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 569.5092950130208,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.54474385579427,
+            "r": 129.20572916666666,
+            "t": 583.6490858658854
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "JL",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 549.7136000260416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.6077168782552,
+            "r": 122.88612365722656,
+            "t": 564.2068861588541
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "JL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "8/4",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 568.4488091731771,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 179.41145833333331,
+            "r": 209.9561971028646,
+            "t": 592.8399427994791
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "8/4"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Despre aprobarea Regulamentului privind acordareaPremiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 507.2942478125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 120.77959187825522,
+            "r": 375.31911214192706,
+            "t": 553.6020481054687
+          },
+          "charspan": [
+            0,
+            132
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Despre aprobarea Regulamentului privind acordareaPremiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "7",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 551.4810764257812,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 294.2175496419271,
+            "r": 306.15458170572913,
+            "t": 562.0859144791666
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "7"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "octombrie 2013 or di",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 567.7418186132812,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 356.00921630859375,
+            "r": 525.585205078125,
+            "t": 588.5980096126302
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "octombrie 2013 or di"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "DONTRUCONFORMITATE",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 549.3601047460937,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 417.0987141927083,
+            "r": 509.0840250651042,
+            "t": 562.7929050390625
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "DONTRUCONFORMITATE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "C. Clayuatiie",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 521.4340386653646,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.3650309244792,
+            "r": 519.265625,
+            "t": 548.6531141861979
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "C. Clayuatiie"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "eeed",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 533.8063531184896,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 378.12782796223956,
+            "r": 396.0333658854167,
+            "t": 541.2297336523437
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "eeed"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "10",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 506.9407525325521,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 493.9871826171875,
+            "r": 515.7547200520833,
+            "t": 520.3735528255208
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "10"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu ocazia sărbătorii Hramul Chişinăului\", având în vedere nota informativă a Direcției generale educație, tineret și sport, în semn de apreciere a meritelor elevilor, a performanțelor sportivilor și contribuției persoanelor în etate la dezvoltarea municipiului și tării, în temeiul art. 14 (2) lit. n) și art.19 (4) din Legea Republicii Moldova nr. 436-XVI din 28 decembrie 2006Privind administrația publică locală\", Consiliul municipal Chişinău DECIDE:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 406.5482761328125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.1815808614095,
+            "r": 528.0428466796875,
+            "t": 495.9824191992187
+          },
+          "charspan": [
+            0,
+            453
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "Cu ocazia sărbătorii Hramul Chişinăului\", având în vedere nota informativă a Direcției generale educație, tineret și sport, în semn de apreciere a meritelor elevilor, a performanțelor sportivilor și contribuției persoanelor în etate la dezvoltarea municipiului și tării, în temeiul art. 14 (2) lit. n) și art.19 (4) din Legea Republicii Moldova nr. 436-XVI din 28 decembrie 2006Privind administrația publică locală\", Consiliul municipal Chişinău DECIDE:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se aprobă Regulamentul privind acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate (se anexează).",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 361.6544773046875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.08712005615234,
+            "r": 527.3406575520833,
+            "t": 396.296933359375
+          },
+          "charspan": [
+            0,
+            142
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "Se aprobă Regulamentul privind acordarea Premiului de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate (se anexează)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Pentru anul 2013 mărimea Premiului de merit pentru o persoană este de 1500 (una mie cinci sute) lei.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 292.72304013020823,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.29048156738281,
+            "r": 528.0428466796875,
+            "t": 324.5375339453125
+          },
+          "charspan": [
+            0,
+            100
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "Pentru anul 2013 mărimea Premiului de merit pentru o persoană este de 1500 (una mie cinci sute) lei."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Mărimea Premiului de merit se stabilește de către Comisia de concurs, constituită prin ordinul directorului general al Direcției generale educație, tineret și sport.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 322.416562265625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 106.38494110107422,
+            "r": 527.6917317708333,
+            "t": 367.66387671875
+          },
+          "charspan": [
+            0,
+            168
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "Mărimea Premiului de merit se stabilește de către Comisia de concurs, constituită prin ordinul directorului general al Direcției generale educație, tineret și sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se împuternicește dl Dorin Chirtoacă, primar general, să aprobe anual Lista deținătorilor Premiului de merit.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 263.73646786458323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 106.38494110107422,
+            "r": 528.3939208984375,
+            "t": 295.9044773046875
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "Se împuternicește dl Dorin Chirtoacă, primar general, să aprobe anual Lista deținătorilor Premiului de merit."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Se abrogă decizia Consiliului municipal Chişinău nr. 12/1 din 10 iulie 2008 Cu privire la aprobarea Regulamentului de acordare a Premiului de merit pentru încurajarea elevilor din învățământul preuniversitar și extraşcolar, din şcolile, liceele și colegiile de artă, sportivilor de performanță și persoanelor în etate\".",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 147.79021949218748,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.08712005615234,
+            "r": 528.3939208984375,
+            "t": 223.4380873307291
+          },
+          "charspan": [
+            0,
+            322
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "Se abrogă decizia Consiliului municipal Chişinău nr. 12/1 din 10 iulie 2008 Cu privire la aprobarea Regulamentului de acordare a Premiului de merit pentru încurajarea elevilor din învățământul preuniversitar și extraşcolar, din şcolile, liceele și colegiile de artă, sportivilor de performanță și persoanelor în etate\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Finanțarea cheltuielilor legate de acordarea Premiilor de merit va fi efectuatã în limita alocațiilor prevăzute în devizele de cheltuieli ale Direcției generale educație, tineret și sport și Direcției cultură în acest scop.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 217.0751722916666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.08712005615234,
+            "r": 528.0428466796875,
+            "t": 266.5644301041667
+          },
+          "charspan": [
+            0,
+            226
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "Finanțarea cheltuielilor legate de acordarea Premiilor de merit va fi efectuatã în limita alocațiilor prevăzute în devizele de cheltuieli ale Direcției generale educație, tineret și sport și Direcției cultură în acest scop."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Primarul general al municipiului Chișinău, dl Dorin Chirtoacă, va asigura controlulîndeplinirii prevederilor prezentei decizii.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 114.20826962239585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.08712005615234,
+            "r": 528.3939208984375,
+            "t": 148.85072567708335
+          },
+          "charspan": [
+            0,
+            130
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "Primarul general al municipiului Chișinău, dl Dorin Chirtoacă, va asigura controlulîndeplinirii prevederilor prezentei decizii."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PREŞEDINTE DESEDINTÄ",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 87.34266903645835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.50118255615234,
+            "r": 252.4379679361979,
+            "t": 103.60341122395835
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "PREŞEDINTE DESEDINTÄ"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "yadim",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 80.27276343749998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 392.17138671875,
+            "r": 465.1979166666667,
+            "t": 99.00799292968748
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "yadim"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "SACTIA",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 89.8171156510416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 464.8468017578125,
+            "r": 494.3382975260417,
+            "t": 98.65447730468748
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "SACTIA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cojuşneanu",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 79.9192885026041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 469.7620442708333,
+            "r": 530.5004475911458,
+            "t": 92.99859351562498
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "Cojuşneanu"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexă",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 731.4869459733072,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 347.28542073567706,
+            "r": 386.4635416666667,
+            "t": 744.1944375301107
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "Anexă"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la decizia Consiliului",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 714.7856672867838,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 345.47161865234375,
+            "r": 459.015625,
+            "t": 732.5761590266927
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "la decizia Consiliului"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "municipal Chișinău",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 699.8997470800781,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 348.0109456380208,
+            "r": 451.3976643880208,
+            "t": 714.4225945735677
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "municipal Chișinău"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "10. 10.",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 684.2876865332031,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 436.1617431640625,
+            "r": 489.124755859375,
+            "t": 698.0843886002604
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "10. 10."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2013",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 684.2876865332031,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 488.3992106119792,
+            "r": 530.1166585286458,
+            "t": 698.0843886002604
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "2013"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "REGULAMENT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 656.6942722265625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 281.26302083333337,
+            "r": 377.0317789713542,
+            "t": 670.854052093099
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "REGULAMENT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "privind acordarea Premiului de merit pentru încurajarea elevilor, sportivilor șipersoanelor în etate",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 626.1962863867187,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 143.77682495117188,
+            "r": 512.7041829427083,
+            "t": 656.6942722265625
+          },
+          "charspan": [
+            0,
+            100
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "privind acordarea Premiului de merit pentru încurajarea elevilor, sportivilor șipersoanelor în etate"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "I. Dispozițiigenerale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 597.8767266536458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.34348996480306,
+            "r": 219.95651245117188,
+            "t": 612.7626519466146
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "I. Dispozițiigenerale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Premiul de merit se acordă elevilor din instituțiile de învățământ preuniversitar și extraşcolar, școlile sportive, colegiile și școlile de muzică, artă plastică și pictură, laureaților Festivalului de muzică Roşu. Galben. Albastru\", pentru rezultate remarcabile obținute la olimpiade, competiții și concursuri europene și mondiale etc.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 425.7809421484375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.34348996480306,
+            "r": 543.538818359375,
+            "t": 498.75827776041666
+          },
+          "charspan": [
+            0,
+            339
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "Premiul de merit se acordă elevilor din instituțiile de învățământ preuniversitar și extraşcolar, școlile sportive, colegiile și școlile de muzică, artă plastică și pictură, laureaților Festivalului de muzică Roşu. Galben. Albastru\", pentru rezultate remarcabile obținute la olimpiade, competiții și concursuri europene și mondiale etc."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Premiul de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate (în continuare - Premiul de merit) se acordă anual, cu ocazia sărbătorii Hramul Chișinăului\", în scopul încurajării și susținerii materiale a tinerilor și elevilor care au obținut rezultate excepționale la învățătură, în domeniile sportului și artelor și care s-au implicat activ în acțiunile extracurriculare, precum și persoanelor în etate care și-au adus contribuția esențială la propagarea valorilor educaționale, științifice și culturale.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 496.942929453125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.06901041666667,
+            "r": 543.538818359375,
+            "t": 598.6028619075521
+          },
+          "charspan": [
+            0,
+            528
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "Premiul de merit pentru încurajarea elevilor, sportivilor și persoanelor în etate (în continuare - Premiul de merit) se acordă anual, cu ocazia sărbătorii Hramul Chișinăului\", în scopul încurajării și susținerii materiale a tinerilor și elevilor care au obținut rezultate excepționale la învățătură, în domeniile sportului și artelor și care s-au implicat activ în acțiunile extracurriculare, precum și persoanelor în etate care și-au adus contribuția esențială la propagarea valorilor educaționale, științifice și culturale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "II. Condițiile de participare la concursul Premiul de merit\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 393.8307061458333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.7062505086263,
+            "r": 435.7989501953125,
+            "t": 412.3473077083333
+          },
+          "charspan": [
+            0,
+            60
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "II. Condițiile de participare la concursul Premiul de merit\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.1",
+      "orig": "1.1 Elevii instituțiilor de învățământ preuniversitar și extraşcolar, instituțiilor sportive municipale, în cazul în care obțin media 9,5 (nouă întreg și cinci) la disciplinele de studii și sunt:",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 337.55466447916666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 115.1187515258789,
+            "r": 543.9015706380208,
+            "t": 384.0277683203125
+          },
+          "charspan": [
+            0,
+            195
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "Elevii instituțiilor de învățământ preuniversitar și extraşcolar, instituțiilor sportive municipale, în cazul în care obțin media 9,5 (nouă întreg și cinci) la disciplinele de studii și sunt:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. La concursul Premiul de merit\"pot participa:",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 380.03399390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.7062505086263,
+            "r": 358.8937581380208,
+            "t": 398.187558359375
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "La concursul Premiul de merit\"pot participa:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "a). Deținătorii locurilor I (întâi) la olimpiadele organizate la disciplinele de studii, etapa municipală, pe diverse profiluri (real, umanist, artistic, tehnic, ecologic, turistic, sportiv etc.);",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 293.6230238541667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 131.4429702758789,
+            "r": 543.538818359375,
+            "t": 339.3700127864583
+          },
+          "charspan": [
+            0,
+            196
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "a). Deținătorii locurilor I (întâi) la olimpiadele organizate la disciplinele de studii, etapa municipală, pe diverse profiluri (real, umanist, artistic, tehnic, ecologic, turistic, sportiv etc.);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2.",
+      "orig": "1.2. Elevii şcolilor sportive, deținători ai locurilor I (întâi), II (doi) și II (trei) la olimpiadele, concursurile și competițiile europene și mondiale.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 233.35320777343748,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 115.48151143391927,
+            "r": 543.9015706380208,
+            "t": 268.20802548177085
+          },
+          "charspan": [
+            0,
+            154
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "Elevii şcolilor sportive, deținători ai locurilor I (întâi), II (doi) și II (trei) la olimpiadele, concursurile și competițiile europene și mondiale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) Deținătorii locurilor I (întâi) și II (doi) la olimpiadele republicane organizate la disciplinele de studii.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 264.9404066666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 131.08021036783853,
+            "r": 543.9015706380208,
+            "t": 296.52760555989573
+          },
+          "charspan": [
+            0,
+            111
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "Deținătorii locurilor I (întâi) și II (doi) la olimpiadele republicane organizate la disciplinele de studii."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.3.",
+      "orig": "1.3. Elevii școlilor și colegilor de muzică, artă plastică și picturã, deținători ai locurilor I (întâi), II (doi) și III (trei) la festivalurile și concursurile internaționale.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 194.50457496093748,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.20703125,
+            "r": 544.2643229166667,
+            "t": 239.1623304947916
+          },
+          "charspan": [
+            0,
+            177
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "Elevii școlilor și colegilor de muzică, artă plastică și picturã, deținători ai locurilor I (întâi), II (doi) și III (trei) la festivalurile și concursurile internaționale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.5.",
+      "orig": "1.5. Laureații Festivalului de muzică Roşu. Galben. Albastru \".",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 115.7181166276041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.20703125,
+            "r": 454.6625162760417,
+            "t": 136.4131849869791
+          },
+          "charspan": [
+            0,
+            63
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/78",
+      "text": "Laureații Festivalului de muzică Roşu. Galben. Albastru \"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.4.",
+      "orig": "1.4. Învingătorii și premianții (cu vârsta de până la 20 ani), sportivii care au participat la Campionatele naționale, Turneele internaționale, Jocurile Balcanice, Campionatele europene, candidații Jocurilor Olimpice, membrii loturilor sportive ale Republicii Moldova.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 132.4194105729166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.56979115804036,
+            "r": 544.2643229166667,
+            "t": 195.59380835937498
+          },
+          "charspan": [
+            0,
+            268
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/79",
+      "text": "Învingătorii și premianții (cu vârsta de până la 20 ani), sportivii care au participat la Campionatele naționale, Turneele internaționale, Jocurile Balcanice, Campionatele europene, candidații Jocurilor Olimpice, membrii loturilor sportive ale Republicii Moldova."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.6.",
+      "orig": "1.6. Persoanele în etate cu performanțe în doeniul de activitate profesională.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 99.74297828124998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.56979115804036,
+            "r": 524.3125,
+            "t": 122.61647274739585
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/80",
+      "text": "Persoanele în etate cu performanțe în doeniul de activitate profesională."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Solicitantul Premiului de merit prezintă la concurs dosarul perfectat, conform prevederilor pct.5, compartimentul III din prezentul Regulament.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 71.42339820312498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.8828125,
+            "r": 543.538818359375,
+            "t": 108.81976050781248
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/81",
+      "text": "Solicitantul Premiului de merit prezintă la concurs dosarul perfectat, conform prevederilor pct.5, compartimentul III din prezentul Regulament."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Direcția generală educație, tineret și sport;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 727.8323744401041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 127.73090362548828,
+            "r": 350.91493733723956,
+            "t": 744.98072928833
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/82",
+      "text": "Direcția generală educație, tineret și sport;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Direcția sănătății.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 698.7851637467447,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 128.0763905843099,
+            "r": 223.4305623372396,
+            "t": 713.8337197566732
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/83",
+      "text": "Direcția sănătății."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Direcția cultură, Uniunile de creație;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 713.1337863867187,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 128.0763905843099,
+            "r": 322.5850830078125,
+            "t": 729.9321745499674
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/84",
+      "text": "Direcția cultură, Uniunile de creație;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "III. Modul de selectare a candidaților la Premiul de merit",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 682.336743540039,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.29166666666667,
+            "r": 428.3038330078125,
+            "t": 698.7851637467447
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/85",
+      "text": "III. Modul de selectare a candidaților la Premiul de merit"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Comisia de concurs activează pe parcursul întregului an calendaristic.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 637.8910088802083,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.94618097941081,
+            "r": 475.6354166666667,
+            "t": 653.9894585872396
+          },
+          "charspan": [
+            0,
+            73
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/86",
+      "text": "Comisia de concurs activează pe parcursul întregului an calendaristic."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. În scopul selectării candidaților la Premiul de merit, Direcția generală educație, tineret și sport constituie, prin ordinul directorului general, Comisia de concurs.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 652.5895969335937,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.32812563578288,
+            "r": 539.2048746744792,
+            "t": 684.0865756933594
+          },
+          "charspan": [
+            0,
+            169
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/87",
+      "text": "În scopul selectării candidaților la Premiul de merit, Direcția generală educație, tineret și sport constituie, prin ordinul directorului general, Comisia de concurs."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Din componența Comisiei de concurs fac parte specialişti ai Primăriei municipiului Chişinău, Direcției generale educație, tineret și sport, Direcției cultură, Direcției sănătății și consilieri ai Consiliului municipal Chişinău.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 595.1951063736979,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.60069465637207,
+            "r": 539.8958333333333,
+            "t": 639.2908705338541
+          },
+          "charspan": [
+            0,
+            230
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/88",
+      "text": "Din componența Comisiei de concurs fac parte specialişti ai Primăriei municipiului Chişinău, Direcției generale educație, tineret și sport, Direcției cultură, Direcției sănătății și consilieri ai Consiliului municipal Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Activitatea comisiei de concurs se consemnează în procese-verbale.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 536.7507094010416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.60069465637207,
+            "r": 466.6527913411458,
+            "t": 553.1991346940104
+          },
+          "charspan": [
+            0,
+            69
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/89",
+      "text": "Activitatea comisiei de concurs se consemnează în procese-verbale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Anual, în luna ianuarie, Comisia de concurs aprobă numărul total al candidaților la Premiul de merit, numărul candidaților după categorii (elevi, sportivi etc.) și mărimea Premiului de merit.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 552.849179453125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.94618097941081,
+            "r": 540.2413330078125,
+            "t": 595.5450717871094
+          },
+          "charspan": [
+            0,
+            194
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/90",
+      "text": "Anual, în luna ianuarie, Comisia de concurs aprobă numărul total al candidaților la Premiul de merit, numărul candidaților după categorii (elevi, sportivi etc.) și mărimea Premiului de merit."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Solicitanții Premiului de merit, până la data de 01 mai, prezintă administrației din instituția respectivă următoarele acte:",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 509.1033705338541,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.94618097941081,
+            "r": 540.2413330078125,
+            "t": 538.500546640625
+          },
+          "charspan": [
+            0,
+            127
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/91",
+      "text": "Solicitanții Premiului de merit, până la data de 01 mai, prezintă administrației din instituția respectivă următoarele acte:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "cererea personală;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 493.7048516536458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 142.58680725097656,
+            "r": 242.77778116861978,
+            "t": 508.4034397070312
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/92",
+      "text": "cererea personală;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "CV-ul;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 478.6562880143229,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 143.6232655843099,
+            "r": 184.73611450195312,
+            "t": 493.3548760677083
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/93",
+      "text": "CV-ul;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "extrasul din tabelul de note al elevului pentru anul de studii;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 462.20786272135416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 144.65972391764322,
+            "r": 458.3611246744792,
+            "t": 478.6562880143229
+          },
+          "charspan": [
+            0,
+            63
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/94",
+      "text": "extrasul din tabelul de note al elevului pentru anul de studii;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "copia adeverințelor care confirmă performanțele obtinute în cadrul competițiilor, turneelor, campionatelor naționale și internaționale sportive etc.;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 403.063534921875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 145.00520833333334,
+            "r": 540.9322916666667,
+            "t": 447.5092746679687
+          },
+          "charspan": [
+            0,
+            149
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/95",
+      "text": "copia adeverințelor care confirmă performanțele obtinute în cadrul competițiilor, turneelor, campionatelor naționale și internaționale sportive etc.;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "copia diplomelor care atestă locul obținut la concurs etc.;",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 446.4593886002604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 145.00520833333334,
+            "r": 445.232666015625,
+            "t": 463.60774472005204
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/96",
+      "text": "copia diplomelor care atestă locul obținut la concurs etc.;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "copia adeverințelor distincțiilor de Stat și a performanțelor obținute în domeniul de activitate profesional (pentru persoanele în etate).",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 371.21661109375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 145.00520833333334,
+            "r": 541.96875,
+            "t": 403.76348609375
+          },
+          "charspan": [
+            0,
+            138
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/97",
+      "text": "copia adeverințelor distincțiilor de Stat și a performanțelor obținute în domeniul de activitate profesional (pentru persoanele în etate)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Administrația instituției prezintă dosarele solicitanților Premiului-de merit și hotărârea Consiliului profesoral Direcției generale educație, tineretși sport (str. Mitropolit Dosoftei, 99, biroul 17), Direcției cultură (str. București, 68) și Direcției sănătății (str. Bucureşti, 35), în perioada 15 mai-30 iulie.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 284.77492001302073,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.67361132303874,
+            "r": 542.6597493489583,
+            "t": 346.36899553385416
+          },
+          "charspan": [
+            0,
+            317
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/98",
+      "text": "Administrația instituției prezintă dosarele solicitanților Premiului-de merit și hotărârea Consiliului profesoral Direcției generale educație, tineretși sport (str. Mitropolit Dosoftei, 99, biroul 17), Direcției cultură (str. București, 68) și Direcției sănătății (str. Bucureşti, 35), în perioada 15 mai-30 iulie."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Consiliul profesoral al instituției studiază actele prezentate, selectează candidatura și adoptă hotărârea respectivă.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 344.2691827083333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.67361132303874,
+            "r": 541.96875,
+            "t": 375.766171640625
+          },
+          "charspan": [
+            0,
+            121
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/99",
+      "text": "Consiliul profesoral al instituției studiază actele prezentate, selectează candidatura și adoptă hotărârea respectivă."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. Dosarele prezentate sunt evaluate de către Comisia de concurs, care aprobă lista candidaților la Premiul de merit și o prezintă spre aprobare primarului general până la data de 25 septembrie.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 244.52878557291672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.01909764607747,
+            "r": 543.0052083333333,
+            "t": 288.97450497395823
+          },
+          "charspan": [
+            0,
+            194
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/100",
+      "text": "Dosarele prezentate sunt evaluate de către Comisia de concurs, care aprobă lista candidaților la Premiul de merit și o prezintă spre aprobare primarului general până la data de 25 septembrie."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Mărimea Premiului de merit poate fi modificată anual în funcție de volumul de mijloace financiare prevăzute în bugetul municipal în acest scop.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 197.2833021744791,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.40104166666667,
+            "r": 543.0052083333333,
+            "t": 232.27992489583335
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/101",
+      "text": "Mărimea Premiului de merit poate fi modificată anual în funcție de volumul de mijloace financiare prevăzute în bugetul municipal în acest scop."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "IV. Dispoziții finale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 230.5301283463541,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.05555597941081,
+            "r": 223.08507283528647,
+            "t": 245.92864722656248
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/102",
+      "text": "IV. Dispoziții finale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. În caz de necesitate, Comisia de concurs poate solicita de la candidații pentru Premiul de merit, de rând cu actele prevăzute în pct. 5, compartimentul III al prezentului Regulament, alte informații. \"4",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 153.18751766927085,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.71007029215495,
+            "r": 544.0416666666667,
+            "t": 203.58269996093748
+          },
+          "charspan": [
+            0,
+            205
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/103",
+      "text": "În caz de necesitate, Comisia de concurs poate solicita de la candidații pentru Premiul de merit, de rând cu actele prevăzute în pct. 5, compartimentul III al prezentului Regulament, alte informații. \"4"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Persoanele care au beneficiat de Premiul de merit în anii precedenți, pot participa la concurs în mod repetat, în cazul în care performanțele obținute în anul curent nu sunt mai mici decât în anul precedent",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 110.49163550781248,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.36458396911621,
+            "r": 544.0416666666667,
+            "t": 156.68719214843748
+          },
+          "charspan": [
+            0,
+            209
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/104",
+      "text": "Persoanele care au beneficiat de Premiul de merit în anii precedenți, pot participa la concurs în mod repetat, în cazul în care performanțele obținute în anul curent nu sunt mai mici decât în anul precedent"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "SECRETAR ALCONSILIULUI",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 78.29473609374998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 368.53472900390625,
+            "r": 543.0052083333333,
+            "t": 94.3931654557291
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/105",
+      "text": "SECRETAR ALCONSILIULUI"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,5880 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/groups/9"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        },
+        {
+          "$ref": "#/texts/53"
+        },
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        },
+        {
+          "$ref": "#/texts/86"
+        },
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/groups/7"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/104"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "self_ref": "#/groups/7"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        },
+        {
+          "$ref": "#/texts/116"
+        },
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        },
+        {
+          "$ref": "#/texts/122"
+        },
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        },
+        {
+          "$ref": "#/texts/132"
+        },
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/8"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/140"
+        },
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        },
+        {
+          "$ref": "#/texts/145"
+        },
+        {
+          "$ref": "#/texts/146"
+        },
+        {
+          "$ref": "#/texts/147"
+        },
+        {
+          "$ref": "#/texts/148"
+        },
+        {
+          "$ref": "#/texts/149"
+        },
+        {
+          "$ref": "#/texts/150"
+        },
+        {
+          "$ref": "#/texts/151"
+        },
+        {
+          "$ref": "#/texts/152"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/9"
+    }
+  ],
+  "key_value_items": [],
+  "name": "34571db387d644c8f59816e5a2ea55340544490c0bc542c1b582b2e76dc3224a",
+  "origin": {
+    "binary_hash": 13079212974886036042,
+    "filename": "34571db387d644c8f59816e5a2ea55340544490c0bc542c1b582b2e76dc3224a.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "5": {
+      "page_no": 5,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "6": {
+      "page_no": 6,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "7": {
+      "page_no": 7,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "8": {
+      "page_no": 8,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 699.9699867856347,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 255.3976015033144,
+            "r": 367.62840346827653,
+            "t": 774.5229592514493
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 579.3979477092004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.04623364997633,
+            "r": 318.0222842684659,
+            "t": 625.8083378697236
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 339.45776126820755,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 409.4879424124053,
+            "r": 558.9799514678031,
+            "t": 464.89655799457495
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 208.89012654622397,
+                "coord_origin": "TOPLEFT",
+                "l": 171.79829915364581,
+                "r": 226.22868855794272,
+                "t": 145.86895243326825
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Centrului de prenumele secretarului Numele"
+            },
+            {
+              "bbox": {
+                "b": 208.89012654622397,
+                "coord_origin": "TOPLEFT",
+                "l": 228.625,
+                "r": 280.3167521158854,
+                "t": 120.24495951334634
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Nicorici Mariana, tel.:069635467 învățătoare examen"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 305.1532185872396,
+                "coord_origin": "TOPLEFT",
+                "l": 171.11363728841144,
+                "r": 226.22868855794272,
+                "t": 242.82459513346353
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "Centrului de secretarului prenumele Numele"
+            },
+            {
+              "bbox": {
+                "b": 305.1532185872396,
+                "coord_origin": "TOPLEFT",
+                "l": 227.59801228841147,
+                "r": 294.00994873046875,
+                "t": 218.23942057291666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "cadrul didactic de Tuchila Rodica, tel.: 068026255 examen sprijin"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 400.7237955729167,
+                "coord_origin": "TOPLEFT",
+                "l": 171.11363728841144,
+                "r": 226.22868855794272,
+                "t": 335.625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "Preşedintelui Centrului de prenumele Numele"
+            },
+            {
+              "bbox": {
+                "b": 400.7237955729167,
+                "coord_origin": "TOPLEFT",
+                "l": 227.94033813476562,
+                "r": 293.6676025390625,
+                "t": 314.50252278645837
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Poițan Victoria - director adjunct; nr. telefon - 069667836 examen"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 633.7636311848959,
+                "coord_origin": "TOPLEFT",
+                "l": 171.11363728841144,
+                "r": 184.12216186523438,
+                "t": 538.8855794270833
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "Instituțiile arondate"
+            },
+            {
+              "bbox": {
+                "b": 617.4889322916666,
+                "coord_origin": "TOPLEFT",
+                "l": 238.55255126953125,
+                "r": 548.703125,
+                "t": 409.03428141276044
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Insila ea  a iiviu 10. Instituția Publică Liceul Teoretic \"Petru Instituția Publică Gimnaziul nr.31 Instituția Publică Liceul Teoretic Instituția Publică Liceul Teoretic Instituția Publică Liceul Teoretic 11. Instituția Publică Liceul Teoretic 12. Instituția Publică Liceul Teoretic 13. Instituția Publică Liceul Teoretic Gimnaziul \"Nicolae H. Costin\" SECTORUL BOTANICA/ Instituția Privată \"ELITEX\" \"Tudor Vladimirescu\" Gimnaziul \"Galata\" \"Dimitrie Cantemir\" Gimnaziul nr. 49 \"Grigore Vieru\" \"Nicolae Iorga\" BUIUCANI \"RAMBAM\" Rebreanu\" Movilā\" \"Traian\" 2 3 4 5. 6. 2 8 9."
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 709.9430338541666,
+                "coord_origin": "TOPLEFT",
+                "l": 170.42897542317706,
+                "r": 197.13067626953125,
+                "t": 655.57861328125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "Centrul de examen"
+            },
+            {
+              "bbox": {
+                "b": 710.289306640625,
+                "coord_origin": "TOPLEFT",
+                "l": 238.55255126953125,
+                "r": 347.41335042317706,
+                "t": 642.0740966796875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Profil de Arte Ion și Doina Teodorovici\" Teoretic cu Instituția Publică Liceul Aldea-"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 751.1492106119791,
+                "coord_origin": "TOPLEFT",
+                "l": 169.7443135579427,
+                "r": 184.12216186523438,
+                "t": 714.7908121744791
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "Nrord"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": ""
+            }
+          ]
+        ],
+        "num_cols": 2,
+        "num_rows": 6,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 208.89012654622397,
+              "coord_origin": "TOPLEFT",
+              "l": 228.625,
+              "r": 280.3167521158854,
+              "t": 120.24495951334634
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Nicorici Mariana, tel.:069635467 învățătoare examen"
+          },
+          {
+            "bbox": {
+              "b": 208.89012654622397,
+              "coord_origin": "TOPLEFT",
+              "l": 171.79829915364581,
+              "r": 226.22868855794272,
+              "t": 145.86895243326825
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Centrului de prenumele secretarului Numele"
+          },
+          {
+            "bbox": {
+              "b": 305.1532185872396,
+              "coord_origin": "TOPLEFT",
+              "l": 227.59801228841147,
+              "r": 294.00994873046875,
+              "t": 218.23942057291666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "cadrul didactic de Tuchila Rodica, tel.: 068026255 examen sprijin"
+          },
+          {
+            "bbox": {
+              "b": 305.1532185872396,
+              "coord_origin": "TOPLEFT",
+              "l": 171.11363728841144,
+              "r": 226.22868855794272,
+              "t": 242.82459513346353
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "Centrului de secretarului prenumele Numele"
+          },
+          {
+            "bbox": {
+              "b": 400.7237955729167,
+              "coord_origin": "TOPLEFT",
+              "l": 227.94033813476562,
+              "r": 293.6676025390625,
+              "t": 314.50252278645837
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Poițan Victoria - director adjunct; nr. telefon - 069667836 examen"
+          },
+          {
+            "bbox": {
+              "b": 400.7237955729167,
+              "coord_origin": "TOPLEFT",
+              "l": 171.11363728841144,
+              "r": 226.22868855794272,
+              "t": 335.625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "Preşedintelui Centrului de prenumele Numele"
+          },
+          {
+            "bbox": {
+              "b": 617.4889322916666,
+              "coord_origin": "TOPLEFT",
+              "l": 238.55255126953125,
+              "r": 548.703125,
+              "t": 409.03428141276044
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Insila ea  a iiviu 10. Instituția Publică Liceul Teoretic \"Petru Instituția Publică Gimnaziul nr.31 Instituția Publică Liceul Teoretic Instituția Publică Liceul Teoretic Instituția Publică Liceul Teoretic 11. Instituția Publică Liceul Teoretic 12. Instituția Publică Liceul Teoretic 13. Instituția Publică Liceul Teoretic Gimnaziul \"Nicolae H. Costin\" SECTORUL BOTANICA/ Instituția Privată \"ELITEX\" \"Tudor Vladimirescu\" Gimnaziul \"Galata\" \"Dimitrie Cantemir\" Gimnaziul nr. 49 \"Grigore Vieru\" \"Nicolae Iorga\" BUIUCANI \"RAMBAM\" Rebreanu\" Movilā\" \"Traian\" 2 3 4 5. 6. 2 8 9."
+          },
+          {
+            "bbox": {
+              "b": 633.7636311848959,
+              "coord_origin": "TOPLEFT",
+              "l": 171.11363728841144,
+              "r": 184.12216186523438,
+              "t": 538.8855794270833
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "Instituțiile arondate"
+          },
+          {
+            "bbox": {
+              "b": 710.289306640625,
+              "coord_origin": "TOPLEFT",
+              "l": 238.55255126953125,
+              "r": 347.41335042317706,
+              "t": 642.0740966796875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Profil de Arte Ion și Doina Teodorovici\" Teoretic cu Instituția Publică Liceul Aldea-"
+          },
+          {
+            "bbox": {
+              "b": 709.9430338541666,
+              "coord_origin": "TOPLEFT",
+              "l": 170.42897542317706,
+              "r": 197.13067626953125,
+              "t": 655.57861328125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "Centrul de examen"
+          },
+          {
+            "bbox": {
+              "b": 751.1492106119791,
+              "coord_origin": "TOPLEFT",
+              "l": 169.7443135579427,
+              "r": 184.12216186523438,
+              "t": 714.7908121744791
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "Nrord"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 85.70844771848988,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 169.66090687144887,
+            "r": 549.5526716382576,
+            "t": 727.3550977955931
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 209.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 302.0,
+                "r": 341.6666666666667,
+                "t": 131.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "tel.: 069339195 Franț Anna, director"
+            }
+          ],
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 305.0,
+                "coord_origin": "TOPLEFT",
+                "l": 301.33333333333337,
+                "r": 341.0,
+                "t": 226.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "director adjunct, tel.:068487493 Lovțov Elena,"
+            }
+          ],
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 401.0,
+                "coord_origin": "TOPLEFT",
+                "l": 300.66666666666663,
+                "r": 341.0,
+                "t": 322.33333333333337
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "director adjunct, tel.: 069930457 Popa Svetlana,"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 618.0,
+                "coord_origin": "TOPLEFT",
+                "l": 84.0,
+                "r": 246.33333333333334,
+                "t": 422.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "34. Instituția Publică Liceul Teoretic cu Profil de Arte \"Ion și Doina Aldea- 36. Liceul Teoretic \"Antioh Cantemir\" 37. Liceul Teoretic \"I.S.Neciui-Levițchi\" 38. Liceul Teoretic \"Mihai Marinciuc\" 40. Instituția Publică Gimnaziul Durleşti 35. Liceul cu Profil Sportiv Buiucani 41. Instituția Publică Liceul Teoretic 39. Liceul Teoretic \"N. V. Gogol\" 42. Gimnaziul \"Ion T. Costin\" Teodorovici\" \"Hyperion\""
+            },
+            {
+              "bbox": {
+                "b": 619.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 246.0,
+                "r": 529.6666666666667,
+                "t": 414.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Instituția Publică Colegiul Național de Instituția Publică Gimnaziul \"Dumitru 7. Instituția Publică Liceul Republican de 43. Complexul Educațional (gimnaziu- Complexul Educațional Gimnaziul 5. Instituția Publică Liceul Teoretic cu 9. Instituția Publică Liceul Teoretic \"M. 44. Gimnaziul \"Gheorghe Malarciuc\" Instituția Publică Liceul Teoretic Gimnaziul \"Adrian Păunescu\" Muzică \"Serghei Rahmaninov\" SECTORUL RÂŞCANI/ CENTRU/CIOCANA Frecvență Redusă nr. 1 Grădiniță \"STEAM\" grădiniță) \"Truşeni\" \"Gheorghe Asachi\" Gimnaziul nr.53 Matcovschi\" Koţiubinski\" Coregrafie 4 6. 8. I 2 3"
+            }
+          ],
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 712.0,
+                "coord_origin": "TOPLEFT",
+                "l": 286.66666666666663,
+                "r": 369.3333333333333,
+                "t": 655.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "tefan cel Instituția Publică Teoretic Liceul Mare\""
+            }
+          ],
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 752.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 286.66666666666663,
+                "r": 299.66666666666663,
+                "t": 740.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "2"
+            }
+          ]
+        ],
+        "num_cols": 2,
+        "num_rows": 6,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 209.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 302.0,
+              "r": 341.6666666666667,
+              "t": 131.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "tel.: 069339195 Franț Anna, director"
+          },
+          {
+            "bbox": {
+              "b": 305.0,
+              "coord_origin": "TOPLEFT",
+              "l": 301.33333333333337,
+              "r": 341.0,
+              "t": 226.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "director adjunct, tel.:068487493 Lovțov Elena,"
+          },
+          {
+            "bbox": {
+              "b": 401.0,
+              "coord_origin": "TOPLEFT",
+              "l": 300.66666666666663,
+              "r": 341.0,
+              "t": 322.33333333333337
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "director adjunct, tel.: 069930457 Popa Svetlana,"
+          },
+          {
+            "bbox": {
+              "b": 619.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 246.0,
+              "r": 529.6666666666667,
+              "t": 414.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Instituția Publică Colegiul Național de Instituția Publică Gimnaziul \"Dumitru 7. Instituția Publică Liceul Republican de 43. Complexul Educațional (gimnaziu- Complexul Educațional Gimnaziul 5. Instituția Publică Liceul Teoretic cu 9. Instituția Publică Liceul Teoretic \"M. 44. Gimnaziul \"Gheorghe Malarciuc\" Instituția Publică Liceul Teoretic Gimnaziul \"Adrian Păunescu\" Muzică \"Serghei Rahmaninov\" SECTORUL RÂŞCANI/ CENTRU/CIOCANA Frecvență Redusă nr. 1 Grădiniță \"STEAM\" grădiniță) \"Truşeni\" \"Gheorghe Asachi\" Gimnaziul nr.53 Matcovschi\" Koţiubinski\" Coregrafie 4 6. 8. I 2 3"
+          },
+          {
+            "bbox": {
+              "b": 618.0,
+              "coord_origin": "TOPLEFT",
+              "l": 84.0,
+              "r": 246.33333333333334,
+              "t": 422.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "34. Instituția Publică Liceul Teoretic cu Profil de Arte \"Ion și Doina Aldea- 36. Liceul Teoretic \"Antioh Cantemir\" 37. Liceul Teoretic \"I.S.Neciui-Levițchi\" 38. Liceul Teoretic \"Mihai Marinciuc\" 40. Instituția Publică Gimnaziul Durleşti 35. Liceul cu Profil Sportiv Buiucani 41. Instituția Publică Liceul Teoretic 39. Liceul Teoretic \"N. V. Gogol\" 42. Gimnaziul \"Ion T. Costin\" Teodorovici\" \"Hyperion\""
+          },
+          {
+            "bbox": {
+              "b": 712.0,
+              "coord_origin": "TOPLEFT",
+              "l": 286.66666666666663,
+              "r": 369.3333333333333,
+              "t": 655.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "tefan cel Instituția Publică Teoretic Liceul Mare\""
+          },
+          {
+            "bbox": {
+              "b": 752.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 286.66666666666663,
+              "r": 299.66666666666663,
+              "t": 740.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "2"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 85.15738750371588,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.02032566879734,
+            "r": 530.1302586410985,
+            "t": 728.283566206525
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 5
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/1"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "11",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 718.194375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 341.0101725260417,
+            "r": 354.5421549479167,
+            "t": 725.0225
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "11"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIN NOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 703.819375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 285.10174560546875,
+            "r": 337.80523681640625,
+            "t": 711.006875
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "PRIN NOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 682.61625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 212.8125,
+            "r": 408.31394449869794,
+            "t": 696.631875
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERETŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 640.21,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 195.36337280273438,
+            "r": 483.4520263671875,
+            "t": 671.11625
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERETŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01/1060in30",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 596.006875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.3953488667806,
+            "r": 250.2034912109375,
+            "t": 624.756875
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "01/1060in30"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 571.21,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 288.30668131510413,
+            "r": 350.98109944661456,
+            "t": 584.506875
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref.: Organizarea examenelor naționale de absolvire a gimnaziului, sesiune suplimentară, august 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 528.085,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.1904067993164,
+            "r": 410.8066813151042,
+            "t": 558.2725
+          },
+          "charspan": [
+            0,
+            100
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Ref.: Organizarea examenelor naționale de absolvire a gimnaziului, sesiune suplimentară, august 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Întru realizarea prevederilor ordinului Ministerului Educației și Cercetării al Republicii Moldova nr. 1469 din 20.07.2026 ,,Cu privire la examenele naționale de absolvire a gimnaziului, sesiunea suplimentară, august 2026\", în conformitate cu prevederile Regulamentului cu privire la examenele naționale de absolvire a gimnaziului, aprobat prin ordinul Ministerului Educației și Cercetării nr. 48/2018 și în scopul organizării și desfaşurării regulamentare a sesiunii suplimentare de examene, august 2026,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 432.85062500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.8343022664388,
+            "r": 555.7412923177083,
+            "t": 527.725625
+          },
+          "charspan": [
+            0,
+            505
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Întru realizarea prevederilor ordinului Ministerului Educației și Cercetării al Republicii Moldova nr. 1469 din 20.07.2026 ,,Cu privire la examenele naționale de absolvire a gimnaziului, sesiunea suplimentară, august 2026\", în conformitate cu prevederile Regulamentului cu privire la examenele naționale de absolvire a gimnaziului, aprobat prin ordinul Ministerului Educației și Cercetării nr. 48/2018 și în scopul organizării și desfaşurării regulamentare a sesiunii suplimentare de examene, august 2026,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 418.11625000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 294.7165730794271,
+            "r": 344.21510823567706,
+            "t": 431.41312500000004
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează, cu titlu de excepție, sesiunea suplimentară din august a examenelor naționale de absolvire  gimnaziului pentru candidații care au obținut note insuficiente la examen/examene și/sau nu s-a prezentat din motive întemeiate în sesiunea de bază, iunie 2026, conform orarului:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 354.86625000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.06395467122395,
+            "r": 555.7412923177083,
+            "t": 415.24125000000004
+          },
+          "charspan": [
+            0,
+            289
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se organizează, cu titlu de excepție, sesiunea suplimentară din august a examenelor naționale de absolvire  gimnaziului pentru candidații care au obținut note insuficiente la examen/examene și/sau nu s-a prezentat din motive întemeiate în sesiunea de bază, iunie 2026, conform orarului:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "11 august 2026 – Istoria românilor și universală.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 338.69437500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 177.55813598632812,
+            "r": 411.875,
+            "t": 352.35062500000004
+          },
+          "charspan": [
+            0,
+            49
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "11 august 2026 – Istoria românilor și universală."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "12august2026-Matematica",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 322.88187500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 177.91424560546875,
+            "r": 322.13663736979163,
+            "t": 335.81937500000004
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "12august2026-Matematica"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "13august2026 – Limba de instruire",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 307.06937500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 177.20203653971356,
+            "r": 354.18605550130206,
+            "t": 320.00687500000004
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "13august2026 – Limba de instruire"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "14 august 2026- Limba și literatura română,alolingvi",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 290.89750000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 177.55813598632812,
+            "r": 441.7878011067708,
+            "t": 303.83500000000004
+          },
+          "charspan": [
+            0,
+            52
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "14 august 2026- Limba și literatura română,alolingvi"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Probele de examen se vor desfaşura începând cu ora 10.00.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 274.72562500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 122.00581359863281,
+            "r": 411.875,
+            "t": 289.10062500000004
+          },
+          "charspan": [
+            0,
+            57
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Probele de examen se vor desfaşura începând cu ora 10.00."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se instituie Centrele Municipale de Examene pentru sesiunea suplimentară din august la examenele naționale de absolvire a gimnaziului și componența nominală a Comisiilor acestor centre, conform anexei la prezentul ordin.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 231.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.63953399658203,
+            "r": 555.7412923177083,
+            "t": 273.64750000000004
+          },
+          "charspan": [
+            0,
+            223
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Se instituie Centrele Municipale de Examene pentru sesiunea suplimentară din august la examenele naționale de absolvire a gimnaziului și componența nominală a Comisiilor acestor centre, conform anexei la prezentul ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Preşedinții Centrelor Municipale de Examene pentru sesiunea suplimentară din august la examenele naționale de absolvire a gimnaziului, Popa Svetlana, director adjunct, IPLT Ştefan cel Mare\", Poițan Victoria, director adjunct IPLTPA ,Ion și Doina AldeaTeodorovici\":",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 178.05375000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.99563852945964,
+            "r": 555.7412923177083,
+            "t": 232.31937500000004
+          },
+          "charspan": [
+            0,
+            267
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Preşedinții Centrelor Municipale de Examene pentru sesiunea suplimentară din august la examenele naționale de absolvire a gimnaziului, Popa Svetlana, director adjunct, IPLT Ştefan cel Mare\", Poițan Victoria, director adjunct IPLTPA ,Ion și Doina AldeaTeodorovici\":"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. vor crea condiții pentru buna desfáşurare a sesiunii suplimentare din august la examenele naționale de absolvire a gimnaziului;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 149.30375000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.70785013834636,
+            "r": 554.3168538411458,
+            "t": 176.25687500000004
+          },
+          "charspan": [
+            0,
+            132
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "vor crea condiții pentru buna desfáşurare a sesiunii suplimentare din august la examenele naționale de absolvire a gimnaziului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. vor aproba lista cadrelor didactice, care vor asigura asistență în sălile de examen și le va instrui conform Regulamentului cu privire la examenele naționale de absolvire a gimnaziului;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.97562500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.70785013834636,
+            "r": 556.0973714192708,
+            "t": 148.94437500000004
+          },
+          "charspan": [
+            0,
+            190
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "vor aproba lista cadrelor didactice, care vor asigura asistență în sălile de examen și le va instrui conform Regulamentului cu privire la examenele naționale de absolvire a gimnaziului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.3.",
+      "orig": "3.3. vor prelua pachetul cu teste de la Agenția Națională pentru Curriculum și Evaluare în dimineața fiecărei zile de examene;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 80.66312500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.35174306233723,
+            "r": 555.3851725260417,
+            "t": 107.97562500000004
+          },
+          "charspan": [
+            0,
+            126
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "vor prelua pachetul cu teste de la Agenția Națională pentru Curriculum și Evaluare în dimineața fiecărei zile de examene;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.4.",
+      "orig": "3.4. vor transmite testele candidaților care participă la sesiunea suplimentară din august, pentru verificare, în Centrul Republican de Evaluare Liceul Teoretic Iulia Haşdeu\".",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 757.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.33333333333333,
+            "r": 555.3333333333333,
+            "t": 786.6266666666667
+          },
+          "charspan": [
+            0,
+            175
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "vor transmite testele candidaților care participă la sesiunea suplimentară din august, pentru verificare, în Centrul Republican de Evaluare Liceul Teoretic Iulia Haşdeu\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "4.1.vor informa candidații care nu au promovat examenele de absolvire a gimnaziului și cei care au absentat motivat în sesiunea de bază despre orarul examenelor în sesiunea suplimentară din august;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 701.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.0,
+            "r": 555.6666666666667,
+            "t": 744.6266666666667
+          },
+          "charspan": [
+            0,
+            197
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "4.1.vor informa candidații care nu au promovat examenele de absolvire a gimnaziului și cei care au absentat motivat în sesiunea de bază despre orarul examenelor în sesiunea suplimentară din august;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Directorii instituțiilor de învățământ secundar, ciclul I și ciclul II:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 743.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.0,
+            "r": 437.3333333333333,
+            "t": 758.2933333333334
+          },
+          "charspan": [
+            0,
+            74
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Directorii instituțiilor de învățământ secundar, ciclul I și ciclul II:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2.",
+      "orig": "4.2. vor asigura prezența candidaților în sesiunea suplimentară din august la Centrul de Examene, în fiecare zi, conform orarului, către ora 9.30, având cu ei o copie autentificată a actului de identitate pe care este lipită fotografia candidatului, de asemenea autentificată cu ştampila instituției de învățământ;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 646.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.66666666666667,
+            "r": 556.0,
+            "t": 702.6266666666668
+          },
+          "charspan": [
+            0,
+            314
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "vor asigura prezența candidaților în sesiunea suplimentară din august la Centrul de Examene, în fiecare zi, conform orarului, către ora 9.30, având cu ei o copie autentificată a actului de identitate pe care este lipită fotografia candidatului, de asemenea autentificată cu ştampila instituției de învățământ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Direcția managementul curricular (S. Axînti, şef):",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 632.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.0,
+            "r": 362.3333333333333,
+            "t": 646.2933333333334
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Direcția managementul curricular (S. Axînti, şef):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.2.",
+      "orig": "5.2. va asigura constituirea bazei de date statistice cu referire la candidații la examenul de absolvire a gimnaziului, sesiunea suplimentară, august 2026.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 590.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.33333333333333,
+            "r": 555.3333333333333,
+            "t": 618.6266666666667
+          },
+          "charspan": [
+            0,
+            155
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "va asigura constituirea bazei de date statistice cu referire la candidații la examenul de absolvire a gimnaziului, sesiunea suplimentară, august 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.1.",
+      "orig": "5.1. va familiariza conducătorii unităților de învățământ cu conținutul prezentului ordin;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 617.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.33333333333333,
+            "r": 528.0,
+            "t": 632.96
+          },
+          "charspan": [
+            0,
+            90
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "va familiariza conducătorii unităților de învățământ cu conținutul prezentului ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Responsabili de îndeplinirea prevederilor prezentului ordin se desemnează S. Axînti, şef al direcției managementul curricular și preşedinții Centrelor Municipale de Examene: Popa Svetlana, director adjunct IPLT Ştefan cel Mare\", Poițan Victoria, director adjunct IPLTPA ,,Ion și Doina Aldea-Teodorovici\".",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 536.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.66666666666667,
+            "r": 556.6666666666667,
+            "t": 591.96
+          },
+          "charspan": [
+            0,
+            307
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Responsabili de îndeplinirea prevederilor prezentului ordin se desemnează S. Axînti, şef al direcției managementul curricular și preşedinții Centrelor Municipale de Examene: Popa Svetlana, director adjunct IPLT Ştefan cel Mare\", Poițan Victoria, director adjunct IPLTPA ,,Ion și Doina Aldea-Teodorovici\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Controlul îndeplinirii prevederilor ordinului emis se pune în seama V. Crudu, şef adjunct la DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 510.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.33333333333333,
+            "r": 555.6666666666667,
+            "t": 537.6266666666668
+          },
+          "charspan": [
+            0,
+            102
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Controlul îndeplinirii prevederilor ordinului emis se pune în seama V. Crudu, şef adjunct la DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Şef adjunct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 453.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 498.0,
+            "r": 556.0,
+            "t": 467.6266666666667
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Şef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "DanielaN",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 433.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 409.3333333333333,
+            "r": 456.6666666666667,
+            "t": 446.6266666666667
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "DanielaN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "0600",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 371.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 480.0,
+            "r": 498.6666666666667,
+            "t": 373.6266666666667
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "0600"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIMA",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 347.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 451.6666666666667,
+            "r": 473.0,
+            "t": 363.96000000000004
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "PRIMA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "RIA",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 348.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 473.0,
+            "r": 487.3333333333333,
+            "t": 356.29333333333335
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "RIA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: S. Axînti, (022)235272",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 288.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.0,
+            "r": 240.0,
+            "t": 305.2933333333334
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Ex.: S. Axînti, (022)235272"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Str. Mitropolit Dosoftei, 99, municipiul Chişinău, MD-2704, Republica Moldova,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 259.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.33333333333333,
+            "r": 519.3333333333333,
+            "t": 277.96000000000004
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Str. Mitropolit Dosoftei, 99, municipiul Chişinău, MD-2704, Republica Moldova,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 232.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 138.66666666666666,
+            "r": 500.0,
+            "t": 253.2933333333334
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexa",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 721.0613107299805,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.53125,
+            "r": 98.88210169474284,
+            "t": 756.3808666483561
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Anexa"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 726.2553618367514,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.5397720336914,
+            "r": 113.6022720336914,
+            "t": 756.727136891683
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "din la ordinul DGETS nr. și componența nominală a Comisiilor acestor centre",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 298.6116927083333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.88210169474284,
+            "r": 157.078125,
+            "t": 670.8521407063802
+          },
+          "charspan": [
+            0,
+            75
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "din la ordinul DGETS nr. și componența nominală a Comisiilor acestor centre"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "14. Instituția Publică Liceul Teoretic cu",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 226.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.33333333333333,
+            "r": 97.33333333333333,
+            "t": 414.6266666666667
+          },
+          "charspan": [
+            0,
+            41
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "14. Instituția Publică Liceul Teoretic cu"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "17. Liceul Teoretic \"Mircea cel Bătrân\" 18. Liceul Teoretic \"Vasile Alecsandri\" 19. Liceul Teoretic cu profil sportiv",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 225.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 164.0,
+            "r": 206.0,
+            "t": 413.6266666666667
+          },
+          "charspan": [
+            0,
+            117
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "17. Liceul Teoretic \"Mircea cel Bătrân\" 18. Liceul Teoretic \"Vasile Alecsandri\" 19. Liceul Teoretic cu profil sportiv"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "27. Instituția Privată Liceul \"Columna\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 367.0,
+            "r": 380.3333333333333,
+            "t": 408.96000000000004
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "27. Instituția Privată Liceul \"Columna\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Profil Arte \"Mihai Grecu\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 242.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.0,
+            "r": 110.33333333333334,
+            "t": 368.6266666666667
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "Profil Arte \"Mihai Grecu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PETRICEICU HAŞDEU\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 242.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.0,
+            "r": 138.33333333333331,
+            "t": 368.29333333333335
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "PETRICEICU HAŞDEU\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "de Creativitate și Inventică",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 340.3333333333333,
+            "r": 353.3333333333333,
+            "t": 370.96000000000004
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "de Creativitate și Inventică"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "15. LICEUL TEORETIC \"BOGDAN",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 225.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.0,
+            "r": 124.66666666666666,
+            "t": 404.29333333333335
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "15. LICEUL TEORETIC \"BOGDAN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "23. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 259.33333333333337,
+            "r": 272.66666666666663,
+            "t": 399.29333333333335
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "23. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "25. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 300.0,
+            "r": 312.66666666666663,
+            "t": 399.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "25. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "28. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 380.6666666666667,
+            "r": 393.3333333333333,
+            "t": 399.29333333333335
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "28. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "29. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 407.3333333333333,
+            "r": 420.6666666666667,
+            "t": 398.96000000000004
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "29. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "31. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 461.3333333333333,
+            "r": 474.0,
+            "t": 399.29333333333335
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "31. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "33. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 514.0,
+            "r": 528.6666666666667,
+            "t": 399.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "33. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "HASDEU\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 242.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 151.0,
+            "r": 164.0,
+            "t": 299.2933333333333
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "HASDEU\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "16. LICEUL TEORETIC \"IULIA",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 225.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 137.33333333333334,
+            "r": 151.66666666666669,
+            "t": 385.6266666666667
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "16. LICEUL TEORETIC \"IULIA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Principesa Natalia Dadiani\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 528.0,
+            "r": 542.0,
+            "t": 379.6266666666667
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "\"Principesa Natalia Dadiani\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Gloria\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 204.33333333333334,
+            "r": 219.0,
+            "t": 285.96000000000004
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "\"Gloria\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Deleanu\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 242.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 448.3333333333333,
+            "r": 461.0,
+            "t": 288.2933333333333
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "Deleanu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "20. Gimnaziul \"Decebal\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 218.66666666666666,
+            "r": 232.66666666666666,
+            "t": 345.29333333333335
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "20. Gimnaziul \"Decebal\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Alexandru cel Bun\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 273.33333333333337,
+            "r": 286.0,
+            "t": 342.6266666666667
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "\"Alexandru cel Bun\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Vasile Vasilache\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 313.33333333333337,
+            "r": 326.33333333333337,
+            "t": 333.29333333333335
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "\"Vasile Vasilache\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Alexandr Puşkin\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 394.3333333333333,
+            "r": 406.6666666666667,
+            "t": 332.96000000000004
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "\"Alexandr Puşkin\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "21. Gimnaziul nr.68",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 232.66666666666666,
+            "r": 245.33333333333334,
+            "t": 321.96000000000004
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "21. Gimnaziul nr.68"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "22. Gimnaziul nr.67",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 245.33333333333334,
+            "r": 259.66666666666663,
+            "t": 321.6266666666668
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "22. Gimnaziul nr.67"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "24. Gimnaziul nr. 86",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 286.33333333333337,
+            "r": 299.66666666666663,
+            "t": 325.2933333333333
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "24. Gimnaziul nr. 86"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Onisifor Ghibu\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 474.3333333333333,
+            "r": 487.6666666666667,
+            "t": 324.96000000000004
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "\"Onisifor Ghibu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "26. Instituția Privată de Învățământ Liceul",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 325.66666666666663,
+            "r": 340.0,
+            "t": 425.29333333333335
+          },
+          "charspan": [
+            0,
+            43
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "26. Instituția Privată de Învățământ Liceul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"PROMETEU-PRIM\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 353.0,
+            "r": 366.3333333333333,
+            "t": 348.96000000000004
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "\"PROMETEU-PRIM\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Anton Cehov\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 420.6666666666667,
+            "r": 434.0,
+            "t": 317.2933333333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "\"Anton Cehov\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "30. Instituția Publică Liceul Teoretic \"Liviu",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 434.0,
+            "r": 448.0,
+            "t": 431.96000000000004
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "30. Instituția Publică Liceul Teoretic \"Liviu"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "32. Instituția Publică Liceul Teoretic \"Petru",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 488.0,
+            "r": 501.3333333333333,
+            "t": 431.29333333333335
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "32. Instituția Publică Liceul Teoretic \"Petru"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Rareş\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 500.6666666666667,
+            "r": 515.6666666666667,
+            "t": 276.6266666666668
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "Rareş\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "10. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 225.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 98.0,
+            "t": 400.29333333333335
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "10. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "11. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 225.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.66666666666666,
+            "r": 125.0,
+            "t": 399.96000000000004
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "11. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "12. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 225.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 137.0,
+            "r": 152.0,
+            "t": 399.96000000000004
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "12. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "15. Liceul Teoretic \"Titu Maiorescu\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 219.0,
+            "r": 232.66666666666666,
+            "t": 399.96000000000004
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "15. Liceul Teoretic \"Titu Maiorescu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "21. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 326.0,
+            "r": 340.6666666666667,
+            "t": 399.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "21. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "24. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 407.6666666666667,
+            "r": 421.0,
+            "t": 398.96000000000004
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "24. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "25. Instituția Publică Liceul Teoretic \"Alexandru Ioan Cuza\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 421.3333333333333,
+            "r": 448.0,
+            "t": 398.29333333333335
+          },
+          "charspan": [
+            0,
+            60
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/78",
+      "text": "25. Instituția Publică Liceul Teoretic \"Alexandru Ioan Cuza\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "27. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 488.3333333333333,
+            "r": 501.6666666666667,
+            "t": 398.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/79",
+      "text": "27. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Miguel de Cervantes Saavedra\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 502.0,
+            "r": 515.6666666666667,
+            "t": 397.29333333333335
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/80",
+      "text": "\"Miguel de Cervantes Saavedra\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Mihai Viteazul\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.0,
+            "r": 110.33333333333334,
+            "t": 325.6266666666668
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/81",
+      "text": "\"Mihai Viteazul\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Liceul \"Svetoci\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 394.3333333333333,
+            "r": 407.0,
+            "t": 322.96000000000004
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/82",
+      "text": "Liceul \"Svetoci\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CREANGÃ\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 474.0,
+            "r": 487.6666666666667,
+            "t": 307.2933333333333
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/83",
+      "text": "CREANGÃ\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Minerva\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 242.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.33333333333334,
+            "r": 137.0,
+            "t": 293.2933333333333
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/84",
+      "text": "\"Minerva\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Metodii\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 313.33333333333337,
+            "r": 325.66666666666663,
+            "t": 287.2933333333333
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/85",
+      "text": "Metodii\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Basarab\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 367.0,
+            "r": 380.6666666666667,
+            "t": 286.96000000000004
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/86",
+      "text": "Basarab\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Universul\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 242.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 151.0,
+            "r": 164.66666666666669,
+            "t": 301.6266666666668
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/87",
+      "text": "\"Universul\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "C.Sibirschi\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 206.0,
+            "r": 219.33333333333334,
+            "t": 302.6266666666668
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/88",
+      "text": "C.Sibirschi\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "profil de arte \"Nicolae Sulac\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 177.66666666666669,
+            "r": 194.0,
+            "t": 383.6266666666667
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/89",
+      "text": "profil de arte \"Nicolae Sulac\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "13. Instituția Publică Liceul Teoretic cu",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 164.66666666666669,
+            "r": 179.0,
+            "t": 413.6266666666667
+          },
+          "charspan": [
+            0,
+            41
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/90",
+      "text": "13. Instituția Publică Liceul Teoretic cu"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "23. Instituția Învățământ Preuniversitar",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 380.6666666666667,
+            "r": 394.0,
+            "t": 410.6266666666667
+          },
+          "charspan": [
+            0,
+            40
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/91",
+      "text": "23. Instituția Învățământ Preuniversitar"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "14. Liceul Teoretic \"Academician",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 192.66666666666669,
+            "r": 205.66666666666666,
+            "t": 386.29333333333335
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/92",
+      "text": "14. Liceul Teoretic \"Academician"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "16. Liceul Teoretic \"Vasile Lupu\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 233.0,
+            "r": 246.0,
+            "t": 385.96000000000004
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/93",
+      "text": "16. Liceul Teoretic \"Vasile Lupu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "19. Gimnaziul \"Taras Şevcenco\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 273.33333333333337,
+            "r": 286.33333333333337,
+            "t": 380.29333333333335
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/94",
+      "text": "19. Gimnaziul \"Taras Şevcenco\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "17. Instituția Publică Gimnaziul nr.42",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 246.66666666666666,
+            "r": 259.66666666666663,
+            "t": 403.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/95",
+      "text": "17. Instituția Publică Gimnaziul nr.42"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "18. Gimnaziul \"Ion Luca Caragiale\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 260.66666666666663,
+            "r": 273.0,
+            "t": 393.29333333333335
+          },
+          "charspan": [
+            0,
+            34
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/96",
+      "text": "18. Gimnaziul \"Ion Luca Caragiale\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Educațional Liceul - Grădiniță \"Kiril și",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 299.66666666666663,
+            "r": 314.0,
+            "t": 428.6266666666667
+          },
+          "charspan": [
+            0,
+            40
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/97",
+      "text": "Educațional Liceul - Grădiniță \"Kiril și"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "26. Instituția Publică Liceul Teoretic \"ION",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 461.3333333333333,
+            "r": 475.0,
+            "t": 426.6266666666667
+          },
+          "charspan": [
+            0,
+            43
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/98",
+      "text": "26. Instituția Publică Liceul Teoretic \"ION"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "20. Instituția Publică Complexul",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 286.0,
+            "r": 300.33333333333337,
+            "t": 379.96000000000004
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/99",
+      "text": "20. Instituția Publică Complexul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Nicolae Milescu Spătarul\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 529.0,
+            "r": 542.6666666666667,
+            "t": 372.96000000000004
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/100",
+      "text": "\"Nicolae Milescu Spătarul\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Academia Copiilor\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 239.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 340.6666666666667,
+            "r": 353.3333333333333,
+            "t": 343.29333333333335
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/101",
+      "text": "\"Academia Copiilor\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2 ea  a itatet",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 353.0,
+            "r": 367.6666666666667,
+            "t": 433.96000000000004
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/102",
+      "text": "2 ea  a itatet"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Beniamin Zeev Herțli\"",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 448.3333333333333,
+            "r": 461.0,
+            "t": 355.96000000000004
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/103",
+      "text": "\"Beniamin Zeev Herțli\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "28.",
+      "orig": "28. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 515.6666666666667,
+            "r": 528.6666666666667,
+            "t": 398.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/104",
+      "text": "Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "29. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.33333333333333,
+            "r": 97.66666666666667,
+            "t": 400.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/105",
+      "text": "29. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "34. Liceul Teoretic \"George Meniuc\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 205.66666666666666,
+            "r": 220.0,
+            "t": 402.29333333333335
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/106",
+      "text": "34. Liceul Teoretic \"George Meniuc\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "40. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 287.0,
+            "r": 299.33333333333337,
+            "t": 398.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/107",
+      "text": "40. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "42. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 326.33333333333337,
+            "r": 340.6666666666667,
+            "t": 399.29333333333335
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/108",
+      "text": "42. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "44. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 380.0,
+            "r": 394.3333333333333,
+            "t": 398.96000000000004
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/109",
+      "text": "44. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "45. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 407.0,
+            "r": 421.6666666666667,
+            "t": 398.96000000000004
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/110",
+      "text": "45. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "46. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 434.3333333333333,
+            "r": 447.6666666666667,
+            "t": 398.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/111",
+      "text": "46. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "48. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 475.3333333333333,
+            "r": 488.0,
+            "t": 398.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/112",
+      "text": "48. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "49. Instituția Publică Liceul cu Profil",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 501.3333333333333,
+            "r": 515.0,
+            "t": 399.29333333333335
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/113",
+      "text": "49. Instituția Publică Liceul cu Profil"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "50. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 528.3333333333333,
+            "r": 542.6666666666667,
+            "t": 398.96000000000004
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/114",
+      "text": "50. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Ștefan cel Mare\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 242.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.0,
+            "r": 110.66666666666666,
+            "t": 329.29333333333335
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/115",
+      "text": "\"Ștefan cel Mare\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Toader Bubuiog\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.0,
+            "r": 434.0,
+            "t": 329.6266666666667
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/116",
+      "text": "\"Toader Bubuiog\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Vieru\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 242.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.0,
+            "r": 138.0,
+            "t": 276.6266666666668
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/117",
+      "text": "Vieru\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "30. Liceul Academic de Arte Plastice \"Igor",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.33333333333334,
+            "r": 124.66666666666666,
+            "t": 430.29333333333335
+          },
+          "charspan": [
+            0,
+            42
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/118",
+      "text": "30. Liceul Academic de Arte Plastice \"Igor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "31. Liceul Republican de Muzică \"Ciprian",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 137.66666666666666,
+            "r": 151.66666666666669,
+            "t": 426.29333333333335
+          },
+          "charspan": [
+            0,
+            40
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/119",
+      "text": "31. Liceul Republican de Muzică \"Ciprian"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "36. Liceul Teoretic \"Mihail Lomonosov\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 233.0,
+            "r": 246.0,
+            "t": 418.29333333333335
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/120",
+      "text": "36. Liceul Teoretic \"Mihail Lomonosov\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "37. Liceul Teoretic \"Mihail Sadoveanu\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 246.33333333333334,
+            "r": 260.0,
+            "t": 414.29333333333335
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/121",
+      "text": "37. Liceul Teoretic \"Mihail Sadoveanu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Porumbescu\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 151.0,
+            "r": 165.33333333333331,
+            "t": 308.6266666666668
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/122",
+      "text": "Porumbescu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Gaudeamus\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 488.3333333333333,
+            "r": 501.0,
+            "t": 309.6266666666668
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/123",
+      "text": "\"Gaudeamus\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "RUSSO\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 176.66666666666669,
+            "r": 192.66666666666669,
+            "t": 288.2933333333333
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/124",
+      "text": "RUSSO\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Grătieşti\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 340.3333333333333,
+            "r": 353.0,
+            "t": 294.2933333333333
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/125",
+      "text": "\"Grătieşti\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Budeşti\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 446.6666666666667,
+            "r": 461.6666666666667,
+            "t": 291.2933333333333
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/126",
+      "text": "\"Budeşti\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "32. LICEUL TEORETIC \"ALECU",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 164.33333333333331,
+            "r": 178.66666666666669,
+            "t": 392.6266666666667
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/127",
+      "text": "32. LICEUL TEORETIC \"ALECU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "35. Liceul Teoretic \"Lucian Blaga\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 219.66666666666666,
+            "r": 232.33333333333334,
+            "t": 391.96000000000004
+          },
+          "charspan": [
+            0,
+            34
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/128",
+      "text": "35. Liceul Teoretic \"Lucian Blaga\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "33. Liceul Teoretic \"G.Călinescu\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 191.66666666666669,
+            "r": 206.0,
+            "t": 386.96000000000004
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/129",
+      "text": "33. Liceul Teoretic \"G.Călinescu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "39. Liceul Teoretic \"Vasil Levski\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 273.0,
+            "r": 286.33333333333337,
+            "t": 387.96000000000004
+          },
+          "charspan": [
+            0,
+            34
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/130",
+      "text": "39. Liceul Teoretic \"Vasil Levski\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "47. Gimnaziul \"Steliana Grama\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 461.3333333333333,
+            "r": 475.0,
+            "t": 378.96000000000004
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/131",
+      "text": "47. Gimnaziul \"Steliana Grama\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "38. Liceul Teoretic \"Natalia Gheorghiu\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 259.33333333333337,
+            "r": 274.0,
+            "t": 415.29333333333335
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/132",
+      "text": "38. Liceul Teoretic \"Natalia Gheorghiu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "43. Complexul Educațional (gimnaziu-",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 353.3333333333333,
+            "r": 367.3333333333333,
+            "t": 408.96000000000004
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/133",
+      "text": "43. Complexul Educațional (gimnaziu-"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Nicolae Bălcescu\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 300.0,
+            "r": 312.66666666666663,
+            "t": 334.96000000000004
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/134",
+      "text": "\"Nicolae Bălcescu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "41. Gimnaziul nr.77",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 312.33333333333337,
+            "r": 327.0,
+            "t": 322.2933333333333
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/135",
+      "text": "41. Gimnaziul nr.77"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "grădiniță) \"Hulboaca\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 367.0,
+            "r": 381.3333333333333,
+            "t": 346.29333333333335
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/136",
+      "text": "grădiniță) \"Hulboaca\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Constantin Negruzzi\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 543.6666666666667,
+            "r": 555.3333333333333,
+            "t": 347.96000000000004
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/137",
+      "text": "\"Constantin Negruzzi\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"Dragoş Vodă\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 394.0,
+            "r": 407.6666666666667,
+            "t": 316.6266666666668
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/138",
+      "text": "\"Dragoş Vodă\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Sportiv \"AVANTE\"",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 514.3333333333333,
+            "r": 529.3333333333333,
+            "t": 338.96000000000004
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/139",
+      "text": "Sportiv \"AVANTE\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "51. Instituția Publică Liceul Teoretic \"Ginta Latină\"",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.33333333333333,
+            "r": 97.33333333333333,
+            "t": 433.96000000000004
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 8
+        },
+        {
+          "bbox": {
+            "b": 242.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.0,
+            "r": 110.0,
+            "t": 279.6266666666668
+          },
+          "charspan": [
+            46,
+            53
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/140",
+      "text": "51. Instituția Publică Liceul Teoretic \"Ginta Latină\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "52. Instituția Publică Liceul Teoretic",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.66666666666666,
+            "r": 124.0,
+            "t": 400.29333333333335
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/141",
+      "text": "52. Instituția Publică Liceul Teoretic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "56. Liceul Teoretic \"Gh.Ghimpu\"",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 205.33333333333334,
+            "r": 220.0,
+            "t": 385.6266666666667
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/142",
+      "text": "56. Liceul Teoretic \"Gh.Ghimpu\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "59. Liceul Teoretic \"Ştefan Vodă\"",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 223.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 259.66666666666663,
+            "r": 273.33333333333337,
+            "t": 387.29333333333335
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/143",
+      "text": "59. Liceul Teoretic \"Ştefan Vodă\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"OLIMP\"",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 242.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.33333333333334,
+            "r": 137.0,
+            "t": 291.6266666666668
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/144",
+      "text": "\"OLIMP\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Zadnipru\"",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 242.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 151.0,
+            "r": 165.0,
+            "t": 292.2933333333333
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/145",
+      "text": "Zadnipru\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "53. Instituția Publică Liceul Teoretic \"Petru",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 137.66666666666666,
+            "r": 152.0,
+            "t": 432.29333333333335
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/146",
+      "text": "53. Instituția Publică Liceul Teoretic \"Petru"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "54. Instituția Publică Liceul Teoretic cu",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 165.0,
+            "r": 178.66666666666669,
+            "t": 413.6266666666667
+          },
+          "charspan": [
+            0,
+            41
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/147",
+      "text": "54. Instituția Publică Liceul Teoretic cu"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "profil de arte \"Mihail Berezovschi\"",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 177.66666666666669,
+            "r": 193.33333333333331,
+            "t": 409.96000000000004
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/148",
+      "text": "profil de arte \"Mihail Berezovschi\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "57. Complexul educațional (gimnaziu-",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 220.66666666666666,
+            "r": 233.0,
+            "t": 408.6266666666667
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/149",
+      "text": "57. Complexul educațional (gimnaziu-"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "55. Liceul Teoretic \"Dacia\"",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 192.33333333333331,
+            "r": 206.0,
+            "t": 357.6266666666667
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/150",
+      "text": "55. Liceul Teoretic \"Dacia\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "grădiniță) Cruzeşti",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 233.0,
+            "r": 247.33333333333334,
+            "t": 332.96000000000004
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/151",
+      "text": "grădiniță) Cruzeşti"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "58. Gimnaziul \"Viorel Găină\"",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 224.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 246.0,
+            "r": 259.66666666666663,
+            "t": 368.29333333333335
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/152",
+      "text": "58. Gimnaziul \"Viorel Găină\""
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,1786 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/48"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "421b733ff283d743d5334ae364e46939d799c9d079d859b2479068aa54240e34",
+  "origin": {
+    "binary_hash": 5156736654104596020,
+    "filename": "421b733ff283d743d5334ae364e46939d799c9d079d859b2479068aa54240e34.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 699.5292022970066,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 251.6163085732684,
+            "r": 364.04174082506427,
+            "t": 773.5623796687801
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 604.9194366029077,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.6274562856175,
+            "r": 292.95733265511944,
+            "t": 639.6459490242321
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 112.96065299538293,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 184.93319227282635,
+            "r": 241.78504175173356,
+            "t": 150.45073261764992
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 217.3881733677938,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 385.21740756041254,
+            "r": 534.7637037361709,
+            "t": 363.9238905832496
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIN NOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 703.2713901464844,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 281.523681640625,
+            "r": 334.5066324869792,
+            "t": 710.7159447932943
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PRIN NOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 653.9955214127604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 174.85132853190106,
+            "r": 462.3721516927083,
+            "t": 698.6628543798828
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "OM-41521sin 22 M 24",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 606.8466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.54166666666667,
+            "r": 293.53314208984375,
+            "t": 642.296933359375
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "OM-41521sin 22 M 24"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la nr.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 587.3490166927083,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.8304926554362,
+            "r": 103.85416666666666,
+            "t": 602.2381361588541
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "la nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 586.6400119726562,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 178.7367451985677,
+            "r": 199.57671101888022,
+            "t": 601.8836236263021
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "din"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 539.1366550390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 277.9914754231771,
+            "r": 328.148681640625,
+            "t": 553.6712619726562
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la asigurarea transparenței în procesul decizional al activității instituțiilor de învățământ general din municipiul Chişinău",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 455.8285292252604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.8304926554362,
+            "r": 255.0322062174479,
+            "t": 517.8664930924479
+          },
+          "charspan": [
+            0,
+            136
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Cu privire la asigurarea transparenței în procesul decizional al activității instituțiilor de învățământ general din municipiul Chişinău"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Întru realizarea implementării prevederilor: Legii nr. 239 – XVI din 13.11.2008 privind transparența în procesul decizional; Legii nr. 133 din 08.07.2011 privind protecția datelor cu caracter personal; Legii nr. 148 din 09.06.2023 privind accesul la informațiile de interes public; și în scopul asigurării transparenței activității instituțiilor de învățământ general din municipiul Chişinău și a structurilor subordonate Direcției Generale Educație, Tineret și Sport (DGETS), precum și sporirea gradului de răspundere al autorităților publice față de cetățeni și societate:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 327.85304501302073,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.4176139831543,
+            "r": 536.9015299479167,
+            "t": 424.2777683203125
+          },
+          "charspan": [
+            0,
+            574
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Întru realizarea implementării prevederilor: Legii nr. 239 – XVI din 13.11.2008 privind transparența în procesul decizional; Legii nr. 133 din 08.07.2011 privind protecția datelor cu caracter personal; Legii nr. 148 din 09.06.2023 privind accesul la informațiile de interes public; și în scopul asigurării transparenței activității instituțiilor de învățământ general din municipiul Chişinău și a structurilor subordonate Direcției Generale Educație, Tineret și Sport (DGETS), precum și sporirea gradului de răspundere al autorităților publice față de cetățeni și societate:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 298.07484677083323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.82672119140625,
+            "r": 344.39678955078125,
+            "t": 311.19142391927073
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Şefii Direcțiilor Educație, Tineret și Sport din sectoarele municipiului Chişinău, directorii instituțiilor de învățământ primar și secundar cu autonomie financiară, vor asigura:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 264.3970717057291,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.77083333333333,
+            "r": 535.4886474609375,
+            "t": 296.302304453125
+          },
+          "charspan": [
+            0,
+            178
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Şefii Direcțiilor Educație, Tineret și Sport din sectoarele municipiului Chişinău, directorii instituțiilor de învățământ primar și secundar cu autonomie financiară, vor asigura:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Corespunderea paginilor oficiale Web cu prevederile Legii nr. 148 din 09.06.2023 privind accesul la informațiile de interes public, capitolul II, articolul 10;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 200.94109839843748,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.07859802246094,
+            "r": 535.8418782552083,
+            "t": 233.55535621093748
+          },
+          "charspan": [
+            0,
+            162
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Corespunderea paginilor oficiale Web cu prevederile Legii nr. 148 din 09.06.2023 privind accesul la informațiile de interes public, capitolul II, articolul 10;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "1.Funcționalitatea paginilor oficiale Web administrate, în conformitate cu Legea nr. 133 din 08.07.2011 privind protecția datelor cu caracter personal;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 232.84633114583335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.78503926595052,
+            "r": 534.7822265625,
+            "t": 264.7515638932291
+          },
+          "charspan": [
+            0,
+            151
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "1.Funcționalitatea paginilor oficiale Web administrate, în conformitate cu Legea nr. 133 din 08.07.2011 privind protecția datelor cu caracter personal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Publicarea următoarelor informații de interes public pe paginile web oficiale ale furnizorilor din oficiu:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 171.51739234374998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.07859802246094,
+            "r": 535.4886474609375,
+            "t": 202.0046156510416
+          },
+          "charspan": [
+            0,
+            109
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Publicarea următoarelor informații de interes public pe paginile web oficiale ale furnizorilor din oficiu:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) datele privind structura organizatorică și bugetul instituției de învățământ, numărul angajaților/membrilor, obiectivele, domeniile de competență și funcțiile sale, adresele poştale, numerele de telefon și alte date privind adresa, datele privind autoritățile subordonate (cu indicarea și/sau referirea la paginile web oficiale ale acestora), numerele de telefon ale serviciilor de informație;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 90.33623999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.69413248697916,
+            "r": 529.4839274088542,
+            "t": 169.7448500260416
+          },
+          "charspan": [
+            0,
+            396
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "datele privind structura organizatorică și bugetul instituției de învățământ, numărul angajaților/membrilor, obiectivele, domeniile de competență și funcțiile sale, adresele poştale, numerele de telefon și alte date privind adresa, datele privind autoritățile subordonate (cu indicarea și/sau referirea la paginile web oficiale ale acestora), numerele de telefon ale serviciilor de informație;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) datele privind conducerea instituției de învățământ, privind membrii organelor colegiale, inclusiv studiile, experiența profesională, modul de accedere în funcția deținută, adresa poștei electronice și numărul de telefon;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 724.8493422135416,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 129.2296600341797,
+            "r": 532.577880859375,
+            "t": 771.9474632208252
+          },
+          "charspan": [
+            0,
+            224
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "datele privind conducerea instituției de învățământ, privind membrii organelor colegiale, inclusiv studiile, experiența profesională, modul de accedere în funcția deținută, adresa poștei electronice și numărul de telefon;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "c)",
+      "orig": "c) actele normative care reglementează organizarea și funcționarea instituției de învățământ;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 693.5677565201822,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 128.54017639160156,
+            "r": 532.577880859375,
+            "t": 723.7949090266927
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "actele normative care reglementează organizarea și funcționarea instituției de învățământ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "d)",
+      "orig": "d) raportul anual privind activitatea instituției de învățământ;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 676.6967950130208,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 128.88491821289062,
+            "r": 429.8447265625,
+            "t": 691.4588901464844
+          },
+          "charspan": [
+            0,
+            64
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "raportul anual privind activitatea instituției de învățământ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "e)",
+      "orig": "e) datele privind achizițiile publice planificate, privind achizițiile publice efectuate, rapoartele de monitorizare a contractelor de achiziții publice, alte informații relevante;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 630.6531040136719,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 128.54017639160156,
+            "r": 531.8883870442708,
+            "t": 675.2908807063802
+          },
+          "charspan": [
+            0,
+            180
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "datele privind achizițiile publice planificate, privind achizițiile publice efectuate, rapoartele de monitorizare a contractelor de achiziții publice, alte informații relevante;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "f)",
+      "orig": "f) datele privind evenimentele publice organizate de instituția de învățământ (şedințe, întâlniri, colegii etc.), precum și privind deciziile adoptate la aceste evenimente;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 583.2035088802083,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 127.50595092773438,
+            "r": 532.577880859375,
+            "t": 629.2471897070312
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "datele privind evenimentele publice organizate de instituția de învățământ (şedințe, întâlniri, colegii etc.), precum și privind deciziile adoptate la aceste evenimente;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "g)",
+      "orig": "g) datele privind vizitele oficiale și deplasările de serviciu în străinătate ale personalului instituției de învățământ, inclusiv costul și sursa de finanțare a cheltuielilor;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 535.4024427994791,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 127.85069274902344,
+            "r": 531.8883870442708,
+            "t": 580.3916802669271
+          },
+          "charspan": [
+            0,
+            176
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "datele privind vizitele oficiale și deplasările de serviciu în străinătate ale personalului instituției de învățământ, inclusiv costul și sursa de finanțare a cheltuielilor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "h)",
+      "orig": "h) zilele și orele de primire în audiență, precum și datele privind modul depunerii petițiilor și cererilor de comunicare a informațiilor de interes public;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 502.3634616796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 127.50595092773438,
+            "r": 531.1988932291667,
+            "t": 533.2935560807291
+          },
+          "charspan": [
+            0,
+            156
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "zilele și orele de primire în audiență, precum și datele privind modul depunerii petițiilor și cererilor de comunicare a informațiilor de interes public;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "i)",
+      "orig": "i) datele privind programele și proiectele, inclusiv de asistență tehnică, al căror beneficiar sau executant este instituția de învățământ (denumirea, scopurile și sarcinile de bază, beneficiarii și executorii principali de program, termenele și rezultatele de realizare scontate, volumul și sursele de finanțare);",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 439.44880917317704,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 126.81646728515625,
+            "r": 531.5436604817708,
+            "t": 502.3634616796875
+          },
+          "charspan": [
+            0,
+            314
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "datele privind programele și proiectele, inclusiv de asistență tehnică, al căror beneficiar sau executant este instituția de învățământ (denumirea, scopurile și sarcinile de bază, beneficiarii și executorii principali de program, termenele și rezultatele de realizare scontate, volumul și sursele de finanțare);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "j)",
+      "orig": "j) datele privind planificarea și executarea bugetelor de către instituția de învățământ;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 409.22165666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.4375,
+            "r": 531.1988932291667,
+            "t": 438.7458469335937
+          },
+          "charspan": [
+            0,
+            89
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "datele privind planificarea și executarea bugetelor de către instituția de învățământ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "k)",
+      "orig": "k) datele privind încadrarea persoanelor în serviciul public: lista concursurilor pentru funcțiile vacante existente, datele de contact ale persoanei responsabile de organizarea concursurilor, cerințele de calificare față de candidații la funcțiile vacante, formularul de participare la concurs, lista actelor care urmează a fi depuse și termenul-limită pentru depunerea acestora, lista persoanelor admise la concurs, precum și lista persoanelor care au promovat și au câștigat concursul;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 311.86211890625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 126.81646728515625,
+            "r": 530.5093994140625,
+            "t": 406.0583672786458
+          },
+          "charspan": [
+            0,
+            488
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "datele privind încadrarea persoanelor în serviciul public: lista concursurilor pentru funcțiile vacante existente, datele de contact ale persoanei responsabile de organizarea concursurilor, cerințele de calificare față de candidații la funcțiile vacante, formularul de participare la concurs, lista actelor care urmează a fi depuse și termenul-limită pentru depunerea acestora, lista persoanelor admise la concurs, precum și lista persoanelor care au promovat și au câștigat concursul;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1)",
+      "orig": "1) datele privind desfaşurarea procesului decizional, în conformitate cu prevederile privind transparența în procesul decizional;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 280.5805433854167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.4375,
+            "r": 529.4751790364583,
+            "t": 311.51063778645823
+          },
+          "charspan": [
+            0,
+            129
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "datele privind desfaşurarea procesului decizional, în conformitate cu prevederile privind transparența în procesul decizional;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "m)",
+      "orig": "m) informațiile de interes public prevăzute de alte acte normative.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 265.1154554947916,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 126.81646728515625,
+            "r": 447.4265950520833,
+            "t": 278.82313778645823
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "informațiile de interes public prevăzute de alte acte normative."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Actualizarea informațiilor de interes public pe pagina web oficială a autorităților publice în termen de 5 zile lucrătoare de la data disponibilității acestora, cu excepțiile stabilite de actele normative.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 219.42327613281248,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.61855125427246,
+            "r": 535.6805419921875,
+            "t": 263.7095717057291
+          },
+          "charspan": [
+            0,
+            208
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Actualizarea informațiilor de interes public pe pagina web oficială a autorităților publice în termen de 5 zile lucrătoare de la data disponibilității acestora, cu excepțiile stabilite de actele normative."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Postarea informației de interes public pe pagina web oficială a instituției, nu mai târziu de o zi lucrătoare de la încheierea evenimentului. În cazul unor subiecte de interes public și rezonanță sporită, se publică anunțuri privind evenimentele ce urmează a fi desfăşurate.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 155.45415992187498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.92906761169434,
+            "r": 535.3358154296875,
+            "t": 216.96290829427085
+          },
+          "charspan": [
+            0,
+            277
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Postarea informației de interes public pe pagina web oficială a instituției, nu mai târziu de o zi lucrătoare de la încheierea evenimentului. În cazul unor subiecte de interes public și rezonanță sporită, se publică anunțuri privind evenimentele ce urmează a fi desfăşurate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Publicarea până la data de 15.03.2025 pe pagina oficială Web și pe panourile informative a următoarelor documente:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 123.46962216145835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.2738094329834,
+            "r": 534.9910481770833,
+            "t": 153.69679501302085
+          },
+          "charspan": [
+            0,
+            117
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Publicarea până la data de 15.03.2025 pe pagina oficială Web și pe panourile informative a următoarelor documente:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) Bugetul instituției pentru anul 2025;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.65309384114585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.8531748453776,
+            "r": 312.9771728515625,
+            "t": 121.00929501302085
+          },
+          "charspan": [
+            0,
+            40
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Bugetul instituției pentru anul 2025;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) Planul de achiziții pentru anul2025;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 91.13360328124998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.50843302408853,
+            "r": 313.3219197591146,
+            "t": 105.8957289322916
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Planul de achiziții pentru anul2025;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "c)",
+      "orig": "c) Rapoartele de achiziții efectuate în anul 2024, grupate pe categorii, inclusiv bunurile procurate din bugetul CMC;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 741.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.66666666666666,
+            "r": 537.3333333333333,
+            "t": 772.3466566666666
+          },
+          "charspan": [
+            0,
+            117
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Rapoartele de achiziții efectuate în anul 2024, grupate pe categorii, inclusiv bunurile procurate din bugetul CMC;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "d)",
+      "orig": "d) Lista detaliată a bunurilor donate instituției, cu indicarea costurilor;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 725.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 120.33333333333334,
+            "r": 465.0,
+            "t": 739.67999
+          },
+          "charspan": [
+            0,
+            75
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "Lista detaliată a bunurilor donate instituției, cu indicarea costurilor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "e)",
+      "orig": "e) Regulamentul de activitate al instituției;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 709.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 120.0,
+            "r": 334.0,
+            "t": 724.3466566666666
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Regulamentul de activitate al instituției;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "f)",
+      "orig": "f) Lista actelor normative care reglementează organizarea și funcționarea instituției de învățământ general;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 677.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.33333333333334,
+            "r": 537.3333333333333,
+            "t": 708.3466566666666
+          },
+          "charspan": [
+            0,
+            108
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Lista actelor normative care reglementează organizarea și funcționarea instituției de învățământ general;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Publicarea periodică a informațiilor lunar, până la data de 10 a fiecărei luni, pe pagina oficială Web și pe panourile informative, următoarele informații cu referire la luna precedentă:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 645.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.66666666666667,
+            "r": 537.0,
+            "t": 676.67999
+          },
+          "charspan": [
+            0,
+            189
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Publicarea periodică a informațiilor lunar, până la data de 10 a fiecărei luni, pe pagina oficială Web și pe panourile informative, următoarele informații cu referire la luna precedentă:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "a)",
+      "orig": "a) Bugetul executat;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 630.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 120.0,
+            "r": 225.33333333333334,
+            "t": 643.67999
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Bugetul executat;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) Rapoartele de achiziții, inclusiv bunurile procurate din bugetul instituției;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 614.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.0,
+            "r": 494.0,
+            "t": 628.67999
+          },
+          "charspan": [
+            0,
+            80
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Rapoartele de achiziții, inclusiv bunurile procurate din bugetul instituției;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "c)",
+      "orig": "c) Lista bunurilor donate instituției.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 599.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.66666666666666,
+            "r": 299.0,
+            "t": 613.3466566666666
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Lista bunurilor donate instituției."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Directorii instituțiilor de învățământ general vor solicita preşedinților Asociației de părinți publicarea raportelor financiare ale acestora.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 567.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.0,
+            "r": 536.0,
+            "t": 597.3466566666666
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Directorii instituțiilor de învățământ general vor solicita preşedinților Asociației de părinți publicarea raportelor financiare ale acestora."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. Directorii instituțiilor de învățământ general care nu dețin o pagină oficială Web sunt obligați, să întreprindă toate măsurile necesare pentru elaborarea și asigurarea funcționalității acesteia.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 520.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.66666666666667,
+            "r": 537.0,
+            "t": 565.67999
+          },
+          "charspan": [
+            0,
+            198
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "Directorii instituțiilor de învățământ general care nu dețin o pagină oficială Web sunt obligați, să întreprindă toate măsurile necesare pentru elaborarea și asigurarea funcționalității acesteia."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "10.",
+      "orig": "10. Nepublicarea informațiilor pe site Web oficial al instituțiilor educaționale municipale, inclusiv încălcarea dreptului de acces la informațiile de interes public, constituie o încălcare a prevederilor privind accesul la informație și este pasibilă de sancțiuni, conform prevederilor art. 29, capitolul IV a Legii nr. 148din 09.06.2023 privind accesul la informațiile de interes public.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 439.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.66666666666667,
+            "r": 536.6666666666667,
+            "t": 518.0133233333333
+          },
+          "charspan": [
+            0,
+            389
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "Nepublicarea informațiilor pe site Web oficial al instituțiilor educaționale municipale, inclusiv încălcarea dreptului de acces la informațiile de interes public, constituie o încălcare a prevederilor privind accesul la informație și este pasibilă de sancțiuni, conform prevederilor art. 29, capitolul IV a Legii nr. 148din 09.06.2023 privind accesul la informațiile de interes public."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "11.",
+      "orig": "11. Şefi DETS din sectoare și directorii instituțiilor de învățământ general vor aduce la cunoştința angajaților din subordine conținutul prezentului ordin.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 408.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.66666666666667,
+            "r": 536.0,
+            "t": 438.67999
+          },
+          "charspan": [
+            0,
+            156
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Şefi DETS din sectoare și directorii instituțiilor de învățământ general vor aduce la cunoştința angajaților din subordine conținutul prezentului ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "12.",
+      "orig": "12. Responsabilitatea publicării informațiilor de interes public pe paginile oficiale Web și panourile informative revine Şefilor Direcțiilor Educație, Tineret și Sport din sectoarele municipiului Chişinău, directorilor instituțiilor de învățământ general.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 361.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.33333333333333,
+            "r": 536.6666666666667,
+            "t": 406.34665666666666
+          },
+          "charspan": [
+            0,
+            256
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "Responsabilitatea publicării informațiilor de interes public pe paginile oficiale Web și panourile informative revine Şefilor Direcțiilor Educație, Tineret și Sport din sectoarele municipiului Chişinău, directorilor instituțiilor de învățământ general."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "13.",
+      "orig": "13. Controlul asupra executării prezentului ordin mi-1 asum.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 345.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.33333333333333,
+            "r": 363.6666666666667,
+            "t": 359.0133233333333
+          },
+          "charspan": [
+            0,
+            60
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "Controlul asupra executării prezentului ordin mi-1 asum."
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex.: Aliona Delinschi",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 137.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.0,
+            "r": 197.66666666666669,
+            "t": 148.3466566666666
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "Ex.: Aliona Delinschi"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Tel.: 022 235275",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 126.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.33333333333334,
+            "r": 180.33333333333331,
+            "t": 137.01332333333335
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "Tel.: 022 235275"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "AndreiPAVALOI, Şef adjunct",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 280.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 435.6666666666667,
+            "r": 536.3333333333333,
+            "t": 310.01332333333323
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "AndreiPAVALOI, Şef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 82.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.0,
+            "r": 496.0,
+            "t": 116.3466566666666
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

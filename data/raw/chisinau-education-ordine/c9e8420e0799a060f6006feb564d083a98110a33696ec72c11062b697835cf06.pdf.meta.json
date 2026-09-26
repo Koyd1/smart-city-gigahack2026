@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "c9e8420e0799a060f6006feb564d083a98110a33696ec72c11062b697835cf06",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1775809540_cu-privire-la-orgnizarea-seminarului-municipal.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "828798",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 07:15:01 GMT",
+    "Etag": "\"69d8b404-ca57e\"",
+    "Last-Modified": "Fri, 10 Apr 2026 08:25:40 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/c9e8420e0799a060f6006feb564d083a98110a33696ec72c11062b697835cf06.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1775809540_cu-privire-la-orgnizarea-seminarului-municipal.pdf",
+  "retrieved_at": "2026-09-26T07:15:01.675166+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

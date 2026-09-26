@@ -1,0 +1,92 @@
+---
+document_id: "doc_91df3db8923421d82844"
+version_id: "ver_91df3db8_0bfb5017d111"
+title: "76 Licența pentru activitatea cu metale prețioase și pietre prețioase; funcționarea caselor de amanet"
+source_url: "https://actpermisiv.gov.md/#/ep/permit/54"
+retrieved_at: "2026-09-25T22:04:18.483046+00:00"
+content_sha256: "0bfb5017d1112b871756f999504e3a84fc76455af7d72c730021d3d5d0541a19"
+language: "ro"
+category: "services"
+document_type: "json"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# 76 Licența pentru activitatea cu metale prețioase și pietre prețioase; funcționarea caselor de amanet
+
+Act permisiv, ce confirmă dreptul titularului de a întreprinde activități cu metale prețioase și pietre prețioase, care au ca obiect: prelucrarea industrială a metalelor prețioase și pietrelor prețioase, inclusiv a resturilor și deșeurilor ce conțin metale prețioase; fabricarea, repararea (restaurarea) bijuteriilor și a altor articole; vânzarea, cumpărarea, amanetarea (grevarea cu gaj), păstrarea, introducerea, expedierea și scoaterea în/din Republica Moldova a metalelor prețioase și pietrelor prețioase și a articolelor din ele; expertizarea și marcarea bijuteriilor și a altor articole din metale prețioase și pietre prețioase; alte operațiuni cu metale prețioase și pietre prețioase, cu articole din ele.
+
+## Autoritatea emitentă
+
+Agenția Servicii Publice
+
+## Documente însoțitoare
+
+### Eliberare
+
+- Declarație pe propria răspundere privind eliberarea/prelungirea, reperfectarea licenței
+- Copiile documentelor ce confirmă constituirea capitalului social minim (pentru funcționarea caselor de amanet):             - pentru municipii – 250000 MDL;                    - pentru localitățile rurale – 150000 MDL;
+- Copia actului juridic ce atestă dreptul de proprietate sau de locaţiune a imobilului destinat desfăşurării activităţii licenţiate.
+### Prelungire
+
+- Declarație pe propria răspundere privind eliberarea/prelungirea, reperfectarea licenței
+- Copiile documentelor ce confirmă constituirea capitalului social minim (pentru funcționarea caselor de amanet):             - pentru municipii – 250000 MDL;                    - pentru localitățile rurale – 150000 MDL;
+- Copia actului juridic ce atestă dreptul de proprietate sau de locaţiune a imobilului destinat desfăşurării activităţii licenţiate.
+### Reperfectare
+
+- Extrasul din Registrul bunurilor imobile sau contractul de locaţiune al locului desfăşurării activităţii
+- Documentele ce confirmă modificările
+- Declarație pe propria răspundere privind eliberarea/prelungirea, reperfectarea licenței
+- Copiile documentelor ce confirmă constituirea capitalului social minim: - pentru municipii – 250000 lei moldoveneşti; - pentru localităţile rurale – 150000 lei moldoveneşti
+- Copia actului juridic ce atestă dreptul de proprietate sau de locaţiune a imobilului destinat desfăşurării activităţii licenţiate.
+
+## Cadrul legal
+
+- [Hotărârea Guvernului nr. 204 din 28.03.1995 pentru aprobarea Regulamentului cu privire la modul de organizare şi funcționare a caselor de amanet (lombardurilor)](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=295948)
+- [Hotărârea Guvernului nr. 261 din 13.05.1996 cu privire la aprobarea Regulilor comerțului cu amănuntul, recepționării, păstrării şi evidenței articolelor din metale prețioase şi pietre prețioase](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=296017)
+- [Hotărârea Guvernului nr. 769 din 17.11.1995 cu privire la aprobarea Regulilor de achiziționare de la populație a metalelor prețioase şi a pietrelor prețioase ce se conțin în articole și resturi](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=296774)
+- [Lege Nr. 282 din 22.07.2004 privind regimul metalelor prețioase și pietrelor prețioase](http://lex.justice.md/index.php?action=view&view=doc&id=312807)
+- [Legea Nr. 160 din  22.07.2011 privind reglementarea prin autorizare a activităţii de întreprinzător](http://lex.justice.md/md/340497/)
+
+## Procesul de eliberare
+
+1. Solicitantul (sau reprezentantul său legal) intră în sistem (Portalul electronic al serviciilor publice) personal sau cu ajutorul recepționarului de la  ghișeu.
+
+2. Solicitantul (sau reprezentantul său legal) îndeplinește cererea și încarcă documentele necesare, personal sau cu ajutorul recepționarului de la ghișeu.
+
+3. În cazul când Solicitantul (sau reprezentantul său legal): a) depune cererea și documentele necesare cu ajutorul recepționarului de la ghișeu, recepționarul:
+- va primi și va înregistra corespunzător cererea (declaraţia) pentru obținerea licenţeiși va primi documentele prezentate de solicitant, și
+- va elibera imediat și necondiționat solicitantului certificatul constatator conform modelului indicat în anexa nr. 3 la Legea 160 din 22.07.2011, și
+- va expedia cazul (copiile electronice ale cererii și a documentelor însoțitoare) autorității emitente pentru revizuire.
+
+Cererea poate fi returnată solicitantului doar în cazul când cererea nu conține informația necesară pentru identificarea solicitantului. b) depune cererea și încarcă documentele personal direct în sistem, sistemul:
+- va genera automat documentul în format electronic de confirmare a primirii cererii și documentelor („certificatul constatator”) și
+- în mod automat va direcționa cererea și setul de documente autorității emitente (șefului direcției).
+
+4. Autoritatea emitentă (șeful direcției) remite cererea și setul de documente specialistului din direcție pentru executare.
+
+5. Specialistul deschide cazul, examinează declarația și documentele însoțitoare, verifică  respectarea condițiilor. În cazul constatării lipsei documentelor/informației necesare prevăzute expres de legislație, autoritatea emitentă (specialistul) va sista termenul de examinare a declarației și va informa imediat despre acest fapt solicitantul cu specificarea și descrierea temeiului suspendării, termenului și acțiunilor de remediere pentru a iniția examinarea declarației.
+
+6. În baza setului complet de documente specialistul  examinează cazul și organizează examinările suplimentare pe interior pentru luarea deciziei de eliberare a licenței. Pentru aceasta specialistul va obține confirmarea Inspectoratului Ecologic de Stat pentru protecția mediului (pentru activitatea de fabricare și reparare a articolelor din metale prețioase și pietre prețioase, prelucrarea resturilor și deșeurilor ce conțin metale prețioase) prin ghișeu unic, fără participarea solicitantului.Autoritatea de licențiere va înștiința Inspectoratul pentru Protecția Mediului pentru a se asigura (cu sau fără solicitarea unei vizite de control din partea organului în cauză) de corespunderea condițiilor de activitate ale solicitantului cu cerințele de protecție a mediului). În cel mult 7 zile lucrătoare de la data înștiințării, Inspectoratul pentru Protecția Mediului va transmite o notificare sau procesul-verbal de control despre rezultatele verificării efectuate. În cazul în care Inspectoratul pentru Protecția Mediului nu a inițiat un control în urma înștiințării și/sau nu a eliberat procesul-verbal de control în decurs de 7 zile lucrătoare de la data înștiințării, survine principiul aprobării tacite.
+
+7. Dacă Inspectoratul Ecologic de Stat pentru protecția mediului a dat acordul pentru activitatea respectivă și eliberarea actului permisiv este acceptată, sau dacă a survenit principiul aprobării tacite, solicitantul (sau reprezentantul său legal) primește o notificare electronică și achită taxa stabilită prin serviciul M-Pay sau la bancă.În cazul în care taxa se achită la bancă, solicitantul prezintă bonul de plată în original cu semnătură/ștampilă umedă.
+
+8. În cazul refuzului cererii specialistul informează solicitantul despre refuz, cu o justificare corespunzătoare în temeiul prevederilor legii, și doar în cazul în care solicitantul nu întrunește condițiile expres specificate în lege sau, după caz, nu demonstrează întrunirea acestor condiții în decursul suspendării termenului de examinare a solicitării.
+
+9. După prezentarea documentului care confirmă achitarea taxei pentru eliberarea/prelungirea sau reperfectarea acesteia,specialistul perfectează actul permisiv care va fi semnat de conducătorul autorității de licențiere sau de adjunctul acestuia.
+
+10. Specialistul/ recepționarul livrează actul permisiv solicitantului (sau reprezentantului său legal), care confirmă recepționarea prin depunerea semnăturii în Registru.
+
+## Perioada de valabilitate
+
+Nelimitat
+
+## Taxa
+
+Eliberarea sau Prelungirea licenței - 3 250 MDL; Reperfectarea licenței și/sau eliberarea copiei de pe aceasta, inclusiv în cazul creării unei noi subdiviziuni (filiale) separate - 325 MDL; Eliberarea licenței solicitanților înregistrați cu cel mult un an înainte de depunerea decarației – 1625 MDL (50%); Duplicatul licenței   – 585 MDL.
+
+## Durata de prestare
+
+Eliberare / Prelungire - 10 zile lucrătoare din data înregistrării declarației
+Reperfectare - 5 zile lucrătoare din data înregistrării cererii

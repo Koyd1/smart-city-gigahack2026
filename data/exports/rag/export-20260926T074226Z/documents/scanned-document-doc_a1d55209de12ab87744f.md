@@ -1,0 +1,59 @@
+---
+document_id: "doc_a1d55209de12ab87744f"
+version_id: "ver_a1d55209_d55671ed63f9"
+title: "Scanned Document"
+source_url: "https://chisinauedu.dgets.md/storage/orders/1775034038_scan-2025-09-30-10-13-39-485.pdf"
+retrieved_at: "2026-09-26T07:16:25.676998+00:00"
+content_sha256: "d55671ed63f9d6dcaae2f9914a5663acf3a004c3eb1a89f1baf8237b4dfa2491"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+<!-- image -->
+
+## CONSILIUL MUNICIPAL CHIŞINÅU
+
+## PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÃ EDUCATIE, TINERET I SPORT
+
+<!-- image -->
+
+## ORDIN
+
+Cu privire la organizarea etapei municipale de atestare a cadrelor de conducere, sesiunea 2026
+
+În conformitate cu prevederile Regulamentului de atestare a cadrelor de conducere din învățământul general și profesional tehnic, aprobat prin Ordinul ministrului educației și cercetării nr.1100 din 30.08.2023 și modificat prin Ordinul ministrului educației și cercetării nr.1711 din 02.10.2025, în scopul desfáşurării eficiente a etapei municipale de atestare a cadrelor de conducere, sesiunea2026,
+
+## ORDON:
+
+1. Secția Dezvoltarea competențelor profesionale (şef, R. Tataru):
+- 1.1. va asigura organizarea etapei municipale de atestare a cadrelor de conducere în conformitate cu Regulamentul de atestare a cadrelor de conducere din învățământul general și profesional tehnic, aprobat prin Ordinul ministrului educației și cercetării nr.1100 din 30.08.2023 și modificat prin Ordinul ministrului educațieiși cercetării nr.1711 din 02.10.2025;
+- 1.2. va organiza la data de 25 aprilie 2026, ora 8:00, în incinta IPLT Mihai Viteazul" prezentarea publică a probei practice Planul de acțiuni realizat și a rezultatelor privind soluționarea unei probleme existente in cadrul institutiei pentru conferirea gradului managerial doi în cadrul Comisiei municipale de atestare;
+- 1.3. va pune la dispoziția Comisiei municipale de atestare, în perioada 01 - 08.04.2026, pentru evaluare, materialele aferente atestării cadrelor de conducere;
+- 1.4. va informa conducătorii instituțiilor de învățământ preșcolar, primar și secundar, ciclul I și ciclul II, centrele extraşcolare, şcolile sportive și şcolile
+
+<!-- page: 2 -->
+
+6. de artă a Direcției Cultură a Primăriei municipiului Chişinãu cu prevederile prezentului ordin.
+2. Comisia municipală de atestare (Anexa nr.1):
+- 2.1. va evalua materialele aferente procesului de atestare în cazul cadrelor de conducere care solicită conferirea gradului managerial doi/confirmarea gradului managerial doi, unu, superior;
+- 2.2. va aloca pentru susținerea publică a Planului de acfiuni realizat și a rezultatelor privind soluționarea unei probleme existente în cadrul instituției 15 minute (10 min. pentru prezentare, 5 min. pentru întrebări și răspunsuri);
+- 2.3. va evalua prestația cadrelor de conducere care solicită conferirea gradului managerial doi în cadrul şedinței de susținere a Planului de actiuni realizat și a rezultatelor privind soluționarea unei probleme existente în cadrul instituției și va adopta una din următoarele decizii:
+- se recomandă conferirea / nu se recomandă conferirea gradului managerial doi; - se recomandă confirmarea gradelor manageriale unu și superior.
+- 2.4. va consemna în procese-verbale ședințele desfaşurate, care vor servi drept temei pentru emiterea ordinului de conferire/confirmare a gradelor manageriale;
+- 2.5. va transmite responsabililor din cadrul secției Dezvoltarea competențelor profesionale (șef, R.Tataru) procesele-verbale ale şedințelor Comisiei municipale de atestare.
+3. Directorul Instituției Publice Liceul Teoretic Mihai Viteazul" (Valentina Demerji) va asigura condițiile necesare de desfăşurare a etapei municipale de atestare a cadrelor de conducere, sesiunea 2026.
+4. Activitatea membrilor Comisiei municipale de atestare se va considera drept activitate în baza Hărții creditare și metodologiei cuantificării, acumulārii și recunoașterii creditelor profesionale, pentru atestare la grad managerial.
+5. Responsabil de executarea prezentului ordin se desemnează R.Tataru, şef secția Dezvoltarea competențelor profesionale.
+6. Monitorizarea îndeplinirii prezentului ordin revine D.Munca-Aftenev, șef adjunct al DGETS.
+
+L. Ursu, 022225574
+
+L. Ursu, 022225574
+
+<!-- image -->

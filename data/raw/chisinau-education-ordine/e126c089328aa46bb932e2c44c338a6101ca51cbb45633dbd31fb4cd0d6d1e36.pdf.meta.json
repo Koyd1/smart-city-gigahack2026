@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "e126c089328aa46bb932e2c44c338a6101ca51cbb45633dbd31fb4cd0d6d1e36",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1772701384_cmfj-ordin.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "505606",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 06:57:48 GMT",
+    "Etag": "\"69a946c8-7b706\"",
+    "Last-Modified": "Thu, 05 Mar 2026 09:03:04 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/e126c089328aa46bb932e2c44c338a6101ca51cbb45633dbd31fb4cd0d6d1e36.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1772701384_cmfj-ordin.pdf",
+  "retrieved_at": "2026-09-26T06:57:48.439664+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

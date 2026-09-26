@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "5308316f7b111d37e8a571479dc66fd87caa65c80dff8b77df4a29790e407d59",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1786101526_ordin-nr-1072-cu-privire-la-evaluarea-institutiilor-de-invatamant-general-2026.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "6301158",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 06:46:26 GMT",
+    "Etag": "\"6a75bf16-6025e6\"",
+    "Last-Modified": "Fri, 07 Aug 2026 11:18:46 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/5308316f7b111d37e8a571479dc66fd87caa65c80dff8b77df4a29790e407d59.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1786101526_ordin-nr-1072-cu-privire-la-evaluarea-institutiilor-de-invatamant-general-2026.pdf",
+  "retrieved_at": "2026-09-26T06:46:27.432598+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

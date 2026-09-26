@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "245221a1984eaec7ef3869844f32d93bb46b95dc78a251dcca9c69119f8ad893",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1781614506_ordin-din-10062026-e20a5175-e225-411c-b874-924bcdfc8388.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "641285",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 07:30:08 GMT",
+    "Etag": "\"6a3147aa-9c905\"",
+    "Last-Modified": "Tue, 16 Jun 2026 12:55:06 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/245221a1984eaec7ef3869844f32d93bb46b95dc78a251dcca9c69119f8ad893.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1781614506_ordin-din-10062026-e20a5175-e225-411c-b874-924bcdfc8388.pdf",
+  "retrieved_at": "2026-09-26T07:30:08.746146+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

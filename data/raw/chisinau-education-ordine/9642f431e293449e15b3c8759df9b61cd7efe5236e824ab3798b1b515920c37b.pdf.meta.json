@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "9642f431e293449e15b3c8759df9b61cd7efe5236e824ab3798b1b515920c37b",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1786713648_ordinul-mec-nr-1512.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "414858",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 07:01:10 GMT",
+    "Etag": "\"6a7f1630-6548a\"",
+    "Last-Modified": "Fri, 14 Aug 2026 13:20:48 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/9642f431e293449e15b3c8759df9b61cd7efe5236e824ab3798b1b515920c37b.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1786713648_ordinul-mec-nr-1512.pdf",
+  "retrieved_at": "2026-09-26T07:01:10.698533+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

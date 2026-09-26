@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "c516af192e24713cc2ef9eb8ad401b4633b909982d853ee4ccaee8138aec90dd",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1789717150_magia-cartii-2026.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "6433030",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 06:42:15 GMT",
+    "Etag": "\"6aacea9e-622906\"",
+    "Last-Modified": "Fri, 18 Sep 2026 07:39:10 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/c516af192e24713cc2ef9eb8ad401b4633b909982d853ee4ccaee8138aec90dd.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1789717150_magia-cartii-2026.pdf",
+  "retrieved_at": "2026-09-26T06:42:17.219236+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

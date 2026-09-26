@@ -1,0 +1,1269 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/33"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    }
+  ],
+  "key_value_items": [],
+  "name": "d915123834e26101828c8381d41fbe1a09997016d9da9f614bfee8bd819226be",
+  "origin": {
+    "binary_hash": 5476070097549403838,
+    "filename": "d915123834e26101828c8381d41fbe1a09997016d9da9f614bfee8bd819226be.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 690.9627227783203,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 258.0190124511719,
+            "r": 367.0994873046875,
+            "t": 762.0865325927734
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 591.6005706787109,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.59895324707031,
+            "r": 298.6507873535156,
+            "t": 636.5846405029297
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 319.48529052734375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 375.957763671875,
+            "r": 551.223876953125,
+            "t": 473.00775146484375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.43048095703125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.80420684814453,
+            "r": 244.1530303955078,
+            "t": 207.54132080078125
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 645.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 181.66666666666669,
+            "r": 463.3333333333333,
+            "t": 689.3333333333333
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "L40326.01/1",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 603.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.0,
+            "r": 243.33333333333334,
+            "t": 636.6666666666666
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "L40326.01/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 575.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 307.0,
+            "r": 369.0,
+            "t": 589.3333333333334
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la înscrierea elevilor în clasa a V-a, pentru anul de studii 2026-2027, în clasele cu profil arte și sport, clasele bilingve, precum și în instituțiile de învățământ care nu au în structură învățământ primar, dar numărul de cereri depăşeşte numărul locurilor disponibile",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 471.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.33333333333333,
+            "r": 447.6666666666667,
+            "t": 543.0
+          },
+          "charspan": [
+            0,
+            281
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Cu privire la înscrierea elevilor în clasa a V-a, pentru anul de studii 2026-2027, în clasele cu profil arte și sport, clasele bilingve, precum și în instituțiile de învățământ care nu au în structură învățământ primar, dar numărul de cereri depăşeşte numărul locurilor disponibile"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul prevederilor Codului educației nr.152/2014, ale REGULAMENTULUICADRU de organizare și funcționare a instituțiilor de învățământ primar și secundar, ciclul I și II, aprobat prin Ordinul Ministerului Educației și Cercetării nr.253/2026, precum și în scopul aplicării Ordinului Ministerului Educației și Cercetārii nr.512/2026 cu privire la înscrierea elevilor în clasa a V-a, în anul de studii 2026-2027, in clasele bilingve, cu profil arte și sport și în instituțiile de învățământ care nu au în structură învățământ primar, dar numārul de cereri depăşeşte numărul de locuri disponibile și al asigurārii unui proces eficient de înscriere a elevilor în clasele a V-a cu profil arte și sport, clasele bilingve, precum și în instituțiile care nu au în structură învăţământ primar, pentru anul de studii 2026-2027,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 313.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.33333333333333,
+            "r": 551.0,
+            "t": 458.3333333333333
+          },
+          "charspan": [
+            0,
+            819
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În temeiul prevederilor Codului educației nr.152/2014, ale REGULAMENTULUICADRU de organizare și funcționare a instituțiilor de învățământ primar și secundar, ciclul I și II, aprobat prin Ordinul Ministerului Educației și Cercetării nr.253/2026, precum și în scopul aplicării Ordinului Ministerului Educației și Cercetārii nr.512/2026 cu privire la înscrierea elevilor în clasa a V-a, în anul de studii 2026-2027, in clasele bilingve, cu profil arte și sport și în instituțiile de învățământ care nu au în structură învățământ primar, dar numārul de cereri depăşeşte numărul de locuri disponibile și al asigurārii unui proces eficient de înscriere a elevilor în clasele a V-a cu profil arte și sport, clasele bilingve, precum și în instituțiile care nu au în structură învăţământ primar, pentru anul de studii 2026-2027,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 271.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 294.33333333333337,
+            "r": 346.66666666666663,
+            "t": 283.33333333333337
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se dispune organizarea și desfãşurarea procesului de înscriere a elevilor în clasa a V-a, pentru anul de studii 2026-2027, în clasele cu profil arte și sport, clasele bilingve, precum și în instituțiile de învățământ care nu au în structurā învăţământ primar, dar numărul de cereri depāşeşte numărul locurilor disponibile, in conformitate cu Ordinul Ministerului Educației și Cercetării nr.512/2026 și cu prevederile prezentului ordin.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 183.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.66666666666667,
+            "r": 550.6666666666667,
+            "t": 270.33333333333337
+          },
+          "charspan": [
+            0,
+            438
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Se dispune organizarea și desfãşurarea procesului de înscriere a elevilor în clasa a V-a, pentru anul de studii 2026-2027, în clasele cu profil arte și sport, clasele bilingve, precum și în instituțiile de învățământ care nu au în structurā învăţământ primar, dar numărul de cereri depāşeşte numărul locurilor disponibile, in conformitate cu Ordinul Ministerului Educației și Cercetării nr.512/2026 și cu prevederile prezentului ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Directorii instituțiilor de învățământ primar și ai instituțiilor de învățământ general cu programe de diferite niveluri sau programe integrate - complex educațional (şcoalā primară -grādinițā):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 109.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.33333333333333,
+            "r": 550.0,
+            "t": 154.66666666666663
+          },
+          "charspan": [
+            0,
+            197
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Directorii instituțiilor de învățământ primar și ai instituțiilor de învățământ general cu programe de diferite niveluri sau programe integrate - complex educațional (şcoalā primară -grādinițā):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se aprobă Planul de admitere pentru înscrierea elevilor în clasa a V-a în anul de studii 2026-2027, conform anexei.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 154.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.33333333333333,
+            "r": 550.0,
+            "t": 183.66666666666663
+          },
+          "charspan": [
+            0,
+            118
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se aprobă Planul de admitere pentru înscrierea elevilor în clasa a V-a în anul de studii 2026-2027, conform anexei."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. vor asigura afişarea, pe avizierele instituției, precum și publicarea pe pagina web oficială a acesteia, a actelor administrative care reglementează organizarea și desfăşurarea înscrierii în clasa a V-a pentru anul de studii 2026-2027;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 714.226816813151,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.46221160888672,
+            "r": 550.6192220052083,
+            "t": 757.9314517974854
+          },
+          "charspan": [
+            0,
+            240
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "vor asigura afişarea, pe avizierele instituției, precum și publicarea pe pagina web oficială a acesteia, a actelor administrative care reglementează organizarea și desfăşurarea înscrierii în clasa a V-a pentru anul de studii 2026-2027;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Directorii instituțiilor de învățământ secundar, ciclul I și II, care vor organiza și desfaşura procesul deînscriere a elevilor în clasa a V-a:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.1623026529948,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.0406977335612,
+            "r": 550.6192220052083,
+            "t": 657.0745951334636
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Directorii instituțiilor de învățământ secundar, ciclul I și II, care vor organiza și desfaşura procesul deînscriere a elevilor în clasa a V-a:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. vor informa părinții/reprezentanții legali ai absolvenților învăţământului primar cu privire la prevederile actelor administrative care reglementează organizarea și desfăşurarea înscrierii în clasa a V-a pentru anul de studii 20262027.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 656.4022216796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.79723866780598,
+            "r": 550.9542236328125,
+            "t": 714.5630035400391
+          },
+          "charspan": [
+            0,
+            240
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "vor informa părinții/reprezentanții legali ai absolvenților învăţământului primar cu privire la prevederile actelor administrative care reglementează organizarea și desfăşurarea înscrierii în clasa a V-a pentru anul de studii 20262027."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.1.",
+      "orig": "4.1. vor asigura afişarea, într-un loc vizibil, precum și publicarea pe pagina web a instituției, a actelor administrative cu privire la organizarea și desfāşurarea înscrierii în clasa a V-a pentru anul de studii 2026-2027, în vederea informării comunității educaționale;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 570.0015258789062,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.46221160888672,
+            "r": 550.2841796875,
+            "t": 627.8261108398438
+          },
+          "charspan": [
+            0,
+            271
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "vor asigura afişarea, într-un loc vizibil, precum și publicarea pe pagina web a instituției, a actelor administrative cu privire la organizarea și desfāşurarea înscrierii în clasa a V-a pentru anul de studii 2026-2027, în vederea informării comunității educaționale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2.",
+      "orig": "4.2. vor institui, prin ordin, Comisia de şcolarizare din cadrul instituției de învătământ;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 541.7615966796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.79723866780598,
+            "r": 550.2841796875,
+            "t": 570.0015258789062
+          },
+          "charspan": [
+            0,
+            91
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "vor institui, prin ordin, Comisia de şcolarizare din cadrul instituției de învătământ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.",
+      "orig": "4.3. vor asigura înscrierea, fără probe de concurs, a absolvenților instituțiilor de învățământ primar și ai instituțiilor de învățământ general cu programe de diferite niveluri sau programe integrate - complex educațional (şcoală primarăgrādinițã), în instituția respectivă, în ordinea depunerii cererilor și în limita locurilor disponibile, în perioada 1 – 29 aprilie 2026, cu afişarea listei elevilor înscriși la data de 18 mai 2026, conform anexei;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 454.3523356119792,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.46221160888672,
+            "r": 550.6192220052083,
+            "t": 541.0892130533854
+          },
+          "charspan": [
+            0,
+            452
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "vor asigura înscrierea, fără probe de concurs, a absolvenților instituțiilor de învățământ primar și ai instituțiilor de învățământ general cu programe de diferite niveluri sau programe integrate - complex educațional (şcoală primarăgrādinițã), în instituția respectivă, în ordinea depunerii cererilor și în limita locurilor disponibile, în perioada 1 – 29 aprilie 2026, cu afişarea listei elevilor înscriși la data de 18 mai 2026, conform anexei;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.4.",
+      "orig": "4.4. vor prezenta Direcției generale educație, tineret și sport (DGETS), până la data de 30 aprilie 2026, solicitarea de coordonare a admiterii în baza testării;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 425.77622477213544,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.79723866780598,
+            "r": 550.6192220052083,
+            "t": 454.3523356119792
+          },
+          "charspan": [
+            0,
+            161
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "vor prezenta Direcției generale educație, tineret și sport (DGETS), până la data de 30 aprilie 2026, solicitarea de coordonare a admiterii în baza testării;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.5.",
+      "orig": "4.5. vor asigura organizarea și desfäşurarea probelor de aptitudini pentru înscrierea elevilor în clasa a V-a la profilurile arte și sport, precum și în clasele bilingve;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 381.7353922526042,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.13226826985677,
+            "r": 550.9542236328125,
+            "t": 425.77622477213544
+          },
+          "charspan": [
+            0,
+            170
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "vor asigura organizarea și desfäşurarea probelor de aptitudini pentru înscrierea elevilor în clasa a V-a la profilurile arte și sport, precum și în clasele bilingve;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Direcția managementul institutional:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 324.91935221354174,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.04578526814778,
+            "r": 314.4237060546875,
+            "t": 339.7117106119792
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Direcția managementul institutional:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.6.",
+      "orig": "4.6. vor prezenta, spre aprobare, Direcției managementul curricular din cadrul DGETS, probele de aptitudini pentru înscrierea elevilor în clasa a V-a cu profil arte și sport, precum și în clasele bilingve.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 339.3755289713542,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.12718200683594,
+            "r": 550.9542236328125,
+            "t": 383.0801595052083
+          },
+          "charspan": [
+            0,
+            205
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "vor prezenta, spre aprobare, Direcției managementul curricular din cadrul DGETS, probele de aptitudini pentru înscrierea elevilor în clasa a V-a cu profil arte și sport, precum și în clasele bilingve."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "5.1.va informa comunitatea educaționalā cu privire la actele administrative care reglementează organizarea și desfáşurarea înscrierii în clasa a V-a pentru anul de studii 2026-2027, prin plasarea acestora pe site-ul oficial al DGETS: https://chisinauedu.dgets.md/;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 268.10335286458326,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.46221160888672,
+            "r": 550.9542236328125,
+            "t": 325.59175618489576
+          },
+          "charspan": [
+            0,
+            264
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "5.1.va informa comunitatea educaționalā cu privire la actele administrative care reglementează organizarea și desfáşurarea înscrierii în clasa a V-a pentru anul de studii 2026-2027, prin plasarea acestora pe site-ul oficial al DGETS: https://chisinauedu.dgets.md/;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.3.",
+      "orig": "5.3. va asigura înscrierea absolvenților instituțiilor de învāțământ primar, precum și ai instituțiilor de învăţământ general cu programe de diferite niveluri sau programe integrate - complex educațional (şcoalā primarā-grădiniță), care nu au fost înmatriculați la nicio instituție de învățământ, în instituțiile care dispunde locuri disponibile.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 166.9102783203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.13226826985677,
+            "r": 550.9542236328125,
+            "t": 238.8548583984375
+          },
+          "charspan": [
+            0,
+            346
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "va asigura înscrierea absolvenților instituțiilor de învāțământ primar, precum și ai instituțiilor de învăţământ general cu programe de diferite niveluri sau programe integrate - complex educațional (şcoalā primarā-grădiniță), care nu au fost înmatriculați la nicio instituție de învățământ, în instituțiile care dispunde locuri disponibile."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.2.",
+      "orig": "5.2. va monitoriza aplicarea actelor administrative privind organizarea și desfăşurarea înscrierii în clasa a V-a pentru anul de studii 2026-2027;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 237.84627278645837,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.79723866780598,
+            "r": 551.2892659505208,
+            "t": 268.43953450520826
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "va monitoriza aplicarea actelor administrative privind organizarea și desfăşurarea înscrierii în clasa a V-a pentru anul de studii 2026-2027;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Direcția managementul curricular va aproba probele de aptitudini pentru înscrierea elevilor în clasa a V-a cu profil arte și sport, precum și în clasele bilingve, pânā la data de 3 mai 2026.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 123.8780517578125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.71075630187988,
+            "r": 550.6192220052083,
+            "t": 167.24650065104163
+          },
+          "charspan": [
+            0,
+            193
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Direcția managementul curricular va aproba probele de aptitudini pentru înscrierea elevilor în clasa a V-a cu profil arte și sport, precum și în clasele bilingve, pânā la data de 3 mai 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Se abrogã:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.0771484375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.37572733561198,
+            "r": 182.08721415201825,
+            "t": 123.54182942708337
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Se abrogã:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.1.",
+      "orig": "7.1. Ordinul DGETS nr.638/2023 cu privire la modificarea Instrucțiunii privind asigurarea școlarizării absolvenților instituțiilor de învătământ primar în instituțiile de învățământ secundar, ciclul I și II;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 715.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.33333333333333,
+            "r": 549.6666666666667,
+            "t": 757.6666666666666
+          },
+          "charspan": [
+            0,
+            207
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Ordinul DGETS nr.638/2023 cu privire la modificarea Instrucțiunii privind asigurarea școlarizării absolvenților instituțiilor de învătământ primar în instituțiile de învățământ secundar, ciclul I și II;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.2.",
+      "orig": "7.2. Ordinul DGETS nr.526/2022 cu privire la asigurarea școlarizării absolvenților instituțiilor de învăţământ primar, anul de studii 2022-2023.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 687.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.0,
+            "r": 550.0,
+            "t": 714.6666666666666
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Ordinul DGETS nr.526/2022 cu privire la asigurarea școlarizării absolvenților instituțiilor de învăţământ primar, anul de studii 2022-2023."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Responsabili de executarea prevederilor prezentului ordin se desemnează Direcția managementul instituțional, Directia managementul curricular, precum și directorii instituțiilor de învāțământ primar, ai instituțiilor de învățāmânt general cu programe de diferite niveluri sau programe integrate - complex educațional (școală primară-grădinițā) și ai instituțiilor de învățământ secundar, ciclul I și II, care vor organiza și desfăşura procesul de înscriere a elevilor în clasa a V-a.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 601.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.33333333333333,
+            "r": 550.3333333333333,
+            "t": 685.3333333333333
+          },
+          "charspan": [
+            0,
+            486
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Responsabili de executarea prevederilor prezentului ordin se desemnează Direcția managementul instituțional, Directia managementul curricular, precum și directorii instituțiilor de învāțământ primar, ai instituțiilor de învățāmânt general cu programe de diferite niveluri sau programe integrate - complex educațional (școală primară-grădinițā) și ai instituțiilor de învățământ secundar, ciclul I și II, care vor organiza și desfăşura procesul de înscriere a elevilor în clasa a V-a."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. Controlul asupra executārii prevederilor prezentului ordin revine domnului Valentin Crudu, şef adjunct al Direcției generale educație, tineret și sport.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 571.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.66666666666667,
+            "r": 550.6666666666667,
+            "t": 598.6666666666666
+          },
+          "charspan": [
+            0,
+            155
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Controlul asupra executārii prevederilor prezentului ordin revine domnului Valentin Crudu, şef adjunct al Direcției generale educație, tineret și sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 405.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 486.0,
+            "r": 552.6666666666666,
+            "t": 422.6666666666667
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Şef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 380.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 488.3333333333333,
+            "r": 551.3333333333334,
+            "t": 394.0
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.:DanielaŞalari.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 179.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.0,
+            "r": 155.33333333333331,
+            "t": 189.33333333333337
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Ex.:DanielaŞalari."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Tel.: 02223-51-71",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 170.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.0,
+            "r": 153.0,
+            "t": 181.0
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Tel.: 02223-51-71"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Mleeely",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 171.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 160.0,
+            "r": 245.66666666666666,
+            "t": 210.33333333333337
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "Mleeely"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinãu, Republica Moldova, Tell.: (022)201601, www.chisinauedu.md. e-mail:dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 82.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 176.66666666666669,
+            "r": 467.6666666666667,
+            "t": 105.0
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinãu, Republica Moldova, Tell.: (022)201601, www.chisinauedu.md. e-mail:dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

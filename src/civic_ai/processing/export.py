@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import json
 import re
-from collections import defaultdict
+from collections import Counter, defaultdict
 from dataclasses import dataclass
 from datetime import UTC, datetime
 from pathlib import Path
@@ -74,10 +74,15 @@ def build_rag_export(
     document_root = export_root / "documents"
     chunks: list[str] = []
     manifest_documents: list[dict[str, Any]] = []
+    version_counts = Counter(record["document_id"] for _, record in documents)
 
     for json_path, record in documents:
         markdown_path = json_path.with_suffix(".md")
         filename = f"{_slug(record['title'])}-{record['document_id']}.md"
+        if version_counts[record["document_id"]] > 1:
+            filename = (
+                f"{_slug(record['title'])}-{record['document_id']}-{record['version_id']}.md"
+            )
         target = document_root / filename
         atomic_write(target, markdown_path.read_text(encoding="utf-8"))
 

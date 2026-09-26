@@ -1,0 +1,930 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/texts/16"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/texts/23"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "676d35e6b6b07897182c8f6264526e12864970a2256e7e11d3084ef7abf593c8",
+  "origin": {
+    "binary_hash": 15206490967465366472,
+    "filename": "676d35e6b6b07897182c8f6264526e12864970a2256e7e11d3084ef7abf593c8.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 714.0298383908575,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 258.0570652064381,
+            "r": 370.18964576669987,
+            "t": 788.336604827723
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 615.2477393563593,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.5139273429717,
+            "r": 287.04496445009374,
+            "t": 651.7806938676376
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 203.04938674888626,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 383.4502116854879,
+            "r": 497.56946691935497,
+            "t": 316.40185854667675
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FAINNOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 717.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 288.33333333333337,
+            "r": 340.0,
+            "t": 723.0133233333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FAINNOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 665.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 179.0,
+            "r": 468.6666666666667,
+            "t": 711.0133233333333
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "100426.01/7484",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 614.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.66666666666667,
+            "r": 290.66666666666663,
+            "t": 654.3466566666666
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "100426.01/7484"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la totalurile olimpiadei şcolare la educația fizică, etapă municipală - 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 526.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.33333333333333,
+            "r": 290.33333333333337,
+            "t": 578.3466566666666
+          },
+          "charspan": [
+            0,
+            87
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Cu privire la totalurile olimpiadei şcolare la educația fizică, etapă municipală - 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul ordinului nr. 01/1-7/352 din 18.03.2026 al Direcției Generale Educație, Tineret și Sport cu privire la organizarea și desfaşurarea olimpiadei municipale la disciplina educație fizică, în conformitate cu prevederile Regulamentului privind concursurile și olimpiadele şcolare, aprobat prin ordinul MECC nr1222din 06.11.2020, modificat prin ordinul MEC nr. 1311din 28.2.2022, respectiv ordinul DGETS nr. 01/1-7/1677 din 26.11.2025 Cu privire la organizarea și desfășurarea olimpiadelor școlare, ediția anului 2026, în incinta Instituției Publice Liceul cu Profil Sportiv Avante\" s-a desfăşurat olimpiada municipală la educația fizică.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 290.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333333,
+            "r": 554.0,
+            "t": 500.0133233333333
+          },
+          "charspan": [
+            0,
+            642
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În temeiul ordinului nr. 01/1-7/352 din 18.03.2026 al Direcției Generale Educație, Tineret și Sport cu privire la organizarea și desfaşurarea olimpiadei municipale la disciplina educație fizică, în conformitate cu prevederile Regulamentului privind concursurile și olimpiadele şcolare, aprobat prin ordinul MECC nr1222din 06.11.2020, modificat prin ordinul MEC nr. 1311din 28.2.2022, respectiv ordinul DGETS nr. 01/1-7/1677 din 26.11.2025 Cu privire la organizarea și desfășurarea olimpiadelor școlare, ediția anului 2026, în incinta Instituției Publice Liceul cu Profil Sportiv Avante\" s-a desfăşurat olimpiada municipală la educația fizică."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "La olimpiada au participat 107 elevi din clasele a IX-a și a XII-a.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 265.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.66666666666666,
+            "r": 495.6666666666667,
+            "t": 280.3466566666666
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "La olimpiada au participat 107 elevi din clasele a IX-a și a XII-a."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Analizând rezultatele olimpiadei municipale la educația fizică, îr comun acord cu hotărârea juriului,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 218.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.66666666666667,
+            "r": 553.0,
+            "t": 256.01332333333335
+          },
+          "charspan": [
+            0,
+            101
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Analizând rezultatele olimpiadei municipale la educația fizică, îr comun acord cu hotărârea juriului,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 196.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.66666666666663,
+            "r": 342.0,
+            "t": 210.34665666666672
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se aprobă lista nominală a clasamentului olimpiadei municipale la educañia fizică (Anexa nr.1).",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 149.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.33333333333333,
+            "r": 554.3333333333333,
+            "t": 188.67998999999998
+          },
+          "charspan": [
+            0,
+            98
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se aprobă lista nominală a clasamentului olimpiadei municipale la educañia fizică (Anexa nr.1)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se decernează diplome de merit elevilor învingători la olimpiada municipală la educația fizică, conform clasamentului.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 102.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.0,
+            "r": 554.0,
+            "t": 141.34665666666672
+          },
+          "charspan": [
+            0,
+            121
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se decernează diplome de merit elevilor învingători la olimpiada municipală la educația fizică, conform clasamentului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 595.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.33333333333337,
+            "r": 342.3333333333333,
+            "t": 610.0133233333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se menționează pentru crearea condițiilor necesare și activitatea organizatorică în desfăşurarea olimpiadei directorul Instituției Publice Liceul cu Profil Sportiv Avante\", Frunză Elena.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 722.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666667,
+            "r": 553.3333333333333,
+            "t": 786.0133233333333
+          },
+          "charspan": [
+            0,
+            189
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Se menționează pentru crearea condițiilor necesare și activitatea organizatorică în desfăşurarea olimpiadei directorul Instituției Publice Liceul cu Profil Sportiv Avante\", Frunză Elena."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Se consideră activitatea cadrelor de conducere și a cadrelor didactice implicate în organizarea și desfăşurarea olimpiadei municipale la educația fizică, drept activitate cu durata de 60 (şaizeci) de ore în baza Hărții creditare din Regulamentul de atestare a cadrelor la grad didactic, respectiv, la grad managerial.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 623.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333333,
+            "r": 553.6666666666667,
+            "t": 713.67999
+          },
+          "charspan": [
+            0,
+            320
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Se consideră activitatea cadrelor de conducere și a cadrelor didactice implicate în organizarea și desfăşurarea olimpiadei municipale la educația fizică, drept activitate cu durata de 60 (şaizeci) de ore în baza Hărții creditare din Regulamentul de atestare a cadrelor la grad didactic, respectiv, la grad managerial."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Directorii instituțiilor de învățământ, în baza acordului cadrelor didactice, implicate în organizarea și desfăşurarea olimpiadei, vor oferi câte două zile de recuperare cadrelor didactice, membrilor juriului, pentru munca prestată în zile de repaus, 4-5 aprilie 2026 (Anexele nr.1,2 și 3), în corespundere cu prevederile Codului muncii.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 504.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.0,
+            "r": 554.0,
+            "t": 616.0133233333333
+          },
+          "charspan": [
+            0,
+            340
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Directorii instituțiilor de învățământ, în baza acordului cadrelor didactice, implicate în organizarea și desfăşurarea olimpiadei, vor oferi câte două zile de recuperare cadrelor didactice, membrilor juriului, pentru munca prestată în zile de repaus, 4-5 aprilie 2026 (Anexele nr.1,2 și 3), în corespundere cu prevederile Codului muncii."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Responsabil de realizarea prevederilor prezentului ordin se desemnează Olga Popescu, specialist superior, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 455.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666667,
+            "r": 554.3333333333333,
+            "t": 495.0133233333333
+          },
+          "charspan": [
+            0,
+            115
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Responsabil de realizarea prevederilor prezentului ordin se desemnează Olga Popescu, specialist superior, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "7. Controlul realizării prevederilor ordinului revine Svetlana Axînti, şef al direcției",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 430.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.33333333333333,
+            "r": 553.3333333333333,
+            "t": 446.0133233333333
+          },
+          "charspan": [
+            0,
+            87
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "7. Controlul realizării prevederilor ordinului revine Svetlana Axînti, şef al direcției"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "management curricular, DGETS.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 407.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666667,
+            "r": 270.0,
+            "t": 421.0133233333333
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "management curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "8. Monitorizarea îndeplinirii prezentului ordin revine Valentin Crudu, şef adjunct,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 381.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.0,
+            "r": 553.6666666666667,
+            "t": 398.0133233333333
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "8. Monitorizarea îndeplinirii prezentului ordin revine Valentin Crudu, şef adjunct,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "DGETS.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 359.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.0,
+            "r": 133.0,
+            "t": 374.0133233333333
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex. Popescu Olga,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 116.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.0,
+            "r": 162.33333333333331,
+            "t": 134.01332333333335
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Ex. Popescu Olga,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "022 23 52 96",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 118.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 157.0,
+            "r": 216.66666666666666,
+            "t": 133.67998999999998
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "022 23 52 96"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 278.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 488.0,
+            "r": 555.3333333333333,
+            "t": 308.3466566666667
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Şef adjunct PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 80.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 167.33333333333334,
+            "r": 468.6666666666667,
+            "t": 98.01332333333335
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova,"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 69.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 184.33333333333334,
+            "r": 460.0,
+            "t": 86.67998999999998
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,1654 @@
+{
+  "crawler_stats": {
+    "downloader/exception_count": 11,
+    "downloader/exception_type_count/scrapy.exceptions.DownloadTimeoutError": 11,
+    "downloader/request_bytes": 238333,
+    "downloader/request_count": 223,
+    "downloader/request_method_count/GET": 223,
+    "downloader/response_bytes": 397079805,
+    "downloader/response_count": 212,
+    "downloader/response_status_count/200": 188,
+    "downloader/response_status_count/301": 23,
+    "downloader/response_status_count/404": 1,
+    "dupefilter/filtered": 13,
+    "httpcompression/response_bytes": 5486784,
+    "httpcompression/response_count": 25,
+    "item_scraped_count": 187,
+    "log_count/INFO": 730,
+    "log_count/WARNING": 24,
+    "memusage/max": 6544179200,
+    "memusage/startup": 95518720,
+    "request_depth_max": 3,
+    "response_received_count": 189,
+    "retry/count": 11,
+    "retry/reason_count/scrapy.exceptions.DownloadTimeoutError": 11,
+    "robotstxt/request_count": 1,
+    "robotstxt/response_count": 1,
+    "robotstxt/response_status_count/200": 1,
+    "scheduler/dequeued": 222,
+    "scheduler/dequeued/memory": 222,
+    "scheduler/enqueued": 222,
+    "scheduler/enqueued/memory": 222
+  },
+  "finished_at": "2026-09-26T07:32:18.944849+00:00",
+  "items": [
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine",
+      "version_id": "ver_3c700999_dd6f1c6f77c9"
+    },
+    {
+      "chunks": 23,
+      "document_id": "doc_d987535e9a3bc476aed0",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1788853705_steaua-intre-stele.pdf",
+      "version_id": "ver_d987535e_c138927c707d"
+    },
+    {
+      "chunks": 9,
+      "document_id": "doc_8d6061cbe1207b73053a",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1789738208_anexele-1-si-2_jNWKPQ.pdf",
+      "version_id": "ver_8d6061cb_0f6dc82369bf"
+    },
+    {
+      "chunks": 3,
+      "document_id": "doc_46a4ef6d4b25b73b9033",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1789738208_anexele-3-si-4_5a1Ofa.pdf",
+      "version_id": "ver_46a4ef6d_e6e243398052"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_e48ef45647585ee97946",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1789738208_ordin-1152.pdf",
+      "version_id": "ver_e48ef456_8e238688417c"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=29",
+      "version_id": "ver_3c700999_27dee3052dc5"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=28",
+      "version_id": "ver_3c700999_3358b044a205"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=10",
+      "version_id": "ver_3c700999_a6513f56c0a2"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=9",
+      "version_id": "ver_3c700999_0be854a07f7a"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=8",
+      "version_id": "ver_3c700999_701b0a0c2c37"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=7",
+      "version_id": "ver_3c700999_0e96c15705f9"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=6",
+      "version_id": "ver_3c700999_44d18f52a152"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=5",
+      "version_id": "ver_3c700999_ea2b649e0f9d"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=4",
+      "version_id": "ver_3c700999_63b143aa43a7"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=3",
+      "version_id": "ver_3c700999_459801f10980"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=2",
+      "version_id": "ver_3c700999_afaa9ad331e0"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_8294d4c014736156159b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1789737752_ordin-formare-cse-2026.pdf",
+      "version_id": "ver_8294d4c0_6dab40403613"
+    },
+    {
+      "chunks": 32,
+      "document_id": "doc_ba92f789cd196b5e108b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1789717150_magia-cartii-2026.pdf",
+      "version_id": "ver_ba92f789_64e658dd9eac"
+    },
+    {
+      "chunks": 16,
+      "document_id": "doc_e409a1f86acadc4125fa",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1789717020_mari-si-mici-2026.pdf",
+      "version_id": "ver_e409a1f8_878253bf0356"
+    },
+    {
+      "chunks": 39,
+      "document_id": "doc_6e3788f859b0c8ddc131",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1789716938_cosita-de-versuri-2026.pdf",
+      "version_id": "ver_6e3788f8_8d250ff7976a"
+    },
+    {
+      "chunks": 15,
+      "document_id": "doc_9cddb965745483f4c61a",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1789716812_o-viata.pdf",
+      "version_id": "ver_9cddb965_9ecfe81e0803"
+    },
+    {
+      "chunks": 8,
+      "document_id": "doc_597353faa6a286bd5f21",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1789716711_anexa-ordin-abc-ul-financiar_A8Wjxc.pdf",
+      "version_id": "ver_597353fa_bddc49ca9b59"
+    },
+    {
+      "chunks": 3,
+      "document_id": "doc_fbd7b86ff66c7070c584",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765808927_ordin-semin-fizica-1.pdf",
+      "version_id": "ver_fbd7b86f_ff3d33ae9c81"
+    },
+    {
+      "chunks": 17,
+      "document_id": "doc_601d9c63ad483825dceb",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774594674_flash-mob.pdf",
+      "version_id": "ver_601d9c63_71918eecadc2"
+    },
+    {
+      "chunks": 10,
+      "document_id": "doc_c53f80b6854043e040e7",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774935801_ordinul-nr-423.pdf",
+      "version_id": "ver_c53f80b6_d85ba3e54b1c"
+    },
+    {
+      "chunks": 9,
+      "document_id": "doc_45ca9fd07c298b189982",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775804619_scan0348.pdf",
+      "version_id": "ver_45ca9fd0_8c311356c67f"
+    },
+    {
+      "chunks": 22,
+      "document_id": "doc_0e296270b5ba5e54ffa9",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1776921913_ordin-atelier-educatie-fizica-2.pdf",
+      "version_id": "ver_0e296270_4e155b179e38"
+    },
+    {
+      "chunks": 8,
+      "document_id": "doc_cc9c99620bffc8c1c4de",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1777872184_0346-260430135718-001.pdf",
+      "version_id": "ver_cc9c9962_071dad8aa829"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_110d4dadf088b7c18cfe",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1779705316_scan-2025-11-23-10-46-46-590-1.pdf",
+      "version_id": "ver_110d4dad_f7bc962e89ec"
+    },
+    {
+      "chunks": 2,
+      "document_id": "doc_5b6b09e6a935d64b0b6a",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1788957248_lista-certificate-digitalizare-manuale-de-engleza-c40c4772-38d4_rDJbP0.pdf",
+      "version_id": "ver_5b6b09e6_1ae028461b44"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_5264ccb93fb411eb6e0d",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1788258606_ordin-mec-1582-07082026.pdf",
+      "version_id": "ver_5264ccb9_a87a28c92bb7"
+    },
+    {
+      "chunks": 23,
+      "document_id": "doc_6f35c14ac69e518cbcfc",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1786101526_ordin-nr-1072-cu-privire-la-evaluarea-institutiilor-de-invatamant-general-2026.pdf",
+      "version_id": "ver_6f35c14a_01999d3bf9a2"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_2c34d559e3c4ced0009b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1786515468_scan0371.pdf",
+      "version_id": "ver_2c34d559_9860564807ce"
+    },
+    {
+      "chunks": 26,
+      "document_id": "doc_cc364aa35eaf63de9576",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1787047092_mec-ordin-repartizare-etapa-ii-2026.pdf",
+      "version_id": "ver_cc364aa3_11da5f4f454b"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=27",
+      "version_id": "ver_3c700999_6c3b18878e03"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_72dfd9768156df6d86a0",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1787735016_1921-260826121649-001.pdf",
+      "version_id": "ver_72dfd976_9f10f21e5a6b"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=13",
+      "version_id": "ver_3c700999_aa76f849f943"
+    },
+    {
+      "chunks": 15,
+      "document_id": "doc_9294ead391248f191168",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1788327609_ord1106-din-280826-maratonul-educational.pdf",
+      "version_id": "ver_9294ead3_7a770e61b604"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_1d05493f3f519662faea",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1788443031_scan0375.pdf",
+      "version_id": "ver_1d05493f_cf6db8fb82e8"
+    },
+    {
+      "chunks": 15,
+      "document_id": "doc_ef1dedeaabeb386f21cf",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1788939176_ord-1116-040926.pdf",
+      "version_id": "ver_ef1dedea_5b5bed24333f"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_87121edd323d38badfec",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1781697720_ordinanexa-1-fise-digitale-engleza-ii-1.pdf",
+      "version_id": "ver_87121edd_ca6c4f4aca58"
+    },
+    {
+      "chunks": 16,
+      "document_id": "doc_ff7a5a5761cd48ce879b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1785391048_anexa-1-participanti-conf-transfr-25-iunie-2026_ieG1ss.pdf",
+      "version_id": "ver_ff7a5a57_e66799a14475"
+    },
+    {
+      "chunks": 3,
+      "document_id": "doc_5c684f587e060b1f3ae9",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1785391048_anexa-2-prezentatori-conf-trasfr-25-iunie-2026_Btjk7a.pdf",
+      "version_id": "ver_5c684f58_cdfe8b5f60d7"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_d0b86560886b05004046",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1785391048_anexa-3-postere-conf-transfr-25-iunie-2026_MqRliC.pdf",
+      "version_id": "ver_d0b86560_57aa7759485a"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_eaf6cff0bf29ca22ce23",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1785391048_ordin-totalizare-conf-transfr-25-iunie-2026.pdf",
+      "version_id": "ver_eaf6cff0_7f7b8a56bede"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_99c5ab36023d671d014a",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1783081357_ordin-evaluarea-instituiilor.pdf",
+      "version_id": "ver_99c5ab36_237ac91dec20"
+    },
+    {
+      "chunks": 8,
+      "document_id": "doc_6d4306d07a5280b44735",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1783069954_ordin-sesiunea-suplimentara-2026.pdf",
+      "version_id": "ver_6d4306d0_cdb532e362a5"
+    },
+    {
+      "chunks": 10,
+      "document_id": "doc_70a04af80d9ee2fa5af0",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1784893236_ordin-cu-privire-la-conferirea-confirmarea-gradelor-manageriale-01-1-7-1047-din-230726.pdf",
+      "version_id": "ver_70a04af8_199bb9e42cb4"
+    },
+    {
+      "chunks": 23,
+      "document_id": "doc_bd3566879b9980ef561f",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1784893383_26-anexa-1-confer-gr-did-doi-1046-din-230726_aIl4TA.pdf",
+      "version_id": "ver_bd356687_9d5a802f6bf6"
+    },
+    {
+      "chunks": 17,
+      "document_id": "doc_56ec2d1bdbe73d2d88ec",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1784893383_26-anexa-3-confirm-did-unu-1046_wG7zSJ.pdf",
+      "version_id": "ver_56ec2d1b_ffeb21729b57"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_81036b21d4302de0e92f",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765444928_ordin-2-1.pdf",
+      "version_id": "ver_81036b21_44bc835d9d65"
+    },
+    {
+      "chunks": 12,
+      "document_id": "doc_410b89ec4740e84fa80a",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765445662_ordin-nr-01-1-7-1713-din-03122025-cu-privire-la-totalurile-atelierelor-de-masterclass-la-disciplina-scolara-educatie-tehnologica.pdf",
+      "version_id": "ver_410b89ec_e596ea92c99f"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_e9f406533ebd7065e3f4",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1772692295_cu-privire-la-organizarea-si-desfasurarea-nr-01-1-7-290-din-040326.pdf",
+      "version_id": "ver_e9f40653_2199420ab3e3"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_21dbd20083f871fc9383",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1772692194_anexa-2_dY0amV.pdf",
+      "version_id": "ver_21dbd200_9564549b7657"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_a98c5258699b13ae6f1f",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1772692194_anexa-3_r2f3ik.pdf",
+      "version_id": "ver_a98c5258_9dac7eb1ca85"
+    },
+    {
+      "chunks": 3,
+      "document_id": "doc_aabd10d07675a6eadbc7",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1772692194_anexa-4_UTDgb9.pdf",
+      "version_id": "ver_aabd10d0_c009f8578fb5"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_03f8d151f768d36fffa0",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1772692194_anexa-5_p7Ii7B.pdf",
+      "version_id": "ver_03f8d151_3503cc8c4af1"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_a863022631877600186f",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1772692194_anexa-1_0FfZDJ.pdf",
+      "version_id": "ver_a8630226_a57c749daf37"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_cecd205ed169e1b8c258",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1772692066_3071-260304152838-001.pdf",
+      "version_id": "ver_cecd205e_af198087c97b"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_f0f54a4ad6138e9d2a6d",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1772627589_ordin-nr01-1-7-289-din-040326-cu-privire-la-totalurile-olimpiadei-la-educatia-plastica-etapa-municipala-editia-2026.pdf",
+      "version_id": "ver_f0f54a4a_dc5a6cab6bd1"
+    },
+    {
+      "chunks": 35,
+      "document_id": "doc_9c6f5fc33ca8b5ca60fe",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1772627511_ord-291-batalia-rimelor-2026.pdf",
+      "version_id": "ver_9c6f5fc3_5419cf5b7c77"
+    },
+    {
+      "chunks": 8,
+      "document_id": "doc_b666d11615910678a96b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1772627383_0311-260304132829-001.pdf",
+      "version_id": "ver_b666d116_f8ac8026ca0f"
+    },
+    {
+      "chunks": 12,
+      "document_id": "doc_b760938b32dfbdcec538",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1772701525_ordin-total-fiz-mun.pdf",
+      "version_id": "ver_b760938b_f3fc85de421e"
+    },
+    {
+      "chunks": 10,
+      "document_id": "doc_417c6af093b51333031a",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1772701453_delegare-info.pdf",
+      "version_id": "ver_417c6af0_92b6245bd8cb"
+    },
+    {
+      "chunks": 11,
+      "document_id": "doc_836f5f00a6254c5c0d4e",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1772701384_cmfj-ordin.pdf",
+      "version_id": "ver_836f5f00_bb5288981d3e"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_8d10b38c351a7b615aae",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1773125338_ordinul-nr-306.pdf",
+      "version_id": "ver_8d10b38c_afaf2776a2f1"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_7461a60724c73b86be3b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1773125200_ordin-ordin-nr01-1-7-307-din-09032026-organizarea-si-desfasurarea-seminarului-instructiv-pentru-cadrele-didactice-din-invatamantul-primar.pdf",
+      "version_id": "ver_7461a607_faea20c5e609"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_bfc9b51d02af6680df59",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765445364_ordin-271125.pdf",
+      "version_id": "ver_bfc9b51d_896a52714f99"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_70880474a3d2b4974867",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765446160_ordin-nr-01-1-7-1723-din-041225-ref-organizarea-vizitelor-de-monitorizare-in-institutiile-de-invatamant-secundar-general-ciclul-i-si-ciclul-ii.pdf",
+      "version_id": "ver_70880474_8864ae945503"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_d4119506cc2eed327bb6",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765200607_ordin-activitati-extracurriculare-de-iarna.pdf",
+      "version_id": "ver_d4119506_51ec22f50880"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_ccbf0b22bd6be17c7f43",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765801579_ordin-gimnaziu-externat-1.pdf",
+      "version_id": "ver_ccbf0b22_a8143e54c729"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_80da1fef78f8ad36c8b7",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765957158_2483-251216164947-001.pdf",
+      "version_id": "ver_80da1fef_b1f12a4d5b32"
+    },
+    {
+      "chunks": 8,
+      "document_id": "doc_116ed5c8d6756c232245",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1766041483_camscanner-18122025-0840.pdf",
+      "version_id": "ver_116ed5c8_53425a35fd60"
+    },
+    {
+      "chunks": 8,
+      "document_id": "doc_fbc0501fcaf5c89615cc",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1766474989_ordin-limba-rusa-1.pdf",
+      "version_id": "ver_fbc0501f_d12cdd26bfed"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_7c997644d849d8c44a85",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1766127282_ordin-total-sem-fiz-1.pdf",
+      "version_id": "ver_7c997644_1127d222b5a3"
+    },
+    {
+      "chunks": 31,
+      "document_id": "doc_db516de38c3e5ec818fe",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1784892279_anexa-2-cu-privire-la-confirmarea-gradellor-didactice-doi-01-1-7-1046-din-230726_KN4frA.pdf",
+      "version_id": "ver_db516de3_6de82a416c65"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_1b6d66725eeb1b9bafd3",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1786713648_ordinul-mec-nr-1512.pdf",
+      "version_id": "ver_1b6d6672_af2c2c478816"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_62e5cf9b251cf602c8de",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1786712708_anexa-nr1-la-ordinul-nr1511-conferirea-grad-did-superior_ufUEwq.pdf",
+      "version_id": "ver_62e5cf9b_e30a567f5bf4"
+    },
+    {
+      "chunks": 11,
+      "document_id": "doc_dcc4bb1ae6dd1993d3fa",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1786712707_anexa-nr2-la-ordinul-nr1511-confer-grad-did-unu_Fm0BXi.pdf",
+      "version_id": "ver_dcc4bb1a_fcf0c2b63d4c"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_3b4798f14587cd0e13ea",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1785412303_ord-1060-org-exam-august-2026.pdf",
+      "version_id": "ver_3b4798f1_a6ffd1511d18"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_df67e37f9240e34b5260",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1785412231_reuniuni-metod_j5em51.pdf",
+      "version_id": "ver_df67e37f_d53e71fd151a"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_e9be6bedd0228d508b4c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1785412231_reuniuni-metod.pdf",
+      "version_id": "ver_e9be6bed_d53e71fd151a"
+    },
+    {
+      "chunks": 36,
+      "document_id": "doc_aabe4d1dcc1c69d091b2",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1779698297_scan-2025-11-23-07-22-20-280.pdf",
+      "version_id": "ver_aabe4d1d_18e3097d9be8"
+    },
+    {
+      "chunks": 19,
+      "document_id": "doc_304e9bfb8452b9abe022",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1779698173_scan-2025-11-23-07-21-38-117.pdf",
+      "version_id": "ver_304e9bfb_eb929fe8d0c6"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_3e3eebc9fb921f5ec22d",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1779783653_scan-2025-11-24-07-09-56-047.pdf",
+      "version_id": "ver_3e3eebc9_d8b8bdd0560a"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_eab3c0d9a4095c86eb04",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1780559626_ord-913-290526-1.pdf",
+      "version_id": "ver_eab3c0d9_380ef5320105"
+    },
+    {
+      "chunks": 13,
+      "document_id": "doc_2438711e34c4cf9189e7",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1780638451_anexele-la-ord-913_PkiuWp.pdf",
+      "version_id": "ver_2438711e_d7d95c3165db"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_172584594c269667b203",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1780386411_1905-260602110404-001.pdf",
+      "version_id": "ver_17258459_d91f8acfc13f"
+    },
+    {
+      "chunks": 9,
+      "document_id": "doc_19b64436a0f4357db6c1",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1784035999_0364-260609115740-001.pdf",
+      "version_id": "ver_19b64436_aea7b1fa491d"
+    },
+    {
+      "chunks": 31,
+      "document_id": "doc_72f8e88cf3751cb9c1c3",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1786611808_scan-2026-02-10-12-06-18-729-comprimat_0kxgke.pdf",
+      "version_id": "ver_72f8e88c_582403d69a75"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_9b2aa251a82ca55e8690",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1785151541_scan-2026-01-25-10-45-16-883.pdf",
+      "version_id": "ver_9b2aa251_775aa37dea7a"
+    },
+    {
+      "chunks": 8,
+      "document_id": "doc_02f634be834c5d93328e",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1781614506_anexa-nr-1-aedac561-f543-4b13-ac46-3dca7392e2b2_uxkeHF.pdf",
+      "version_id": "ver_02f634be_4a78c312331f"
+    },
+    {
+      "chunks": 22,
+      "document_id": "doc_34045b0c102060f935c7",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1781265092_ordin-de-totalizare-952.pdf",
+      "version_id": "ver_34045b0c_a603cf94dda2"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_dca59697c52de0c4c12d",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1778764440_scan-2025-11-12-11-18-44-784.pdf",
+      "version_id": "ver_dca59697_1f4f4d818276"
+    },
+    {
+      "chunks": 18,
+      "document_id": "doc_f24c2f2e947fa4afeda6",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1781086543_pdf24-merged-29.pdf",
+      "version_id": "ver_f24c2f2e_b9920de2b69e"
+    },
+    {
+      "chunks": 16,
+      "document_id": "doc_12ea50190c83a9b1feda",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1779281936_anexe-la-ordnr01-1-7-733-din-19052026_bG34m0.pdf",
+      "version_id": "ver_12ea5019_b1324549d585"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_5cb7269a1644d1c13ed4",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1779194081_0515-260519121520-001.pdf",
+      "version_id": "ver_5cb7269a_c590d3712ea4"
+    },
+    {
+      "chunks": 17,
+      "document_id": "doc_e26a25d1ac2666493deb",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1781086332_0363-260609114845-001.pdf",
+      "version_id": "ver_e26a25d1_2478941ae632"
+    },
+    {
+      "chunks": 12,
+      "document_id": "doc_b95fdcc75a2f1dfbed87",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1780999875_0361-260608165254-001.pdf",
+      "version_id": "ver_b95fdcc7_3a55ad3c57ea"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_baf93ee257d3cdd53e99",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1779282042_scan-2025-11-18-13-09-19-015.pdf",
+      "version_id": "ver_baf93ee2_e4b39c2fe143"
+    },
+    {
+      "chunks": 15,
+      "document_id": "doc_877e6fd42a5a3a625b9c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1779370103_pdf24-merged-27.pdf",
+      "version_id": "ver_877e6fd4_e9b484594593"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_22ec2b5b65a876afc85e",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1777354688_scan0354.pdf",
+      "version_id": "ver_22ec2b5b_381829fd37bb"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_134dc649cd73070f8ef3",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1776944768_0341-260423142326-001.pdf",
+      "version_id": "ver_134dc649_c476e16f774c"
+    },
+    {
+      "chunks": 23,
+      "document_id": "doc_eba19389fca7a67e6838",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1777379737_0505-260428111552-001.pdf",
+      "version_id": "ver_eba19389_d3ea4d920719"
+    },
+    {
+      "chunks": 20,
+      "document_id": "doc_8821dee019060af87b5d",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1777379658_0506-260428122255-001.pdf",
+      "version_id": "ver_8821dee0_68f3c8f98c13"
+    },
+    {
+      "chunks": 31,
+      "document_id": "doc_16051aebdf90d97bb321",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1777290307_ord-517-rez-batalia-rimelor.pdf",
+      "version_id": "ver_16051aeb_3d62a256579e"
+    },
+    {
+      "chunks": 9,
+      "document_id": "doc_4e6993d999cb56c3044c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1780401326_plan-ca-dgets_ewYRrh.xlsx",
+      "version_id": "ver_4e6993d9_38ebea44b3bf"
+    },
+    {
+      "chunks": 3,
+      "document_id": "doc_0c849c7125a1b0e4c9a6",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1777444364_scan-2025-10-28-06-58-30-520.pdf",
+      "version_id": "ver_0c849c71_1e63a00b5c19"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_ea8bfbce58f237a94e8a",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1777462986_cu-privire-ia-organizarea-si-desfasurarea-sedintelor-clubului-psihologului-practician-firul-ariadnei.pdf",
+      "version_id": "ver_ea8bfbce_753dea59d4f8"
+    },
+    {
+      "chunks": 3,
+      "document_id": "doc_d8ad1b1ba99160ee58b9",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1777458166_ordnr541.pdf",
+      "version_id": "ver_d8ad1b1b_02229e3d911c"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_4a2e2f51ffea77c67658",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775799862_ordin-nr-01-1-7-473-din-080426-ref-organizarea-vizitelor-de-monitorizare-in-institutiile-de-invatamant-secundar-general-ciclul-i-si-ciclul-ii.pdf",
+      "version_id": "ver_4a2e2f51_805ce5238373"
+    },
+    {
+      "chunks": 9,
+      "document_id": "doc_cfbc4dc2bd4b1f36ad25",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775799761_ordin-nr-01-1-7-474-din-080426-cu-privire-la-totalurile-olimpiadei-la-educatia-tehnologica-etapa-municipala-editia-2026.pdf",
+      "version_id": "ver_cfbc4dc2_5a9f0ed29299"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_31803cb18ea44a445184",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775723635_cu-privire-la-delegarea-dreptului-de-aprobare.pdf",
+      "version_id": "ver_31803cb1_ae9896469dda"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_f88b82a95a75f11521b3",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1777009082_anexa-la-ordinul-nr-484_3ILAHu.pdf",
+      "version_id": "ver_f88b82a9_68e87c156a72"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_4128c017f8838ba38adf",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1776170185_1775818220-0336-260410114703-001-52d87caa-c596-4f8b-983c-50865d6afacd-1.pdf",
+      "version_id": "ver_4128c017_2a0750e90cbb"
+    },
+    {
+      "chunks": 3,
+      "document_id": "doc_a8a34c49019413b589d4",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775809540_cu-privire-la-orgnizarea-seminarului-municipal.pdf",
+      "version_id": "ver_a8a34c49_7d1c3a51d29c"
+    },
+    {
+      "chunks": 16,
+      "document_id": "doc_15d0bbcc24a81235596b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1776778426_constelatia-2026.pdf",
+      "version_id": "ver_15d0bbcc_86f2d19d40a1"
+    },
+    {
+      "chunks": 24,
+      "document_id": "doc_6f2f419a8fa7bfc6f5ad",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1776770646_festival-port-popular.pdf",
+      "version_id": "ver_6f2f419a_dae5a5e322fe"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_7511659614026ed156ee",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1777371249_scan-2025-10-27-08-24-21-386.pdf",
+      "version_id": "ver_75116596_830a5c65f749"
+    },
+    {
+      "chunks": 9,
+      "document_id": "doc_6e990871e8586d06d0cc",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1776921952_ordin-de-totalizare-edfizica.pdf",
+      "version_id": "ver_6e990871_0f533e2a2096"
+    },
+    {
+      "chunks": 10,
+      "document_id": "doc_3422c18cc0b9b7d61a77",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774935605_ordinul-nr424.pdf",
+      "version_id": "ver_3422c18c_2de70d43632c"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_096e4bbdf58e9e92b8e4",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774935507_ordinul-nr425.pdf",
+      "version_id": "ver_096e4bbd_29d8b74b120e"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_a1d55209de12ab87744f",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775034038_scan-2025-09-30-10-13-39-485.pdf",
+      "version_id": "ver_a1d55209_d55671ed63f9"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_8dee97d7cfa856d5fe7a",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775033675_scan-2025-09-30-10-14-44-394.pdf",
+      "version_id": "ver_8dee97d7_2d2e72ea938c"
+    },
+    {
+      "chunks": 18,
+      "document_id": "doc_9465826a29eb6d5117a0",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774946144_0329-260331110812-001.pdf",
+      "version_id": "ver_9465826a_870063f97085"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_57cbb89e0d18cede38d8",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775625987_ordin-nr-01-1-7-455-din-06042026-organizarea-si-desfasurarea-testarii-nationale-in-invatamantul-primar-anul-scolar-2025-2026.pdf",
+      "version_id": "ver_57cbb89e_5d3783e9414d"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_4472694c04e513ae9701",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775800103_0035-260409111014-001.pdf",
+      "version_id": "ver_4472694c_65499da1d7b0"
+    },
+    {
+      "chunks": 17,
+      "document_id": "doc_afb2fbee37ab3197a591",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775799928_cmfj-total.pdf",
+      "version_id": "ver_afb2fbee_8847d16196c6"
+    },
+    {
+      "chunks": 8,
+      "document_id": "doc_eb53e5bc04cad8750d5e",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1775804687_ordin-nr01-1-7-476-cu-privire-la-delegarea-elevilor-la-olimpida-repaublicana-la-istoria-romanilor-si-universala.pdf",
+      "version_id": "ver_eb53e5bc_ecc32dfe8fbc"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_5cd2424e731e26a30ba4",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774537682_ordinul-nr-403-cu-privire-la-admiterea-elevilor-in-invatamantul-liceal-sesiunea-2026.pdf",
+      "version_id": "ver_5cd2424e_737fdd90ebcf"
+    },
+    {
+      "chunks": 10,
+      "document_id": "doc_faf350a80376d8360d62",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774528851_ord-410-testare-tematia-vi-aprilie2026.pdf",
+      "version_id": "ver_faf350a8_e81629117e97"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_4f62455667d356e83cf4",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1774942418_anexa-ordin-416_oZXI01.pdf",
+      "version_id": "ver_4f624556_058cd81c7fa7"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_9921a44d2ae235a2d373",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1774942417_ordin-mec-512_YyUXkd.pdf",
+      "version_id": "ver_9921a44d_77192251c45c"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_3c506da8e6fddf0be2bf",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774942417_cu-privire-la-inscrierea-elevilor-in-clasa-a-v-a-1.pdf",
+      "version_id": "ver_3c506da8_288df6996595"
+    },
+    {
+      "chunks": 9,
+      "document_id": "doc_04c2b4a50166cc4786c6",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774854256_ord-414-deleg-olimp-llro-alol.pdf",
+      "version_id": "ver_04c2b4a5_f5ddc03c3f95"
+    },
+    {
+      "chunks": 8,
+      "document_id": "doc_71bfd989fa17331311e4",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774854178_ord-415-deleg-olimp-llro-nat.pdf",
+      "version_id": "ver_71bfd989_363ef0524ad2"
+    },
+    {
+      "chunks": 18,
+      "document_id": "doc_35a445691a836d6d8cdc",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1777008950_anexa-nr-1-la-ordinul-mec_gXn5Mv.pdf",
+      "version_id": "ver_35a44569_aff3b7810b5c"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_c4957b208e0a8ba7c35e",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1776761176_ordin-ance-35-din-30032026-centre-bac-sb-2026.pdf",
+      "version_id": "ver_c4957b20_74fd1200ef3b"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_45dfc74918b330e8fd8b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774938697_bullyng-04.pdf",
+      "version_id": "ver_45dfc749_6509dfbb0a75"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_21a8a51f2646a3419603",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774935998_odinul-nr-421.pdf",
+      "version_id": "ver_21a8a51f_d18b29f269cf"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_e0a95e97d92da6b0ce46",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774935855_ordinul-nr422.pdf",
+      "version_id": "ver_e0a95e97_9a61326d9da3"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_1edf1d8cc4f8d5c65188",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774415294_ordin-educatie-fizica.pdf",
+      "version_id": "ver_1edf1d8c_db773208aebd"
+    },
+    {
+      "chunks": 21,
+      "document_id": "doc_026527caa18e3b17fa21",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774350234_scan-2025-09-22-10-27-13-935.pdf",
+      "version_id": "ver_026527ca_39829ffee2aa"
+    },
+    {
+      "chunks": 14,
+      "document_id": "doc_c8a57a2b3f958221d397",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774350130_ordin-nr-01-1-7-383-din-240326-cu-privire-la-totalurile-concursului-municipal-de-creatie-vizuala-martisor-fir-de-dor-editia-2026.pdf",
+      "version_id": "ver_c8a57a2b_cf19c5123b04"
+    },
+    {
+      "chunks": 13,
+      "document_id": "doc_dbe70dcd69c0e1cd3a0c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774457050_hora-care-ne-uneste.pdf",
+      "version_id": "ver_dbe70dcd_755bfedb7a88"
+    },
+    {
+      "chunks": 10,
+      "document_id": "doc_370397c14aad9800568e",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774456894_scan0342.pdf",
+      "version_id": "ver_370397c1_c25af0ec17d3"
+    },
+    {
+      "chunks": 13,
+      "document_id": "doc_eae774e6e7342cbd35e0",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774456795_scan0343.pdf",
+      "version_id": "ver_eae774e6_a9a84e6eed79"
+    },
+    {
+      "chunks": 33,
+      "document_id": "doc_922164d47bad4034cc61",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774439726_0326-260325132041-001.pdf",
+      "version_id": "ver_922164d4_42a90714c6a4"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_eef3e3d1510407b3464c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774605483_ordinul-nr401.pdf",
+      "version_id": "ver_eef3e3d1_1e530d47e131"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_d7b56c246d04288c1b13",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774605432_ordinul-nr402.pdf",
+      "version_id": "ver_d7b56c24_5761b5064bcb"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_1aded89b574fb656eccf",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765440752_ordinul-nr1668.pdf",
+      "version_id": "ver_1aded89b_bf355834c94b"
+    },
+    {
+      "chunks": 7,
+      "document_id": "doc_c343eb77aa11ccdc99fd",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765809031_ordin-total-sem-mat-1.pdf",
+      "version_id": "ver_c343eb77_559665207717"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_4544ad75e99b63f745b8",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765444570_0292-251126160111-001.pdf",
+      "version_id": "ver_4544ad75_182fe80b496b"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_6a5b40af92bc2b7ee8fc",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765444495_ordinul-011-71677-din-261126.pdf",
+      "version_id": "ver_6a5b40af_875a7a88329c"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=12",
+      "version_id": "ver_3c700999_0ce60a888212"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=11",
+      "version_id": "ver_3c700999_eb47b92a93a4"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_4020b03010cfd8e9841b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765444415_ordin-nr01-1-7-1674-din-26112025.pdf",
+      "version_id": "ver_4020b030_351b80ce787d"
+    },
+    {
+      "chunks": 8,
+      "document_id": "doc_e6f8dc311bfed8940e1b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765445037_scan0305.pdf",
+      "version_id": "ver_e6f8dc31_64245e837efb"
+    },
+    {
+      "chunks": 13,
+      "document_id": "doc_cf2b07f948a801b83582",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765444797_0470-251201114117-001.pdf",
+      "version_id": "ver_cf2b07f9_324bfa7d6920"
+    },
+    {
+      "chunks": 17,
+      "document_id": "doc_831966c54c8e85b85862",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765445809_2217-251201140735-001.pdf",
+      "version_id": "ver_831966c5_ffe8beef5db5"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_8b0ab17f45f5a4311311",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1765445154_scan0306.pdf",
+      "version_id": "ver_8b0ab17f_6d3ad7879ad3"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_95df5cd1eb66b2eff2f6",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1768480766_ilovepdf-merged-2.pdf",
+      "version_id": "ver_95df5cd1_d3a2c9d94da0"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_db55b4b5201b4d44e8c8",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1769672497_ordin-nr-1522-din-221124-asigurarea-transparentei-a-activitatii-institutiilor-de-invatamant-general-1-1.pdf",
+      "version_id": "ver_db55b4b5_97ee2b15e87a"
+    },
+    {
+      "chunks": 18,
+      "document_id": "doc_d1f851507c0084ee5f7c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1768470730_cod-deontologic-2_XeU98N.pdf",
+      "version_id": "ver_d1f85150_97aedf1c0b41"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_3ce2f0422d361bb83159",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1768470730_cod-deontologic-1.pdf",
+      "version_id": "ver_3ce2f042_c0f3ce1d9527"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_5028db833a4b4a73cba5",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1763644867_0290-251119144450-001.pdf",
+      "version_id": "ver_5028db83_2928ce97bf64"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_3acc8c928f300b70b2e4",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1789716711_ordin-abc-ul-financiar.pdf",
+      "version_id": "ver_3acc8c92_781cab900b4f"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_5e0d4f5caf7518dbfe98",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1789986890_scan-2026-03-22-08-22-47-589.pdf",
+      "version_id": "ver_5e0d4f5c_cf920249c98c"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_33f52e63f81e6de9178e",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1774439262_scan-2025-09-23-13-07-07-017.pdf",
+      "version_id": "ver_33f52e63_4c04f98278b0"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=26",
+      "version_id": "ver_3c700999_cfdeb54d8666"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=25",
+      "version_id": "ver_3c700999_955ec0e1c631"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=24",
+      "version_id": "ver_3c700999_dc845f90d1ea"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=23",
+      "version_id": "ver_3c700999_e89c49c66e45"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=22",
+      "version_id": "ver_3c700999_255c47f4880b"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=21",
+      "version_id": "ver_3c700999_8953a88c3f6e"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=20",
+      "version_id": "ver_3c700999_29063ade617f"
+    },
+    {
+      "chunks": 1,
+      "document_id": "doc_3c700999cf3981a91d6c",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=1",
+      "version_id": "ver_3c700999_dd6f1c6f77c9"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_ac70513f27ef1db5947b",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1777026870_cu-privire-la-initierea-procesului-de-organizare-a-claselor-gupelor-cu-program-prelungit.pdf",
+      "version_id": "ver_ac70513f_f9723deb2fcb"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_b98db31431cba71f81bf",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1779281936_ordin-nr01-1-7-733-din-19052026.pdf",
+      "version_id": "ver_b98db314_e95aa53c9d93"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_db8e77a9adf7074aab96",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1778673863_0347-260513144719-001.pdf",
+      "version_id": "ver_db8e77a9_bb10fe626def"
+    },
+    {
+      "chunks": 3,
+      "document_id": "doc_512929f6f51e18931644",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1781614506_ordin-din-10062026-e20a5175-e225-411c-b874-924bcdfc8388.pdf",
+      "version_id": "ver_512929f6_1f9fee075fb3"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_25ac891a913a5844429f",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1786712707_ordinul-mec-nr1511-cu-privire-la-conferirea-confirmarea-gradelor-didactice.pdf",
+      "version_id": "ver_25ac891a_3889b1a0034f"
+    },
+    {
+      "chunks": 4,
+      "document_id": "doc_6090bd6ba9bbcfc60ca0",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1784892279_ordin-cu-privire-la-conferirea-confirmarea-gradelor-didactice-01-1-7-1046-din-230726.pdf",
+      "version_id": "ver_6090bd6b_9b252ae9949d"
+    },
+    {
+      "chunks": 9,
+      "document_id": "doc_c304c45a916baf00312a",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/attachments/1784893383_26-anexa-4-confirm-super-1046_Av7cPy.pdf",
+      "version_id": "ver_c304c45a_76b272986be3"
+    },
+    {
+      "chunks": 5,
+      "document_id": "doc_02c4003b7caa3d0438a8",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1787735136_1920-260826121608-001.pdf",
+      "version_id": "ver_02c4003b_17e259dc4175"
+    },
+    {
+      "chunks": 6,
+      "document_id": "doc_6a05f292b51e48d68743",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1786529278_4428-260812100601-001.pdf",
+      "version_id": "ver_6a05f292_cacc13595681"
+    },
+    {
+      "chunks": 20,
+      "document_id": "doc_09b16a57f944ab1510ef",
+      "source_id": "chisinau-education-ordine",
+      "status": "processed",
+      "url": "https://chisinauedu.dgets.md/storage/orders/1789651824_0376-260917160503-001.pdf",
+      "version_id": "ver_09b16a57_e4d431a40405"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=10"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=13"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=2"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=27"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=28"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=29"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=3"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=4"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=5"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=6"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=7"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=8"
+    },
+    {
+      "reason": "No response reached the parser; check robots.txt and crawl logs",
+      "source_id": "chisinau-education-ordine",
+      "status": "not_processed",
+      "url": "https://chisinauedu.dgets.md/ordine?page=9"
+    }
+  ],
+  "per_source": {
+    "chisinau-education-ordine": {
+      "discovered": 315,
+      "failed": 0,
+      "limit": 200,
+      "not_processed": 13,
+      "partial": 0,
+      "processed": 187,
+      "responded": 187,
+      "scheduled": 200,
+      "skipped": 0,
+      "technical_requests": {
+        "by_kind": {
+          "robots.txt": 1,
+          "sitemap": 1
+        },
+        "count": 2,
+        "items": [
+          {
+            "kind": "robots.txt",
+            "status": "delegated_to_scrapy_robotstxt_middleware",
+            "url": "https://chisinauedu.dgets.md/robots.txt"
+          },
+          {
+            "kind": "sitemap",
+            "status": 404,
+            "url": "https://chisinauedu.dgets.md/sitemap.xml"
+          }
+        ],
+        "note": "Technical requests do not consume the per-source content limit."
+      }
+    }
+  },
+  "sources": [
+    "chisinau-education-ordine"
+  ],
+  "started_at": "2026-09-26T06:38:40.931706+00:00",
+  "summary": {
+    "failed": 0,
+    "not_processed": 13,
+    "partial": 0,
+    "processed": 187,
+    "skipped": 0
+  }
+}

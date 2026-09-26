@@ -1,0 +1,960 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/texts/19"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/20"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/groups/2"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "42742bdafa03f3d1d9a753649f1b21378437a3dbdb19406805237934c87ca705",
+  "origin": {
+    "binary_hash": 370272861983385349,
+    "filename": "42742bdafa03f3d1d9a753649f1b21378437a3dbdb19406805237934c87ca705.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 716.1994465418487,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 249.8126700156807,
+            "r": 358.1220292366591,
+            "t": 778.3130110518367
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 597.5084206817698,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.984540538659836,
+            "r": 262.21089115014814,
+            "t": 633.115564470153
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 126.84288712310138,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 339.8260352525135,
+            "r": 455.52344756260817,
+            "t": 237.35903495852438
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 132.91040444820737,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 195.99427775235785,
+            "r": 249.72494553124346,
+            "t": 159.8055132960601
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se aprobă:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 314.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.33333333333334,
+            "r": 152.66666666666669,
+            "t": 329.3466566666666
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Se aprobă:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.1.",
+      "orig": "1.1. Lista participanților la Concursul de Proiecte transfrontaliere Educația Online fără Hotare\" în perioada 2020-2026 pentru eliberarea certificatelor, în valoare de 30 ore implicare, conform prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin Ordinul ministerului educației, culturii și cercetării nr. 1091 din 07.10.2020și modificat prin Ordinul ministrului educației și cercetării nr. 1574 din 05.09.2025 (Anexa nr.1);",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 203.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.0,
+            "r": 539.3333333333333,
+            "t": 313.67999
+          },
+          "charspan": [
+            0,
+            580
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "Lista participanților la Concursul de Proiecte transfrontaliere Educația Online fără Hotare\" în perioada 2020-2026 pentru eliberarea certificatelor, în valoare de 30 ore implicare, conform prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin Ordinul ministerului educației, culturii și cercetării nr. 1091 din 07.10.2020și modificat prin Ordinul ministrului educației și cercetării nr. 1574 din 05.09.2025 (Anexa nr.1);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2.",
+      "orig": "1.2. Lista câștigătorilor la Concursul de Proiecte transfrontaliere pentru eliberarea certificatelor, în valoare de 30 ore implicare, conform prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 124.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.666666666666664,
+            "r": 539.3333333333333,
+            "t": 189.67998999999998
+          },
+          "charspan": [
+            0,
+            350
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "Lista câștigătorilor la Concursul de Proiecte transfrontaliere pentru eliberarea certificatelor, în valoare de 30 ore implicare, conform prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "童0",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 713.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 241.33333333333334,
+            "r": 341.6666666666667,
+            "t": 787.67999
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "童0"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIULMUNICIPALCHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞISPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 653.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 150.33333333333331,
+            "r": 447.6666666666667,
+            "t": 697.67999
+          },
+          "charspan": [
+            0,
+            110
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "CONSILIULMUNICIPALCHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞISPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 606.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 261.33333333333337,
+            "r": 290.0,
+            "t": 621.0133233333333
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "OR DIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 581.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 282.0,
+            "r": 344.0,
+            "t": 595.67999
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "OR DIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la totalizarea Conferinței Naționale cu tema ,Şcoala - Laborator alvalorilor UNESCO\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 534.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.666666666666664,
+            "r": 356.0,
+            "t": 565.0133233333333
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Cu privire la totalizarea Conferinței Naționale cu tema ,Şcoala - Laborator alvalorilor UNESCO\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu prevederile Planului de activitate al Direcției generale Educație, Tineret și Sport a Consiliului Municipal Chişinău și în vederea implementării prevederilor Strategiei naționale 2030\", la data de 21 februarie 2026, în incinta, IPLT Pro Succes\" din municipiul Chișinău s-a desfăşurat Conferința Națională cu tema Şcoala - Laborator al valorilor UNESCO\". Evenimentul a avut drept scop promovarea schimbului de bune practici și inovații tehnologice ale instituțiilor de învățământ, reunind 200 de cadre didactice, care au participat la Proiectul ,,Educația Online fară Hotare\" în perioada 20202026 și au implementat activități educaționale în parteneriat cu instituții din alte țări.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 382.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.666666666666664,
+            "r": 549.6666666666667,
+            "t": 528.67999
+          },
+          "charspan": [
+            0,
+            700
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "În conformitate cu prevederile Planului de activitate al Direcției generale Educație, Tineret și Sport a Consiliului Municipal Chişinău și în vederea implementării prevederilor Strategiei naționale 2030\", la data de 21 februarie 2026, în incinta, IPLT Pro Succes\" din municipiul Chișinău s-a desfăşurat Conferința Națională cu tema Şcoala - Laborator al valorilor UNESCO\". Evenimentul a avut drept scop promovarea schimbului de bune practici și inovații tehnologice ale instituțiilor de învățământ, reunind 200 de cadre didactice, care au participat la Proiectul ,,Educația Online fară Hotare\" în perioada 20202026 și au implementat activități educaționale în parteneriat cu instituții din alte țări."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Luând act de nivelul de implicare a participanților în lucrările Conferinței,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 363.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.0,
+            "r": 496.3333333333333,
+            "t": 382.0133233333333
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Luând act de nivelul de implicare a participanților în lucrările Conferinței,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 329.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 286.33333333333337,
+            "r": 341.0,
+            "t": 345.0133233333333
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nr.01/1-7/293din0",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 602.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.333333333333336,
+            "r": 216.33333333333334,
+            "t": 636.67999
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Nr.01/1-7/293din0"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ordinul ministerului educației, culturiiși cercetării nr. 1091 din 07.10.2020 și modificat prin Ordinul ministrului educației și cercetării nr. 1574 din 05.09.2025 (Anexa nr. 2);",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 701.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.0,
+            "r": 539.6666666666667,
+            "t": 734.0133233333333
+          },
+          "charspan": [
+            0,
+            178
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Ordinul ministerului educației, culturiiși cercetării nr. 1091 din 07.10.2020 și modificat prin Ordinul ministrului educației și cercetării nr. 1574 din 05.09.2025 (Anexa nr. 2);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.3.",
+      "orig": "1.3. Lista participanților la expoziția de postere în cadrul Conferinței Naționale cu tema Şcoala - Laborator al valorilor UNESCO\" pentru eliberarea certificatelor de participare, în valoare de 30 ore implicare, conform prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestarea cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin Ordinul ministerului educației, culturii și cercetării nr. 1091 din 07.10.2020 și modificat prin Ordinul ministrului educației și cercetării nr. 1574 din 05.09.2025 (Anexa nr. 3);",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 574.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.333333333333336,
+            "r": 540.0,
+            "t": 685.67999
+          },
+          "charspan": [
+            0,
+            607
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Lista participanților la expoziția de postere în cadrul Conferinței Naționale cu tema Şcoala - Laborator al valorilor UNESCO\" pentru eliberarea certificatelor de participare, în valoare de 30 ore implicare, conform prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestarea cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin Ordinul ministerului educației, culturii și cercetării nr. 1091 din 07.10.2020 și modificat prin Ordinul ministrului educației și cercetării nr. 1574 din 05.09.2025 (Anexa nr. 3);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.4.",
+      "orig": "1.4. Lista prezentatorilor la Conferința Națională cu tema Şcoala - Laborator al valorilor UNESCO\" pentru eliberarea certificatelor de participare, în valoare de 30 ore implicare, conform prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin Ordinul ministerului educației, culturii și cercetării nr. 1091 din 07.10.2020și modificat prin Ordinul ministrului educației și cercetării nr. 1574 din05.09.2025 (Anexa nr. 4);",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 449.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.0,
+            "r": 539.3333333333333,
+            "t": 560.3466566666666
+          },
+          "charspan": [
+            0,
+            574
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Lista prezentatorilor la Conferința Națională cu tema Şcoala - Laborator al valorilor UNESCO\" pentru eliberarea certificatelor de participare, în valoare de 30 ore implicare, conform prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin Ordinul ministerului educației, culturii și cercetării nr. 1091 din 07.10.2020și modificat prin Ordinul ministrului educației și cercetării nr. 1574 din05.09.2025 (Anexa nr. 4);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.5.",
+      "orig": "1.5. Lista participanților la Conferința Națională cu tema ,,Şcoala - Laborator al valorilor UNESCO\" pentru eliberarea certificatelor de participare, în valoare de 6 ore implicare, în conformitate prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin Ordinul ministeruluieducației, culturii $i cercetării nr. 1091 din 07.10.2020 și modificat prin Ordinul ministrului educației și cercetării nr. 1574 din 05.09.2025 (Anexa nr. 5).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 323.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.666666666666664,
+            "r": 539.0,
+            "t": 434.34665666666666
+          },
+          "charspan": [
+            0,
+            584
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Lista participanților la Conferința Națională cu tema ,,Şcoala - Laborator al valorilor UNESCO\" pentru eliberarea certificatelor de participare, în valoare de 6 ore implicare, în conformitate prevederilor Anexei nr. 1 la Harta creditară a Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin Ordinul ministeruluieducației, culturii $i cercetării nr. 1091 din 07.10.2020 și modificat prin Ordinul ministrului educației și cercetării nr. 1574 din 05.09.2025 (Anexa nr. 5)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Responsabil de executarea prezentului ordin se desemnează Ruslana Savin, șefà Serviciul Parteneriate Educaționale și Investiționale a Direcției Generale Educație, Tineret și Sport.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 260.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.33333333333333,
+            "r": 539.3333333333333,
+            "t": 308.67999
+          },
+          "charspan": [
+            0,
+            183
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Responsabil de executarea prezentului ordin se desemnează Ruslana Savin, șefà Serviciul Parteneriate Educaționale și Investiționale a Direcției Generale Educație, Tineret și Sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Controlul realizării prevederilor prezentului ordin îi revineDaniela MuncaAftenev, şefa adjunctă a Direcției Generale Educație, Tineret și Sport.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 227.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.66666666666667,
+            "r": 538.3333333333333,
+            "t": 262.3466566666667
+          },
+          "charspan": [
+            0,
+            148
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Controlul realizării prevederilor prezentului ordin îi revineDaniela MuncaAftenev, şefa adjunctă a Direcției Generale Educație, Tineret și Sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "udrei PAVALOI unct al DGETS",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 184.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 439.6666666666667,
+            "r": 545.6666666666667,
+            "t": 213.3466566666666
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "udrei PAVALOI unct al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Moldova,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 122.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 426.3333333333333,
+            "r": 461.6666666666667,
+            "t": 133.01332333333335
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Moldova,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Executor: R. Savin, Şefa Serviciul Parteneriate Educaționale și Investițion",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 156.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.666666666666664,
+            "r": 345.0,
+            "t": 169.67998999999998
+          },
+          "charspan": [
+            0,
+            75
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Executor: R. Savin, Şefa Serviciul Parteneriate Educaționale și Investițion"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Tel. de contact: (+373) 79 79 19 32",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 145.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.666666666666664,
+            "r": 194.33333333333334,
+            "t": 158.67998999999998
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Tel. de contact: (+373) 79 79 19 32"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Str. Mitropolit Dosoftei, 99, municipiul Chişinău, MD-2704,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 122.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 137.33333333333331,
+            "r": 383.0,
+            "t": 135.67998999999998
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Str. Mitropolit Dosoftei, 99, municipiul Chişinău, MD-2704,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 111.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 142.66666666666669,
+            "r": 434.6666666666667,
+            "t": 124.67998999999998
+          },
+          "charspan": [
+            0,
+            65
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

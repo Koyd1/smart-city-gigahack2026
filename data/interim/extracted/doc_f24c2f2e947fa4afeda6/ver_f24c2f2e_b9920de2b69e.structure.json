@@ -1,0 +1,5144 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/texts/35"
+      },
+      {
+        "$ref": "#/texts/36"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/texts/46"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/texts/48"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/65"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/74"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/texts/79"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/89"
+      },
+      {
+        "$ref": "#/texts/90"
+      },
+      {
+        "$ref": "#/groups/9"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/pictures/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        },
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/7"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/8"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/91"
+        },
+        {
+          "$ref": "#/texts/92"
+        },
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/tables/2"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/9"
+    }
+  ],
+  "key_value_items": [],
+  "name": "9c353ddf475fce547cfa3a98a842d8ab2e2f718025580085a8242eb76589adaf",
+  "origin": {
+    "binary_hash": 12115860262750891439,
+    "filename": "9c353ddf475fce547cfa3a98a842d8ab2e2f718025580085a8242eb76589adaf.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "5": {
+      "page_no": 5,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "6": {
+      "page_no": 6,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    },
+    "7": {
+      "page_no": 7,
+      "size": {
+        "height": 841.68,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 698.5527294414456,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 262.0771257848548,
+            "r": 374.3919502289023,
+            "t": 774.7355344526784
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 573.812694277367,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.05002543916639,
+            "r": 310.5466859589647,
+            "t": 617.1006036260972
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 218.96295564991283,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 427.3771731833644,
+            "r": 457.8874380718462,
+            "t": 269.4937320460956
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 86.45004254193884,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 360.44330014632055,
+            "r": 473.4701585439388,
+            "t": 194.75560635600687
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 587.6927931514206,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.50877208223279,
+            "r": 259.93837299321325,
+            "t": 677.7827787204479
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 591.8297548575865,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 338.60846572363937,
+            "r": 541.8713675561687,
+            "t": 798.5765946315303
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 746.894694146453,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 349.6486484604394,
+            "r": 563.2815045616611,
+            "t": 785.9326857715887
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 6
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/6"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 369.7971807295919,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 364.1259612053993,
+            "r": 580.336070638567,
+            "t": 409.95198865586957
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 6
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/7"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 731.1242159570254,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 353.8003414712176,
+            "r": 564.7664524687697,
+            "t": 768.3058424344821
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 7
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/8"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 156.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 74.66666666666667,
+                "r": 96.66666666666666,
+                "t": 140.66666666666669
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr."
+            },
+            {
+              "bbox": {
+                "b": 157.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 119.0,
+                "r": 220.66666666666666,
+                "t": 141.66666666666669
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Numele prenumele"
+            },
+            {
+              "bbox": {
+                "b": 159.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 262.66666666666663,
+                "r": 433.6666666666667,
+                "t": 144.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Funcția/Instituția de învățământ"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 185.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 94.33333333333333,
+                "r": 107.66666666666666,
+                "t": 170.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1."
+            },
+            {
+              "bbox": {
+                "b": 184.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 119.33333333333334,
+                "r": 198.0,
+                "t": 171.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Axînti Svetlana"
+            },
+            {
+              "bbox": {
+                "b": 189.0,
+                "coord_origin": "TOPLEFT",
+                "l": 262.66666666666663,
+                "r": 504.0,
+                "t": 172.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "Şef al direcției managementul curricular, DGETS"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 213.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 92.66666666666667,
+                "r": 107.66666666666666,
+                "t": 198.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 215.0,
+                "coord_origin": "TOPLEFT",
+                "l": 118.0,
+                "r": 189.33333333333331,
+                "t": 198.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Popescu Olga"
+            },
+            {
+              "bbox": {
+                "b": 215.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 262.66666666666663,
+                "r": 399.3333333333333,
+                "t": 201.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "Specialist superior, DGETS"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 242.0,
+                "coord_origin": "TOPLEFT",
+                "l": 92.66666666666667,
+                "r": 107.66666666666666,
+                "t": 226.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 242.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 118.33333333333334,
+                "r": 178.66666666666669,
+                "t": 227.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Gonța Aida"
+            },
+            {
+              "bbox": {
+                "b": 245.0,
+                "coord_origin": "TOPLEFT",
+                "l": 261.66666666666663,
+                "r": 417.6666666666667,
+                "t": 228.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "Director IPLT Nicolae Iorga\""
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 269.66666666666663,
+                "coord_origin": "TOPLEFT",
+                "l": 92.66666666666667,
+                "r": 107.66666666666666,
+                "t": 255.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4."
+            },
+            {
+              "bbox": {
+                "b": 270.0,
+                "coord_origin": "TOPLEFT",
+                "l": 118.0,
+                "r": 192.0,
+                "t": 255.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Pendus Galina"
+            },
+            {
+              "bbox": {
+                "b": 273.33333333333337,
+                "coord_origin": "TOPLEFT",
+                "l": 261.66666666666663,
+                "r": 452.0,
+                "t": 257.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "Director adjunct IPLTNicolae Iorga\""
+            }
+          ]
+        ],
+        "num_cols": 3,
+        "num_rows": 5,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 156.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 74.66666666666667,
+              "r": 96.66666666666666,
+              "t": 140.66666666666669
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr."
+          },
+          {
+            "bbox": {
+              "b": 157.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 119.0,
+              "r": 220.66666666666666,
+              "t": 141.66666666666669
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Numele prenumele"
+          },
+          {
+            "bbox": {
+              "b": 159.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 262.66666666666663,
+              "r": 433.6666666666667,
+              "t": 144.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Funcția/Instituția de învățământ"
+          },
+          {
+            "bbox": {
+              "b": 185.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 94.33333333333333,
+              "r": 107.66666666666666,
+              "t": 170.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1."
+          },
+          {
+            "bbox": {
+              "b": 184.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 119.33333333333334,
+              "r": 198.0,
+              "t": 171.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Axînti Svetlana"
+          },
+          {
+            "bbox": {
+              "b": 189.0,
+              "coord_origin": "TOPLEFT",
+              "l": 262.66666666666663,
+              "r": 504.0,
+              "t": 172.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "Şef al direcției managementul curricular, DGETS"
+          },
+          {
+            "bbox": {
+              "b": 213.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 92.66666666666667,
+              "r": 107.66666666666666,
+              "t": 198.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 215.0,
+              "coord_origin": "TOPLEFT",
+              "l": 118.0,
+              "r": 189.33333333333331,
+              "t": 198.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Popescu Olga"
+          },
+          {
+            "bbox": {
+              "b": 215.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 262.66666666666663,
+              "r": 399.3333333333333,
+              "t": 201.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "Specialist superior, DGETS"
+          },
+          {
+            "bbox": {
+              "b": 242.0,
+              "coord_origin": "TOPLEFT",
+              "l": 92.66666666666667,
+              "r": 107.66666666666666,
+              "t": 226.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 242.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 118.33333333333334,
+              "r": 178.66666666666669,
+              "t": 227.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Gonța Aida"
+          },
+          {
+            "bbox": {
+              "b": 245.0,
+              "coord_origin": "TOPLEFT",
+              "l": 261.66666666666663,
+              "r": 417.6666666666667,
+              "t": 228.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "Director IPLT Nicolae Iorga\""
+          },
+          {
+            "bbox": {
+              "b": 269.66666666666663,
+              "coord_origin": "TOPLEFT",
+              "l": 92.66666666666667,
+              "r": 107.66666666666666,
+              "t": 255.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4."
+          },
+          {
+            "bbox": {
+              "b": 270.0,
+              "coord_origin": "TOPLEFT",
+              "l": 118.0,
+              "r": 192.0,
+              "t": 255.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Pendus Galina"
+          },
+          {
+            "bbox": {
+              "b": 273.33333333333337,
+              "coord_origin": "TOPLEFT",
+              "l": 261.66666666666663,
+              "r": 452.0,
+              "t": 257.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "Director adjunct IPLTNicolae Iorga\""
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 554.9667709676783,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.90140527661215,
+            "r": 550.7481468907299,
+            "t": 701.317135589672
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 6
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 528.0,
+                "coord_origin": "TOPLEFT",
+                "l": 117.0,
+                "r": 218.0,
+                "t": 513.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Numele prenumele"
+            },
+            {
+              "bbox": {
+                "b": 529.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 275.0,
+                "r": 402.0,
+                "t": 514.6666666666666
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Instituția de învățământ"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 555.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 92.0,
+                "r": 105.0,
+                "t": 541.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1."
+            },
+            {
+              "bbox": {
+                "b": 557.0,
+                "coord_origin": "TOPLEFT",
+                "l": 116.0,
+                "r": 187.33333333333331,
+                "t": 540.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Popescu Olga"
+            },
+            {
+              "bbox": {
+                "b": 557.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 278.33333333333337,
+                "r": 414.3333333333333,
+                "t": 544.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "Specialist superior, DGETS"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 583.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 90.33333333333333,
+                "r": 105.0,
+                "t": 568.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 583.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 116.33333333333334,
+                "r": 191.66666666666666,
+                "t": 569.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Moraru Emilia"
+            },
+            {
+              "bbox": {
+                "b": 599.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 274.0,
+                "r": 526.3333333333333,
+                "t": 571.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "Academia de Muzică, Teatru și Arte plastice, şef de catedra dirijat-coral"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 624.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 90.33333333333333,
+                "r": 104.66666666666666,
+                "t": 610.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 626.0,
+                "coord_origin": "TOPLEFT",
+                "l": 115.66666666666666,
+                "r": 177.33333333333331,
+                "t": 610.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Filip Oxana"
+            },
+            {
+              "bbox": {
+                "b": 641.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 274.0,
+                "r": 491.3333333333333,
+                "t": 613.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "prim-dirijor al coralei ,,Renaissance\", Academia de Muzică, Teatru și Arte plastice"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 665.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 90.33333333333333,
+                "r": 104.33333333333334,
+                "t": 652.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4."
+            },
+            {
+              "bbox": {
+                "b": 665.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 116.0,
+                "r": 195.33333333333334,
+                "t": 651.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Tocari Gabriela"
+            },
+            {
+              "bbox": {
+                "b": 682.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 273.33333333333337,
+                "r": 478.3333333333333,
+                "t": 653.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "prim-dirijor al Capelei Corale ,Moldova\" IP compania ,,Teleradio- Moldova\""
+            }
+          ]
+        ],
+        "num_cols": 3,
+        "num_rows": 5,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 528.0,
+              "coord_origin": "TOPLEFT",
+              "l": 117.0,
+              "r": 218.0,
+              "t": 513.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Numele prenumele"
+          },
+          {
+            "bbox": {
+              "b": 529.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 275.0,
+              "r": 402.0,
+              "t": 514.6666666666666
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Instituția de învățământ"
+          },
+          {
+            "bbox": {
+              "b": 555.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 92.0,
+              "r": 105.0,
+              "t": 541.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1."
+          },
+          {
+            "bbox": {
+              "b": 557.0,
+              "coord_origin": "TOPLEFT",
+              "l": 116.0,
+              "r": 187.33333333333331,
+              "t": 540.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Popescu Olga"
+          },
+          {
+            "bbox": {
+              "b": 557.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 278.33333333333337,
+              "r": 414.3333333333333,
+              "t": 544.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "Specialist superior, DGETS"
+          },
+          {
+            "bbox": {
+              "b": 583.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 90.33333333333333,
+              "r": 105.0,
+              "t": 568.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 583.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 116.33333333333334,
+              "r": 191.66666666666666,
+              "t": 569.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Moraru Emilia"
+          },
+          {
+            "bbox": {
+              "b": 599.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 274.0,
+              "r": 526.3333333333333,
+              "t": 571.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "Academia de Muzică, Teatru și Arte plastice, şef de catedra dirijat-coral"
+          },
+          {
+            "bbox": {
+              "b": 624.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 90.33333333333333,
+              "r": 104.66666666666666,
+              "t": 610.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 626.0,
+              "coord_origin": "TOPLEFT",
+              "l": 115.66666666666666,
+              "r": 177.33333333333331,
+              "t": 610.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Filip Oxana"
+          },
+          {
+            "bbox": {
+              "b": 641.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 274.0,
+              "r": 491.3333333333333,
+              "t": 613.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "prim-dirijor al coralei ,,Renaissance\", Academia de Muzică, Teatru și Arte plastice"
+          },
+          {
+            "bbox": {
+              "b": 665.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 90.33333333333333,
+              "r": 104.33333333333334,
+              "t": 652.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4."
+          },
+          {
+            "bbox": {
+              "b": 665.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 116.0,
+              "r": 195.33333333333334,
+              "t": 651.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Tocari Gabriela"
+          },
+          {
+            "bbox": {
+              "b": 682.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 273.33333333333337,
+              "r": 478.3333333333333,
+              "t": 653.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "prim-dirijor al Capelei Corale ,Moldova\" IP compania ,,Teleradio- Moldova\""
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 145.0458679054242,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.59272628886588,
+            "r": 555.0478959174444,
+            "t": 330.9448561252041
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 6
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 484.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 107.66666666666666,
+                "r": 181.66666666666666,
+                "t": 470.6666666666667
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Titlul lucrării"
+            },
+            {
+              "bbox": {
+                "b": 487.0,
+                "coord_origin": "TOPLEFT",
+                "l": 286.0,
+                "r": 416.6666666666667,
+                "t": 472.3333333333333
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Autorii (muzică, versuri)"
+            },
+            {
+              "bbox": {
+                "b": 488.0,
+                "coord_origin": "TOPLEFT",
+                "l": 484.3333333333333,
+                "r": 522.3333333333333,
+                "t": 474.3333333333333
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "durata"
+            }
+          ]
+        ],
+        "num_cols": 3,
+        "num_rows": 1,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 484.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 107.66666666666666,
+              "r": 181.66666666666666,
+              "t": 470.6666666666667
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Titlul lucrării"
+          },
+          {
+            "bbox": {
+              "b": 487.0,
+              "coord_origin": "TOPLEFT",
+              "l": 286.0,
+              "r": 416.6666666666667,
+              "t": 472.3333333333333
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Autorii (muzică, versuri)"
+          },
+          {
+            "bbox": {
+              "b": 488.0,
+              "coord_origin": "TOPLEFT",
+              "l": 484.3333333333333,
+              "r": 522.3333333333333,
+              "t": 474.3333333333333
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "durata"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 289.93731454011095,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.98484271260716,
+            "r": 537.7604135643876,
+            "t": 372.598026270923
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 7
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/2"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "OIINSENT",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 702.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 314.0,
+            "r": 344.0,
+            "t": 706.68
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "OIINSENT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "101",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 689.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 253.0,
+            "r": 383.66666666666663,
+            "t": 783.68
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "101"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 631.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 183.0,
+            "r": 473.6666666666667,
+            "t": 676.0133333333333
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 533.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 293.6666666666667,
+            "r": 349.0,
+            "t": 555.68
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref: Organizarea și desfăşurarea concursului municipal coral, profilul Arte Muzică",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 469.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 339.3333333333333,
+            "t": 503.01333333333326
+          },
+          "charspan": [
+            0,
+            82
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Ref: Organizarea și desfăşurarea concursului municipal coral, profilul Arte Muzică"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Întru realizare Planului de acțiuni al Direcției Generale Educației, Tineret și Sport pentru anul de studii 2026, în scopul stimulării elevilor ce posedă capacități interpretative avansate,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 395.34666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.66666666666667,
+            "r": 558.3333333333333,
+            "t": 449.67999999999995
+          },
+          "charspan": [
+            0,
+            189
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Întru realizare Planului de acțiuni al Direcției Generale Educației, Tineret și Sport pentru anul de studii 2026, în scopul stimulării elevilor ce posedă capacități interpretative avansate,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 377.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 296.33333333333337,
+            "r": 352.6666666666667,
+            "t": 391.67999999999995
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează concursul municipal coral pentru elevii claselor cu profil Arte Muzică, în incinta IPLT ,Nicolae Iorga\", la data de 23 mai2026, ora 09.00.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 339.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.66666666666667,
+            "r": 558.0,
+            "t": 373.67999999999995
+          },
+          "charspan": [
+            0,
+            156
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se organizează concursul municipal coral pentru elevii claselor cu profil Arte Muzică, în incinta IPLT ,Nicolae Iorga\", la data de 23 mai2026, ora 09.00."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se aprobă Regulamentul cu privire la organizarea concursului municipal coral (Anexa nr.1).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 303.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.33333333333333,
+            "r": 558.0,
+            "t": 336.3466666666666
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se aprobă Regulamentul cu privire la organizarea concursului municipal coral (Anexa nr.1)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se aprobă componența Consiliului de coordonare pentru organizarea și desfăşurarea concursului municipal coral (Anexa nr.2).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 264.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.33333333333333,
+            "r": 559.0,
+            "t": 300.3466666666666
+          },
+          "charspan": [
+            0,
+            126
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se aprobă componența Consiliului de coordonare pentru organizarea și desfăşurarea concursului municipal coral (Anexa nr.2)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "4. Se aprobă membrii juriului concursului municipal coral (Anexa nr.3). Direcția managementul economico-financiar și evidența patrimoniului a DGETS (Svetlana Ignatieva, șef) va asigura finanțarea concursului municipal coral, conform pct.7(aprilie) și pct.1(mai) din bugetul DGETS, programul 09 ,Invățământ\" pentru anul 2026 şi a devizului de cheltuieli aprobat (anexa nr.5).",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 173.0133333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.33333333333333,
+            "r": 558.0,
+            "t": 262.3466666666666
+          },
+          "charspan": [
+            0,
+            374
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "4. Se aprobă membrii juriului concursului municipal coral (Anexa nr.3). Direcția managementul economico-financiar și evidența patrimoniului a DGETS (Svetlana Ignatieva, șef) va asigura finanțarea concursului municipal coral, conform pct.7(aprilie) și pct.1(mai) din bugetul DGETS, programul 09 ,Invățământ\" pentru anul 2026 şi a devizului de cheltuieli aprobat (anexa nr.5)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Olga Popescu, specialist superior DGETS, se numește responsabil pentru perfectarea actelor și prezentarea raportului financiar către Direcția managementul economico- financiar și evidența patrimoniului DGETS în termen de cinci zile după finalizarea concursului municipal coral.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 98.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.33333333333333,
+            "r": 559.0,
+            "t": 171.0133333333332
+          },
+          "charspan": [
+            0,
+            280
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Olga Popescu, specialist superior DGETS, se numește responsabil pentru perfectarea actelor și prezentarea raportului financiar către Direcția managementul economico- financiar și evidența patrimoniului DGETS în termen de cinci zile după finalizarea concursului municipal coral."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Directorul IPLT ,Nicolae Iorga\", Aida Gonța:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 81.01333333333321,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.0,
+            "r": 383.6666666666667,
+            "t": 97.67999999999995
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Directorul IPLT ,Nicolae Iorga\", Aida Gonța:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.1.",
+      "orig": "6.1. să asigure condițiile necesare pentru desfăşurarea concursului municipal coral;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 751.3948844401041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.24032592773438,
+            "r": 557.0347493489583,
+            "t": 787.8649797566732
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "să asigure condițiile necesare pentru desfăşurarea concursului municipal coral;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.2.",
+      "orig": "6.2. să asigure prezența membrilor juriului concursului (Anexa nr.3) la data de 23 mai 2026, ora 09.00, în incinta IPLT ,Nicolae Iorga\".",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 711.575497639974,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.97594197591147,
+            "r": 557.4025472005208,
+            "t": 748.789878540039
+          },
+          "charspan": [
+            0,
+            136
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "să asigure prezența membrilor juriului concursului (Anexa nr.3) la data de 23 mai 2026, ora 09.00, în incinta IPLT ,Nicolae Iorga\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Conducătorii instituțiilor de învățământ primar, secundar, ciclul I ciclul II din municipiul Chişinău în care activează clase cu profil Arte Muzică:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 675.4775463867187,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.32118225097656,
+            "r": 557.4025472005208,
+            "t": 711.575497639974
+          },
+          "charspan": [
+            0,
+            151
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Conducătorii instituțiilor de învățământ primar, secundar, ciclul I ciclul II din municipiul Chişinău în care activează clase cu profil Arte Muzică:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.1.",
+      "orig": "7.1. să asigure transmiterea ofertei de participare la concurs, conform modelului (Anexa nr.4), până la data de 19 mai 2026, ora 12.00 varianta scanată (denumită cu numele instituției, cu ștampila și semnătura directorului), precum și în format electronic (versiunea Word) la adresa de email: olgapopescu1981@gmail.com",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 582.0694449869791,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.60813395182291,
+            "r": 557.4025472005208,
+            "t": 674.3611116536458
+          },
+          "charspan": [
+            0,
+            318
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "să asigure transmiterea ofertei de participare la concurs, conform modelului (Anexa nr.4), până la data de 19 mai 2026, ora 12.00 varianta scanată (denumită cu numele instituției, cu ștampila și semnătura directorului), precum și în format electronic (versiunea Word) la adresa de email: olgapopescu1981@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.2.",
+      "orig": "7.2. să desemneze prin ordin intern, cu acordul cadrelor didactice, conducătorul echipei și profesorii însoțitori, responsabili de securitatea vieții și sănătatea elevilor participanți la concursul coral, cu acordarea ulterioară a unei zile de recuperare, pentru munca prestată în ziua de repaus, 23 mai 2026, în corespundere cu prevederile Codului muncii.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 489.0334952799479,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.60813395182291,
+            "r": 558.5059814453125,
+            "t": 581.3251619466146
+          },
+          "charspan": [
+            0,
+            356
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "să desemneze prin ordin intern, cu acordul cadrelor didactice, conducătorul echipei și profesorii însoțitori, responsabili de securitatea vieții și sănătatea elevilor participanți la concursul coral, cu acordarea ulterioară a unei zile de recuperare, pentru munca prestată în ziua de repaus, 23 mai 2026, în corespundere cu prevederile Codului muncii."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.3.",
+      "orig": "7.3. să asigure prezența elevilor la concurs la data de 23 mai 2026, conform Programului stabilit, în incinta IPLT Nicolae Iorga\";",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 450.33051269531245,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.13690694173178,
+            "r": 556.6669108072917,
+            "t": 488.2891918945312
+          },
+          "charspan": [
+            0,
+            130
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "să asigure prezența elevilor la concurs la data de 23 mai 2026, conform Programului stabilit, în incinta IPLT Nicolae Iorga\";"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Consiliul de coordonare a concursului municipal coral să asigure desfăşurarea concursului în corespundere cu Regulamentul privind concursul municipal coral.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 398.23041503906245,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.21775817871094,
+            "r": 557.0347493489583,
+            "t": 451.44696777343745
+          },
+          "charspan": [
+            0,
+            159
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Consiliul de coordonare a concursului municipal coral să asigure desfăşurarea concursului în corespundere cu Regulamentul privind concursul municipal coral."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. Responsabil de realizarea prevederilor prezentului ordin se desemnează Olga Popescu, specialist superior, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 359.52745279947914,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.48214213053386,
+            "r": 556.2991129557292,
+            "t": 395.62539388020826
+          },
+          "charspan": [
+            0,
+            115
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Responsabil de realizarea prevederilor prezentului ordin se desemnează Olga Popescu, specialist superior, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "10.",
+      "orig": "10. Controlul realizării prevederilor ordinului revine Svetlana Axînti, șef al direcției managementul curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 322.6852083333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.32118225097656,
+            "r": 556.2991129557292,
+            "t": 358.41099772135414
+          },
+          "charspan": [
+            0,
+            120
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Controlul realizării prevederilor ordinului revine Svetlana Axînti, șef al direcției managementul curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "11.",
+      "orig": "11. Monitorizarea îndeplinirii prezentului ordin revine Valentin Crudu, șef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 286.9593782552082,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.32118225097656,
+            "r": 557.7703450520833,
+            "t": 321.1966422526042
+          },
+          "charspan": [
+            0,
+            91
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Monitorizarea îndeplinirii prezentului ordin revine Valentin Crudu, șef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex. Popescu Olga, 022235296",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 121.35537434895832,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.19518852233887,
+            "r": 241.45586140950522,
+            "t": 135.86900553385408
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Ex. Popescu Olga, 022235296"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 189.45770996093745,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 426.0952555338542,
+            "r": 533.8628743489583,
+            "t": 219.97349772135408
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Şef adjunct Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tcl.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 66.27806315104158,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 168.99777221679688,
+            "r": 467.6575113932292,
+            "t": 90.46743489583332
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tcl.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CONSILIUL MUNICIPAL CHISINÃU",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 650.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.33333333333334,
+            "r": 244.33333333333334,
+            "t": 662.68
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "CONSILIUL MUNICIPAL CHISINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "DIRECTIA GENERALÃ",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 631.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.0,
+            "r": 261.66666666666663,
+            "t": 652.0133333333333
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "DIRECTIA GENERALÃ"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "EDUCATIE, TINERET",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 614.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.66666666666666,
+            "r": 249.33333333333334,
+            "t": 632.3466666666666
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "EDUCATIE, TINERET"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ŞI SPORT",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 597.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.0,
+            "r": 179.33333333333334,
+            "t": 614.3466666666666
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr.1",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 773.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 472.0,
+            "r": 528.3333333333334,
+            "t": 787.0133333333333
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Anexa nr.1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "La ordinul",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 760.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 339.0,
+            "r": 393.6666666666667,
+            "t": 773.0133333333333
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "La ordinul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Aprob",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 729.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 383.0,
+            "r": 418.3333333333333,
+            "t": 743.0133333333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "Aprob"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Şef/adjunct DGETS",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 701.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 382.0,
+            "r": 480.33333333333337,
+            "t": 715.68
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Şef/adjunct DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "REGULAMENTUL",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 497.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 228.66666666666669,
+            "r": 370.0,
+            "t": 514.3466666666666
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "REGULAMENTUL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "DE ORGANIZARE ŞI DESFÅŞURARE A CONCURSULUI LA DISCIPLINA DE PROFIL ARTE MUZICÃ ANSAMBLULCORAL",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 432.34666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.66666666666667,
+            "r": 473.0,
+            "t": 489.01333333333326
+          },
+          "charspan": [
+            0,
+            93
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "DE ORGANIZARE ŞI DESFÅŞURARE A CONCURSULUI LA DISCIPLINA DE PROFIL ARTE MUZICÃ ANSAMBLULCORAL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "I. NOTIUNI GENERALE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 370.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.33333333333333,
+            "r": 218.33333333333334,
+            "t": 387.34666666666664
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "I. NOTIUNI GENERALE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Concursul municipal la disciplina Ansamblul coral în clasele cu profil Arte Muzică, se organizează de către Direcția Generală Educație, Tineret și Sport a Consiliului municipal Chişinău în conformitate cu programul anual privind activitățile de susținere a elevilor capabili de performanțe inalte.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 293.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.666666666666664,
+            "r": 543.0,
+            "t": 354.34666666666664
+          },
+          "charspan": [
+            0,
+            297
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Concursul municipal la disciplina Ansamblul coral în clasele cu profil Arte Muzică, se organizează de către Direcția Generală Educație, Tineret și Sport a Consiliului municipal Chişinău în conformitate cu programul anual privind activitățile de susținere a elevilor capabili de performanțe inalte."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "II. OBIECTIVELE CONCURSULUI",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 260.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 59.666666666666664,
+            "r": 271.66666666666663,
+            "t": 275.3466666666666
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "II. OBIECTIVELE CONCURSULUI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Identificarea și promovarea elevilor cu aptitudini și performanțe deosebite în domeniul artei corale.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 214.01333333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.66666666666667,
+            "r": 542.0,
+            "t": 242.67999999999995
+          },
+          "charspan": [
+            0,
+            104
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Identificarea și promovarea elevilor cu aptitudini și performanțe deosebite în domeniul artei corale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Dezvoltarea și perfecționarea competențelor interpretative ale elevilor în cadrul formațiilor corale.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 183.01333333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.66666666666667,
+            "r": 541.6666666666667,
+            "t": 211.34666666666658
+          },
+          "charspan": [
+            0,
+            104
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "Dezvoltarea și perfecționarea competențelor interpretative ale elevilor în cadrul formațiilor corale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Valorificarea repertoriului coral național și universal, clasic și contemporan.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 163.34666666666658,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.0,
+            "r": 461.3333333333333,
+            "t": 180.67999999999995
+          },
+          "charspan": [
+            0,
+            82
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "Valorificarea repertoriului coral național și universal, clasic și contemporan."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Cultivarea spiritului de colaborare, disciplinei artistice și a valorilor culturale prin activități corale colective.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 120.34666666666658,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.0,
+            "r": 541.3333333333333,
+            "t": 149.01333333333332
+          },
+          "charspan": [
+            0,
+            120
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Cultivarea spiritului de colaborare, disciplinei artistice și a valorilor culturale prin activități corale colective."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Stimularea creativității artistice și a expresivității muzicale în interpretarea lucrărilor corale.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 147.34666666666658,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.0,
+            "r": 535.6666666666667,
+            "t": 165.01333333333332
+          },
+          "charspan": [
+            0,
+            102
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "Stimularea creativității artistice și a expresivității muzicale în interpretarea lucrărilor corale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "III. ORGANIZAREA CONCURSULUI",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 774.7320833333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.57149569193522,
+            "r": 281.6060587565104,
+            "t": 791.7579571533203
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "III. ORGANIZAREA CONCURSULUI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Festivalul-concurs la disciplina Ansamblul coral este destinat elevilor din instituțiile care au clase cu profil Arte Muzică, ciclul primar şi gimnazial.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 739.9400809733072,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.675899505615234,
+            "r": 544.8221842447917,
+            "t": 773.6217012532552
+          },
+          "charspan": [
+            0,
+            153
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "Festivalul-concurs la disciplina Ansamblul coral este destinat elevilor din instituțiile care au clase cu profil Arte Muzică, ciclul primar şi gimnazial."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Concursul se desfaşoară la nivel municipal, primăvara, în fiecare an.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 723.2843345133463,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.38494364420572,
+            "r": 425.546630859375,
+            "t": 739.1998262532552
+          },
+          "charspan": [
+            0,
+            69
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "Concursul se desfaşoară la nivel municipal, primăvara, în fiecare an."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "1. Condițiile de participare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 708.1090974934896,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.71448771158855,
+            "r": 225.64961751302084,
+            "t": 723.2843345133463
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "1. Condițiile de participare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În concurs vor participa colectivele corale care corespund următoarelor categorii de vârstă:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 672.2067130533853,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.64867146809897,
+            "r": 534.1462809244792,
+            "t": 692.9338655598958
+          },
+          "charspan": [
+            0,
+            92
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "În concurs vor participa colectivele corale care corespund următoarelor categorii de vârstă:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "A.",
+      "orig": "A. Corul mic: elevii claselor II-III;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 644.4471407063802,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.52793375651042,
+            "r": 283.0785929361979,
+            "t": 659.622372639974
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "Corul mic: elevii claselor II-III;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "B.",
+      "orig": "B. Corul mediu: elevii claselor IV-V;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.1615266927083,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.8960673014323,
+            "r": 296.3314412434896,
+            "t": 642.59650390625
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "Corul mediu: elevii claselor IV-V;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "C.",
+      "orig": "C. Corul mare: elevii claselor VI-IX;",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 611.8759025065103,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.52793375651042,
+            "r": 294.49076334635413,
+            "t": 627.0511446126302
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "Corul mare: elevii claselor VI-IX;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "D.",
+      "orig": "D. Ansamblul de băieți format din elevii claselor VI-IX.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 595.5902783203124,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.52793375651042,
+            "r": 385.78810628255206,
+            "t": 610.7655305989583
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "Ansamblul de băieți format din elevii claselor VI-IX."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "2. Programul concursului",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 565.239814453125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.24195098876953,
+            "r": 215.34184773763022,
+            "t": 579.6747916666666
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "2. Programul concursului"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Fiecare colectiv va interpreta un program de creații la libera alegere a dirijorului, care va ține cont de următoarele condiții:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 517.4933544921874,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.93963050842285,
+            "r": 543.7177734375,
+            "t": 548.213935546875
+          },
+          "charspan": [
+            0,
+            128
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "Fiecare colectiv va interpreta un program de creații la libera alegere a dirijorului, care va ține cont de următoarele condiții:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1",
+      "orig": "2.1 Repertoriul colectivelor corale va include creații din tezaurul coral național, universal, clasic și contemporan.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 485.6623608398437,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.93963050842285,
+            "r": 542.6134033203125,
+            "t": 516.0128450520833
+          },
+          "charspan": [
+            0,
+            117
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "Repertoriul colectivelor corale va include creații din tezaurul coral național, universal, clasic și contemporan."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2",
+      "orig": "2.2 Programul colectivelor corale va include:",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 453.46124999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.91240437825522,
+            "r": 312.1612141927083,
+            "t": 468.63650227864576
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "Programul colectivelor corale va include:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "corul mic: 2-3 creații corale pe o voce sau cu elemente de două voci cu acompaniament. La discreția dirijorului poate fi interpretată și o lucrare a cappella;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 404.60439778645826,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 162.69861857096356,
+            "r": 543.3496500651042,
+            "t": 451.61062337239576
+          },
+          "charspan": [
+            0,
+            158
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "corul mic: 2-3 creații corale pe o voce sau cu elemente de două voci cu acompaniament. La discreția dirijorului poate fi interpretată și o lucrare a cappella;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "corul mediu: 3-4 creații corale pe 2 voci cu elemente de treivoci, dintre care o lucrare a cappella.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 373.88381673177076,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 162.69861857096356,
+            "r": 542.6134033203125,
+            "t": 403.86416341145826
+          },
+          "charspan": [
+            0,
+            100
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "corul mediu: 3-4 creații corale pe 2 voci cu elemente de treivoci, dintre care o lucrare a cappella."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "corul mare: 3-4 creații corale pe 3 voci cu elemente de 4 voci, dintre care cel puțin o lucrare a cappella.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 341.31256835937495,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 162.33048502604169,
+            "r": 542.6134033203125,
+            "t": 372.03319010416664
+          },
+          "charspan": [
+            0,
+            107
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "corul mare: 3-4 creații corale pe 3 voci cu elemente de 4 voci, dintre care cel puțin o lucrare a cappella."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.3",
+      "orig": "2.3 Timpul alocat evoluării colectivului, din momentul începerii programului, nu va depăşi limita de timp recomandată:",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 295.0466178385417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 54.835226694742836,
+            "r": 541.8771158854167,
+            "t": 325.0269645182292
+          },
+          "charspan": [
+            0,
+            118
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "Timpul alocat evoluării colectivului, din momentul începerii programului, nu va depăşi limita de timp recomandată:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Corul mic − până la10 minute",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 278.3908561197916,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 161.22608439127606,
+            "r": 313.6337483723958,
+            "t": 292.8258333333332
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "Corul mic − până la10 minute"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Corul mediu – 10 minute",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 262.8454866536458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 160.4898173014323,
+            "r": 287.4961954752604,
+            "t": 276.54022949218745
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "Corul mediu – 10 minute"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Corul mare – până la 15 minute",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 246.18976562499995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 159.38541666666669,
+            "r": 319.15576171875,
+            "t": 260.9948600260416
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "Corul mare – până la 15 minute"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.4",
+      "orig": "2.4 Institutia / dirijorul va completa formularul și oferta de participare (vezi anexa) în termenii stabiliți.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 200.66404947916658,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.7308235168457,
+            "r": 541.5089925130208,
+            "t": 230.27427897135408
+          },
+          "charspan": [
+            0,
+            110
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "Institutia / dirijorul va completa formularul și oferta de participare (vezi anexa) în termenii stabiliți."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "3. Criterii de evaluare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 169.57331054687495,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.76941172281902,
+            "r": 194.35818481445312,
+            "t": 183.26805338541658
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "3. Criterii de evaluare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1",
+      "orig": "3.1 Juriul festivalului concurs municipal la disciplina Ansamblul coral va fi constituit din personalități remarcabile din domeniul muzicii corale și pedagogiei muzicale.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 119.23594889322908,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.43986511230469,
+            "r": 555.1299641927083,
+            "t": 151.80719726562495
+          },
+          "charspan": [
+            0,
+            170
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "Juriul festivalului concurs municipal la disciplina Ansamblul coral va fi constituit din personalități remarcabile din domeniul muzicii corale și pedagogiei muzicale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2",
+      "orig": "3.2 Membrii juriului vor aprecia prestația colectivelor conform următoarelor criterii:",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 88.14525065104158,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.43986511230469,
+            "r": 499.5416666666667,
+            "t": 104.80101236979158
+          },
+          "charspan": [
+            0,
+            86
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "Membrii juriului vor aprecia prestația colectivelor conform următoarelor criterii:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "a)calitatea interpretării (intonație, dicție, dinamică, tempou, etc.)",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 72.22972330729158,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.64867146809897,
+            "r": 415.2388509114583,
+            "t": 88.88548502604158
+          },
+          "charspan": [
+            0,
+            69
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "a)calitatea interpretării (intonație, dicție, dinamică, tempou, etc.)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "b)",
+      "orig": "b) interpretarea artistică a repertoriului muzical prezentat (expresivitate, realizarea mesajului artistic;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 759.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.0,
+            "r": 558.6666666666667,
+            "t": 790.0133333333333
+          },
+          "charspan": [
+            0,
+            107
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "interpretarea artistică a repertoriului muzical prezentat (expresivitate, realizarea mesajului artistic;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "c)",
+      "orig": "c) fidelitatea stilistică a interpretării;",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 739.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333334,
+            "r": 280.33333333333337,
+            "t": 756.68
+          },
+          "charspan": [
+            0,
+            42
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "fidelitatea stilistică a interpretării;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "d)",
+      "orig": "d) complexitatea piesei la liberă alegere (coeficientul de dificultate al pieselor);",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 721.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.0,
+            "r": 486.3333333333333,
+            "t": 739.3466666666666
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "complexitatea piesei la liberă alegere (coeficientul de dificultate al pieselor);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.3",
+      "orig": "3.3 Organizatorii, participanții, membrii comisiei trebuie să respecte programul de organizare a concursului.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 678.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.333333333333336,
+            "r": 558.3333333333333,
+            "t": 708.0133333333333
+          },
+          "charspan": [
+            0,
+            109
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "Organizatorii, participanții, membrii comisiei trebuie să respecte programul de organizare a concursului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "e)",
+      "orig": "e) originalitatea repertoriului.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 707.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.33333333333334,
+            "r": 247.33333333333334,
+            "t": 723.3466666666666
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "originalitatea repertoriului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "4. Rezultatele concursului și premierea",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 643.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.66666666666667,
+            "r": 284.33333333333337,
+            "t": 659.68
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "4. Rezultatele concursului și premierea"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2",
+      "orig": "4.2 Regulamentul concursului prevede acordarea diplomelor.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 610.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.0,
+            "r": 390.3333333333333,
+            "t": 626.3466666666666
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "Regulamentul concursului prevede acordarea diplomelor."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.1",
+      "orig": "4.1 Juriul stabileşte clasamentul pentru colectivele corale din instituțiile cu profil Arte Muzică.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 623.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.33333333333334,
+            "r": 552.6666666666667,
+            "t": 644.0133333333333
+          },
+          "charspan": [
+            0,
+            99
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "Juriul stabileşte clasamentul pentru colectivele corale din instituțiile cu profil Arte Muzică."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3",
+      "orig": "4.3 Rezultatele concursului nu pot fi contestate.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 594.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.66666666666666,
+            "r": 325.6666666666667,
+            "t": 611.3466666666666
+          },
+          "charspan": [
+            0,
+            49
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "Rezultatele concursului nu pot fi contestate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "IV. PRELUCRAREA DATELOR CU CARACTER PERSONAL",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 563.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 57.333333333333336,
+            "r": 400.0,
+            "t": 579.3466666666666
+          },
+          "charspan": [
+            0,
+            44
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/78",
+      "text": "IV. PRELUCRAREA DATELOR CU CARACTER PERSONAL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Organizatorul se obligă să respecte drepturile tuturor participanților, în conformitate cu cadrul legal privind protecția datelor cu caracter personal.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 531.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.666666666666664,
+            "r": 557.6666666666667,
+            "t": 563.68
+          },
+          "charspan": [
+            0,
+            151
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/79",
+      "text": "Organizatorul se obligă să respecte drepturile tuturor participanților, în conformitate cu cadrul legal privind protecția datelor cu caracter personal."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la ordinu",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 750.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 343.6666666666667,
+            "r": 559.3333333333333,
+            "t": 786.3466666666666
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/80",
+      "text": "la ordinu"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr.2",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 773.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 478.3333333333333,
+            "r": 536.3333333333333,
+            "t": 786.68
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/81",
+      "text": "Anexa nr.2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Consiliul de coordonare a concursului municipal la disciplina Ansamblu coral.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 712.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.0,
+            "r": 525.0,
+            "t": 731.0133333333333
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/82",
+      "text": "Consiliul de coordonare a concursului municipal la disciplina Ansamblu coral."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr.3",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 397.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 475.3333333333333,
+            "r": 530.6666666666667,
+            "t": 409.67999999999995
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/83",
+      "text": "Anexa nr.3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la ordinul n1/1/in/026",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 379.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 359.3333333333333,
+            "r": 577.3333333333334,
+            "t": 406.01333333333326
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/84",
+      "text": "la ordinul n1/1/in/026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Lista membrii juriului a concursului municipal la disciplina Ansamblu coral.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 341.34666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 120.0,
+            "r": 519.3333333333333,
+            "t": 359.01333333333326
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/85",
+      "text": "Lista membrii juriului a concursului municipal la disciplina Ansamblu coral."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr 4",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 770.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 489.0,
+            "r": 546.3333333333334,
+            "t": 787.0133333333333
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/86",
+      "text": "Anexa nr 4"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "La ordinul ain",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 735.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 345.3333333333333,
+            "r": 504.33333333333337,
+            "t": 772.0133333333333
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/87",
+      "text": "La ordinul ain"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "180526",
+      "parent": {
+        "$ref": "#/pictures/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 739.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 489.66666666666663,
+            "r": 560.0,
+            "t": 769.3466666666666
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/88",
+      "text": "180526"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "OFERTA DE PARTICIPARE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 679.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 166.0,
+            "r": 409.3333333333333,
+            "t": 708.3466666666666
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/89",
+      "text": "OFERTA DE PARTICIPARE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Pentru concursul municipal la disciplina Ansamblul coral.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 661.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 141.0,
+            "r": 474.0,
+            "t": 684.68
+          },
+          "charspan": [
+            0,
+            57
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/90",
+      "text": "Pentru concursul municipal la disciplina Ansamblul coral."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Denumirea colectivului coral",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 625.0133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 57.0,
+            "r": 204.0,
+            "t": 639.68
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/91",
+      "text": "Denumirea colectivului coral"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Instituția de învățământ",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 603.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.333333333333336,
+            "r": 174.66666666666666,
+            "t": 619.3466666666666
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/92",
+      "text": "Instituția de învățământ"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "categoria",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 583.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.333333333333336,
+            "r": 105.33333333333334,
+            "t": 598.3466666666666
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/93",
+      "text": "categoria"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "numărul de elevi",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 563.68,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.0,
+            "r": 140.66666666666669,
+            "t": 578.0133333333333
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/94",
+      "text": "numărul de elevi"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Numele, prenumele dirijorului ansamblului coral:",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 520.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.333333333333336,
+            "r": 302.0,
+            "t": 536.3466666666666
+          },
+          "charspan": [
+            0,
+            48
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/95",
+      "text": "Numele, prenumele dirijorului ansamblului coral:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Telefon de contact",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 461.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 56.333333333333336,
+            "r": 149.33333333333331,
+            "t": 476.3466666666666
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/96",
+      "text": "Telefon de contact"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Numele, prenumele profesorului acompaniator",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 417.3466666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.0,
+            "r": 285.33333333333337,
+            "t": 434.67999999999995
+          },
+          "charspan": [
+            0,
+            43
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/97",
+      "text": "Numele, prenumele profesorului acompaniator"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Programul ales:",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 384.67999999999995,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 55.666666666666664,
+            "r": 140.0,
+            "t": 400.0133333333333
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/98",
+      "text": "Programul ales:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Data",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 198.3466666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.333333333333336,
+            "r": 82.66666666666666,
+            "t": 212.3466666666667
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/99",
+      "text": "Data"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Directorul Liceului",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 136.34666666666658,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.0,
+            "r": 149.33333333333331,
+            "t": 150.67999999999995
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/100",
+      "text": "Directorul Liceului"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ştampila Liceului Semnătura profesorului",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 126.34666666666658,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.666666666666664,
+            "r": 113.66666666666667,
+            "t": 137.3466666666667
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 7
+        },
+        {
+          "bbox": {
+            "b": 195.0133333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 264.33333333333337,
+            "r": 390.6666666666667,
+            "t": 209.3466666666667
+          },
+          "charspan": [
+            18,
+            40
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/101",
+      "text": "Ştampila Liceului Semnătura profesorului"
+    }
+  ],
+  "version": "1.10.0"
+}

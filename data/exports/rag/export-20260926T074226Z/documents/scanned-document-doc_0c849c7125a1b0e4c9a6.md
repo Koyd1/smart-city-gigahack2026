@@ -1,0 +1,47 @@
+---
+document_id: "doc_0c849c7125a1b0e4c9a6"
+version_id: "ver_0c849c71_1e63a00b5c19"
+title: "Scanned Document"
+source_url: "https://chisinauedu.dgets.md/storage/orders/1777444364_scan-2025-10-28-06-58-30-520.pdf"
+retrieved_at: "2026-09-26T07:14:03.307377+00:00"
+content_sha256: "1e63a00b5c19060e77827573dcfe861b9ced47a03f91c50a099117324519d2fe"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+<!-- image -->
+
+## CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÃ EDUCATIE, TINERET $I SPORT
+
+<!-- image -->
+
+Cu privire la punerea în aplicare a deciziei Consiliului de administrației nr.3/1 din 24.04.2026 ,Cu privire la aprobarea Planului de admitere în învățământul liceal pentru anul de studii 2026-2027"
+
+În temeiul Codului educației nr.152/2014, Metodologiei de admitere a elevilor în învățământul liceal, aprobată prin ordinul MEC nr. 190/2024 (pct. 14 (2), pct. 18), cu completările aprobate prin Ordinul MEC nr.1089/2025 și Instrucțiunii privind organizarea și desfáşurarea probei suplimentare în cadrul concursului de admitere în învățământul liceal, aprobată prin Ordinul MEC nr.509/2024, ordinului MEC cu nr. 421 din 09.03.2026, ,Cu privire la admiterea elevilor în învățământul liceal, sesiunea 2026" precum și în scopul aplicării deciziei Consiliului de administrației al DGETS nr. 3/1 din 24.04.2026 Cu privire la la aprobarea Planului de admitere în învățământul liceal pentru anul de studii 2026-2027",
+
+## ORDON:
+
+1. Se aprobă Planul de înmatriculare în învățământul liceal pentru anul de studii 20262027.
+2. Direcția management instituțional (D. Garbuz, șef):
+- 2.2. va monitoriza respectarea prevederilor actelor normativ-reglatorii referitor la admiterea elevilor în învățământul liceal de către directorii instituțiilor de învățământ secundar (ciclul II, liceu).
+- 2.1. va disemina Planul de înmatriculare în învățământul liceal pentru anul de studii 2026 - 2027 pe site-ul www.chisinauedu.md;
+3. Directorii instituțiilor de învățământ secundar, ciclul II:
+- 3.2. vor informa comunitatea cointeresată cu prevederile impuse de actele legislative și normative în vigoare privind admiterea elevilor în învāțāmântul liceal;
+- 3.1. vor asigura respectarea cu strictețe a prevederilor actelor normativ-reglatorii referitor de admiterea elevilor în învățământ liceal;
+
+<!-- page: 2 -->
+
+- 3.3. vor asigura respectarea Planului de înmatriculare in invățământul liceal pentru anul de studii 2026-2027 aprobat de DGETS;
+4. Executarea prevederilor prezentului ordin se atribuie Direcției management instituțional (D. Garbuz, șef) și directorilor instituțiilor de învățământ secundar, ciclul II.
+- 3.4. vor coordona cu conducerea DGETS eventualele modificări a numărului de clase sau elevi incluși în Planul de înmatriculare în învățământul liceal pentru anul de studii 2026-2027.
+5. Controlul realizării prevederilor prezentului ordin revine șefului adjunct al Direcției generale, educație, tineret și sport, Valentin Crudu,
+
+<!-- image -->
+
+Ex. D.Garbuz , 022-20-16-01

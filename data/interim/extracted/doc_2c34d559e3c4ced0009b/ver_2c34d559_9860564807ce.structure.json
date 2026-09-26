@@ -1,0 +1,749 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/11"
+      },
+      {
+        "$ref": "#/texts/12"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/pictures/3"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "a889ac0deba3cf33bf1524370fd8357fff6f1f508e92afe06eb3121d4c77f1ab",
+  "origin": {
+    "binary_hash": 7976739282049561003,
+    "filename": "a889ac0deba3cf33bf1524370fd8357fff6f1f508e92afe06eb3121d4c77f1ab.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 838.08,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 726.0940455527414,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 262.0391385535038,
+            "r": 373.44272786458333,
+            "t": 799.7110095287592
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 638.3939313915375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 205.20651411576705,
+            "r": 286.890967092803,
+            "t": 659.4816070389322
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 164.2232278242327,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 402.0227284564394,
+            "r": 516.8059747869319,
+            "t": 274.49920636546483
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 115.4906520969904,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 207.28329367897726,
+            "r": 414.56792850378787,
+            "t": 195.92469471655238
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRINNOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 729.7466666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.0,
+            "r": 343.33333333333337,
+            "t": 736.4133333333334
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PRINNOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 676.7466666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 182.66666666666669,
+            "r": 472.3333333333333,
+            "t": 726.4133333333334
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr. 04/e-7/1077 11-08.26",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 637.7466666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.33333333333333,
+            "r": 290.33333333333337,
+            "t": 661.08
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "nr. 04/e-7/1077 11-08.26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 564.08,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 298.3333333333333,
+            "r": 351.6666666666667,
+            "t": 584.7466666666667
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la modificarea Ordinului DGETS nr. 01/1-7/1061 din 30.07.2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 511.7466666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.33333333333333,
+            "r": 355.3333333333333,
+            "t": 550.4133333333334
+          },
+          "charspan": [
+            0,
+            72
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Cu privire la modificarea Ordinului DGETS nr. 01/1-7/1061 din 30.07.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În scopul organizării și desfăşurării discuțiilor publice privind curriculumul la disciplina şcolară Arte, în cadrul reuniunii metodice, în temeiul Ordinului MEC nr. 1549 din 05.08.2026 Cu privire la constituirea grupurilor de lucru pentru desfáşurarea discuțiilor publice în cadrul reuniunilor metodice raionale/municipale la disciplinele şcolare, ediția 2026\",",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 411.7466666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.66666666666667,
+            "r": 560.6666666666667,
+            "t": 489.41333333333336
+          },
+          "charspan": [
+            0,
+            362
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "În scopul organizării și desfăşurării discuțiilor publice privind curriculumul la disciplina şcolară Arte, în cadrul reuniunii metodice, în temeiul Ordinului MEC nr. 1549 din 05.08.2026 Cu privire la constituirea grupurilor de lucru pentru desfáşurarea discuțiilor publice în cadrul reuniunilor metodice raionale/municipale la disciplinele şcolare, ediția 2026\","
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 395.41333333333336,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 314.0,
+            "r": 368.6666666666667,
+            "t": 410.08000000000004
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se modifică locul de desfăşurare a reuniunii metodice la disciplina şcolară Educația muzicală, după cum urmează:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 351.08000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.66666666666667,
+            "r": 559.0,
+            "t": 383.7466666666667
+          },
+          "charspan": [
+            0,
+            115
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se modifică locul de desfăşurare a reuniunii metodice la disciplina şcolară Educația muzicală, după cum urmează:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Competența de realizare a prezentului ordin se atribuie E. Grecu, specialist principal, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 278.4133333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.33333333333333,
+            "r": 557.3333333333333,
+            "t": 308.74666666666667
+          },
+          "charspan": [
+            0,
+            97
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Competența de realizare a prezentului ordin se atribuie E. Grecu, specialist principal, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Reuniunea metodică la disciplina şcolară Educația muzicală, programată pentru data de 18.08.2026, ora 10.00, se va desfăşura în incinta LT ,I. S. NecuiLeviţchi\".",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 306.74666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 122.66666666666666,
+            "r": 558.6666666666667,
+            "t": 353.08000000000004
+          },
+          "charspan": [
+            0,
+            161
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Reuniunea metodică la disciplina şcolară Educația muzicală, programată pentru data de 18.08.2026, ora 10.00, se va desfăşura în incinta LT ,I. S. NecuiLeviţchi\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Monitorizarea realizării prevederilor prezentului ordin revine domnului V Crudu, şef adjunct al DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 245.74666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 559.6666666666667,
+            "t": 280.08000000000004
+          },
+          "charspan": [
+            0,
+            105
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Monitorizarea realizării prevederilor prezentului ordin revine domnului V Crudu, şef adjunct al DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "fadjunct",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.08000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 513.6666666666667,
+            "r": 558.0,
+            "t": 238.08000000000004
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "fadjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ndreiPAVALOI",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 196.4133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 470.3333333333333,
+            "r": 557.3333333333333,
+            "t": 210.74666666666678
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "ndreiPAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova,",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 102.4133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 205.33333333333331,
+            "r": 437.0,
+            "t": 116.74666666666678
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Tel.: (022)201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 94.4133333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 216.33333333333334,
+            "r": 426.3333333333333,
+            "t": 108.4133333333333
+          },
+          "charspan": [
+            0,
+            66
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Tel.: (022)201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: E Grecu022235270",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 149.74666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.0,
+            "r": 204.33333333333331,
+            "t": 164.08000000000004
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Ex.: E Grecu022235270"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ee",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 152.74666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 216.0,
+            "r": 228.66666666666666,
+            "t": 160.74666666666678
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "ee"
+    }
+  ],
+  "version": "1.10.0"
+}

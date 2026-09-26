@@ -1,0 +1,667 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/14"
+      },
+      {
+        "$ref": "#/texts/15"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    }
+  ],
+  "key_value_items": [],
+  "name": "e46396109b59ede78e37a0bd17a9c5589a58d86243e4e64ff6c6b0cb747ffd87",
+  "origin": {
+    "binary_hash": 17782094566598376839,
+    "filename": "e46396109b59ede78e37a0bd17a9c5589a58d86243e4e64ff6c6b0cb747ffd87.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.92,
+        "width": 595.2
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 735.1499177286687,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 239.98493472105704,
+            "r": 352.56515408714347,
+            "t": 809.3109311848185
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 627.0348247116705,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 64.25481489552747,
+            "r": 253.6294828478922,
+            "t": 652.7620858945869
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 76.76492252449532,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 311.6961353686032,
+            "r": 425.4092009883599,
+            "t": 152.4617092395339
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Executor: T. Munteanu, tel.: 0783 222 00",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 90.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 62.666666666666664,
+            "r": 221.33333333333334,
+            "t": 100.91999999999996
+          },
+          "charspan": [
+            0,
+            40
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Executor: T. Munteanu, tel.: 0783 222 00"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PEINHOEEHSIMI",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 739.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 270.3333333333333,
+            "r": 322.0,
+            "t": 744.5866666666666
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "PEINHOEEHSIMI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINĂU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÅU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 674.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 155.66666666666666,
+            "r": 456.0,
+            "t": 717.92
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "CONSILIUL MUNICIPAL CHIŞINĂU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÅU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "17.09. 26 11165 nr. or",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 632.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 251.33333333333334,
+            "t": 649.5866666666666
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "17.09. 26 11165 nr. or"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 585.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 289.33333333333337,
+            "r": 332.3333333333333,
+            "t": 599.5866666666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la totalizarea Programului de dezvoltare profesională ABC-ul financiar: suport didactic pentru educația timpurie și învățământul primar\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 538.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.0,
+            "r": 512.6666666666667,
+            "t": 567.2533333333333
+          },
+          "charspan": [
+            0,
+            147
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Cu privire la totalizarea Programului de dezvoltare profesională ABC-ul financiar: suport didactic pentru educația timpurie și învățământul primar\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu prevederile Planului de activitate al Direcției Generale Educație, Tineret și Sport a Consiliului Municipal Chişinău și în vederea promovării educației financiare în educația timpurie și învățământul primar, în perioada iunie-august 2026 s-a desfăşurat online Programul de dezvoltare profesională ABC-ul financiar: suport didactic pentru educația timpurie și învățământul primar\", destinat educatorilor și învățătorilor care lucrează cu copii de 5-7 ani și elevi de 8-12 ani. În cadrul activităților, participanții au elaborat scenarii didactice pentru grădiniță și nivelul primar de învățământ, au creat activități digitale interactive pe platforma www.educatieinteractiva.md și au valorificat resurse educaționale moderne pentru dezvoltarea competențelor financiare ale copiilor.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 396.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 57.666666666666664,
+            "r": 566.0,
+            "t": 520.5866666666666
+          },
+          "charspan": [
+            0,
+            800
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "În conformitate cu prevederile Planului de activitate al Direcției Generale Educație, Tineret și Sport a Consiliului Municipal Chişinău și în vederea promovării educației financiare în educația timpurie și învățământul primar, în perioada iunie-august 2026 s-a desfăşurat online Programul de dezvoltare profesională ABC-ul financiar: suport didactic pentru educația timpurie și învățământul primar\", destinat educatorilor și învățătorilor care lucrează cu copii de 5-7 ani și elevi de 8-12 ani. În cadrul activităților, participanții au elaborat scenarii didactice pentru grădiniță și nivelul primar de învățământ, au creat activități digitale interactive pe platforma www.educatieinteractiva.md și au valorificat resurse educaționale moderne pentru dezvoltarea competențelor financiare ale copiilor."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 365.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 286.66666666666663,
+            "r": 336.6666666666667,
+            "t": 378.25333333333333
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se aprobă totalurile Programului de dezvoltare profesională ABC-ul financiar: suport didactic pentru educația timpurie și învăţământul primar\".",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 332.58666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 59.0,
+            "r": 565.0,
+            "t": 361.5866666666666
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se aprobă totalurile Programului de dezvoltare profesională ABC-ul financiar: suport didactic pentru educația timpurie și învăţământul primar\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se aprobă lista participanților la Program, conform anexei la prezentul ordin.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 317.2533333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.333333333333336,
+            "r": 445.0,
+            "t": 330.58666666666664
+          },
+          "charspan": [
+            0,
+            81
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se aprobă lista participanților la Program, conform anexei la prezentul ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se acordă certificate de participare în valoare de 60 de ore de implicare / 2 credite per scenariu didactic și activități digitale interactive corespunzătoare persoanelor incluse în anexă, pentru implicarea în activitățile Programului și elaborarea resurselor didactice de educație financiară publicate pe www.educatieinteractiva.md/fise-interactive.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 254.25333333333322,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.0,
+            "r": 566.0,
+            "t": 314.91999999999996
+          },
+          "charspan": [
+            0,
+            353
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Se acordă certificate de participare în valoare de 60 de ore de implicare / 2 credite per scenariu didactic și activități digitale interactive corespunzătoare persoanelor incluse în anexă, pentru implicarea în activitățile Programului și elaborarea resurselor didactice de educație financiară publicate pe www.educatieinteractiva.md/fise-interactive."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Serviciul Parteneriate educaționale și investiționale va asigura aducerea la cunoştința persoanelor vizate a prevederilor prezentului ordin și eliberarea certificatelor de participare.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.25333333333322,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 59.0,
+            "r": 566.0,
+            "t": 250.5866666666667
+          },
+          "charspan": [
+            0,
+            187
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Serviciul Parteneriate educaționale și investiționale va asigura aducerea la cunoştința persoanelor vizate a prevederilor prezentului ordin și eliberarea certificatelor de participare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul executării prezentului ordin îi revine dnei Savin Ruslana, șefa serviciului Parteneriate educaționale și investiționale.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 190.25333333333322,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 59.0,
+            "r": 566.0,
+            "t": 218.91999999999996
+          },
+          "charspan": [
+            0,
+            133
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Controlul executării prezentului ordin îi revine dnei Savin Ruslana, șefa serviciului Parteneriate educaționale și investiționale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Sefadjunct DGETS Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 134.5866666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 377.6666666666667,
+            "r": 481.3333333333333,
+            "t": 160.25333333333322
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Sefadjunct DGETS Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIMARIA",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 45.58666666666659,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 345.0,
+            "r": 382.3333333333333,
+            "t": 59.58666666666659
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "PRIMARIA"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704,miacihuFChlyinae RepablicaMoldova, Tel.: (022)201 601,www,chisinauedu.rod efoan.dgetsmnunragmaiLcom",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 59.25333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 156.33333333333331,
+            "r": 468.6666666666667,
+            "t": 80.58666666666659
+          },
+          "charspan": [
+            0,
+            137
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704,miacihuFChlyinae RepablicaMoldova, Tel.: (022)201 601,www,chisinauedu.rod efoan.dgetsmnunragmaiLcom"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,3134 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/24"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/texts/26"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/texts/33"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/42"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/44"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/55"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/67"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/texts/71"
+      },
+      {
+        "$ref": "#/groups/14"
+      },
+      {
+        "$ref": "#/texts/73"
+      },
+      {
+        "$ref": "#/groups/15"
+      },
+      {
+        "$ref": "#/texts/77"
+      },
+      {
+        "$ref": "#/groups/16"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/84"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/pictures/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/texts/23"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/43"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/7"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/8"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/9"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/56"
+        },
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/10"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/61"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/11"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/12"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        },
+        {
+          "$ref": "#/texts/70"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/13"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/72"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/14"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        },
+        {
+          "$ref": "#/texts/76"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/15"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/16"
+    }
+  ],
+  "key_value_items": [],
+  "name": "b2f37b30d6c0a93106176a2567717328011e54cbc2118b96b7289fb942a3b9fc",
+  "origin": {
+    "binary_hash": 13197974326045030908,
+    "filename": "b2f37b30d6c0a93106176a2567717328011e54cbc2118b96b7289fb942a3b9fc.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "5": {
+      "page_no": 5,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 745.9690424462136,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 224.85059718276514,
+            "r": 336.30133996212123,
+            "t": 818.4754546937704
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 650.201235856681,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.989174286813444,
+            "r": 267.8317912523674,
+            "t": 689.1111130257877
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 293.5479271328776,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 365.69517223011366,
+            "r": 479.7874846117424,
+            "t": 449.94621929808267
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 671.1075748272146,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 372.4269013375947,
+            "r": 557.3189423532197,
+            "t": 772.0989488773596
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 61.7682412120987,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 291.4643048650568,
+            "r": 392.18810606060606,
+            "t": 106.8577713473544
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 5
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIN NOIENSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 748.3486108398438,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 253.41485595703125,
+            "r": 307.5343831380208,
+            "t": 758.4978011067709
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PRIN NOIENSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIULMUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅEDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 695.9111108398438,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 145.59531656901044,
+            "r": 433.8133138020833,
+            "t": 747.9257287597657
+          },
+          "charspan": [
+            0,
+            111
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIULMUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅEDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "260326.01/1-7/409",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 654.4685652669272,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.87890752156575,
+            "r": 268.09844970703125,
+            "t": 692.1051619466147
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "260326.01/1-7/409"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 610.0658349609375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 281.9429728190104,
+            "r": 332.28672281901044,
+            "t": 627.4040511067709
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Viața contează! Spune NU Drogurilor\"",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 530.9867130533855,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.10312525431315,
+            "r": 286.1382853190104,
+            "t": 552.1308577473958
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Viața contează! Spune NU Drogurilor\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea și desfăşurarea activității publice Flash-mobcu tema",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 547.9020369466145,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 49.522656758626304,
+            "r": 279.00626627604163,
+            "t": 584.6928491210938
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Cu privire la organizarea și desfăşurarea activității publice Flash-mobcu tema"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu prevederile Dispoziției Primarului General al municipiului Chişinău nr.435-d din 29.12.2025 privind aplicarea bugetului municipal Chişinău provizoriu pe anul 2026, ordinului Direcției generale educație, tineret și sport a Consiliului municipal Chişinău nr.01/1-7/41 din 16.01.2025 privind aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS (tineret și sport) pentru anul 2026,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 410.04215332031254,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 45.74687576293945,
+            "r": 562.1898600260416,
+            "t": 522.1061588541668
+          },
+          "charspan": [
+            0,
+            446
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "În conformitate cu prevederile Dispoziției Primarului General al municipiului Chişinău nr.435-d din 29.12.2025 privind aplicarea bugetului municipal Chişinău provizoriu pe anul 2026, ordinului Direcției generale educație, tineret și sport a Consiliului municipal Chişinău nr.01/1-7/41 din 16.01.2025 privind aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS (tineret și sport) pentru anul 2026,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 369.4453922526042,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 291.5922037760417,
+            "r": 348.64845784505206,
+            "t": 386.78356770833335
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "1.Direcția managementul învățământului extrașcolar, tineret și sport a DGETS, şefa, Silvia Butuc-Canațui va organiza și desfăşura activitatea publică Flash-mob Viața contează! Spune NU Drogurilor!\" la data 08 aprilie 2026, ora 14.00, în Piața Marii Adunări Naționale, Chişinău.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 281.06282389322917,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 44.06875038146973,
+            "r": 556.31640625,
+            "t": 355.49023274739585
+          },
+          "charspan": [
+            0,
+            277
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "1.Direcția managementul învățământului extrașcolar, tineret și sport a DGETS, şefa, Silvia Butuc-Canațui va organiza și desfăşura activitatea publică Flash-mob Viața contează! Spune NU Drogurilor!\" la data 08 aprilie 2026, ora 14.00, în Piața Marii Adunări Naționale, Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. asigura pregătirea și participarea a 100 elevi la activitatea publică Flash-mob Viața contează! Spune NU Drogurilor!\", desfăşurată la data 08 aprilie 2026, în Piața Marii Adunări Naționale,Chişinău, conform anexei nr.1;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 94.99426106770841,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.11406453450522,
+            "r": 553.7992350260416,
+            "t": 151.66060221354167
+          },
+          "charspan": [
+            0,
+            224
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "asigura pregătirea și participarea a 100 elevi la activitatea publică Flash-mob Viața contează! Spune NU Drogurilor!\", desfăşurată la data 08 aprilie 2026, în Piața Marii Adunări Naționale,Chişinău, conform anexei nr.1;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Conducătorii instituțiilor de învățământ secundar, ciclul I și II din municipiul Chişinău: LTPA Elena Alistar\" (Babuc Lilia),IPLT ,Principesa Natalia Dadiani\" (Tîpu Valentina), IPLTPA Mihail Berezobschi\" (Eremei-Berezovschi Ana), IPLTPA ,Nicolae Sulac\" (Bulat Ina), IPLT Mihai Viteazul\" (Demerji Valentina), IPLT Constantin Negruzzi\" (Bîtca Viorica), LTPS ,,Gloria\" (Pădureț Nicolae), IPLT Academia Copiilor\" (Horjan Nina), IPLT Anton Cehov\" (BerdanValentina), IPLTPA Ion și Doina AldeaTeodorovici\" (Donțu Iurie) vor:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 150.8148177083334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 41.132031758626304,
+            "r": 552.5406494140625,
+            "t": 281.9085677083334
+          },
+          "charspan": [
+            0,
+            520
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Conducătorii instituțiilor de învățământ secundar, ciclul I și II din municipiul Chişinău: LTPA Elena Alistar\" (Babuc Lilia),IPLT ,Principesa Natalia Dadiani\" (Tîpu Valentina), IPLTPA Mihail Berezobschi\" (Eremei-Berezovschi Ana), IPLTPA ,Nicolae Sulac\" (Bulat Ina), IPLT Mihai Viteazul\" (Demerji Valentina), IPLT Constantin Negruzzi\" (Bîtca Viorica), LTPS ,,Gloria\" (Pădureț Nicolae), IPLT Academia Copiilor\" (Horjan Nina), IPLT Anton Cehov\" (BerdanValentina), IPLTPA Ion și Doina AldeaTeodorovici\" (Donțu Iurie) vor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. numi responsabili de viața și securitatea elevilor-participanți la activitatea publică, cadre didactice, coreografi și administrația (10 persoane);",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 62.00939778645841,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.69453175862631,
+            "r": 552.9601643880209,
+            "t": 103.87479492187504
+          },
+          "charspan": [
+            0,
+            152
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "numi responsabili de viața și securitatea elevilor-participanți la activitatea publică, cadre didactice, coreografi și administrația (10 persoane);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Direcția managementul economico-financiar și evidența patrimoniului a DGETS (șefa, Svetlana Ignatieva) va efectua finanțarea activității publice Flash-mob Viața contează! Spune NU Drogurilor!\", conform pct.5, aprilie 2026 din bugetul DGETS și a devizului de cheltuieli aprobat (anexa nr.2).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 754.350625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.86221567789714,
+            "r": 567.1462809244791,
+            "t": 821.92875
+          },
+          "charspan": [
+            0,
+            293
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Direcția managementul economico-financiar și evidența patrimoniului a DGETS (șefa, Svetlana Ignatieva) va efectua finanțarea activității publice Flash-mob Viața contează! Spune NU Drogurilor!\", conform pct.5, aprilie 2026 din bugetul DGETS și a devizului de cheltuieli aprobat (anexa nr.2)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul realizării prevederilor prezentului ordin revine șefei Direcției managementul învățământului extraşcolar, tineret și sport, Silvia Butuc-Canațui.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 652.788125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.9375,
+            "r": 564.8366292317709,
+            "t": 693.0225
+          },
+          "charspan": [
+            0,
+            158
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Controlul realizării prevederilor prezentului ordin revine șefei Direcției managementul învățământului extraşcolar, tineret și sport, Silvia Butuc-Canațui."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Responsabil pentru executarea actelor la nivel primar, ce țin de partea financiară a activității, conform legislației în vigoare, în baza contractului de răspundere materială, se numește, Svetlana Nazaria, specialist principal, Direcția managementul învățământului extrașcolar, tineretși sport a DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 689.11625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.32244237263997,
+            "r": 566.7613525390625,
+            "t": 757.86625
+          },
+          "charspan": [
+            0,
+            305
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Responsabil pentru executarea actelor la nivel primar, ce țin de partea financiară a activității, conform legislației în vigoare, în baza contractului de răspundere materială, se numește, Svetlana Nazaria, specialist principal, Direcția managementul învățământului extrașcolar, tineretși sport a DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Monitorizarea realizării prevederilor prezentului ordin revine șefului adjunct al DGETS, Valentin Crudu.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 627.006875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.9375,
+            "r": 564.0667317708334,
+            "t": 660.600625
+          },
+          "charspan": [
+            0,
+            107
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Monitorizarea realizării prevederilor prezentului ordin revine șefului adjunct al DGETS, Valentin Crudu."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.Svetlana Nazaria, Tel.022 201627",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 100.44437500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 41.31392033894857,
+            "r": 119.0724385579427,
+            "t": 123.10062500000004
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Ex.Svetlana Nazaria, Tel.022 201627"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Andrei PAVALOI, Sef adjunct, DGETS",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 377.78812500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 433.9559326171875,
+            "r": 559.8323567708334,
+            "t": 412.16312500000004
+          },
+          "charspan": [
+            0,
+            34
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Andrei PAVALOI, Sef adjunct, DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 62.553750000000036,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 141.01420084635419,
+            "r": 453.9729817708333,
+            "t": 91.46000000000004
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr. 1",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 750.6878213500977,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 503.1441650390625,
+            "r": 555.9502766927083,
+            "t": 763.6616118367514
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Anexa nr. 1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "APROB:",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 724.7402429199219,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 503.8529866536458,
+            "r": 558.4311116536458,
+            "t": 740.2367130533854
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "APROB:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Andrei PAVALOI,",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 708.5230035400391,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 445.7308349609375,
+            "r": 557.7223307291667,
+            "t": 725.100625
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Andrei PAVALOI,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "adjinet al DGETS",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 693.7472924804688,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 444.6676025390625,
+            "r": 558.0767008463542,
+            "t": 709.6041497802735
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "adjinet al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Regulamentulactivității publice Flash-mob cu fema Viața contează! Spune NU Drogurilor?",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 645.8163435872397,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 165.39772542317706,
+            "r": 478.6903483072917,
+            "t": 683.6565738932293
+          },
+          "charspan": [
+            0,
+            86
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Regulamentulactivității publice Flash-mob cu fema Viața contează! Spune NU Drogurilor?"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Argument:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 618.7876163736979,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.36576716105144,
+            "r": 154.41122436523438,
+            "t": 635.725625
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Argument:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Prevenirea trebuie realizată prin metode moderne, vizibile și participative, care implică direct tinerii în transmiterea mesajului.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 535.17875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.94815317789714,
+            "r": 555.9502766927083,
+            "t": 572.6585880533854
+          },
+          "charspan": [
+            0,
+            131
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Prevenirea trebuie realizată prin metode moderne, vizibile și participative, care implică direct tinerii în transmiterea mesajului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Consumul de droguri în rândul adolescenților reprezintă o problemă socială majoră, cu impact asupra sănătății fizice și mintale, performanței şcolare și integrării sociale.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 571.9378238932292,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.59375,
+            "r": 557.0135091145833,
+            "t": 619.8687626139323
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Consumul de droguri în rândul adolescenților reprezintă o problemă socială majoră, cu impact asupra sănătății fizice și mintale, performanței şcolare și integrării sociale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Flash mob-ul reprezint o formă artistică de impact, capabilă să transmită un mesaj puternic într-un timp scurt, mobilizând atenția comunității. care implică direct tinerii în transmiterea mesajului.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 489.4100935872396,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.88494364420573,
+            "r": 555.2414957682292,
+            "t": 540.5844913736979
+          },
+          "charspan": [
+            0,
+            198
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Flash mob-ul reprezint o formă artistică de impact, capabilă să transmită un mesaj puternic într-un timp scurt, mobilizând atenția comunității. care implică direct tinerii în transmiterea mesajului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Adolescenții municipiuļui Chişinău vor demonstra că pot fi ambasadori ai sănătății, ai responsabilității șai schimbării, care spun ferm: Viața mea are valoare!\", Aleg sănătatea!\", Spun NU drogurilor!\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 405.8012272135417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.1129264831543,
+            "r": 535.7493082682292,
+            "t": 460.2190738932292
+          },
+          "charspan": [
+            0,
+            200
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Adolescenții municipiuļui Chişinău vor demonstra că pot fi ambasadori ai sănătății, ai responsabilității șai schimbării, care spun ferm: Viața mea are valoare!\", Aleg sănătatea!\", Spun NU drogurilor!\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Flash mob-ul reprezintă oformă artistică de impact major, capabilă să transmită un mesaj puternic într-un timp scurt, mobilizând atenția comunității.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 452.2906274414063,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.5305404663086,
+            "r": 523.6995849609375,
+            "t": 492.6535424804688
+          },
+          "charspan": [
+            0,
+            149
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Flash mob-ul reprezintă oformă artistică de impact major, capabilă să transmită un mesaj puternic într-un timp scurt, mobilizând atenția comunității."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "La activitate vor participapeste5 000 persoane (elevi, cadre didactice, părinți, experți, directori/adjuncți ai instituțiilor de învățământ general din mun. Chişinău, comunitatea locală, călători din transportul public, reprezentanți APL).",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 355.34757324218754,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.1129264831543,
+            "r": 536.4580891927083,
+            "t": 412.28812500000004
+          },
+          "charspan": [
+            0,
+            239
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "La activitate vor participapeste5 000 persoane (elevi, cadre didactice, părinți, experți, directori/adjuncți ai instituțiilor de învățământ general din mun. Chişinău, comunitatea locală, călători din transportul public, reprezentanți APL)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Obiectivul general:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 331.20194335937504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.1129264831543,
+            "r": 198.35724894205728,
+            "t": 348.8606754557292
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Obiectivul general:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Promovarea unui stil dę viață sănătos și responsabil în rândul tinerilor prin activități de prevenire a consumului de droguri, desfăşurate în spațiul public.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 291.9201643880208,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.6953125,
+            "r": 551.3430582682292,
+            "t": 332.64347167968754
+          },
+          "charspan": [
+            0,
+            157
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "Promovarea unui stil dę viață sănătos și responsabil în rândul tinerilor prin activități de prevenire a consumului de droguri, desfăşurate în spațiul public."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Obiective specifice:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 266.6933577473959,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.04971567789714,
+            "r": 198.35724894205728,
+            "t": 284.7125227864583
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Obiective specifice:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Implicarea activă a elevilor din cel puțin 10 instituții de învățământ în activități de promovare à sănătății.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 200.02250000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.64346567789714,
+            "r": 550.2798258463542,
+            "t": 236.78157389322917
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Implicarea activă a elevilor din cel puțin 10 instituții de învățământ în activități de promovare à sănătății."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Informarea a minimum|5000 de adolescenți și cetățeni despre consecințele fizice, psihologice și soçiale ale consumului de droguri.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 229.2134993489584,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.06108093261719,
+            "r": 550.9886474609375,
+            "t": 268.85567057291667
+          },
+          "charspan": [
+            0,
+            133
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Informarea a minimum|5000 de adolescenți și cetățeni despre consecințele fizice, psihologice și soçiale ale consumului de droguri."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Dezvoltarea spiritului civic și a responsabilității sociale în rândul tinerilor participanți.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 169.75032389322917,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.93465932210286,
+            "r": 549.2166341145833,
+            "t": 204.34708496093754
+          },
+          "charspan": [
+            0,
+            96
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Dezvoltarea spiritului civic și a responsabilității sociale în rândul tinerilor participanți."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Consolidarea parteneriatului între școală — familie - comunitate — autorități locale.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.04365885416667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.87144978841145,
+            "r": 547.7990315755208,
+            "t": 140.19889160156254
+          },
+          "charspan": [
+            0,
+            88
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Consolidarea parteneriatului între școală — familie - comunitate — autorități locale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Distribuirea a minimum 2000 de pliante informative privind efectele drogurilor și modalități deprevenire.",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 135.15352213541667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.58025614420573,
+            "r": 548.8622233072917,
+            "t": 172.27298828125004
+          },
+          "charspan": [
+            0,
+            108
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Distribuirea a minimum 2000 de pliante informative privind efectele drogurilor și modalități deprevenire."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Obiectivele flash-mobului:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 74.24881835937504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.86008516947429,
+            "r": 236.98722330729166,
+            "t": 91.90759114583341
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Obiectivele flash-mobului:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Promovarea respectului pentru viața umană și a valorilor de solidaritate, empatie și responsabilitate.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 748.4292535400391,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.125,
+            "r": 560.625,
+            "t": 785.9035482025147
+          },
+          "charspan": [
+            0,
+            104
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "Promovarea respectului pentru viața umană și a valorilor de solidaritate, empatie și responsabilitate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Sensibilizarea publicuļui (prieteni, părinți, trecători) asupra importanței vieții și a alegerilor pe care le facem zilnic.",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 713.983183186849,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 123.75,
+            "r": 559.875,
+            "t": 752.2145344034831
+          },
+          "charspan": [
+            0,
+            123
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "Sensibilizarea publicuļui (prieteni, părinți, trecători) asupra importanței vieții și a alegerilor pe care le facem zilnic."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Locul și ora organizării:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 684.0794559733074,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.25,
+            "r": 243.0,
+            "t": 704.5199772135418
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Locul și ora organizării:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Acțiunea se desfăşoară în Piața Marii Adunări Naționale, la data 08 aprilie 2026, ora 14.00, aprobată de autoritatea locală.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 647.3622115071615,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 120.75,
+            "r": 558.375,
+            "t": 687.4862044270833
+          },
+          "charspan": [
+            0,
+            124
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "Acțiunea se desfăşoară în Piața Marii Adunări Naționale, la data 08 aprilie 2026, ora 14.00, aprobată de autoritatea locală."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Grup țintă:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 620.8652327473959,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.375,
+            "r": 161.25,
+            "t": 640.1701745605469
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "Grup țintă:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Cadre didactice",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 588.6903466796875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.875,
+            "r": 212.25,
+            "t": 606.4811588541667
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "Cadre didactice"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Elevi din ciclul gimnazial și liceal",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 600.8032413736979,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.75,
+            "r": 315.75,
+            "t": 623.1364017740885
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "Elevi din ciclul gimnazial și liceal"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Părinți",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 573.5492130533854,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 103.5,
+            "r": 162.0,
+            "t": 592.0970849609375
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "Părinți"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Călători din transportulpublic",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 537.9675480143229,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 106.125,
+            "r": 292.5,
+            "t": 560.3007185872397
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "Călători din transportulpublic"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Comunitatea locală",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 556.8939599609375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.875,
+            "r": 232.5,
+            "t": 574.6847924804688
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "Comunitatea locală"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Reguli de pregătire:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 509.1994002278646,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 205.875,
+            "t": 527.7472924804688
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "Reguli de pregătire:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Materialele (panouri, afișe, pancarte) vor conține mesaje pozitive, neutre în plan politic/religios și vorrespecta legislația în vigoare",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 438.0360904947917,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.25,
+            "r": 552.75,
+            "t": 479.6742130533855
+          },
+          "charspan": [
+            0,
+            136
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "Materialele (panouri, afișe, pancarte) vor conține mesaje pozitive, neutre în plan politic/religios și vorrespecta legislația în vigoare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Pregătirea acțiunii (coreografie, mesaje, spoturi, scente) se face în intervalul orar stabilit de instituție/organizator, fără a afecta orele de curs.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 468.6968774414063,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.25,
+            "r": 553.875,
+            "t": 511.47057942708335
+          },
+          "charspan": [
+            0,
+            150
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "Pregătirea acțiunii (coreografie, mesaje, spoturi, scente) se face în intervalul orar stabilit de instituție/organizator, fără a afecta orele de curs."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Desfăşurarea activității:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 413.05322102864585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.75,
+            "r": 231.0,
+            "t": 432.73669270833335
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "Desfăşurarea activității:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Selectarea instituțiilor participante",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 377.85009602864585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.375,
+            "r": 312.0,
+            "t": 399.4262272135417
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "Selectarea instituțiilor participante"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Etapa I – Pregătirea (2-3 săptămâni înainte)",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 392.61270996093754,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.0,
+            "r": 349.125,
+            "t": 416.83849934895835
+          },
+          "charspan": [
+            0,
+            44
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "Etapa I – Pregătirea (2-3 săptămâni înainte)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Elaborarea conceptului artistic al flash mob-ului",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 359.30224446614585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.625,
+            "r": 388.5,
+            "t": 384.28507324218754
+          },
+          "charspan": [
+            0,
+            49
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "Elaborarea conceptului artistic al flash mob-ului"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Elaborarea și tipărirea pliantelor informative (consecințe medicale, sociale, juridice)",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 317.66410156250004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.875,
+            "r": 536.625,
+            "t": 351.7316471354167
+          },
+          "charspan": [
+            0,
+            87
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "Elaborarea și tipărirea pliantelor informative (consecințe medicale, sociale, juridice)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Repetiții coordonate",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 348.3249088541667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.75,
+            "r": 232.5,
+            "t": 366.87280110677085
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "Repetiții coordonate"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "· Instruirea elevilor privind comunicarea asertivă și distribuirea materialelor Etapa II – Desfăşurarea activității principale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 279.8112776692709,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.625,
+            "r": 534.0,
+            "t": 319.9353011067708
+          },
+          "charspan": [
+            0,
+            126
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "· Instruirea elevilor privind comunicarea asertivă și distribuirea materialelor Etapa II – Desfăşurarea activității principale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Moment 1 – Adunarea participanților",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 246.87935221354167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.5,
+            "r": 305.625,
+            "t": 269.59102213541667
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "Moment 1 – Adunarea participanților"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Locație: Piața Marii AdunăriNaționale",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 262.77750488281254,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.125,
+            "r": 322.5,
+            "t": 286.62479492187504
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "Locație: Piața Marii AdunăriNaționale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Elevii se poziționează în grupuri dispersate în piață, purtând tricouri albe (simbol al sănătății, cu imprimeu logou, slogan...etc.) și pancarte cu mesaje:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 209.7835677083334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.375,
+            "r": 546.75,
+            "t": 254.07136881510417
+          },
+          "charspan": [
+            0,
+            155
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "Elevii se poziționează în grupuri dispersate în piață, purtând tricouri albe (simbol al sănătății, cu imprimeu logou, slogan...etc.) și pancarte cu mesaje:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Spune NU drogurilor!\"",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 184.42219889322917,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.375,
+            "r": 250.5,
+            "t": 204.10562988281254
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "Spune NU drogurilor!\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Alege viața!\"",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 201.4559309895834,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.375,
+            "r": 197.25,
+            "t": 220.38236328125004
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "Alege viața!\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Sănătatea este prioritară!\"",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 168.14546549479167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.375,
+            "r": 266.25,
+            "t": 188.20747721354167
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "Sănătatea este prioritară!\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Muzică dramatică la început (simbol al tentației și presiunii sociale)",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 128.39998209635417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.5,
+            "r": 491.625,
+            "t": 157.54666992187504
+          },
+          "charspan": [
+            0,
+            72
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "Muzică dramatică la început (simbol al tentației și presiunii sociale)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Moment 2 – Flash mob-ul artistic (10–12 minute)",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 148.84053385416667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.25,
+            "r": 369.75,
+            "t": 173.82340332031254
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "Moment 2 – Flash mob-ul artistic (10–12 minute)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Mişcare scenică ce ilustręază dependența",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 117.04414713541667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.5,
+            "r": 342.0,
+            "t": 140.89143717447917
+          },
+          "charspan": [
+            0,
+            42
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "Mişcare scenică ce ilustręază dependența"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Final colectiv cu slogan strigat simultan: Viața noastră, alegerea noastră – Spunem NU drogurilor!\"",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 48.530556640625036,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.0,
+            "r": 468.375,
+            "t": 92.06131835937504
+          },
+          "charspan": [
+            0,
+            99
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "Final colectiv cu slogan strigat simultan: Viața noastră, alegerea noastră – Spunem NU drogurilor!\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Intervenția simbolică a grupului Sănătate\" care eliberează\" personajele afectate",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 91.30423828125004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.75,
+            "r": 520.125,
+            "t": 124.99324381510417
+          },
+          "charspan": [
+            0,
+            82
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "Intervenția simbolică a grupului Sănătate\" care eliberează\" personajele afectate"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Etapa III – Campanie de sénsibilizare în transportul public",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 744.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.33333333333333,
+            "r": 447.3333333333333,
+            "t": 771.2933333333334
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "Etapa III – Campanie de sénsibilizare în transportul public"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Distribuie pliante informative călătorilo- conținutul pliantelor informative: (Ce sunt drogurile?; Efecte asupra creierului și organismului; Consecințe juridice; Impact asuprą familiei și viitorului profesional; Unde poți cere ajutor?; Mesaj motivațional final.)",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 651.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 122.0,
+            "r": 545.3333333333333,
+            "t": 721.96
+          },
+          "charspan": [
+            0,
+            262
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "Distribuie pliante informative călătorilo- conținutul pliantelor informative: (Ce sunt drogurile?; Efecte asupra creierului și organismului; Consecințe juridice; Impact asuprą familiei și viitorului profesional; Unde poți cere ajutor?; Mesaj motivațional final.)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "După flash mob, grupurilę organizate de elevi urcă în troleibuzele care traversează centrul oraşului și:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 718.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.66666666666667,
+            "r": 506.6666666666667,
+            "t": 754.6266666666667
+          },
+          "charspan": [
+            0,
+            104
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "După flash mob, grupurilę organizate de elevi urcă în troleibuzele care traversează centrul oraşului și:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Comunică mesaje scurte de prevenție",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 634.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 122.0,
+            "r": 336.0,
+            "t": 655.96
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "Comunică mesaje scurte de prevenție"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Oferă informații desprę centre de consiliere și ajutor",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 599.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.33333333333334,
+            "r": 419.0,
+            "t": 623.96
+          },
+          "charspan": [
+            0,
+            54
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "Oferă informații desprę centre de consiliere și ajutor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Invită comunitatea să susțină un stil de viață sănătos",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 615.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.66666666666666,
+            "r": 419.0,
+            "t": 639.96
+          },
+          "charspan": [
+            0,
+            54
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "Invită comunitatea să susțină un stil de viață sănătos"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Rezultatele aşteptate:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 574.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.33333333333333,
+            "r": 217.33333333333334,
+            "t": 592.96
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "Rezultatele aşteptate:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Implicarea activă a tinerilor în promovarea sănătății;",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 536.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 120.0,
+            "r": 417.6666666666667,
+            "t": 560.96
+          },
+          "charspan": [
+            0,
+            54
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/78",
+      "text": "Implicarea activă a tinerilor în promovarea sănătății;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Creşterea gradului de conştientizare privind riscurile consumului de droguri;",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 548.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 120.33333333333334,
+            "r": 553.3333333333333,
+            "t": 576.96
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/79",
+      "text": "Creşterea gradului de conştientizare privind riscurile consumului de droguri;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Vizibilitate publică ridicată a campaniei;",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 522.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 120.66666666666666,
+            "r": 352.0,
+            "t": 544.96
+          },
+          "charspan": [
+            0,
+            42
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/80",
+      "text": "Vizibilitate publică ridicată a campaniei;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Impact mediatic (presă, rețele sociale)",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 474.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.0,
+            "r": 336.3333333333333,
+            "t": 496.6266666666667
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/81",
+      "text": "Impact mediatic (presă, rețele sociale)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Consolidarea imaginii instituțiilor educaționale ca promotori ai valorilor sănătoase;",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 494.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.33333333333334,
+            "r": 528.6666666666667,
+            "t": 529.2933333333334
+          },
+          "charspan": [
+            0,
+            85
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/82",
+      "text": "Consolidarea imaginii instituțiilor educaționale ca promotori ai valorilor sănătoase;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "S.",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 72.29333333333341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.0,
+            "r": 311.66666666666663,
+            "t": 92.96000000000004
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/83",
+      "text": "S."
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex.Nazaria Svetlana, specialist prinċipal",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 72.29333333333341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.33333333333333,
+            "r": 276.0,
+            "t": 100.62666666666667
+          },
+          "charspan": [
+            0,
+            41
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/84",
+      "text": "Ex.Nazaria Svetlana, specialist prinċipal"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "e46396109b59ede78e37a0bd17a9c5589a58d86243e4e64ff6c6b0cb747ffd87",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1789716711_ordin-abc-ul-financiar.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "108616",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 07:29:35 GMT",
+    "Etag": "\"6aace8e7-1a848\"",
+    "Last-Modified": "Fri, 18 Sep 2026 07:31:51 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/e46396109b59ede78e37a0bd17a9c5589a58d86243e4e64ff6c6b0cb747ffd87.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1789716711_ordin-abc-ul-financiar.pdf",
+  "retrieved_at": "2026-09-26T07:29:35.697276+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

@@ -1,0 +1,2417 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/48"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/47"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    }
+  ],
+  "key_value_items": [],
+  "name": "3a42bb5176a8ac86b270e4589de1a82514d545dba0a331d7e334013cfd331a58",
+  "origin": {
+    "binary_hash": 16371711906856245848,
+    "filename": "3a42bb5176a8ac86b270e4589de1a82514d545dba0a331d7e334013cfd331a58.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 730.6393959246805,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 255.32284786339963,
+            "r": 366.9877624881629,
+            "t": 803.8176969904225
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 633.2715143802022,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.21140639796401,
+            "r": 292.0197221235795,
+            "t": 671.885781830596
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 345.6510091687723,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 390.61204634232956,
+            "r": 515.6026621685606,
+            "t": 496.49127712544595
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 471.6426188151042,
+                "coord_origin": "TOPLEFT",
+                "l": 92.6812489827474,
+                "r": 128.11874898274738,
+                "t": 457.4712727864583
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr. d/0"
+            },
+            {
+              "bbox": {
+                "b": 475.9727783203125,
+                "coord_origin": "TOPLEFT",
+                "l": 229.3125,
+                "r": 333.65625,
+                "t": 459.0458577473958
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Proba de evaluare"
+            },
+            {
+              "bbox": {
+                "b": 477.54736328125,
+                "coord_origin": "TOPLEFT",
+                "l": 463.59375,
+                "r": 495.4875081380208,
+                "t": 459.8331705729167
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Data"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 495.2615966796875,
+                "coord_origin": "TOPLEFT",
+                "l": 104.4937489827474,
+                "r": 118.66874694824219,
+                "t": 480.3028971354167
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1."
+            },
+            {
+              "bbox": {
+                "b": 497.6234537760417,
+                "coord_origin": "TOPLEFT",
+                "l": 129.69375101725262,
+                "r": 423.8249918619792,
+                "t": 480.3028971354167
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Limba și literatura română (alolingvi) – probă orală"
+            },
+            {
+              "bbox": {
+                "b": 498.4107666015625,
+                "coord_origin": "TOPLEFT",
+                "l": 437.2124837239583,
+                "r": 521.4749755859375,
+                "t": 481.4838460286458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "12 mai (marți)"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 512.5821533203125,
+                "coord_origin": "TOPLEFT",
+                "l": 102.91874694824219,
+                "r": 119.0625,
+                "t": 496.0488688151042
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 512.5821533203125,
+                "coord_origin": "TOPLEFT",
+                "l": 129.69375101725262,
+                "r": 200.96249389648438,
+                "t": 496.836181640625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Matematică"
+            },
+            {
+              "bbox": {
+                "b": 515.3376871744792,
+                "coord_origin": "TOPLEFT",
+                "l": 435.6374918619792,
+                "r": 504.9375,
+                "t": 496.836181640625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "14 mai (joi)"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 528.7217610677083,
+                "coord_origin": "TOPLEFT",
+                "l": 102.91874694824219,
+                "r": 119.0625,
+                "t": 512.9757893880208
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 529.5090738932292,
+                "coord_origin": "TOPLEFT",
+                "l": 129.69375101725262,
+                "r": 237.9749959309896,
+                "t": 512.9757893880208
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Limba de instruire"
+            },
+            {
+              "bbox": {
+                "b": 531.477294921875,
+                "coord_origin": "TOPLEFT",
+                "l": 435.6374918619792,
+                "r": 519.5062255859375,
+                "t": 514.15673828125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "19 mai (marți)"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 545.648681640625,
+                "coord_origin": "TOPLEFT",
+                "l": 103.70624796549478,
+                "r": 119.0625,
+                "t": 529.5090738932292
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4."
+            },
+            {
+              "bbox": {
+                "b": 548.0105794270834,
+                "coord_origin": "TOPLEFT",
+                "l": 129.2999979654948,
+                "r": 405.3187255859375,
+                "t": 529.1153971354167
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Limba și literatura maternă (ucraineană/bulgară)"
+            },
+            {
+              "bbox": {
+                "b": 548.7978515625,
+                "coord_origin": "TOPLEFT",
+                "l": 434.8499755859375,
+                "r": 504.5437418619792,
+                "t": 530.2963460286458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "21 mai (joi)"
+            }
+          ]
+        ],
+        "num_cols": 3,
+        "num_rows": 5,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 471.6426188151042,
+              "coord_origin": "TOPLEFT",
+              "l": 92.6812489827474,
+              "r": 128.11874898274738,
+              "t": 457.4712727864583
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr. d/0"
+          },
+          {
+            "bbox": {
+              "b": 475.9727783203125,
+              "coord_origin": "TOPLEFT",
+              "l": 229.3125,
+              "r": 333.65625,
+              "t": 459.0458577473958
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Proba de evaluare"
+          },
+          {
+            "bbox": {
+              "b": 477.54736328125,
+              "coord_origin": "TOPLEFT",
+              "l": 463.59375,
+              "r": 495.4875081380208,
+              "t": 459.8331705729167
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Data"
+          },
+          {
+            "bbox": {
+              "b": 495.2615966796875,
+              "coord_origin": "TOPLEFT",
+              "l": 104.4937489827474,
+              "r": 118.66874694824219,
+              "t": 480.3028971354167
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1."
+          },
+          {
+            "bbox": {
+              "b": 497.6234537760417,
+              "coord_origin": "TOPLEFT",
+              "l": 129.69375101725262,
+              "r": 423.8249918619792,
+              "t": 480.3028971354167
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Limba și literatura română (alolingvi) – probă orală"
+          },
+          {
+            "bbox": {
+              "b": 498.4107666015625,
+              "coord_origin": "TOPLEFT",
+              "l": 437.2124837239583,
+              "r": 521.4749755859375,
+              "t": 481.4838460286458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "12 mai (marți)"
+          },
+          {
+            "bbox": {
+              "b": 512.5821533203125,
+              "coord_origin": "TOPLEFT",
+              "l": 102.91874694824219,
+              "r": 119.0625,
+              "t": 496.0488688151042
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 512.5821533203125,
+              "coord_origin": "TOPLEFT",
+              "l": 129.69375101725262,
+              "r": 200.96249389648438,
+              "t": 496.836181640625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Matematică"
+          },
+          {
+            "bbox": {
+              "b": 515.3376871744792,
+              "coord_origin": "TOPLEFT",
+              "l": 435.6374918619792,
+              "r": 504.9375,
+              "t": 496.836181640625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "14 mai (joi)"
+          },
+          {
+            "bbox": {
+              "b": 528.7217610677083,
+              "coord_origin": "TOPLEFT",
+              "l": 102.91874694824219,
+              "r": 119.0625,
+              "t": 512.9757893880208
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 529.5090738932292,
+              "coord_origin": "TOPLEFT",
+              "l": 129.69375101725262,
+              "r": 237.9749959309896,
+              "t": 512.9757893880208
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Limba de instruire"
+          },
+          {
+            "bbox": {
+              "b": 531.477294921875,
+              "coord_origin": "TOPLEFT",
+              "l": 435.6374918619792,
+              "r": 519.5062255859375,
+              "t": 514.15673828125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "19 mai (marți)"
+          },
+          {
+            "bbox": {
+              "b": 545.648681640625,
+              "coord_origin": "TOPLEFT",
+              "l": 103.70624796549478,
+              "r": 119.0625,
+              "t": 529.5090738932292
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4."
+          },
+          {
+            "bbox": {
+              "b": 548.0105794270834,
+              "coord_origin": "TOPLEFT",
+              "l": 129.2999979654948,
+              "r": 405.3187255859375,
+              "t": 529.1153971354167
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Limba și literatura maternă (ucraineană/bulgară)"
+          },
+          {
+            "bbox": {
+              "b": 548.7978515625,
+              "coord_origin": "TOPLEFT",
+              "l": 434.8499755859375,
+              "r": 504.5437418619792,
+              "t": 530.2963460286458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "21 mai (joi)"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 292.6934145548455,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.54688077059659,
+            "r": 545.3887795928031,
+            "t": 383.2444664090369
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 683.843066813151,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 176.5499979654948,
+            "r": 465.1687418619792,
+            "t": 730.6873203531901
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "06042601/17/455",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 640.5416650390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.9562505086263,
+            "r": 293.4937540690104,
+            "t": 672.8208907063803
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "06042601/17/455"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 616.1354150390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 280.10624186197913,
+            "r": 344.28749593098956,
+            "t": 630.7004378255209
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref.: Organizarea și desfăşurarea testării naționale în învățământulprimar, anulşcolar 2025-2026",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 553.9388411458333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.2312494913737,
+            "r": 313.96875,
+            "t": 600.7830997721354
+          },
+          "charspan": [
+            0,
+            96
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Ref.: Organizarea și desfăşurarea testării naționale în învățământulprimar, anulşcolar 2025-2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Întru realizarea prevederilor Metodologiei de organizare și desfăşurare a testării naționale în învățământul primar\", aprobată prin Ordinul MECC nr.1572 din 23.10.2018, modificatăprin Ordinele nr.1811/2024, nr. 2081/2025și în scopul asigurării condițiilor optime pentru desfăşurarea și susținerea eficientă a testării naționale de către toți candidații,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 455.92020507812504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.26874987284343,
+            "r": 556.125,
+            "t": 539.7674747721355
+          },
+          "charspan": [
+            0,
+            353
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Întru realizarea prevederilor Metodologiei de organizare și desfăşurare a testării naționale în învățământul primar\", aprobată prin Ordinul MECC nr.1572 din 23.10.2018, modificatăprin Ordinele nr.1811/2024, nr. 2081/2025și în scopul asigurării condițiilor optime pentru desfăşurarea și susținerea eficientă a testării naționale de către toți candidații,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează testarea națională a elevilor din clasa a IV-a în conformitate cu orarul aprobat prin ordinulMEC nr.1782 din 17.10.2025 cu privire la examenele de absolvire, anul de studii2025-2026:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 394.1172672526042,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.66249974568684,
+            "r": 554.9437255859375,
+            "t": 441.74881835937504
+          },
+          "charspan": [
+            0,
+            200
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Se organizează testarea națională a elevilor din clasa a IV-a în conformitate cu orarul aprobat prin ordinulMEC nr.1782 din 17.10.2025 cu privire la examenele de absolvire, anul de studii2025-2026:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 440.9615055338542,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 288.375,
+            "r": 348.61875406901044,
+            "t": 458.28210286458335
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Direcția managementul curricular (S. Axînti, șef) va:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 266.1812727864584,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.4437484741211,
+            "r": 396.2624918619792,
+            "t": 285.07645507812504
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Direcția managementul curricular (S. Axînti, șef) va:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. primi, în varianta electronică, de la Agenția Națională pentru Curriculum și Evaluare testele și baremele de corectare și le va transmite către instituțiile de învățământ din subordine;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 187.45145507812504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.26874987284343,
+            "r": 554.15625,
+            "t": 236.6575911458334
+          },
+          "charspan": [
+            0,
+            190
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "primi, în varianta electronică, de la Agenția Națională pentru Curriculum și Evaluare testele și baremele de corectare și le va transmite către instituțiile de învățământ din subordine;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. monitoriza organizarea și desfăşurarea testării naționale în învățământul primar;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 235.0830061848959,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.26874987284343,
+            "r": 553.7624918619792,
+            "t": 268.54317057291667
+          },
+          "charspan": [
+            0,
+            86
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "monitoriza organizarea și desfăşurarea testării naționale în învățământul primar;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.3.",
+      "orig": "2.3. acumula și va sistematiza datele din centralizatoarele parvenite de la instituțiile de învățământ și le va transmite, în următoarele trei zile de la susținerea probei, punctajele cumulative (numărul de elevi cu același număr de puncte) Agenției Naționale pentru Curriculum și Evaluare;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 122.89302408854167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.875,
+            "r": 553.7624918619792,
+            "t": 188.2387679036459
+          },
+          "charspan": [
+            0,
+            290
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "acumula și va sistematiza datele din centralizatoarele parvenite de la instituțiile de învățământ și le va transmite, în următoarele trei zile de la susținerea probei, punctajele cumulative (numărul de elevi cu același număr de puncte) Agenției Naționale pentru Curriculum și Evaluare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.5.",
+      "orig": "2.5. elabora și vor transmite Agenției Naționale pentru Curriculum și Evaluare până la 30 iunie 2026 raportul final, în conformitate cu Anexa nr.2 la Metodologie.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 41.013955078125036,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.875,
+            "r": 553.7624918619792,
+            "t": 76.04870442708341
+          },
+          "charspan": [
+            0,
+            162
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "elabora și vor transmite Agenției Naționale pentru Curriculum și Evaluare până la 30 iunie 2026 raportul final, în conformitate cu Anexa nr.2 la Metodologie."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.4.",
+      "orig": "2.4. analiza modul de desfăşurare a testării naționale în instituțiile de învățământ din subordine și rezultatele acestora ca indicatori de impact a calității procesului educațional;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 75.26143229166667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.26874987284343,
+            "r": 553.7624918619792,
+            "t": 124.07393229166667
+          },
+          "charspan": [
+            0,
+            182
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "analiza modul de desfăşurare a testării naționale în instituțiile de învățământ din subordine și rezultatele acestora ca indicatori de impact a calității procesului educațional;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Directorii instituțiilor de învățământ vor:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 785.9106072998047,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.25,
+            "r": 335.625,
+            "t": 802.989738108317
+          },
+          "charspan": [
+            0,
+            46
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Directorii instituțiilor de învățământ vor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. aduce, contra semnătură, la cunoştința cadrelor didactice și părinților prevederile metodologei;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 721.7689803059897,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.375,
+            "r": 554.625,
+            "t": 754.4090966796875
+          },
+          "charspan": [
+            0,
+            101
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "aduce, contra semnătură, la cunoştința cadrelor didactice și părinților prevederile metodologei;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. organiza și vor desfăşura, în conformitate cu prevederile metodologiei, testarea națională în instituția de învățământ respectivă;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 753.6500227864584,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.375,
+            "r": 555.0,
+            "t": 786.2901417032878
+          },
+          "charspan": [
+            0,
+            135
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "organiza și vor desfăşura, în conformitate cu prevederile metodologiei, testarea națională în instituția de învățământ respectivă;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.3.",
+      "orig": "3.3. explica tuturor persoanelor implicate modalitatea de organizare și desfáşurare a testării naționaleîn învățământul primar;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 687.990253092448,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 555.0,
+            "t": 722.5280440266928
+          },
+          "charspan": [
+            0,
+            127
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "explica tuturor persoanelor implicate modalitatea de organizare și desfáşurare a testării naționaleîn învățământul primar;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.5.",
+      "orig": "3.5. constitui și vor aproba, prin ordin scris, comisia şcolară de evaluare din care fac parte învățători/profesori la disciplină, cu excepția învățătorului de la clasa datăși lista asistenților;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 608.6671736653647,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 555.0,
+            "t": 656.8682743326823
+          },
+          "charspan": [
+            0,
+            195
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "constitui și vor aproba, prin ordin scris, comisia şcolară de evaluare din care fac parte învățători/profesori la disciplină, cu excepția învățătorului de la clasa datăși lista asistenților;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.4.",
+      "orig": "3.4. primi, în varianta electronică, de la DGETS testele și baremele pentru testarea națională, vor multiplica numărul necesar de teste și vor asigura securitatea acestora;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 654.2115157063803,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.375,
+            "r": 555.375,
+            "t": 689.1288537597657
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "primi, în varianta electronică, de la DGETS testele și baremele pentru testarea națională, vor multiplica numărul necesar de teste și vor asigura securitatea acestora;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.6.",
+      "orig": "3.6. instrui cadrele didactice desemnate în calitate de asistenți și vor asigura prezența și repartizarea acestora în sălile unde se desfăşoară testarea, prin tragerea la sorți, în ziua probei de la testarea națională;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 559.7069889322917,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.625,
+            "r": 555.0,
+            "t": 609.8057845052084
+          },
+          "charspan": [
+            0,
+            218
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "instrui cadrele didactice desemnate în calitate de asistenți și vor asigura prezența și repartizarea acestora în sălile unde se desfăşoară testarea, prin tragerea la sorți, în ziua probei de la testarea națională;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.8.",
+      "orig": "3.8. aproba lista elevilor care participă la testarea națională, pe clase, în ordine alfabetică;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 498.2221053059896,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 554.25,
+            "t": 530.1031681315105
+          },
+          "charspan": [
+            0,
+            96
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "aproba lista elevilor care participă la testarea națională, pe clase, în ordine alfabetică;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.7.",
+      "orig": "3.7. preîntâmpina, sub orice formă, modalitate, acumulările de bani pentru organizarea și desfăşurarea testării naționale în învățământul primar;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 527.0668725585938,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 554.25,
+            "t": 561.6046736653647
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "preîntâmpina, sub orice formă, modalitate, acumulările de bani pentru organizarea și desfăşurarea testării naționale în învățământul primar;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.9.",
+      "orig": "3.9. acumula șivor transmite punctajele cumulative (numărul de elevi cu același număr de puncte) în format electronic la adresa de e-mail tdemcenco@gmail.com în ziua următoare fiecărei probei de testare;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 442.80981282552085,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.625,
+            "r": 553.875,
+            "t": 496.7039575195313
+          },
+          "charspan": [
+            0,
+            203
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "acumula șivor transmite punctajele cumulative (numărul de elevi cu același număr de puncte) în format electronic la adresa de e-mail tdemcenco@gmail.com în ziua următoare fiecărei probei de testare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.10.",
+      "orig": "3.10. analiza rezultatele finale ale elevilor din învățământul primar, elaborând, în conformitate cu Anexa nr.1 la Metodologie, raportul final cu privire la organizareași desfășurarea testării naționale pe care îl vor prezinta (varianta scrisă confirmată prin semnătura directorului și ștampila instituției de învățământ) până la 27 mai 2026 la DGETS, direcției managementul curricular, în bir. nr.4 (T. Demcenco).",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 352.4801822916667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.25,
+            "r": 554.625,
+            "t": 442.80981282552085
+          },
+          "charspan": [
+            0,
+            414
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "analiza rezultatele finale ale elevilor din învățământul primar, elaborând, în conformitate cu Anexa nr.1 la Metodologie, raportul final cu privire la organizareași desfășurarea testării naționale pe care îl vor prezinta (varianta scrisă confirmată prin semnătura directorului și ștampila instituției de învățământ) până la 27 mai 2026 la DGETS, direcției managementul curricular, în bir. nr.4 (T. Demcenco)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Asistenții vor:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 336.53967122395835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.125,
+            "r": 178.875,
+            "t": 352.4801822916667
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Asistenții vor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.1.",
+      "orig": "4.1. asigura desfăşurarea regulamentară a testării naționale în sala în care au fost repartizați;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 299.72464843750004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.875,
+            "r": 554.25,
+            "t": 334.64196614583335
+          },
+          "charspan": [
+            0,
+            97
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "asigura desfăşurarea regulamentară a testării naționale în sala în care au fost repartizați;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2.",
+      "orig": "4.2. verifica aranjarea elevilor în bănci, conform ordinii stabilite prin listele aprobate de către administrația instituției de învățământ;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 263.28914225260417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.625,
+            "r": 553.5,
+            "t": 299.3450911458333
+          },
+          "charspan": [
+            0,
+            140
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "verifica aranjarea elevilor în bănci, conform ordinii stabilite prin listele aprobate de către administrația instituției de învățământ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.",
+      "orig": "4.3. primi, sub semnătură, de la administrația instituției de învățământ testele și maculatoarele (o foaie A4, documentată cu ștampila instituției respective) și le vor repartiza elevilor o singură dată înainte de începutul probei;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 208.63594401041667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.25,
+            "r": 553.875,
+            "t": 262.90962565104167
+          },
+          "charspan": [
+            0,
+            231
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "primi, sub semnătură, de la administrația instituției de învățământ testele și maculatoarele (o foaie A4, documentată cu ștampila instituției respective) și le vor repartiza elevilor o singură dată înainte de începutul probei;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.5.",
+      "orig": "4.5. închide, prin dublă îndoire, colțul drept de sus al foii de titlu al testului, lipindu-l, ulterior, cu o bandă adezivă transparentă;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 137.66263671875004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 552.75,
+            "t": 173.33906901041667
+          },
+          "charspan": [
+            0,
+            137
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "închide, prin dublă îndoire, colțul drept de sus al foii de titlu al testului, lipindu-l, ulterior, cu o bandă adezivă transparentă;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.4.",
+      "orig": "4.4. asigura securitatea subiectelor din testele elevilor, din momentul primirii până la predarea lor Preşedintelui Comisiei școlare de evaluare;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 172.95951171875004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.25,
+            "r": 553.875,
+            "t": 209.01546061197917
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "asigura securitatea subiectelor din testele elevilor, din momentul primirii până la predarea lor Preşedintelui Comisiei școlare de evaluare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.6.",
+      "orig": "4.6. fixa, pe tablă, ora de început și de sfârșit a timpului rezervat pentru realizarea subiectelor din test;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 103.12487630208341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.625,
+            "r": 553.5,
+            "t": 137.28312011718754
+          },
+          "charspan": [
+            0,
+            109
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "fixa, pe tablă, ora de început și de sfârșit a timpului rezervat pentru realizarea subiectelor din test;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.7.",
+      "orig": "4.7. închide prin Z\"spațiile libere pe toate paginile din test, la predare probei de către elev, în prezența lui;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 67.06888671875004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.625,
+            "r": 553.5,
+            "t": 101.60672851562504
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "închide prin Z\"spațiile libere pe toate paginile din test, la predare probei de către elev, în prezența lui;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.8.",
+      "orig": "4.8. preda, subsemnătură, Preşedintelui Comisiei şcolare de evaluare testele scrise, testele neutilizate, prin proces-verbal;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 763.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.0,
+            "r": 559.6666666666667,
+            "t": 800.2933333333334
+          },
+          "charspan": [
+            0,
+            125
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "preda, subsemnătură, Preşedintelui Comisiei şcolare de evaluare testele scrise, testele neutilizate, prin proces-verbal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.1.",
+      "orig": "5.1. asigura instruirea învățătorilor/ profesorilor-evaluatori cu privire la aplicarea baremului de corectare;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 710.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.0,
+            "r": 559.0,
+            "t": 746.6266666666667
+          },
+          "charspan": [
+            0,
+            110
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "asigura instruirea învățătorilor/ profesorilor-evaluatori cu privire la aplicarea baremului de corectare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Preşedintele Comisiei şcolare de evaluare va:",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 744.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.33333333333333,
+            "r": 358.3333333333333,
+            "t": 764.2933333333334
+          },
+          "charspan": [
+            0,
+            48
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Preşedintele Comisiei şcolare de evaluare va:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.2.",
+      "orig": "5.2. codifica și va transmite spre verificare învățătorilor/profesorilor evaluatori testele scrise ale elevilor;",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 673.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.0,
+            "r": 558.6666666666667,
+            "t": 710.6266666666668
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "codifica și va transmite spre verificare învățătorilor/profesorilor evaluatori testele scrise ale elevilor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.3.",
+      "orig": "5.3. asigura respectarea de către învățătorii/profesorii-evaluatori a baremuluide corectare.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 639.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.0,
+            "r": 557.6666666666667,
+            "t": 673.2933333333334
+          },
+          "charspan": [
+            0,
+            92
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "asigura respectarea de către învățătorii/profesorii-evaluatori a baremuluide corectare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Se desemnează responsabili de îndeplinirea prevederilor ordinului dat T. Demcenco, specialist principal, DGETS și directorii instituțiilor de învățământ participante la testare.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 590.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.33333333333333,
+            "r": 557.3333333333333,
+            "t": 639.6266666666667
+          },
+          "charspan": [
+            0,
+            180
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Se desemnează responsabili de îndeplinirea prevederilor ordinului dat T. Demcenco, specialist principal, DGETS și directorii instituțiilor de învățământ participante la testare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Monitorizarea executării prezentului ordin revine V. Crudu, șef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 528.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.66666666666667,
+            "r": 556.0,
+            "t": 561.2933333333334
+          },
+          "charspan": [
+            0,
+            82
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Monitorizarea executării prezentului ordin revine V. Crudu, șef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Controlul realizării prevederilor prezentului ordin revine S. Axînti, şef direcție managementul curricular.",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 559.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.66666666666667,
+            "r": 557.0,
+            "t": 591.96
+          },
+          "charspan": [
+            0,
+            110
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "Controlul realizării prevederilor prezentului ordin revine S. Axînti, şef direcție managementul curricular."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ljunct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 440.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 479.6666666666667,
+            "r": 513.0,
+            "t": 454.96000000000004
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "ljunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "MUNK",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 420.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 474.3333333333333,
+            "r": 485.3333333333333,
+            "t": 442.96000000000004
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "MUNK"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 411.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 482.0,
+            "r": 515.3333333333334,
+            "t": 427.29333333333335
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "ALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "100760",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 371.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 426.6666666666667,
+            "r": 442.3333333333333,
+            "t": 391.96000000000004
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "100760"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "0600",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 380.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 453.0,
+            "r": 473.0,
+            "t": 382.6266666666667
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "0600"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIMA",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 354.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 427.6666666666667,
+            "r": 451.6666666666667,
+            "t": 367.2933333333334
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "PRIMA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "水",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 362.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 468.0,
+            "r": 474.0,
+            "t": 368.96000000000004
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "水"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex.: T. Demcenco, 022 201617",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 99.29333333333341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.66666666666667,
+            "r": 243.0,
+            "t": 114.62666666666667
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "Ex.: T. Demcenco, 022 201617"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str.Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 55.626666666666665,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 160.33333333333331,
+            "r": 459.0,
+            "t": 82.62666666666667
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "Str.Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

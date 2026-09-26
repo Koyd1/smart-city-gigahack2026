@@ -1,0 +1,660 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "245221a1984eaec7ef3869844f32d93bb46b95dc78a251dcca9c69119f8ad893",
+  "origin": {
+    "binary_hash": 14599659616440342675,
+    "filename": "245221a1984eaec7ef3869844f32d93bb46b95dc78a251dcca9c69119f8ad893.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 731.046610747529,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 249.48459620620264,
+            "r": 357.97763997395833,
+            "t": 794.1635083617439
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 609.8216409965814,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 41.59699440696023,
+            "r": 261.07979255445076,
+            "t": 654.9207379375372
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 333.3176114279876,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 347.30964784564395,
+            "r": 553.2110126657196,
+            "t": 458.39988824687873
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 664.7120243326823,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 155.5377909342448,
+            "r": 453.4621988932292,
+            "t": 715.6454858398438
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nr21//4/953sin100626",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 618.6293725585938,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 38.61046473185221,
+            "r": 264.8568318684896,
+            "t": 658.6485172526042
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "Nr21//4/953sin100626"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 524.4428694661458,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 289.28342692057294,
+            "r": 351.75144449869794,
+            "t": 541.0164575195313
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la totalurile Programului dedezvoltare profesională Excelentă și colaborare în www.educatieinteractiva.md\", martie - aprilie 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 435.5114322916667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 47.820494333903,
+            "r": 392.595947265625,
+            "t": 484.8279606119792
+          },
+          "charspan": [
+            0,
+            140
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Cu privire la totalurile Programului dedezvoltare profesională Excelentă și colaborare în www.educatieinteractiva.md\", martie - aprilie 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu prevederilePlanului de activitate al Direcției generale Educație, Tineret și Sport a Consiliului Municipal Chişinău și în vederea implementării prevederilor Strategiei naționale 2030\", în scopul valorificării Programului de verificare și validare a conținuturilor digitale: excelență și colaborare în educație interactivă, Platforma națională Educație Interactivă\"(www.educatieinteractiva.md), gestionată de Primăria Municipiului Chişinău prin intermediul Direcției Generale Educație, Tineret și Sport. În cadrul colaborării academice și metodice, au participat educatori, învățători și profesori din toate ariilecurriculare (învățământ preşcolar, primar, gimnazial, liceal și postliceal/colegiu) prin monitorizare și optimizare a resurselor digitale interactive.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.47916503906254,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 43.81613413492838,
+            "r": 556.374267578125,
+            "t": 392.66263671875004
+          },
+          "charspan": [
+            0,
+            782
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În conformitate cu prevederilePlanului de activitate al Direcției generale Educație, Tineret și Sport a Consiliului Municipal Chişinău și în vederea implementării prevederilor Strategiei naționale 2030\", în scopul valorificării Programului de verificare și validare a conținuturilor digitale: excelență și colaborare în educație interactivă, Platforma națională Educație Interactivă\"(www.educatieinteractiva.md), gestionată de Primăria Municipiului Chişinău prin intermediul Direcției Generale Educație, Tineret și Sport. În cadrul colaborării academice și metodice, au participat educatori, învățători și profesori din toate ariilecurriculare (învățământ preşcolar, primar, gimnazial, liceal și postliceal/colegiu) prin monitorizare și optimizare a resurselor digitale interactive."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 212.7785628255209,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 274.86773681640625,
+            "r": 330.52834065755206,
+            "t": 229.3521712239584
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se consideră activitate desfăşurată de către participanții în cadrul Programului de dezvoltare profesionalăExcelență și colaborare în www.educatieinteractiva.md\", martie - aprilie 2026, drept activitate cu durata de 60 de ore de activitate metodică, în baza Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 111.31587565104167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 59.83357493082683,
+            "r": 543.1598714192709,
+            "t": 204.2896712239584
+          },
+          "charspan": [
+            0,
+            422
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Se consideră activitate desfăşurată de către participanții în cadrul Programului de dezvoltare profesionalăExcelență și colaborare în www.educatieinteractiva.md\", martie - aprilie 2026, drept activitate cu durata de 60 de ore de activitate metodică, în baza Regulamentului de atestare a cadrelor didactice din învățământul general, profesional tehnic și din cadrul serviciilor de asistență psihopedagogică, aprobat prin"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ordinul ministerului educației, culturii și cercetării nr. 1091 din 07.10.2020 şi modificat prin Ordinul ministrului educației și cercetării nr. 1335 din 30.09.2024 (Anexa 1).",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 706.2992130533854,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.53571573893228,
+            "r": 556.9464111328125,
+            "t": 755.867258351644
+          },
+          "charspan": [
+            0,
+            175
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Ordinul ministerului educației, culturii și cercetării nr. 1091 din 07.10.2020 şi modificat prin Ordinul ministrului educației și cercetării nr. 1335 din 30.09.2024 (Anexa 1)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Responsabil de executarea prezentului ordin se desemnează Doamna Munca-Aftenev Daniela, şefă adjunctă a Direcției Generale Educație, Tineret și Sport.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 670.5562727864583,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.45535786946614,
+            "r": 557.28125,
+            "t": 708.6595951334635
+          },
+          "charspan": [
+            0,
+            153
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Responsabil de executarea prezentului ordin se desemnează Doamna Munca-Aftenev Daniela, şefă adjunctă a Direcției Generale Educație, Tineret și Sport."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Andrei PAVALOI Şef adjunct al DGETS",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 374.4967838541667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 414.9821370442708,
+            "r": 555.6071370442708,
+            "t": 406.53055664062504
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Andrei PAVALOI Şef adjunct al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Executor: Ruslana SAVIN, Şefa Serviciul Parteneriate Educaționale și Investiționale",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 161.72513671875004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.36607106526693,
+            "r": 385.5178629557292,
+            "t": 178.2478011067709
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Executor: Ruslana SAVIN, Şefa Serviciul Parteneriate Educaționale și Investiționale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Email: dgets.parteneriate@gmail.com",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 141.15608561197917,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.36607106526693,
+            "r": 202.37053426106772,
+            "t": 155.3183577473959
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Email: dgets.parteneriate@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Tel. de contact: 079791932",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 153.96956217447917,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.700892766316734,
+            "r": 168.55356852213544,
+            "t": 166.44588053385417
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Tel. de contact: 079791932"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, municipiul Chişinău, MD-2704, Republica Moldova,",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 115.19185221354167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 143.10713704427081,
+            "r": 468.8883870442708,
+            "t": 131.71451660156254
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Str. Mitropolit Dosoftei, 99, municipiul Chişinău, MD-2704, Republica Moldova,"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Tel.: (022)201601, www.chisinauedu.dgets.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 104.06432942708341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 141.0982157389323,
+            "r": 456.8347981770833,
+            "t": 120.58699381510417
+          },
+          "charspan": [
+            0,
+            71
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Tel.: (022)201601, www.chisinauedu.dgets.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

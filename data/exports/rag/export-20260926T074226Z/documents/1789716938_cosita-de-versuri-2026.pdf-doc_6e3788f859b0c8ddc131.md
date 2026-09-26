@@ -1,0 +1,482 @@
+---
+document_id: "doc_6e3788f859b0c8ddc131"
+version_id: "ver_6e3788f8_8d250ff7976a"
+title: "1789716938_cosita-de-versuri-2026.pdf"
+source_url: "https://chisinauedu.dgets.md/storage/orders/1789716938_cosita-de-versuri-2026.pdf"
+retrieved_at: "2026-09-26T06:43:01.880317+00:00"
+content_sha256: "8d250ff7976a68d4fad9340476d01520c5928ecd8e6ed5986df36856f3f8e980"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+<!-- image -->
+
+## PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU
+
+## CONSILIUL MUNICIPAL CHIŞINÃU
+
+## DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT
+
+nr. 01/1-7/157 din 17.09.26
+
+## ORDIN
+
+Cu privire la organizarea și realizarea Concursului municipal de creație Cosița de versuri și culori", ediția 2026
+
+În scopul realizării prevederilor Deciziei Consiliului municipal Chișinău nr. 4/3 din 13 iulie 2026Cu privire la aplicarea bugetului municipal Chişinău pentru anul 2026 în lectura adoua", în temeiul Ordinelor DGETS nr. 01/1-7/1059 din 30.07.2026Cu privire la aplicarea Deciziei Consiliului municipal Chișinău nr. 4/3 din 13 iulie2026 Cu privire la aplicarea bugetului municipal Chișinău pentru anul2026în lectura adoua", nr.01/1-7/41 din 16.01.2026 privind aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS (tineret și sport) pentru anul 2026, în conformitate cu Planul de acțiuni al Direcției generale educație, tineret și sport și în scopul bunei organizări și desfăşurări a Concursului municipal de creație Cosița de versuri și culori",
+
+## ORDON:
+
+1. Direcția managementul învățământului extrașcolar, tineret și sport a DGETS (Silvia Butuc-Canațui, şefã) va:
+- 1.2 organiza și realiza în incinta DGETS, expoziția de lucrări ale elevilor învingători în cadrul concursului.
+- 1.1 organiza și desfăşura la data de 27.11.2025, în incinta CCC ,Ghiocel" (Ala Culeac, directoare), Concursul municipal de creație Cosița de versuri și culori", etapa municipală;
+2. Instituțiile de învățământ extraşcolar cu profil estetic: CCC , Ghiocel", (Ala Culeac, directoare), CCC ,,Floarea Soarelui" (Alina Ureche-Iordachi, directoare), CCC Luceafărul" (Veaceslav Levineț, director), CEE Lăstărel"(Viorica Florea, directoare), CAE  Curcubeul" (Elena Negură, directoare) vor:
+- 2.1. organiza și desfáşura etapa de sector a Concursului municipal de
+- 2.2. prezenta oferta comună (2 exemplare) și lucrările elevilor
+7. creație Cosița de versuri și culori", până la data de 23.11.2026;
+8. învingători ai etapei de sector a Concursului municipal de creație
+
+<!-- page: 2 -->
+
+9. Cosița de versuri și culori", până la data de 24.11.2026, la DGETS, biroul 22, conform secțiunilor concursului.
+- 2.1. asigura participarea elevilor la Concursul municipal de creație Cosița de versuri și culori", respectând cerințele Regulamentului aprobat (anexa nr.1);
+3. Conducătorii instituțiilor de învățământ primar, secundar ciclul I și II, și extraşcolar din municipiul Chişinău, vor:
+- 2.2. asigura transmiterea ofertelor de participare (5 exemplare) și a lucrărilor elevilor la Concursul municipal de creație Cosița de versuri și culori", cu 5 zile înainte de data concursului, la instituțiile extraşcolare responsabile pe sector, conform Regulamentului și anexele acestuia.
+5. Direcția managementul economico-financiar și evidența patrimoniului a DGETS (Svetlana Ignatieva, şefã) va asigura finanțarea Concursului municipal de creație Cosița de versuri și culori", conform devizului de cheltuieli (anexa nr.2);
+4. Directoarea CCC Ghiocel", Ala Culeac, vaasigura condițiile necesare pentru desfăşurarea Concursului municipal de creație Cosița de versuri și culori",etapa municipală.
+- 5.1. Finanțarea activității se va efectua din contul bugetului DGETS pentru anul 2026, punctul 5 luna decembrie 2026.
+7. Se desemnează responsabil de îndeplinirea prevederilor prezentului ordin, de executarea actelor la nivel primar, ce țin de partea finaciară a activității, conform legislației în vigoare, în baza contractului de răspundere materială, Meriacre Victoria, specialistă superioară în direcția managementul învățământului extraşcolar, tineret și sport a DGETS.
+6. În termen de 10 zile lucrătoare după finalizarea concursului, Meriacre Victoria, specialistă superioară, va prezenta raportul financiar în direcția managementul economico-financiar și evidența patrimoniului a DGETS, iar cel analitic privind realizarea Concursului municipal de creație Cosița de versuri și culori", în direcția managementul învățământului extraşcolar, tineret și sport a DGETS.
+8. Controlul realizării prevederilor prezentului ordin revine șefei direcției managementul învățământului extraşcolar, tineret și sport a DGETS, Silvia Butuc-Canațui.
+9. Monitorizarea realizării prevederilor prezentului ordin revine dlui Crudu Valentin, şef adjunct al DGETS.
+
+<!-- image -->
+
+Şef adjunct
+
+PAVALOI
+
+<!-- image -->
+
+<!-- page: 3 -->
+
+REGULAMENTUL
+
+la ordinul nr.
+
+Anexă nr.1
+
+din
+
+2026
+
+Aprobat:
+
+djunct al DGETS
+
+Andrei PAVALOI
+
+Concursului municipal de creație a copiilor șl tinerilor COSITA DE VERSURI ŞI CULORI", ediția 2026
+
+<!-- image -->
+
+## I. Noțiuni generale
+
+La concurs participă elevii din instituțiile de învățământ primar, secundar ciclul I, II și extraşcolar din municipiul Chişinău, aflate în subordinea DGETS.
+
+Concursul municipal de creație Cosița de versuri și culori" se organizează de către Direcția generală educație, tineret și sport a Consiliului municipal Chișinău și se desfăşoară în luna Decembrie.
+
+## II.Obiectivele concursului
+
+- Promovarea diversității tehnicilor artistice;
+- Dezvoltarea creativității și a expresivității artistice;
+- Stimularea curiozității elevilor și lărgirea orizontului de lectură;
+- Susținerea și promovarea tinerelor talente.
+
+## III. Modul de organizare și desfăşurare a concursului
+
+## I- etapa locală/instituțională;
+
+Concursul municipal de creație Cosița de versuri și culori" este destinat elevilor din instituțiile de învățământ primar, secundar ciclul I, II și extraşcolar din municipiul Chişinău și se desfăşoară în 3 etape:
+
+II - etapa de sector, organizată de către instituțiile de învățământ extrașcolar cu profil estetic, până la data de 23.11.2026.
+
+La etapa a II-a participă deținătorii Premiului Mare conform procesului verbal întocmit în urma desfăşurării etapei I, conform secțiunilor concursului.
+
+<!-- page: 4 -->
+
+NOTÀ: Institutiile de învătământ cu profil prezintă dublu lucrări (cerc+profil)!
+
+Institutiile de învătământ primar si Institutiile de învățământ extraşcolar prezintă până la 9 lucrări la sectiune.
+
+III – etapa municipală, organizată de DGETS, la data de 27.11.2026. La etapa a III-a participă deținătorii Premiului Mare și a Locului I (unu), conform procesului verbal întocmit în urma desfășurării etapei a II-a, conform secțiunilor concursului.
+
+Pentru etapa de sector, ofertele de participare (5 exemplare) la Concursul de creație Cosița de versuri și culori", cât și lucrările elevilor, se vor prezenta instituțiilor extraşcolare responsabile cu 5 zile înainte.
+
+creație ale elevilor, conform proceselor verbale, se vor prezenta la DGETS, (str. MitropolitDosoftei, 99, biroul nr. 22) până la data de 24.11.2026.
+
+Pentru etapa municipală, oferta comună pe sector (2 exemplare) și lucrările de
+
+## IV. Condiții de participare
+
+conform următoarelor 3secțiuni:
+
+Concursul municipal de creație Cosita de versuri și culori" se realizează
+
+## Sectiunea I: Versuri și culori
+
+La secțiunea dată, elevii vor vor prezenta o lucrare plastică în tehnica preferată în care va reda conținutul prezentat în versurile propuse (anexă).
+
+Lucrările prezentate în concurs la etapa municipală nu se restituie.
+
+Participă elevii pasionați de artele plastice, conform categoriilor: I -IV, V-VIII, IX-XII. Lucrarea se execută în formatul A4 (clasele I-IV), A3(clasele V-XII), A3 (clasele cu profil), tehnica de execuție la alegere și va conține eticheta (jos, în colțul lucrării) cu următoarea informație: titlul lucrării, autorul lucrării, clasa, instituția de învățământ, cadrul didactic coordonato, profil/cerc. Lucrarea va fi însoțită de versurile alese, scrise sau lipite pe verso.
+
+## Sectiunea II: Creatie plastică
+
+La proba dată, elevii vor prezenta o lucrare plastică în tehnica preferată cu subiectul Bucurii de Crăciun".
+
+IX-XII. Lucrarea se execută în formatul A4 (clasele I-IV), A3 (clasele V-XII), A3
+
+Participă elevii pasionați de artele plastice, conform categoriilor: I -IV, V-VIII,
+
+<!-- page: 5 -->
+
+(clasele cu profil), tehnica de execuție la alegere și va conține eticheta (jos, în colțul lucrării)cu următoarea informație: titlul lucrării, autorul lucrării, clasa, instituția de învățământ, cadrul didactic coordonator, profil/cerc.
+
+Lucrările prezentate în concurs la etapa municipală nu se restituie.
+
+## Sectiunea III: Ilustratie de copertă a cărtii preferate/Design copertă de carte
+
+cititorul prin mesajul ilustrației, astfel la proba dată, elevii vor prezenta o ilustrație de copertă a cărții preferate.
+
+O copertă bine realizată din punct de vedere al design-ului este menită să atragă
+
+Participă elevii pasionați de artele plastice și design, conform categoriilor: I — IV, V-VIII, IX-XII. Lucrarea se execută în tehnica de execuție la alegere, în formatul A4 și/sau A3(profil) și va conține eticheta (jos, în colțul lucrării) cu următoarea informație: titlul lucrării, autorul lucrării, clasa, instituția de învățământ, cadrul didactic coordonator, profil/cerc.
+
+- Lucrarea trebuie să fie creație proprie și să nu conțină nici un material publicat anterior;
+
+## Restricții de conținut:
+
+- Lucrarea nu trebuie să conțină materiale inadecvate, indecente, obscene, defaimătoare sau altfel inacceptabile.
+- Lucrările prezentate în concurs la etapa municipală nu se restituie.
+
+## V. Criterii de apreciere
+
+Membrii juriului de specialitate vor aprecia:
+
+- Respectarea tematicii própuse;
+- Creativitatea și originalitatea abordăriitehnice;
+- Organizarea compoziției în foaie;
+- Expresivitatea și impactul emoțional;
+- Estetica generală a lucrării.
+- Respectarea formatului stabilit;
+
+## VI. Jurizare
+
+2. Notele oferite de juriu pot fi de la 0 până la 10 puncte (10 puncte = punctaj
+1. Juriul concursului va fi alcătuit din profesori de specialitate, conform sectiunilor.
+3. maxim) pentru fiecare criteriu de apreciere. Clasamentul concursului reprezintă ordinea ierarhică a punctajului obținut de către fiecare concurent. Punctajul
+
+<!-- page: 6 -->
+
+fiecărui concurent reprezintă media aritmetică a notelor acordate de juriu. În cazul în care nivelul unor concurenți este prea scăzut sau în anumite categorii de vârstă se înscriu prea puțini concurenți, juriul își rezervă dreptul de a nu acorda unele premii sau de a le redistribui de la o categorie de vârstă la alta. În caur r   ts ut r rl  r  eaa acestora se va face în funcție de nota acordată de preşedintele juriului. Dacă acest criteriu nu este suficient, departajarea se va face prin Decizia directă a Preşedintelui juriului.
+
+4. Membrii juriului păstrează confidențialitatea notelor și clasamentelor rezultate din jurizare. Rezultatele jurizării se fac publice doar în momentul decernării premiilor.
+3. Membrul juriului care regăseşte în lista concurenților elevi de a căror formare se ocupă, se abține de la notare. Concurentul va primi media notelor celorlalți membri aijuriului.
+5. Juriului i se permite să intervină cu modificări privind modalitatea de repartizare a premiilor, menținând suma indicată în devizul de cheltuieli.
+6. Deciziile juriului din concurs sunt irevocabile și nu pot fi contestate.
+
+## VII. Premii
+
+1. Premierea învingătorilor se va efectua în temeiul deciziei juriului, conform categoriilor de vârstă pentru participanții la concurs, unde se vor acorda diplome și
+
+Premierea învingătorilor concursului:
+
+- premii băneşti, după cum urmează:
+
+## Sectiunea I: Versuri și culori
+
+Categoria V-VIII
+
+## Categoria I-IV
+
+Locul I - 300 lei x 3
+
+Premiul Mare -350 lei x 2
+
+Locul II - 250 lei x 3
+
+Mențiuni cu premii băneşti – 100 lei x 3
+
+Locul III - 200 lei x 3
+
+## Categoria V-VIII
+
+Locul I - 300 lei x 3
+
+Premiul Mare -350 lei x 2
+
+Locul II - 250 lei x 3
+
+Mențiuni cu premii băneşti – 100 lei x 3
+
+Locul III - 200 lei x 3
+
+Categoria IX-XII
+
+PremiulMare -350 lei x 2
+
+Locul II − 250 lei x 3
+
+Locul I- 300 lei x 3
+
+Locul III − 200 lei x 3
+
+Clase cu profil
+
+Mențiuni cu premii băneşti – 100 lei x 3
+
+Categoria I-IV
+
+Locul I - 300 lei x 3
+
+Premiul Mare - 350 lei x 2
+
+Locul II −250 lei x 3
+
+Mențiuni cu premii băneşti – 100 lei x 3
+
+Locul III − 200 lei x 3
+
+<!-- page: 7 -->
+
+Premiul Mare -350 lei x 2
+
+Locul II-250 lei x 3
+
+Locul I - 300 lei x 3
+
+Locul III – 200 lei x 3
+
+Mențiuni cu premii bănești - 100 lei x 3
+
+## Categoria IX-XII
+
+Locul I- 300 lei x 3
+
+Premiul Mare - 350 lei x 2
+
+Locul II – 250 lei x 3
+
+Mențiuni cu premii bănești - 100 lei x 3
+
+Locul III – 200 lei x 3
+
+## Sectiunea II: Creatie plastică
+
+## Categoria I-IV
+
+Locul I -300 lei x 3
+
+Premiul Mare - 350 lei x 2
+
+Locul II - 250 lei x 3
+
+Mențiuni cu premii băneşti – 100 lei x 3
+
+Locul III − 200 lei x 3
+
+## Categoria V-VIII
+
+Locul I - 300 lei x 3
+
+Premiul Mare – 350 lei x 2
+
+Locul II – 250 lei x 3
+
+Mențiuni cu premii bănești – 100 lei x 3
+
+Locul III - 200 lei x 3
+
+## Categoria IX-XII
+
+Locul I - 300 lei x 3
+
+Premiul Mare – 350 lei x 2
+
+Locul II - 250 lei x 3
+
+Mențiuni cu premii băneşti – 100 lei x 3
+
+Locul III - 200 lei x 3
+
+## Clase cu profil
+
+Premiul Mare - 350 lei x 2
+
+## Categoria I-IV
+
+Locul I − 300 lei x 3
+
+Locul III - 200 lei x 3
+
+Locul II - 250 lei x 3
+
+Mențiuni cu premii bănești – 100 lei x 3
+
+## Categoria V-VIII
+
+Locul I - 300 lei x 3
+
+Premiul Mare - 350 lei x 2
+
+Locul II − 250 lei x 3
+
+Mențiuni cu premii bănești – 100 lei x 3
+
+Locul III− 200 lei x 3
+
+## Categoria IX-XII
+
+Locul I- 300 lei x 3
+
+Premiul Mare - 350 lei x 2
+
+Locul II − 250 lei x 3
+
+Mențiuni cu premii bănești –100 lei x 3
+
+Locul III − 200 lei x 3
+
+## Sectiunea III: Ilustratie de copertă a cărtii preferate/Design copertă de carte
+
+## Categoria I-IV
+
+Locul I - 300 lei x 3
+
+Premiul Mare – 350lei x 2
+
+Locul II - 250 lei x 3
+
+Mențiuni cu premii băneşti – 100 lei x 4
+
+Locul III – 200 lei x 3
+
+Premiul Mare –350 lei x 2.
+
+Locul II-250 lei x3
+
+Locul I - 300 lei x 3
+
+Locul III -200lei x 3
+
+Mențiuni cu premii bănești – 100 lei x 4
+
+## Categoria V-VIII
+
+<!-- page: 8 -->
+
+## Categoria IX-XII
+
+Premiul Mare -350 lei x2
+
+Locul II - 250 lei x 3
+
+Locul I - 300 lei x 3
+
+Locul III - 200 lei x 3
+
+Mențiuni cu premii bănești – 100 lei x 4
+
+## Clase cu profil
+
+Premiul Mare – 350 lei x 2
+
+## Categoria I-IV
+
+Locul I -300 lei x 3
+
+Locul III- 200 lei x 3
+
+Locul II - 250 lei x 3
+
+Mențiuni cu premii băneşti – 100 lei x 4
+
+## Categoria V-VIII
+
+Locul I - 300 lei x 3
+
+Premiul Mare – 350 lei x 2
+
+Locul II − 250 lei x 3
+
+Mențiuni cu premii bănești – 100 lei x 4
+
+Locul III − 200 lei x 3
+
+## Categoria IX-XII
+
+Locul I - 300 lei x 3
+
+Premiul Mare -350 lei x 2
+
+Locul II − 250 lei x 3
+
+Mențiuni cu premii băneşti – 100 lei x 4
+
+Locul III − 200 lei x 3
+
+2. De asemenea, pentru organizarea și realizarea concursului se prevăd și alte cheltuieli (remunerarea juriului, diplome, certificate, materiale de cancelarie, fondul social).
+
+## VIII. Dispoziții finale
+
+2. Regulamentul Concursului municipal de creație Cosița de versuri și culori" va fi publicat pe pagina oficială a DGETS www.chisinauedu.md și va intra în vigoare de la data aprobării.
+1. Participarea la concurs prevede respectarea strictă a condițiilor stipulate în Regulament.
+
+<!-- page: 9 -->
+
+***
+
+O rățuşcă crăcănată Merge legănat la baltă Cu un cârd de rățişoare, Toate mici și gălbioare.
+
+- Mac-mac-mac! Făceți-mi drum, De atâtea ori vă spun, Puii mei pleacă la baltă Să învețe cum se-noată.
+
+Rățişoarele îndată
+
+Huştiuliuc cu capu-n baltă! - M-a-a-a-c, în apă tare-i bine Când mămica-i lângă tine. (Merg rățuştele la baltă" de Emilia Plugaru)
+
+***
+
+Pe malul drept, pe malul stâng – Livezi înfloritoare. Bătrânul Nistru curge lin La vale către mare.
+
+Nu are valuri înspumate, Ca un bătrân ce este, Domol şopteşte ani la rând A neamului poveste.
+
+(Bătrânul Nistru..." de Emilia Plugaru)
+
+la Regulamentul Concursului municipal de creație Cosița de versuri și culori" Sectiunea I: Versuri si culori Nimica n-are ca pădurea mai multe farmece s-atragă Un suflet ce iubeşte taina frunzişelor cu umbră dragă Şi nicăieri nu poți mai bine de lumea-ntreagă să te pierzi Decât pe-ngustele potece sub bolțile cu frunze verzi.
+
+<!-- page: 10 -->
+
+Frumos e muntele ce-nalță spre ceruri fruntea lui semeață, Frumos e câmpul ce se-ntinde ca și o mare de verdeață, Frumoasă, marea liniştită sau cu talazul răzvrătit, Însă nimica cu pădurea nu poate fi asemuit.
+
+Ea n-are-n sânul ei castele, dar soarele când o izbește O populează cu fantasme, și cântu-o face de vorbeşte, Ş-aci zăreşti palate-nalte, ş-aci, când ele se desfac, Ridică vocea orice frunză și-n om se schimbă-orice copac.
+
+(Pădurea" de Alexandru Macedonski)
+
+***
+
+Linişte. Căldură. Soare. Sălciile plângătoare Stau în aer, dormitând.
+
+Un vițel în râu s-adapă Şi-o femeie, lângă apă, Spală rufele, cântând.
+
+Şi din vale abia vine Murmur slab, ca de albine, Râul, strălucind în soare, Ceartă sălciile, care
+
+Somnoros și uniform: Toată ziulica dorm.
+
+Sub o salcie bătrână Şicu-o carte groasă-n mână Care-mi ține de urât, M-am culcat în fân pe spate, Somnul lin, pe nechemate, A venit numaidecât. (Zi de vară"de George Topârceanu)

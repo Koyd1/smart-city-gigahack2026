@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "b8647882a717b28dc02a9a27725d915e15b8e55d915cac292a76f1ddee421a0d",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1768480766_ilovepdf-merged-2.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "2352604",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 07:28:50 GMT",
+    "Etag": "\"6968dffe-23e5dc\"",
+    "Last-Modified": "Thu, 15 Jan 2026 12:39:26 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/b8647882a717b28dc02a9a27725d915e15b8e55d915cac292a76f1ddee421a0d.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1768480766_ilovepdf-merged-2.pdf",
+  "retrieved_at": "2026-09-26T07:28:51.193192+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

@@ -1,0 +1,4979 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/texts/38"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/texts/40"
+      },
+      {
+        "$ref": "#/texts/41"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/49"
+      },
+      {
+        "$ref": "#/texts/50"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/52"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/texts/54"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/56"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/72"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/76"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/80"
+      },
+      {
+        "$ref": "#/texts/81"
+      },
+      {
+        "$ref": "#/texts/82"
+      },
+      {
+        "$ref": "#/groups/10"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/98"
+      },
+      {
+        "$ref": "#/texts/99"
+      },
+      {
+        "$ref": "#/texts/100"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/texts/114"
+      },
+      {
+        "$ref": "#/texts/115"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/groups/14"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/groups/15"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/groups/16"
+      },
+      {
+        "$ref": "#/groups/17"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/pictures/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/pictures/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/42"
+        },
+        {
+          "$ref": "#/texts/43"
+        },
+        {
+          "$ref": "#/texts/44"
+        },
+        {
+          "$ref": "#/texts/45"
+        },
+        {
+          "$ref": "#/texts/46"
+        },
+        {
+          "$ref": "#/texts/47"
+        },
+        {
+          "$ref": "#/texts/48"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/51"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/55"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/57"
+        },
+        {
+          "$ref": "#/texts/58"
+        },
+        {
+          "$ref": "#/texts/59"
+        },
+        {
+          "$ref": "#/texts/60"
+        },
+        {
+          "$ref": "#/texts/61"
+        },
+        {
+          "$ref": "#/texts/62"
+        },
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        },
+        {
+          "$ref": "#/texts/69"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/71"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/7"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        },
+        {
+          "$ref": "#/texts/75"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/8"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/77"
+        },
+        {
+          "$ref": "#/texts/78"
+        },
+        {
+          "$ref": "#/texts/79"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/9"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/83"
+        },
+        {
+          "$ref": "#/texts/84"
+        },
+        {
+          "$ref": "#/texts/85"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/10"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/11"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/12"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        },
+        {
+          "$ref": "#/texts/103"
+        },
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        },
+        {
+          "$ref": "#/texts/106"
+        },
+        {
+          "$ref": "#/texts/107"
+        },
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        },
+        {
+          "$ref": "#/texts/111"
+        },
+        {
+          "$ref": "#/texts/112"
+        },
+        {
+          "$ref": "#/texts/113"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/13"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/117"
+        },
+        {
+          "$ref": "#/texts/118"
+        },
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/14"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        },
+        {
+          "$ref": "#/texts/125"
+        },
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        },
+        {
+          "$ref": "#/texts/128"
+        },
+        {
+          "$ref": "#/texts/129"
+        },
+        {
+          "$ref": "#/texts/130"
+        },
+        {
+          "$ref": "#/texts/131"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/15"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        },
+        {
+          "$ref": "#/texts/137"
+        },
+        {
+          "$ref": "#/texts/138"
+        },
+        {
+          "$ref": "#/texts/139"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/16"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/17"
+    }
+  ],
+  "key_value_items": [],
+  "name": "685c4a2c3cd88771dbe9310a3bc9f70e2baee429829c0fde80db381b28922408",
+  "origin": {
+    "binary_hash": 9285076746050348040,
+    "filename": "685c4a2c3cd88771dbe9310a3bc9f70e2baee429829c0fde80db381b28922408.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "5": {
+      "page_no": 5,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "6": {
+      "page_no": 6,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "7": {
+      "page_no": 7,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "8": {
+      "page_no": 8,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 745.7904773312091,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 260.3834940222538,
+            "r": 373.0963464725379,
+            "t": 817.9320521195239
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 656.682708573313,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.20699988162879,
+            "r": 300.3303456439394,
+            "t": 679.0551490738333
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 150.1574085909632,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 412.26033469460225,
+            "r": 440.29113606770835,
+            "t": 211.32820507580266
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 42.34429938317487,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 313.6548123816288,
+            "r": 428.79882694128787,
+            "t": 155.14557465071346
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 582.2556609040578,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 369.62719844933713,
+            "r": 483.97280450994316,
+            "t": 697.0746624646998
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/140"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/140"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 293.84729033516646,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 275.18477568655305,
+            "r": 337.88288618607953,
+            "t": 382.4864458234245
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 8
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 593.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.33333333333333,
+            "r": 229.0,
+            "t": 609.6266666666667
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Cu privire la organizarea"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIN NOIINJINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 748.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 291.66666666666663,
+            "r": 343.6666666666667,
+            "t": 754.96
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "PRIN NOIINJINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIÀ GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 698.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 184.0,
+            "r": 473.0,
+            "t": 744.2933333333334
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIÀ GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01/1-7/500 din 17.04.26",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 656.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.0,
+            "r": 295.33333333333337,
+            "t": 680.2933333333334
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "01/1-7/500 din 17.04.26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 660.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.66666666666667,
+            "r": 106.33333333333333,
+            "t": 672.2933333333334
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 625.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 284.33333333333337,
+            "r": 346.3333333333333,
+            "t": 641.2933333333334
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Festivalului Portului Popular al Elevilor PORT cu drag și cu mândrIE\", ediția a II-a",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 560.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.0,
+            "r": 345.0,
+            "t": 594.6266666666667
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Festivalului Portului Popular al Elevilor PORT cu drag și cu mândrIE\", ediția a II-a"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul Dispoziției Primarului General nr. 435-d din 29 decembrie 2025 Cu privire la apliċarea bugetului municipal provizoriu pe anul 2026\" și a Ordinului DGETS nr. 01/1-7/41 din 16.01.2026 Cu privire la aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS pentru anul 2026\" a Ordinului DGETS nr. 01/1-7/275 din 03.03.2025 Cu privire la aprobarea Regulamentului privind modul de acordare a premiilor elevilor/sportivilor, angajaților pentru performanțe în domeniu\", în conformitate cu Planul de acțiuni al Direcției generale educație, tineret și sport și în scopul bunei organizări și desfăşurări a Festivalului Portului Popular al Elevilor PORT cu drag și cu mândrIE\", ediția a II-a,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 354.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.66666666666667,
+            "r": 540.3333333333333,
+            "t": 533.96
+          },
+          "charspan": [
+            0,
+            736
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "În temeiul Dispoziției Primarului General nr. 435-d din 29 decembrie 2025 Cu privire la apliċarea bugetului municipal provizoriu pe anul 2026\" și a Ordinului DGETS nr. 01/1-7/41 din 16.01.2026 Cu privire la aprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS pentru anul 2026\" a Ordinului DGETS nr. 01/1-7/275 din 03.03.2025 Cu privire la aprobarea Regulamentului privind modul de acordare a premiilor elevilor/sportivilor, angajaților pentru performanțe în domeniu\", în conformitate cu Planul de acțiuni al Direcției generale educație, tineret și sport și în scopul bunei organizări și desfăşurări a Festivalului Portului Popular al Elevilor PORT cu drag și cu mândrIE\", ediția a II-a,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 322.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 303.33333333333337,
+            "r": 360.3333333333333,
+            "t": 337.62666666666667
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Direcția managementul învățământului extrașcolar, tineret și sport a DGETS (Silvia Butuc-Canațui, şefă), va:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 268.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.0,
+            "r": 541.0,
+            "t": 305.2933333333334
+          },
+          "charspan": [
+            0,
+            111
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Direcția managementul învățământului extrașcolar, tineret și sport a DGETS (Silvia Butuc-Canațui, şefă), va:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.1.",
+      "orig": "1.1. organiza Festivalul Portului Popular al Elevilor PORT cu drag și cu mândrIE\", ediția a II-a, la data de 24.05.2026, în Parcul Alunelul;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 232.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.0,
+            "r": 539.3333333333333,
+            "t": 267.96000000000004
+          },
+          "charspan": [
+            0,
+            140
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "organiza Festivalul Portului Popular al Elevilor PORT cu drag și cu mândrIE\", ediția a II-a, la data de 24.05.2026, în Parcul Alunelul;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2.",
+      "orig": "1.2. iniția şedințe de lucru cu instituțiile participante în vederea monitorizării procesului de organizare a evenimentului;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 197.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.33333333333333,
+            "r": 538.3333333333333,
+            "t": 232.2933333333334
+          },
+          "charspan": [
+            0,
+            124
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "iniția şedințe de lucru cu instituțiile participante în vederea monitorizării procesului de organizare a evenimentului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.3.",
+      "orig": "1.3. identifica și coordona procesul de lucru cu prestatorii de servicii angajați pentru realizarea evenimentului;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 162.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.66666666666667,
+            "r": 538.3333333333333,
+            "t": 197.62666666666667
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "identifica și coordona procesul de lucru cu prestatorii de servicii angajați pentru realizarea evenimentului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.4.",
+      "orig": "1.4. organiza Expoziția-concurs Casa Mare - Fereastra spre Rădăcini\" (anexa nr.1);",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 127.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.0,
+            "r": 539.6666666666667,
+            "t": 160.96000000000004
+          },
+          "charspan": [
+            0,
+            82
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "organiza Expoziția-concurs Casa Mare - Fereastra spre Rădăcini\" (anexa nr.1);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Conducătorii instituțiilor de învățământ primar, secundar, ciclul I și II și extraşcolar din municiul Chişinău, vor:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 91.29333333333341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 539.6666666666667,
+            "t": 127.96000000000004
+          },
+          "charspan": [
+            0,
+            119
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Conducătorii instituțiilor de învățământ primar, secundar, ciclul I și II și extraşcolar din municiul Chişinău, vor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. aduce la cunoştință cadrelor didactice și elevilor prevederile prezentului ordin și anexele acestuia;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 55.960000000000036,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.0,
+            "r": 538.3333333333333,
+            "t": 89.62666666666667
+          },
+          "charspan": [
+            0,
+            106
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "aduce la cunoştință cadrelor didactice și elevilor prevederile prezentului ordin și anexele acestuia;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. asigura participarea elevilor la Festivalul Portului Popular al Elevilor PORT cu drag și cu mândrIE\";",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 782.5920571899414,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.74070994059245,
+            "r": 541.8505045572917,
+            "t": 816.9660482025147
+          },
+          "charspan": [
+            0,
+            106
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "asigura participarea elevilor la Festivalul Portului Popular al Elevilor PORT cu drag și cu mândrIE\";"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.3.",
+      "orig": "2.3. asigura organizarea și amenajarea expozițiilor tematice și a Expozițieiconcurs Casa Mare – Fereastra spre Rădăcini\", în concordanță cu specificul evenimentului, conform Regulamentului aprobat (anexa nr.1);",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 727.4337854003907,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.94510142008464,
+            "r": 540.6571044921875,
+            "t": 781.3929630533854
+          },
+          "charspan": [
+            0,
+            210
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "asigura organizarea și amenajarea expozițiilor tematice și a Expozițieiconcurs Casa Mare – Fereastra spre Rădăcini\", în concordanță cu specificul evenimentului, conform Regulamentului aprobat (anexa nr.1);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.4.",
+      "orig": "2.4. pregăti și asigura prezentarea momentelor artistice (muzicale și coregrafice) în cadrul programului de concert, cu respectarea tematicii, a duratei stabilite și a cerințelor organizatorice (participanții în programul de concert vor fi selectați de către organizatori în baza reușitelor acestora la diverse activități/concursuri);",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 656.6873152669272,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.94510142008464,
+            "r": 541.4527180989583,
+            "t": 727.4337854003907
+          },
+          "charspan": [
+            0,
+            334
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "pregăti și asigura prezentarea momentelor artistice (muzicale și coregrafice) în cadrul programului de concert, cu respectarea tematicii, a duratei stabilite și a cerințelor organizatorice (participanții în programul de concert vor fi selectați de către organizatori în baza reușitelor acestora la diverse activități/concursuri);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.5.",
+      "orig": "2.5. prezenta/expedia ofertele de participare la Expoziția-concurs nominalizată în punctul 2.3, secțiunea a II-a conform Regulamentului, până la data de 15.05.2026, la adresa de e-mail a responsabilului de activitate meriacredgets@gmail.com;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 603.5275455729167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.94510142008464,
+            "r": 540.6571044921875,
+            "t": 656.6873152669272
+          },
+          "charspan": [
+            0,
+            241
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "prezenta/expedia ofertele de participare la Expoziția-concurs nominalizată în punctul 2.3, secțiunea a II-a conform Regulamentului, până la data de 15.05.2026, la adresa de e-mail a responsabilului de activitate meriacredgets@gmail.com;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.6.",
+      "orig": "2.6. prezenta/expedia ofertele de participare la Parada Portului Popular, până la data de 15.05.2026, la adresa de e-mail a responsabilului de activitate meriacredgets@gmail.com;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 551.1671533203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.94510142008464,
+            "r": 540.6571044921875,
+            "t": 602.7281477864584
+          },
+          "charspan": [
+            0,
+            178
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "prezenta/expedia ofertele de participare la Parada Portului Popular, până la data de 15.05.2026, la adresa de e-mail a responsabilului de activitate meriacredgets@gmail.com;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.7.",
+      "orig": "2.7. prezenta/expedia ofertele de participare pentru expoziții tematice, până la data de 15.05.2026, la: adresa de e-mail a responsabilului de activitate meriacredgets@gmail.com;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 497.607684733073,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.1494935353597,
+            "r": 540.6571044921875,
+            "t": 549.5683577473958
+          },
+          "charspan": [
+            0,
+            178
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "prezenta/expedia ofertele de participare pentru expoziții tematice, până la data de 15.05.2026, la: adresa de e-mail a responsabilului de activitate meriacredgets@gmail.com;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.8.",
+      "orig": "2.8. întreprinde acțiunile necesare pentru asigurarea securității elevilor în cadrul Festivalului Portului Popular al Elevilor PORT cu drag și cu mândrIE\", ediția a II-a.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 445.24731282552085,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.95608139038086,
+            "r": 540.6571044921875,
+            "t": 496.4085880533855
+          },
+          "charspan": [
+            0,
+            170
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "întreprinde acțiunile necesare pentru asigurarea securității elevilor în cadrul Festivalului Portului Popular al Elevilor PORT cu drag și cu mândrIE\", ediția a II-a."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. monitoriza desfăşurarèa Paradei Portului Popular cu participarea colectivelor de elevi din instituțiile de învățământ primar, secundar, ciclul I și II și extraşcolar din sectoare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 319.7422672526043,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.75168927510579,
+            "r": 539.8614908854167,
+            "t": 372.10265950520835
+          },
+          "charspan": [
+            0,
+            184
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "monitoriza desfăşurarèa Paradei Portului Popular cu participarea colectivelor de elevi din instituțiile de învățământ primar, secundar, ciclul I și II și extraşcolar din sectoare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Conducătorii instituțiilor de învățământ extraşcolar (CCC , Ghiocel\", director Ala Culeac, CCC Floarea Soarelui\", director Alina Ureche-Iordachi, CCC Luceafărul\", director Veaceslav Levineț, CEE Lăstărel\", director Viorica Florea, CAE ,, Curcubeul\", director Elena Negură), vor:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 371.7029606119792,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.96706072489421,
+            "r": 540.2593180338542,
+            "t": 446.44640950520835
+          },
+          "charspan": [
+            0,
+            281
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Conducătorii instituțiilor de învățământ extraşcolar (CCC , Ghiocel\", director Ala Culeac, CCC Floarea Soarelui\", director Alina Ureche-Iordachi, CCC Luceafărul\", director Veaceslav Levineț, CEE Lăstărel\", director Viorica Florea, CAE ,, Curcubeul\", director Elena Negură), vor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. organiza și desfăşura ateliere de creație și master class-uri tematice cu și pentru elevi;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 284.1691878255209,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.35388501485188,
+            "r": 539.4637044270833,
+            "t": 318.5431705729168
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "organiza și desfăşura ateliere de creație și master class-uri tematice cu și pentru elevi;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Se desemnează responsabili de îndeplinirea prevederilor prezentului ordin, Direcția managementul învățământului extraşcolar, tineret și sport a DGETS şi directorii instituțiilor de învățământ primar, secundar, ciclul I și II, și extraşcolar.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 228.21150553385417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.35388501485188,
+            "r": 539.4637044270833,
+            "t": 282.57039225260417
+          },
+          "charspan": [
+            0,
+            244
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Se desemnează responsabili de îndeplinirea prevederilor prezentului ordin, Direcția managementul învățământului extraşcolar, tineret și sport a DGETS şi directorii instituțiilor de învățământ primar, secundar, ciclul I și II, și extraşcolar."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct al DGETS Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 114.29772786458341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 411.37078857421875,
+            "r": 537.4746907552083,
+            "t": 159.86323893229167
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Şef adjunct al DGETS Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul realizării prevederilor prezentului ordin revine dlui Crudu Valentin, şef adjunct al DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 195.83601725260417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.5363171895345,
+            "r": 537.4746907552083,
+            "t": 229.41060221354167
+          },
+          "charspan": [
+            0,
+            104
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Controlul realizării prevederilor prezentului ordin revine dlui Crudu Valentin, şef adjunct al DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex. Victoria Meriacre. Tel.022-232333",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 76.72611328125004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.95608139038086,
+            "r": 162.34543863932294,
+            "t": 99.50890950520841
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Ex. Victoria Meriacre. Tel.022-232333"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, munichgo Moldova, Tel.: (022) 201601, wiww.chisinauedu.md, e-mankdgetsh .com 41414",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 43.551227213541665,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 180.24662272135419,
+            "r": 445.1841227213542,
+            "t": 65.13488606770841
+          },
+          "charspan": [
+            0,
+            121
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, munichgo Moldova, Tel.: (022) 201601, wiww.chisinauedu.md, e-mankdgetsh .com 41414"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la ordinul",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 746.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 304.6666666666667,
+            "r": 361.66666666666663,
+            "t": 762.6266666666667
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "la ordinul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "600 din 17.04-26",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 744.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 370.66666666666663,
+            "r": 519.3333333333333,
+            "t": 763.6266666666667
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "600 din 17.04-26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Casa Mare – Fereastra spre Rădăcini Anexa nr.2",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 577.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 189.66666666666666,
+            "r": 411.66666666666663,
+            "t": 595.2933333333334
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 3
+        },
+        {
+          "bbox": {
+            "b": 762.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 478.6666666666667,
+            "r": 542.0,
+            "t": 775.96
+          },
+          "charspan": [
+            36,
+            46
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Casa Mare – Fereastra spre Rădăcini Anexa nr.2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Aprobat: Şef adjunct al DGETS",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 698.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 417.0,
+            "r": 542.0,
+            "t": 729.96
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Aprobat: Şef adjunct al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ei PAVALOI",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 669.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 470.3333333333333,
+            "r": 542.0,
+            "t": 681.96
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "ei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Regulamentul Expozitiei-concursrRmMA",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 589.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 204.66666666666666,
+            "r": 424.66666666666663,
+            "t": 618.6266666666667
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Regulamentul Expozitiei-concursrRmMA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "I. Noțiuni g i generale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 503.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 246.33333333333334,
+            "r": 362.6666666666667,
+            "t": 526.96
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "I. Noțiuni g i generale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Expoziția-concurs ,Casa Mare - Fereastra spre Rădăcini\", este organizată de către Direcția generală educație, tineret și sport a Consiliului municipal Chişinău și se desfáşoară, anual, în luna mai în cadrul Festivalului Portului Popular al Elevilor PORT cu drag și cu mândrIE\".",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 418.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.33333333333333,
+            "r": 542.0,
+            "t": 487.29333333333335
+          },
+          "charspan": [
+            0,
+            277
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Expoziția-concurs ,Casa Mare - Fereastra spre Rădăcini\", este organizată de către Direcția generală educație, tineret și sport a Consiliului municipal Chişinău și se desfáşoară, anual, în luna mai în cadrul Festivalului Portului Popular al Elevilor PORT cu drag și cu mândrIE\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "La concurs participă instituțiile de învățământ primar, secundar (ciclul I și ciclul II) și extraşcolar din municipiul Chişinău, aflate în subordinea DGETS.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 381.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.66666666666667,
+            "r": 542.0,
+            "t": 415.6266666666667
+          },
+          "charspan": [
+            0,
+            156
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "La concurs participă instituțiile de învățământ primar, secundar (ciclul I și ciclul II) și extraşcolar din municipiul Chişinău, aflate în subordinea DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Expoziția-concurs Casa Mare - Fereastra spre Rădăcini\" își propune să valorifice patrioniul cultural tradițional prin lucrări artistice care evocă elemente specifice ,Casei Mari\" — spațiul simbolic din gospodăria tradițională românească, păstrat pentru oaspeți, sărbători și evenimente importante.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 309.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.66666666666667,
+            "r": 542.0,
+            "t": 379.96000000000004
+          },
+          "charspan": [
+            0,
+            297
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "Expoziția-concurs Casa Mare - Fereastra spre Rădăcini\" își propune să valorifice patrioniul cultural tradițional prin lucrări artistice care evocă elemente specifice ,Casei Mari\" — spațiul simbolic din gospodăria tradițională românească, păstrat pentru oaspeți, sărbători și evenimente importante."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "II. Obiectivele expoziției-concurs",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 273.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 225.33333333333334,
+            "r": 419.6666666666667,
+            "t": 290.2933333333334
+          },
+          "charspan": [
+            0,
+            34
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "II. Obiectivele expoziției-concurs"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Promovarea valorilor culturale tradiționale prin evidențierea simbolurilor și a esteticii specifice Casei Mari\"din gospodăria românească.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 238.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.33333333333333,
+            "r": 543.3333333333333,
+            "t": 273.2933333333334
+          },
+          "charspan": [
+            0,
+            139
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Promovarea valorilor culturale tradiționale prin evidențierea simbolurilor și a esteticii specifice Casei Mari\"din gospodăria românească."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Dezvoltarea creativității și expresivității artistice a elevilor prin realizarea de lucrări inspirate din universul portului popular.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 190.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.0,
+            "r": 542.0,
+            "t": 225.62666666666667
+          },
+          "charspan": [
+            0,
+            135
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "Dezvoltarea creativității și expresivității artistice a elevilor prin realizarea de lucrări inspirate din universul portului popular."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Cultivarea respectului pentru moştenirea culturală și identitatea națională, prin redescoperirea elementelor autentice de patrimoniu.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 142.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.33333333333333,
+            "r": 542.3333333333333,
+            "t": 177.96000000000004
+          },
+          "charspan": [
+            0,
+            135
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "Cultivarea respectului pentru moştenirea culturală și identitatea națională, prin redescoperirea elementelor autentice de patrimoniu."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Stimularea colaborării între cadre didactice și elevi în activități eduçative nonformale, interdisciplinare.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 95.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.33333333333333,
+            "r": 542.0,
+            "t": 129.96000000000004
+          },
+          "charspan": [
+            0,
+            110
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "Stimularea colaborării între cadre didactice și elevi în activități eduçative nonformale, interdisciplinare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Valorificarea talentului artistic al copiilor și tinerilor prin integrarea tradiției în creația plastică.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 744.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.66666666666667,
+            "r": 551.0,
+            "t": 778.2933333333334
+          },
+          "charspan": [
+            0,
+            107
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "Valorificarea talentului artistic al copiilor și tinerilor prin integrarea tradiției în creația plastică."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Îmbunătățirea gustului estetic și a capacității de analiză vizuală prin contactul direct cu obiecte, motive și simboluri tradiționale.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 696.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.66666666666667,
+            "r": 552.0,
+            "t": 732.6266666666667
+          },
+          "charspan": [
+            0,
+            136
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "Îmbunătățirea gustului estetic și a capacității de analiză vizuală prin contactul direct cu obiecte, motive și simboluri tradiționale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "-",
+      "orig": "- Crearea unui spațiu de reflecție și dialog între generații, prin evocarea atmosferei din Casa Mare\"și a rostului acesteia în viața comunității.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 648.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.33333333333333,
+            "r": 551.3333333333333,
+            "t": 683.6266666666668
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "Crearea unui spațiu de reflecție și dialog între generații, prin evocarea atmosferei din Casa Mare\"și a rostului acesteia în viața comunității."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "III. Modul de organizare și desfăşurare a expoziției-concurs",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 581.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 239.33333333333334,
+            "r": 476.66666666666663,
+            "t": 621.96
+          },
+          "charspan": [
+            0,
+            60
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "III. Modul de organizare și desfăşurare a expoziției-concurs"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Expoziția-concurs se desfășşoară conform secțiunilor:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 544.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.33333333333333,
+            "r": 405.3333333333333,
+            "t": 565.6266666666668
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "Expoziția-concurs se desfășşoară conform secțiunilor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "II.",
+      "orig": "II. Amenajarea spațiului Casa Mare\"",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 507.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.66666666666667,
+            "r": 324.33333333333337,
+            "t": 528.96
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "Amenajarea spațiului Casa Mare\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "IV. Condiții de e participare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 471.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 234.0,
+            "r": 395.66666666666663,
+            "t": 493.96000000000004
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "IV. Condiții de e participare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "La Expoziția-concurs pot participa elevii din instituțiile de învățământ primar, secundar (ciclul I și II) și extrașcolar la următoarele categorii de vârstă: I-IV, V-VIII, IX-XII.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 404.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.0,
+            "r": 550.3333333333333,
+            "t": 455.29333333333335
+          },
+          "charspan": [
+            0,
+            179
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "La Expoziția-concurs pot participa elevii din instituțiile de învățământ primar, secundar (ciclul I și II) și extrașcolar la următoarele categorii de vârstă: I-IV, V-VIII, IX-XII."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Cerințe secțiunea I Artă și tradiții\":",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 384.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.0,
+            "r": 309.33333333333337,
+            "t": 400.96000000000004
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "Cerințe secțiunea I Artă și tradiții\":"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Fiecare participant poate înscrie în concurs 1 lucrare realizată la subiectul Moldova – tradiții, valori şi port popular\".",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 340.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.0,
+            "r": 551.0,
+            "t": 372.96000000000004
+          },
+          "charspan": [
+            0,
+            124
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "Fiecare participant poate înscrie în concurs 1 lucrare realizată la subiectul Moldova – tradiții, valori şi port popular\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Notă: Lucrările pentru sectiunea dată au fost selectate în baza Concursului municipal ,Belle Arte\",2026.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 304.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.66666666666667,
+            "r": 552.0,
+            "t": 336.29333333333335
+          },
+          "charspan": [
+            0,
+            104
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "Notă: Lucrările pentru sectiunea dată au fost selectate în baza Concursului municipal ,Belle Arte\",2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Lucrările trebuie să fie realizate individual, iar copiile sau lucrările realizate de mai multe persoane nu sunt acceptate.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 264.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.66666666666667,
+            "r": 551.3333333333333,
+            "t": 297.96000000000004
+          },
+          "charspan": [
+            0,
+            125
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "Lucrările trebuie să fie realizate individual, iar copiile sau lucrările realizate de mai multe persoane nu sunt acceptate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Tehnicile acceptate:",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 243.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.0,
+            "r": 223.66666666666666,
+            "t": 260.2933333333334
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "Tehnicile acceptate:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Pictură (acuarelă, guaș, tempera, acril, ulei);",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 220.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 142.66666666666669,
+            "r": 389.6666666666667,
+            "t": 238.2933333333334
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "Pictură (acuarelă, guaș, tempera, acril, ulei);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Colaj;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 189.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 130.66666666666666,
+            "r": 183.66666666666669,
+            "t": 207.96000000000004
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "Colaj;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Desen (creion, cărbune, pastel);",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 205.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 144.33333333333331,
+            "r": 321.66666666666663,
+            "t": 221.62666666666667
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "Desen (creion, cărbune, pastel);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Dimensiunile lucrării: A3",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 172.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 254.0,
+            "t": 188.2933333333333
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "Dimensiunile lucrării: A3"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Lucrarea trebuie să fie prezentată cu passepartout. Acesta trebuie să fie alb sau de o culoare neutră, pentru a pune în valoare lucrare. Dimensiunea exterioară a passepartout-ului nu trebuie să depăşească 5 cm.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 121.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 551.6666666666667,
+            "t": 169.62666666666678
+          },
+          "charspan": [
+            0,
+            212
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "Lucrarea trebuie să fie prezentată cu passepartout. Acesta trebuie să fie alb sau de o culoare neutră, pentru a pune în valoare lucrare. Dimensiunea exterioară a passepartout-ului nu trebuie să depăşească 5 cm."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "I.",
+      "orig": "I. Creație plastică;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 526.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.66666666666667,
+            "r": 221.33333333333334,
+            "t": 546.6266666666668
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "Creație plastică;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Lucrarea trebuie să fie prevăzută cu un sistem de prindere (agățătoare) pentru a putea fi expusă și va fi însoțită de paşaport, cu următoarele date:",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 744.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.0,
+            "r": 552.3333333333333,
+            "t": 776.96
+          },
+          "charspan": [
+            0,
+            148
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "Lucrarea trebuie să fie prevăzută cu un sistem de prindere (agățătoare) pentru a putea fi expusă și va fi însoțită de paşaport, cu următoarele date:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Numele și prenumele elevului;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 723.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 144.0,
+            "r": 317.0,
+            "t": 739.6266666666667
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "Numele și prenumele elevului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Instituția de învățământ;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 692.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 145.66666666666669,
+            "r": 282.33333333333337,
+            "t": 707.96
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "Instituția de învățământ;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Clasa;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 707.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 144.33333333333331,
+            "r": 185.0,
+            "t": 724.6266666666667
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "Clasa;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Profesor coordonator;",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 676.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 145.33333333333331,
+            "r": 270.0,
+            "t": 692.2933333333333
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "Profesor coordonator;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Cerințe secțiunea II Casa Mare\":",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 645.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.33333333333333,
+            "r": 295.0,
+            "t": 660.6266666666668
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "Cerințe secțiunea II Casa Mare\":"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Expoziția va fi amenajată de fiecare instituției participantă, într-un spațiu alocat de organizatori, cu dimensiuni orientative de 2x3m, fiecare echipă având responsabilitatea propriei organizări și decorări.",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 589.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 104.66666666666666,
+            "r": 552.0,
+            "t": 641.96
+          },
+          "charspan": [
+            0,
+            208
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "Expoziția va fi amenajată de fiecare instituției participantă, într-un spațiu alocat de organizatori, cu dimensiuni orientative de 2x3m, fiecare echipă având responsabilitatea propriei organizări și decorări."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Obiecte permise:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 559.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.66666666666667,
+            "r": 190.66666666666669,
+            "t": 574.2933333333334
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "Obiecte permise:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "-Obiecte autentice de patrimoniu familial (perne, covoare, icoane, ștergare, vase ceramice etc.)",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 523.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.66666666666667,
+            "r": 552.3333333333333,
+            "t": 556.96
+          },
+          "charspan": [
+            0,
+            96
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "-Obiecte autentice de patrimoniu familial (perne, covoare, icoane, ștergare, vase ceramice etc.)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "-Reproduceri sau lucräri realizate de elevi (desene, machete, cusături etc.)",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 504.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.0,
+            "r": 482.6666666666667,
+            "t": 521.6266666666668
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "-Reproduceri sau lucräri realizate de elevi (desene, machete, cusături etc.)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "-Elemente etnografice specifice anuinitor zone.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 487.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.0,
+            "r": 337.3333333333333,
+            "t": 502.96000000000004
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "-Elemente etnografice specifice anuinitor zone."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Notă: Obiectele de valoare vor fi expuse sub responsabilitatea instituției.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 468.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.66666666666667,
+            "r": 476.3333333333333,
+            "t": 485.29333333333335
+          },
+          "charspan": [
+            0,
+            75
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "Notă: Obiectele de valoare vor fi expuse sub responsabilitatea instituției."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Fiecare echipă va susține o scurtă prezentare orală (2-3 minute) în fața juriului, explicând simbolistica alegerilor, originea obiectelor și legătura cu tradițiile zonei.",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 406.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.0,
+            "r": 551.6666666666667,
+            "t": 452.6266666666667
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "Fiecare echipă va susține o scurtă prezentare orală (2-3 minute) în fața juriului, explicând simbolistica alegerilor, originea obiectelor și legătura cu tradițiile zonei."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Expoziția va rămâne deschisă pe toată durata evenimentului, iar fiecare echipă trebuie să asigure supravegherea propriei secțiuni pe durata stabilită.",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 369.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 551.3333333333333,
+            "t": 404.96000000000004
+          },
+          "charspan": [
+            0,
+            152
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/78",
+      "text": "Expoziția va rămâne deschisă pe toată durata evenimentului, iar fiecare echipă trebuie să asigure supravegherea propriei secțiuni pe durata stabilită."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Participanții sunt direct răspunzători pentru integritatea obiectelor expuse. Organiżatorii nu își asumă răspunderea pentru pierderi sau deteriorări.",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 334.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.66666666666667,
+            "r": 551.0,
+            "t": 367.29333333333335
+          },
+          "charspan": [
+            0,
+            151
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/79",
+      "text": "Participanții sunt direct răspunzători pentru integritatea obiectelor expuse. Organiżatorii nu își asumă răspunderea pentru pierderi sau deteriorări."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "V. Criterii de apreciere",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 303.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 260.33333333333337,
+            "r": 419.3333333333333,
+            "t": 322.2933333333333
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/80",
+      "text": "V. Criterii de apreciere"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "学",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 724.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 403.0,
+            "r": 410.0,
+            "t": 731.6266666666667
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/81",
+      "text": "学"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Secțiunea I:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 277.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.0,
+            "r": 148.66666666666669,
+            "t": 293.2933333333334
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/82",
+      "text": "Secțiunea I:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Creativitatea și originalitatea ideii;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 260.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.66666666666666,
+            "r": 303.33333333333337,
+            "t": 276.96000000000004
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/83",
+      "text": "Creativitatea și originalitatea ideii;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Calitatea execuției tehnice;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 243.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.0,
+            "r": 262.33333333333337,
+            "t": 260.62666666666667
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/84",
+      "text": "Calitatea execuției tehnice;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Expresivitatea și impactul vizual al lucrării;",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 226.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.33333333333334,
+            "r": 352.0,
+            "t": 243.2933333333334
+          },
+          "charspan": [
+            0,
+            46
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/85",
+      "text": "Expresivitatea și impactul vizual al lucrării;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Secțiunea II:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 195.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.66666666666667,
+            "r": 154.0,
+            "t": 211.2933333333334
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/86",
+      "text": "Secțiunea II:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Compoziția și echilibrul vizual;",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 210.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.0,
+            "r": 286.66666666666663,
+            "t": 226.96000000000004
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/87",
+      "text": "Compoziția și echilibrul vizual;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Prezentarea lucrării.",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 178.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.0,
+            "r": 224.0,
+            "t": 194.62666666666667
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/88",
+      "text": "Prezentarea lucrării."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Autenticitatea și reprezentativitatea obiectelor",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 160.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.33333333333334,
+            "r": 365.3333333333333,
+            "t": 177.96000000000004
+          },
+          "charspan": [
+            0,
+            48
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/89",
+      "text": "Autenticitatea și reprezentativitatea obiectelor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Prezentarea orală și coerența mesajului",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 127.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 109.0,
+            "r": 327.0,
+            "t": 144.62666666666667
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/90",
+      "text": "Prezentarea orală și coerența mesajului"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Creativitatea și armonia amenajării",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 143.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 110.33333333333334,
+            "r": 306.33333333333337,
+            "t": 161.62666666666667
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/91",
+      "text": "Creativitatea și armonia amenajării"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VI. Jurizare",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 761.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 287.0,
+            "r": 374.0,
+            "t": 776.2933333333334
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/92",
+      "text": "VI. Jurizare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Juriul Concursului va fi alcătuit din profesionişti din domeniul artelor plastice și meşteripopulari. 李",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 724.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.33333333333333,
+            "r": 542.0,
+            "t": 759.2933333333334
+          },
+          "charspan": [
+            0,
+            106
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/93",
+      "text": "Juriul Concursului va fi alcătuit din profesionişti din domeniul artelor plastice și meşteripopulari. 李"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Notele oferite de juriu pot fi de la 0 până la 10 puncte (10 puncte = punctaj maxim) pentru fiecare criteriu de apreciere. Clasamentul concursulúi reprezintă ordinea ierarhică a punctajului obținut de către fiecare concurent. Punctajul fiecărui concurent reprezintă media aritmetică a notelor acordate de juriu. În cazul în care nivelul unor concurenți este prea scăzut sau în anumite categorii de vârstă se înscriu prea puțini concurenți, juriul îşi rezervă dreptul de a nu acorda unele premii sau de a le redistribui de la o categorie de vârstă la alta. În caz de egalitate la puncte pentru unul sau mai mulți concurenți, departajarea acestora se va face în funcție de nota acordată de preşedintele juriului. Dacă acest criteriu nu este suficient, departajarea se va face prin Decizia directă a Președintelui juriului.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 527.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.66666666666667,
+            "r": 541.6666666666667,
+            "t": 723.6266666666667
+          },
+          "charspan": [
+            0,
+            823
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/94",
+      "text": "Notele oferite de juriu pot fi de la 0 până la 10 puncte (10 puncte = punctaj maxim) pentru fiecare criteriu de apreciere. Clasamentul concursulúi reprezintă ordinea ierarhică a punctajului obținut de către fiecare concurent. Punctajul fiecărui concurent reprezintă media aritmetică a notelor acordate de juriu. În cazul în care nivelul unor concurenți este prea scăzut sau în anumite categorii de vârstă se înscriu prea puțini concurenți, juriul îşi rezervă dreptul de a nu acorda unele premii sau de a le redistribui de la o categorie de vârstă la alta. În caz de egalitate la puncte pentru unul sau mai mulți concurenți, departajarea acestora se va face în funcție de nota acordată de preşedintele juriului. Dacă acest criteriu nu este suficient, departajarea se va face prin Decizia directă a Președintelui juriului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Membrii juriului pstrează confidențialitatea notelor și clasamentelor rezultate din jurizare. Rezultatele jurizării se fac publice doar în momentul decernării premiilor.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 473.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333333,
+            "r": 541.6666666666667,
+            "t": 525.2933333333333
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/95",
+      "text": "Membrii juriului pstrează confidențialitatea notelor și clasamentelor rezultate din jurizare. Rezultatele jurizării se fac publice doar în momentul decernării premiilor."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Juriului i se permite să intervină cu modificări privind modalitatea de repartizare a premiilor, menținând suma indicată în devizul de cheltuieli.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 438.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 79.66666666666667,
+            "r": 541.6666666666667,
+            "t": 472.29333333333335
+          },
+          "charspan": [
+            0,
+            149
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/96",
+      "text": "Juriului i se permite să intervină cu modificări privind modalitatea de repartizare a premiilor, menținând suma indicată în devizul de cheltuieli."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Deciziile juriului din concurs sunt irevocabile și nu pot fi contestate.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 419.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333333,
+            "r": 473.3333333333333,
+            "t": 435.29333333333335
+          },
+          "charspan": [
+            0,
+            75
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/97",
+      "text": "Deciziile juriului din concurs sunt irevocabile și nu pot fi contestate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VII. Premii",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 366.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 291.66666666666663,
+            "r": 369.0,
+            "t": 381.29333333333335
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/98",
+      "text": "VII. Premii"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Premierea învingătorilor se va efectua în temeiul deciziei juriului, conform categoriilor de vârstă pentru participanții la concurs, unde se vor acorda diplome și premii băneşti, după cum urmează:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 314.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.33333333333333,
+            "r": 542.0,
+            "t": 366.96000000000004
+          },
+          "charspan": [
+            0,
+            196
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/99",
+      "text": "Premierea învingătorilor se va efectua în temeiul deciziei juriului, conform categoriilor de vârstă pentru participanții la concurs, unde se vor acorda diplome și premii băneşti, după cum urmează:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Secțiune I:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 297.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.0,
+            "r": 130.66666666666669,
+            "t": 311.96000000000004
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/100",
+      "text": "Secțiune I:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Categoria I",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 278.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.0,
+            "r": 140.0,
+            "t": 294.62666666666667
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/101",
+      "text": "Categoria I"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Locul I− 250 lei x 3 = 750 lei",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 248.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.66666666666667,
+            "r": 232.66666666666666,
+            "t": 264.2933333333334
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/102",
+      "text": "Locul I− 250 lei x 3 = 750 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Premiul Mare − 300 lei x 2 = 600 lei",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 263.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.33333333333333,
+            "r": 268.33333333333337,
+            "t": 279.62666666666667
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/103",
+      "text": "Premiul Mare − 300 lei x 2 = 600 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Locul II − 200 lei x 5 = 1000 lei",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 232.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.66666666666667,
+            "r": 244.33333333333334,
+            "t": 248.2933333333334
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/104",
+      "text": "Locul II − 200 lei x 5 = 1000 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Locul III − 150 lei x 10 = 1500 lei",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 216.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.33333333333333,
+            "r": 256.0,
+            "t": 233.2933333333334
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/105",
+      "text": "Locul III − 150 lei x 10 = 1500 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Mențiuni cu premii băneşti –100 lei x20 = 2000 lei",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 199.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.0,
+            "r": 354.0,
+            "t": 216.62666666666667
+          },
+          "charspan": [
+            0,
+            50
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/106",
+      "text": "Mențiuni cu premii băneşti –100 lei x20 = 2000 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Premiul Mare − 300 lei x 2 = 600 lei",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 169.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.33333333333333,
+            "r": 268.0,
+            "t": 185.62666666666667
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/107",
+      "text": "Premiul Mare − 300 lei x 2 = 600 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Categoria II",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 185.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.0,
+            "r": 145.0,
+            "t": 200.62666666666667
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/108",
+      "text": "Categoria II"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Locul I − 250 lei x 3 = 750 lei",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 154.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.33333333333333,
+            "r": 232.66666666666666,
+            "t": 169.96000000000004
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/109",
+      "text": "Locul I − 250 lei x 3 = 750 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Locul II − 200 lei x 5 = 1000 lei",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 138.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.33333333333333,
+            "r": 244.0,
+            "t": 153.96000000000004
+          },
+          "charspan": [
+            0,
+            33
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/110",
+      "text": "Locul II − 200 lei x 5 = 1000 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Locul III − 150 lei x 10 = 1500 lei",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 122.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.33333333333333,
+            "r": 255.0,
+            "t": 137.96000000000004
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/111",
+      "text": "Locul III − 150 lei x 10 = 1500 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Mențiuni cu premii băneşti – 100 lei x 20 = 2000 lei",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 105.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 64.66666666666667,
+            "r": 353.3333333333333,
+            "t": 122.96000000000004
+          },
+          "charspan": [
+            0,
+            52
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/112",
+      "text": "Mențiuni cu premii băneşti – 100 lei x 20 = 2000 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Categoria III",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 90.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.66666666666667,
+            "r": 149.33333333333331,
+            "t": 106.62666666666678
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/113",
+      "text": "Categoria III"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Premiul Mare − 300 lei x 2 = 600 lei Locul I − 250 lei x 3 = 750 lei Locul II − 200 lei x 5 = 1000 lei Locul III − 150 lei x 10 = 1500 lei Mențiuni cu premii bănești – 100 lei x 20 = 2000 lei",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 700.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.66666666666667,
+            "r": 358.6666666666667,
+            "t": 778.2933333333334
+          },
+          "charspan": [
+            0,
+            191
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/114",
+      "text": "Premiul Mare − 300 lei x 2 = 600 lei Locul I − 250 lei x 3 = 750 lei Locul II − 200 lei x 5 = 1000 lei Locul III − 150 lei x 10 = 1500 lei Mențiuni cu premii bănești – 100 lei x 20 = 2000 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Secțiune II:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 666.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.33333333333333,
+            "r": 141.66666666666669,
+            "t": 680.96
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/115",
+      "text": "Secțiune II:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Nominații pentru:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 647.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.33333333333333,
+            "r": 179.66666666666669,
+            "t": 663.2933333333333
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/116",
+      "text": "Nominații pentru:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "√Cea mai autentică Casă Mare\" - 1500 lei",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 630.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.0,
+            "r": 337.6666666666667,
+            "t": 646.96
+          },
+          "charspan": [
+            0,
+            40
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/117",
+      "text": "√Cea mai autentică Casă Mare\" - 1500 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "√Cea mai creativă amenajare - 1500 lei",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 611.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.66666666666667,
+            "r": 317.0,
+            "t": 628.6266666666667
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/118",
+      "text": "√Cea mai creativă amenajare - 1500 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "✓Cea mai bogată expoziție de obiecte tradiționale - 1500 lei",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 593.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.0,
+            "r": 429.0,
+            "t": 610.6266666666667
+          },
+          "charspan": [
+            0,
+            60
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/119",
+      "text": "✓Cea mai bogată expoziție de obiecte tradiționale - 1500 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "√Cea mai impresionantă amenajare - 1500 lei",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 575.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.0,
+            "r": 351.3333333333333,
+            "t": 592.6266666666667
+          },
+          "charspan": [
+            0,
+            43
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/120",
+      "text": "√Cea mai impresionantă amenajare - 1500 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "✓Premiul special al juriului - 1500 lei",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 557.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.0,
+            "r": 307.66666666666663,
+            "t": 574.96
+          },
+          "charspan": [
+            0,
+            39
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/121",
+      "text": "✓Premiul special al juriului - 1500 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Mențiuni de participare - 500 lei x 10 = 5000 lei",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 540.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.0,
+            "r": 349.0,
+            "t": 555.96
+          },
+          "charspan": [
+            0,
+            49
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/122",
+      "text": "Mențiuni de participare - 500 lei x 10 = 5000 lei"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Pentru organizareáşi realizarea Expoziției-concurs se prevăd certificate pentru cadrele didactice/mañageriale coordonatoare și alte cheltuieli: remunerarea juriului, diplome, materiale de cancelarie și fondul social, conform devizului de cheltuieli.",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 468.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.0,
+            "r": 546.6666666666667,
+            "t": 520.96
+          },
+          "charspan": [
+            0,
+            252
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/123",
+      "text": "Pentru organizareáşi realizarea Expoziției-concurs se prevăd certificate pentru cadrele didactice/mañageriale coordonatoare și alte cheltuieli: remunerarea juriului, diplome, materiale de cancelarie și fondul social, conform devizului de cheltuieli."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Premierea va avea loc conform Regulamentului privind modul de acordare a premiilor elevilor/sportivilor, angajaților pentru performanțe în doméniu (capitolul III, punctul 7, 8, 9):",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 403.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.0,
+            "r": 547.3333333333333,
+            "t": 450.6266666666667
+          },
+          "charspan": [
+            0,
+            183
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/124",
+      "text": "Premierea va avea loc conform Regulamentului privind modul de acordare a premiilor elevilor/sportivilor, angajaților pentru performanțe în doméniu (capitolul III, punctul 7, 8, 9):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Premiile băneşti vor fi achitate prin sistemul trezorerial la ,Agent de plată\".",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 387.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.66666666666667,
+            "r": 531.0,
+            "t": 403.96000000000004
+          },
+          "charspan": [
+            0,
+            82
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/125",
+      "text": "Premiile băneşti vor fi achitate prin sistemul trezorerial la ,Agent de plată\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.2.",
+      "orig": "7.2. În cazul minorilor care încă nu au obținut buletin de identitate, premiile vor fi transferate la prezentarea buletinului de identitate a părintelui și adeverinței de naştere a minorului, sau altor acte precum stabilirea custodiei, tutorilor, etc.).",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 309.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.33333333333333,
+            "r": 547.0,
+            "t": 357.62666666666667
+          },
+          "charspan": [
+            0,
+            253
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/126",
+      "text": "În cazul minorilor care încă nu au obținut buletin de identitate, premiile vor fi transferate la prezentarea buletinului de identitate a părintelui și adeverinței de naştere a minorului, sau altor acte precum stabilirea custodiei, tutorilor, etc.)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.1.",
+      "orig": "7.1. Sumele vor fi transferate în baza documentelor confirmative: copia buletinului de identitate a premiantului.",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 356.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.66666666666667,
+            "r": 500.0,
+            "t": 387.96000000000004
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/127",
+      "text": "Sumele vor fi transferate în baza documentelor confirmative: copia buletinului de identitate a premiantului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.3.",
+      "orig": "7.3. În cazul concursurilor unde sunt premiate colectivele/echipele, premiile vor fi transferate în baza buletinului de identitate a conducătorului acestora.",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 278.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.66666666666667,
+            "r": 547.0,
+            "t": 310.96000000000004
+          },
+          "charspan": [
+            0,
+            157
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/128",
+      "text": "În cazul concursurilor unde sunt premiate colectivele/echipele, premiile vor fi transferate în baza buletinului de identitate a conducătorului acestora."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.4.",
+      "orig": "7.4. În cazul apariției unor divergențe, sau probleme între părinți din cauza mijloacelor menționate, DGETS nu va purta răspundere pentru acestea.",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 245.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.66666666666667,
+            "r": 548.0,
+            "t": 280.2933333333334
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/129",
+      "text": "În cazul apariției unor divergențe, sau probleme între părinți din cauza mijloacelor menționate, DGETS nu va purta răspundere pentru acestea."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "8.Sumele pot fi transferate în numerar, specialistului responsabil de organizarea și desfăşurarea activității, desemnat prin ordinului DGETS, conform listelor de plată și decontului de avans, după care se vor elibera mijloacele financiare contra semnătura beneficiarilor de premii.",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 171.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.0,
+            "r": 535.3333333333333,
+            "t": 233.96000000000004
+          },
+          "charspan": [
+            0,
+            281
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/130",
+      "text": "8.Sumele pot fi transferate în numerar, specialistului responsabil de organizarea și desfăşurarea activității, desemnat prin ordinului DGETS, conform listelor de plată și decontului de avans, după care se vor elibera mijloacele financiare contra semnătura beneficiarilor de premii."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. DGETS poate oferi, pentru stimularea elevilor și maturilor, bunuri materiale (vouchere cadou, cadouri de preț, etc.) în funcție de specificul concursului.",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 122.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.66666666666667,
+            "r": 547.0,
+            "t": 156.2933333333333
+          },
+          "charspan": [
+            0,
+            157
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/131",
+      "text": "DGETS poate oferi, pentru stimularea elevilor și maturilor, bunuri materiale (vouchere cadou, cadouri de preț, etc.) în funcție de specificul concursului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VII. Dispoziții finale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 739.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 253.66666666666666,
+            "r": 385.0,
+            "t": 763.6266666666667
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/132",
+      "text": "VII. Dispoziții finale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Participarea la Expoziția-concurs ,Casa Mare - Fereastra spre Rădăcini\" prevede respectarea strictă a condițiilor stipulate în Regulament.",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 690.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.66666666666667,
+            "r": 547.6666666666667,
+            "t": 724.6266666666667
+          },
+          "charspan": [
+            0,
+            141
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/133",
+      "text": "Participarea la Expoziția-concurs ,Casa Mare - Fereastra spre Rădăcini\" prevede respectarea strictă a condițiilor stipulate în Regulament."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Completând Oferta de partieipare, participanții sunt de acord cu termeni și condițiile acestui Regulament.",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 654.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.33333333333333,
+            "r": 547.6666666666667,
+            "t": 688.2933333333334
+          },
+          "charspan": [
+            0,
+            109
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/134",
+      "text": "Completând Oferta de partieipare, participanții sunt de acord cu termeni și condițiile acestui Regulament."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Participanții sunt de accord, cą organizatorul să proceseze și să stocheze datele furnizate în oferta de participare în scopuri de promovare și publicitate.",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 617.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.33333333333333,
+            "r": 547.6666666666667,
+            "t": 651.96
+          },
+          "charspan": [
+            0,
+            159
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/135",
+      "text": "Participanții sunt de accord, cą organizatorul să proceseze și să stocheze datele furnizate în oferta de participare în scopuri de promovare și publicitate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. DGETS este în drept să intervină cu anumite modificări/informații suplimentare referitor la desfăşurarea concursului, cu avizarea participanților despre modificările realizate.",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 565.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.0,
+            "r": 547.6666666666667,
+            "t": 615.2933333333333
+          },
+          "charspan": [
+            0,
+            179
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/136",
+      "text": "DGETS este în drept să intervină cu anumite modificări/informații suplimentare referitor la desfăşurarea concursului, cu avizarea participanților despre modificările realizate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Organizatorul este în drept să înregistreze (video, foto) lucrările expuse.",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 546.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.33333333333334,
+            "r": 516.3333333333333,
+            "t": 561.96
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/137",
+      "text": "Organizatorul este în drept să înregistreze (video, foto) lucrările expuse."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Pentru accesibilitate, popularizare și transparență decizională, Regulamentul Expoziției-concurs ,Casa Mare\" se plasează pe site-ul oficial al DGETSwww.chisinauedu.md.",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 498.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.0,
+            "r": 548.0,
+            "t": 545.6266666666667
+          },
+          "charspan": [
+            0,
+            170
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/138",
+      "text": "Pentru accesibilitate, popularizare și transparență decizională, Regulamentul Expoziției-concurs ,Casa Mare\" se plasează pe site-ul oficial al DGETSwww.chisinauedu.md."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "7.Prezentul Regulament intră în vigoare la data aprobării.",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 480.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 104.66666666666666,
+            "r": 448.6666666666667,
+            "t": 499.62666666666667
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/139",
+      "text": "7.Prezentul Regulament intră în vigoare la data aprobării."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Victoria Meriacre, specialistă superioară Tel.022-232333",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 299.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.33333333333333,
+            "r": 267.0,
+            "t": 328.2933333333334
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 8
+        }
+      ],
+      "self_ref": "#/texts/140",
+      "text": "Victoria Meriacre, specialistă superioară Tel.022-232333"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,5420 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/tables/0"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/pictures/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/pictures/4"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "44b0349d0ffb1637f91e4e081ab60d2684c42d8f56ec326353ca2f98c1c134b8",
+  "origin": {
+    "binary_hash": 6037690583575770296,
+    "filename": "44b0349d0ffb1637f91e4e081ab60d2684c42d8f56ec326353ca2f98c1c134b8.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 727.5762100201583,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 229.49554909446022,
+            "r": 340.7882043087121,
+            "t": 801.0647304002397
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 635.84315414592,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.32917110558712,
+            "r": 279.31916252367427,
+            "t": 659.330379268542
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 136.50296772815102,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 184.64961366595645,
+            "r": 224.06800810842802,
+            "t": 167.4502872324614
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.07859950951251,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 355.79035304214017,
+            "r": 543.6336464251893,
+            "t": 189.9412218527051
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 756.9791693877266,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 293.3824177320076,
+            "r": 391.9316424005682,
+            "t": 786.9004680532848
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 181.000005086263,
+                "coord_origin": "TOPLEFT",
+                "l": 41.5593744913737,
+                "r": 63.608123779296875,
+                "t": 165.38710021972656
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "prd"
+            },
+            {
+              "bbox": {
+                "b": 196.25806681315106,
+                "coord_origin": "TOPLEFT",
+                "l": 81.03374735514322,
+                "r": 136.15561930338544,
+                "t": 152.25806681315103
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Numele, prenumele elevului"
+            },
+            {
+              "bbox": {
+                "b": 170.35484313964844,
+                "coord_origin": "TOPLEFT",
+                "l": 155.359375,
+                "r": 187.3656209309896,
+                "t": 152.96774291992188
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Clasa"
+            },
+            {
+              "bbox": {
+                "b": 184.1935526529948,
+                "coord_origin": "TOPLEFT",
+                "l": 201.2350056966146,
+                "r": 240.7093709309896,
+                "t": 153.67742411295572
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "Clasa - mentul"
+            },
+            {
+              "bbox": {
+                "b": 186.67742411295575,
+                "coord_origin": "TOPLEFT",
+                "l": 272.0043741861979,
+                "r": 332.4606119791667,
+                "t": 155.80645243326822
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 0,
+              "text": "Instituția de învățământ"
+            },
+            {
+              "bbox": {
+                "b": 238.83871459960938,
+                "coord_origin": "TOPLEFT",
+                "l": 356.9987386067708,
+                "r": 425.989990234375,
+                "t": 157.2258097330729
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 0,
+              "text": "Numele, prenumele profesorului la disciplina şcolară fizică"
+            },
+            {
+              "bbox": {
+                "b": 255.5161336263021,
+                "coord_origin": "TOPLEFT",
+                "l": 434.5249837239583,
+                "r": 499.6043701171875,
+                "t": 159.00000508626303
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 0,
+              "text": "Numele, prenumele profesorului la disciplina şcolară chimie"
+            },
+            {
+              "bbox": {
+                "b": 258.000010172526,
+                "coord_origin": "TOPLEFT",
+                "l": 505.2943522135417,
+                "r": 569.6624755859375,
+                "t": 160.06451924641928
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 0,
+              "text": "Numele, prenumele profesorului la disciplina şcolară biologie"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 271.8387145996094,
+                "coord_origin": "TOPLEFT",
+                "l": 39.78125,
+                "r": 53.650624593098954,
+                "t": 256.93549601236975
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1."
+            },
+            {
+              "bbox": {
+                "b": 289.2258097330729,
+                "coord_origin": "TOPLEFT",
+                "l": 68.58687337239584,
+                "r": 118.0187479654948,
+                "t": 256.5806579589844
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Cemîrtan Gabriel"
+            },
+            {
+              "bbox": {
+                "b": 281.41937255859375,
+                "coord_origin": "TOPLEFT",
+                "l": 150.38062540690103,
+                "r": 162.47187296549478,
+                "t": 266.8709716796875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "9"
+            },
+            {
+              "bbox": {
+                "b": 288.16129557291663,
+                "coord_origin": "TOPLEFT",
+                "l": 214.0374959309896,
+                "r": 223.9949951171875,
+                "t": 274.67742919921875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": "I"
+            },
+            {
+              "bbox": {
+                "b": 293.1290486653646,
+                "coord_origin": "TOPLEFT",
+                "l": 249.95562744140625,
+                "r": 322.50311279296875,
+                "t": 260.1290384928385
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 1,
+              "text": "IPLT Mircea Eliade\""
+            },
+            {
+              "bbox": {
+                "b": 296.32259114583337,
+                "coord_origin": "TOPLEFT",
+                "l": 355.93186442057294,
+                "r": 397.5399983723958,
+                "t": 261.90323893229163
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 1,
+              "text": "Pîslari Tatiana"
+            },
+            {
+              "bbox": {
+                "b": 296.67742919921875,
+                "coord_origin": "TOPLEFT",
+                "l": 434.5249837239583,
+                "r": 481.8231201171875,
+                "t": 264.3871053059896
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 1,
+              "text": "Cirliciuc Mariana"
+            },
+            {
+              "bbox": {
+                "b": 299.16129557291663,
+                "coord_origin": "TOPLEFT",
+                "l": 505.6499837239583,
+                "r": 573.5743815104166,
+                "t": 282.48388671875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 1,
+              "text": "Mițelea Stela"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 314.06453450520837,
+                "coord_origin": "TOPLEFT",
+                "l": 37.647499084472656,
+                "r": 53.29499816894531,
+                "t": 298.0967814127604
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 322.93548583984375,
+                "coord_origin": "TOPLEFT",
+                "l": 68.94249979654947,
+                "r": 137.578125,
+                "t": 306.6129150390625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Leorda Maria"
+            },
+            {
+              "bbox": {
+                "b": 323.29034423828125,
+                "coord_origin": "TOPLEFT",
+                "l": 150.38062540690103,
+                "r": 161.7606201171875,
+                "t": 308.741943359375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "8"
+            },
+            {
+              "bbox": {
+                "b": 330.3871053059896,
+                "coord_origin": "TOPLEFT",
+                "l": 213.6818644205729,
+                "r": 223.28375244140625,
+                "t": 316.54840087890625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": "I"
+            },
+            {
+              "bbox": {
+                "b": 328.6129150390625,
+                "coord_origin": "TOPLEFT",
+                "l": 249.95562744140625,
+                "r": 349.17498779296875,
+                "t": 310.16129557291663
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 2,
+              "text": "IPLTSpiru Haret\""
+            },
+            {
+              "bbox": {
+                "b": 337.48388671875,
+                "coord_origin": "TOPLEFT",
+                "l": 354.50937906901044,
+                "r": 405.7193603515625,
+                "t": 305.19356282552087
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 2,
+              "text": "Sorocean Iurie"
+            },
+            {
+              "bbox": {
+                "b": 339.2580769856771,
+                "coord_origin": "TOPLEFT",
+                "l": 433.4581298828125,
+                "r": 479.6893717447917,
+                "t": 306.2580769856771
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 2,
+              "text": "Prunici Ludmila"
+            },
+            {
+              "bbox": {
+                "b": 341.3871053059896,
+                "coord_origin": "TOPLEFT",
+                "l": 504.2274983723958,
+                "r": 552.5924886067709,
+                "t": 306.9677530924479
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 2,
+              "text": "Chiselita Stela"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 355.93550618489587,
+                "coord_origin": "TOPLEFT",
+                "l": 36.93625005086263,
+                "r": 52.22812398274739,
+                "t": 339.9677530924479
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 372.6129150390625,
+                "coord_origin": "TOPLEFT",
+                "l": 66.80875142415366,
+                "r": 135.0887451171875,
+                "t": 340.67742919921875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Luchiţa Ana- Maria"
+            },
+            {
+              "bbox": {
+                "b": 364.80645751953125,
+                "coord_origin": "TOPLEFT",
+                "l": 150.02499389648438,
+                "r": 160.33812459309897,
+                "t": 351.32259114583337
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "8"
+            },
+            {
+              "bbox": {
+                "b": 372.96775309244794,
+                "coord_origin": "TOPLEFT",
+                "l": 210.83687337239584,
+                "r": 224.70623779296875,
+                "t": 357.7096964518229
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": "II"
+            },
+            {
+              "bbox": {
+                "b": 376.5161539713542,
+                "coord_origin": "TOPLEFT",
+                "l": 249.2443644205729,
+                "r": 315.74623616536456,
+                "t": 344.2258097330729
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 3,
+              "text": "IPLT Mihai Viteazul\""
+            },
+            {
+              "bbox": {
+                "b": 379.00002034505206,
+                "coord_origin": "TOPLEFT",
+                "l": 354.50937906901044,
+                "r": 403.22998046875,
+                "t": 347.06453450520837
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 3,
+              "text": "Lupaşco Eleonora"
+            },
+            {
+              "bbox": {
+                "b": 381.12904866536456,
+                "coord_origin": "TOPLEFT",
+                "l": 433.1024983723958,
+                "r": 491.7805989583333,
+                "t": 349.19356282552087
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 3,
+              "text": "Ungureanu Zinaida"
+            },
+            {
+              "bbox": {
+                "b": 382.9032389322917,
+                "coord_origin": "TOPLEFT",
+                "l": 503.5162353515625,
+                "r": 565.0393473307291,
+                "t": 349.90323893229163
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 3,
+              "text": "Hristoforov Monica"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 397.4516194661458,
+                "coord_origin": "TOPLEFT",
+                "l": 36.22499974568685,
+                "r": 51.872500101725265,
+                "t": 381.83872477213544
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4."
+            },
+            {
+              "bbox": {
+                "b": 415.1935628255208,
+                "coord_origin": "TOPLEFT",
+                "l": 66.80875142415366,
+                "r": 138.2893778483073,
+                "t": 382.54840087890625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Dumbrăveanu Teodora"
+            },
+            {
+              "bbox": {
+                "b": 407.0322672526042,
+                "coord_origin": "TOPLEFT",
+                "l": 148.60249837239581,
+                "r": 160.33812459309897,
+                "t": 392.48388671875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "9"
+            },
+            {
+              "bbox": {
+                "b": 414.48388671875,
+                "coord_origin": "TOPLEFT",
+                "l": 210.1256306966146,
+                "r": 223.9949951171875,
+                "t": 399.9355061848958
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 4,
+              "text": "II"
+            },
+            {
+              "bbox": {
+                "b": 412.70969645182294,
+                "coord_origin": "TOPLEFT",
+                "l": 248.53312174479166,
+                "r": 347.75250244140625,
+                "t": 393.9032389322917
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 4,
+              "text": "IPLTSpiru Haret\""
+            },
+            {
+              "bbox": {
+                "b": 420.87099202473956,
+                "coord_origin": "TOPLEFT",
+                "l": 353.44248453776044,
+                "r": 404.296875,
+                "t": 388.9355061848958
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 4,
+              "text": "Sorocean Iurie"
+            },
+            {
+              "bbox": {
+                "b": 423.70969645182294,
+                "coord_origin": "TOPLEFT",
+                "l": 432.0356038411458,
+                "r": 472.5768636067708,
+                "t": 389.6451822916667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 4,
+              "text": "Pirojoc Elena"
+            },
+            {
+              "bbox": {
+                "b": 424.7742106119792,
+                "coord_origin": "TOPLEFT",
+                "l": 503.1606038411458,
+                "r": 547.2580973307291,
+                "t": 391.7742106119792
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 4,
+              "text": "Tigǎnaş Odetta"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 439.3225911458333,
+                "coord_origin": "TOPLEFT",
+                "l": 36.58062489827474,
+                "r": 50.80562337239583,
+                "t": 424.0645345052083
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "5."
+            },
+            {
+              "bbox": {
+                "b": 448.9032389322917,
+                "coord_origin": "TOPLEFT",
+                "l": 67.16437276204428,
+                "r": 137.22249348958331,
+                "t": 432.58066813151044
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "Surlari Daniel"
+            },
+            {
+              "bbox": {
+                "b": 448.5484212239583,
+                "coord_origin": "TOPLEFT",
+                "l": 148.95811971028644,
+                "r": 159.27125040690103,
+                "t": 435.0645345052083
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 5,
+              "text": "8"
+            },
+            {
+              "bbox": {
+                "b": 457.0645345052083,
+                "coord_origin": "TOPLEFT",
+                "l": 209.41436767578125,
+                "r": 223.28375244140625,
+                "t": 441.8064778645833
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 5,
+              "text": "II"
+            },
+            {
+              "bbox": {
+                "b": 462.0322672526042,
+                "coord_origin": "TOPLEFT",
+                "l": 248.53312174479166,
+                "r": 337.4393717447917,
+                "t": 426.54840087890625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 5,
+              "text": "IPÎ LT Orizont\", filiala Durleşti"
+            },
+            {
+              "bbox": {
+                "b": 463.4516194661458,
+                "coord_origin": "TOPLEFT",
+                "l": 353.44248453776044,
+                "r": 394.6949869791667,
+                "t": 430.45163981119794
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 5,
+              "text": "Burleai Valeriu"
+            },
+            {
+              "bbox": {
+                "b": 466.2903238932292,
+                "coord_origin": "TOPLEFT",
+                "l": 431.3243815104167,
+                "r": 480.400634765625,
+                "t": 432.58066813151044
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 5,
+              "text": "Bulmaga Petru"
+            },
+            {
+              "bbox": {
+                "b": 467.0,
+                "coord_origin": "TOPLEFT",
+                "l": 501.7381184895833,
+                "r": 574.9968668619791,
+                "t": 434.00002034505206
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 5,
+              "text": "Dede Durmuş Ali"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 481.9032389322917,
+                "coord_origin": "TOPLEFT",
+                "l": 35.15812428792318,
+                "r": 50.4499994913737,
+                "t": 465.9355061848958
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 6,
+              "text": "6."
+            },
+            {
+              "bbox": {
+                "b": 491.1290690104167,
+                "coord_origin": "TOPLEFT",
+                "l": 66.09749857584634,
+                "r": 129.3987528483073,
+                "t": 473.741943359375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 6,
+              "text": "Tiltu Andrei"
+            },
+            {
+              "bbox": {
+                "b": 491.48388671875,
+                "coord_origin": "TOPLEFT",
+                "l": 148.2468770345052,
+                "r": 158.91561889648438,
+                "t": 477.2903238932292
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 6,
+              "text": "8"
+            },
+            {
+              "bbox": {
+                "b": 499.2903238932292,
+                "coord_origin": "TOPLEFT",
+                "l": 208.703125,
+                "r": 222.5724894205729,
+                "t": 484.3871256510417
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 6,
+              "text": "II"
+            },
+            {
+              "bbox": {
+                "b": 503.1935628255208,
+                "coord_origin": "TOPLEFT",
+                "l": 247.1106160481771,
+                "r": 340.28436279296875,
+                "t": 469.48388671875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 6,
+              "text": "IPÎLCI,Prometeu Protalent\""
+            },
+            {
+              "bbox": {
+                "b": 518.8064778645833,
+                "coord_origin": "TOPLEFT",
+                "l": 352.3756103515625,
+                "r": 398.9624837239583,
+                "t": 482.9677734375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 6,
+              "text": "Ciobanu Oleg"
+            },
+            {
+              "bbox": {
+                "b": 508.5161539713542,
+                "coord_origin": "TOPLEFT",
+                "l": 430.6131184895833,
+                "r": 475.7775065104167,
+                "t": 474.0968017578125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 6,
+              "text": "Heghea Victoria"
+            },
+            {
+              "bbox": {
+                "b": 509.225830078125,
+                "coord_origin": "TOPLEFT",
+                "l": 502.8049723307292,
+                "r": 565.7506103515625,
+                "t": 493.2580973307292
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 6,
+              "text": "Grecu Elena"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 524.1290690104167,
+                "coord_origin": "TOPLEFT",
+                "l": 34.80250040690104,
+                "r": 50.09437561035156,
+                "t": 508.1612955729167
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 7,
+              "text": "7."
+            },
+            {
+              "bbox": {
+                "b": 541.5161539713542,
+                "coord_origin": "TOPLEFT",
+                "l": 63.96375020345052,
+                "r": 118.73000081380208,
+                "t": 508.5161539713542
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 7,
+              "text": "Moldovan Sofia"
+            },
+            {
+              "bbox": {
+                "b": 534.0645345052083,
+                "coord_origin": "TOPLEFT",
+                "l": 146.82437133789062,
+                "r": 158.55999755859375,
+                "t": 519.5161539713542
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 7,
+              "text": "9"
+            },
+            {
+              "bbox": {
+                "b": 541.8709716796875,
+                "coord_origin": "TOPLEFT",
+                "l": 206.2137451171875,
+                "r": 223.9949951171875,
+                "t": 526.6129150390625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 7,
+              "text": "III"
+            },
+            {
+              "bbox": {
+                "b": 540.4516194661458,
+                "coord_origin": "TOPLEFT",
+                "l": 246.39937337239584,
+                "r": 346.3299967447917,
+                "t": 520.225830078125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 7,
+              "text": "IPLT Spiru Haret\""
+            },
+            {
+              "bbox": {
+                "b": 548.6129150390625,
+                "coord_origin": "TOPLEFT",
+                "l": 350.953125,
+                "r": 401.8074951171875,
+                "t": 516.3225911458333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 7,
+              "text": "Sorocean Iurie"
+            },
+            {
+              "bbox": {
+                "b": 551.0968017578125,
+                "coord_origin": "TOPLEFT",
+                "l": 429.5462239583333,
+                "r": 471.1543782552083,
+                "t": 517.0322672526042
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 7,
+              "text": "Pirojoc Elena"
+            },
+            {
+              "bbox": {
+                "b": 552.1612955729167,
+                "coord_origin": "TOPLEFT",
+                "l": 501.3824869791667,
+                "r": 544.7687581380209,
+                "t": 518.0968017578125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 7,
+              "text": "Tiganaş Odetta"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 566.0000406901042,
+                "coord_origin": "TOPLEFT",
+                "l": 34.44687525431315,
+                "r": 48.671875,
+                "t": 551.0968017578125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 8,
+              "text": "8."
+            },
+            {
+              "bbox": {
+                "b": 583.741943359375,
+                "coord_origin": "TOPLEFT",
+                "l": 63.96375020345052,
+                "r": 115.17374674479167,
+                "t": 551.8064778645833
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 8,
+              "text": "Maximov Amelia"
+            },
+            {
+              "bbox": {
+                "b": 576.2903645833333,
+                "coord_origin": "TOPLEFT",
+                "l": 146.11311848958331,
+                "r": 157.49312337239584,
+                "t": 561.3871256510417
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 8,
+              "text": "9"
+            },
+            {
+              "bbox": {
+                "b": 584.0968017578125,
+                "coord_origin": "TOPLEFT",
+                "l": 205.50250244140625,
+                "r": 223.28375244140625,
+                "t": 569.1935628255208
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 8,
+              "text": "III"
+            },
+            {
+              "bbox": {
+                "b": 588.0000406901042,
+                "coord_origin": "TOPLEFT",
+                "l": 246.04374186197916,
+                "r": 338.86187744140625,
+                "t": 553.5806884765625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 8,
+              "text": "IPÎLCI,Prometeu Protalent\""
+            },
+            {
+              "bbox": {
+                "b": 592.2580973307292,
+                "coord_origin": "TOPLEFT",
+                "l": 350.953125,
+                "r": 419.2331136067708,
+                "t": 558.1935628255208
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 8,
+              "text": "Şargarovschi Sergiu"
+            },
+            {
+              "bbox": {
+                "b": 592.6129150390625,
+                "coord_origin": "TOPLEFT",
+                "l": 429.1906331380208,
+                "r": 474.35498046875,
+                "t": 559.6129150390625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 8,
+              "text": "Heghea Victoria"
+            },
+            {
+              "bbox": {
+                "b": 594.3871256510417,
+                "coord_origin": "TOPLEFT",
+                "l": 501.3824869791667,
+                "r": 569.306884765625,
+                "t": 578.0645345052083
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 8,
+              "text": "Statii Tatiana"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 607.8710123697917,
+                "coord_origin": "TOPLEFT",
+                "l": 33.37999979654948,
+                "r": 47.96062469482422,
+                "t": 592.9677734375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 9,
+              "text": "9."
+            },
+            {
+              "bbox": {
+                "b": 633.4193929036459,
+                "coord_origin": "TOPLEFT",
+                "l": 62.896873474121094,
+                "r": 116.95187377929688,
+                "t": 600.0645345052083
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 9,
+              "text": "Culin Alexandra"
+            },
+            {
+              "bbox": {
+                "b": 625.9677734375,
+                "coord_origin": "TOPLEFT",
+                "l": 145.04624430338544,
+                "r": 156.4262491861979,
+                "t": 611.4193929036458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 9,
+              "text": "8"
+            },
+            {
+              "bbox": {
+                "b": 633.7742106119791,
+                "coord_origin": "TOPLEFT",
+                "l": 204.7912394205729,
+                "r": 222.21687825520834,
+                "t": 618.5161539713541
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 9,
+              "text": "III"
+            },
+            {
+              "bbox": {
+                "b": 636.9677734375,
+                "coord_origin": "TOPLEFT",
+                "l": 244.265625,
+                "r": 329.97125244140625,
+                "t": 604.3225911458333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 9,
+              "text": "IPLTGheorghe Asachi\""
+            },
+            {
+              "bbox": {
+                "b": 648.6774495442709,
+                "coord_origin": "TOPLEFT",
+                "l": 349.88625081380206,
+                "r": 396.1175130208333,
+                "t": 600.4193929036458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 9,
+              "text": "Baciu- Lascova Renata"
+            },
+            {
+              "bbox": {
+                "b": 650.45166015625,
+                "coord_origin": "TOPLEFT",
+                "l": 428.4793701171875,
+                "r": 476.1330973307292,
+                "t": 616.741943359375
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 9,
+              "text": "Zacuțelu Maria"
+            },
+            {
+              "bbox": {
+                "b": 652.225830078125,
+                "coord_origin": "TOPLEFT",
+                "l": 499.6043701171875,
+                "r": 539.7899983723959,
+                "t": 619.9355061848959
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 9,
+              "text": "Manea Valeria"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 667.1290690104166,
+                "coord_origin": "TOPLEFT",
+                "l": 33.024374643961586,
+                "r": 52.93937428792317,
+                "t": 648.6774495442709
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 10,
+              "text": "10."
+            },
+            {
+              "bbox": {
+                "b": 675.6451822916666,
+                "coord_origin": "TOPLEFT",
+                "l": 63.25249989827474,
+                "r": 122.99749755859375,
+                "t": 659.3225911458334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 10,
+              "text": "Stratan Ana"
+            },
+            {
+              "bbox": {
+                "b": 676.0000406901041,
+                "coord_origin": "TOPLEFT",
+                "l": 143.9793701171875,
+                "r": 155.71499633789062,
+                "t": 661.45166015625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 10,
+              "text": "9"
+            },
+            {
+              "bbox": {
+                "b": 684.1613362630209,
+                "coord_origin": "TOPLEFT",
+                "l": 203.724365234375,
+                "r": 221.505615234375,
+                "t": 669.2580973307291
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 10,
+              "text": "III"
+            },
+            {
+              "bbox": {
+                "b": 688.4193929036459,
+                "coord_origin": "TOPLEFT",
+                "l": 243.90999348958334,
+                "r": 308.6337483723958,
+                "t": 655.0645345052084
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 10,
+              "text": "IPLT,Liviu Deleanu\""
+            },
+            {
+              "bbox": {
+                "b": 691.2580973307291,
+                "coord_origin": "TOPLEFT",
+                "l": 349.17498779296875,
+                "r": 393.6281331380208,
+                "t": 657.5484212239584
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 10,
+              "text": "Cecalev Elena"
+            },
+            {
+              "bbox": {
+                "b": 693.3871256510416,
+                "coord_origin": "TOPLEFT",
+                "l": 428.1237386067708,
+                "r": 466.1756184895833,
+                "t": 660.0323079427084
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 10,
+              "text": "Racu Olesea"
+            },
+            {
+              "bbox": {
+                "b": 695.8710123697916,
+                "coord_origin": "TOPLEFT",
+                "l": 498.8931070963542,
+                "r": 561.8387451171875,
+                "t": 678.48388671875
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 10,
+              "text": "Roşca Raisa"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 709.3548583984375,
+                "coord_origin": "TOPLEFT",
+                "l": 32.31312497456869,
+                "r": 52.22812398274739,
+                "t": 693.0323079427084
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 11,
+              "text": "11."
+            },
+            {
+              "bbox": {
+                "b": 728.8710123697916,
+                "coord_origin": "TOPLEFT",
+                "l": 61.1187489827474,
+                "r": 109.83937581380208,
+                "t": 695.8710123697916
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 11,
+              "text": "Crivenco Sandra"
+            },
+            {
+              "bbox": {
+                "b": 721.4193929036459,
+                "coord_origin": "TOPLEFT",
+                "l": 143.62374877929688,
+                "r": 155.00374348958334,
+                "t": 707.225830078125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 11,
+              "text": "9"
+            },
+            {
+              "bbox": {
+                "b": 729.5806884765625,
+                "coord_origin": "TOPLEFT",
+                "l": 203.01312255859375,
+                "r": 220.4387410481771,
+                "t": 714.6774495442709
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 11,
+              "text": "III"
+            },
+            {
+              "bbox": {
+                "b": 727.45166015625,
+                "coord_origin": "TOPLEFT",
+                "l": 243.1987508138021,
+                "r": 342.41811116536456,
+                "t": 709.0000406901041
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 11,
+              "text": "IPLTSpiru Haret\""
+            },
+            {
+              "bbox": {
+                "b": 736.6774495442709,
+                "coord_origin": "TOPLEFT",
+                "l": 347.75250244140625,
+                "r": 398.6068522135417,
+                "t": 704.3871256510416
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 11,
+              "text": "Sorocean Iurie"
+            },
+            {
+              "bbox": {
+                "b": 739.5161539713541,
+                "coord_origin": "TOPLEFT",
+                "l": 426.7012532552083,
+                "r": 467.2424723307292,
+                "t": 704.7419840494791
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 11,
+              "text": "Pirojoc Elena"
+            },
+            {
+              "bbox": {
+                "b": 740.5806884765625,
+                "coord_origin": "TOPLEFT",
+                "l": 497.8262532552083,
+                "r": 541.568115234375,
+                "t": 706.5161539713541
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 11,
+              "text": "Tîganaş Odetta"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 756.5484212239584,
+                "coord_origin": "TOPLEFT",
+                "l": 31.24625015258789,
+                "r": 51.51687367757161,
+                "t": 740.5806884765625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 12,
+              "text": "12."
+            },
+            {
+              "bbox": {
+                "b": 765.7742106119791,
+                "coord_origin": "TOPLEFT",
+                "l": 61.47437540690104,
+                "r": 129.04312133789062,
+                "t": 749.45166015625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 12,
+              "text": "Juvală Victor"
+            },
+            {
+              "bbox": {
+                "b": 765.4193929036459,
+                "coord_origin": "TOPLEFT",
+                "l": 143.26812744140625,
+                "r": 153.58124796549478,
+                "t": 752.2903645833334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 12,
+              "text": "8"
+            },
+            {
+              "bbox": {
+                "b": 774.2903645833334,
+                "coord_origin": "TOPLEFT",
+                "l": 201.94624837239584,
+                "r": 219.72749837239584,
+                "t": 759.0323079427084
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 12,
+              "text": "III"
+            },
+            {
+              "bbox": {
+                "b": 779.2580973307291,
+                "coord_origin": "TOPLEFT",
+                "l": 241.42061360677084,
+                "r": 313.2568766276042,
+                "t": 745.9032796223959
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 12,
+              "text": "IP Liceul Da Vinci\""
+            },
+            {
+              "bbox": {
+                "b": 781.3871256510416,
+                "coord_origin": "TOPLEFT",
+                "l": 347.75250244140625,
+                "r": 393.9837239583333,
+                "t": 748.7419840494791
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 12,
+              "text": "Zavtur Ludmila"
+            },
+            {
+              "bbox": {
+                "b": 783.8710123697916,
+                "coord_origin": "TOPLEFT",
+                "l": 426.3456217447917,
+                "r": 468.3093668619792,
+                "t": 750.5161539713541
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 7,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 6,
+              "start_row_offset_idx": 12,
+              "text": "Chiosa Zinaida"
+            },
+            {
+              "bbox": {
+                "b": 785.6451822916666,
+                "coord_origin": "TOPLEFT",
+                "l": 497.114990234375,
+                "r": 541.2124837239584,
+                "t": 751.9355061848959
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 8,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 7,
+              "start_row_offset_idx": 12,
+              "text": "Creeu Mariana"
+            }
+          ]
+        ],
+        "num_cols": 8,
+        "num_rows": 13,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 196.25806681315106,
+              "coord_origin": "TOPLEFT",
+              "l": 81.03374735514322,
+              "r": 136.15561930338544,
+              "t": 152.25806681315103
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Numele, prenumele elevului"
+          },
+          {
+            "bbox": {
+              "b": 170.35484313964844,
+              "coord_origin": "TOPLEFT",
+              "l": 155.359375,
+              "r": 187.3656209309896,
+              "t": 152.96774291992188
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Clasa"
+          },
+          {
+            "bbox": {
+              "b": 184.1935526529948,
+              "coord_origin": "TOPLEFT",
+              "l": 201.2350056966146,
+              "r": 240.7093709309896,
+              "t": 153.67742411295572
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "Clasa - mentul"
+          },
+          {
+            "bbox": {
+              "b": 186.67742411295575,
+              "coord_origin": "TOPLEFT",
+              "l": 272.0043741861979,
+              "r": 332.4606119791667,
+              "t": 155.80645243326822
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 0,
+            "text": "Instituția de învățământ"
+          },
+          {
+            "bbox": {
+              "b": 238.83871459960938,
+              "coord_origin": "TOPLEFT",
+              "l": 356.9987386067708,
+              "r": 425.989990234375,
+              "t": 157.2258097330729
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 0,
+            "text": "Numele, prenumele profesorului la disciplina şcolară fizică"
+          },
+          {
+            "bbox": {
+              "b": 255.5161336263021,
+              "coord_origin": "TOPLEFT",
+              "l": 434.5249837239583,
+              "r": 499.6043701171875,
+              "t": 159.00000508626303
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 0,
+            "text": "Numele, prenumele profesorului la disciplina şcolară chimie"
+          },
+          {
+            "bbox": {
+              "b": 258.000010172526,
+              "coord_origin": "TOPLEFT",
+              "l": 505.2943522135417,
+              "r": 569.6624755859375,
+              "t": 160.06451924641928
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 0,
+            "text": "Numele, prenumele profesorului la disciplina şcolară biologie"
+          },
+          {
+            "bbox": {
+              "b": 181.000005086263,
+              "coord_origin": "TOPLEFT",
+              "l": 41.5593744913737,
+              "r": 63.608123779296875,
+              "t": 165.38710021972656
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "prd"
+          },
+          {
+            "bbox": {
+              "b": 271.8387145996094,
+              "coord_origin": "TOPLEFT",
+              "l": 39.78125,
+              "r": 53.650624593098954,
+              "t": 256.93549601236975
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1."
+          },
+          {
+            "bbox": {
+              "b": 289.2258097330729,
+              "coord_origin": "TOPLEFT",
+              "l": 68.58687337239584,
+              "r": 118.0187479654948,
+              "t": 256.5806579589844
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Cemîrtan Gabriel"
+          },
+          {
+            "bbox": {
+              "b": 281.41937255859375,
+              "coord_origin": "TOPLEFT",
+              "l": 150.38062540690103,
+              "r": 162.47187296549478,
+              "t": 266.8709716796875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "9"
+          },
+          {
+            "bbox": {
+              "b": 293.1290486653646,
+              "coord_origin": "TOPLEFT",
+              "l": 249.95562744140625,
+              "r": 322.50311279296875,
+              "t": 260.1290384928385
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 1,
+            "text": "IPLT Mircea Eliade\""
+          },
+          {
+            "bbox": {
+              "b": 296.32259114583337,
+              "coord_origin": "TOPLEFT",
+              "l": 355.93186442057294,
+              "r": 397.5399983723958,
+              "t": 261.90323893229163
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 1,
+            "text": "Pîslari Tatiana"
+          },
+          {
+            "bbox": {
+              "b": 296.67742919921875,
+              "coord_origin": "TOPLEFT",
+              "l": 434.5249837239583,
+              "r": 481.8231201171875,
+              "t": 264.3871053059896
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 1,
+            "text": "Cirliciuc Mariana"
+          },
+          {
+            "bbox": {
+              "b": 288.16129557291663,
+              "coord_origin": "TOPLEFT",
+              "l": 214.0374959309896,
+              "r": 223.9949951171875,
+              "t": 274.67742919921875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": "I"
+          },
+          {
+            "bbox": {
+              "b": 299.16129557291663,
+              "coord_origin": "TOPLEFT",
+              "l": 505.6499837239583,
+              "r": 573.5743815104166,
+              "t": 282.48388671875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 1,
+            "text": "Mițelea Stela"
+          },
+          {
+            "bbox": {
+              "b": 314.06453450520837,
+              "coord_origin": "TOPLEFT",
+              "l": 37.647499084472656,
+              "r": 53.29499816894531,
+              "t": 298.0967814127604
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 322.93548583984375,
+              "coord_origin": "TOPLEFT",
+              "l": 68.94249979654947,
+              "r": 137.578125,
+              "t": 306.6129150390625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Leorda Maria"
+          },
+          {
+            "bbox": {
+              "b": 323.29034423828125,
+              "coord_origin": "TOPLEFT",
+              "l": 150.38062540690103,
+              "r": 161.7606201171875,
+              "t": 308.741943359375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "8"
+          },
+          {
+            "bbox": {
+              "b": 328.6129150390625,
+              "coord_origin": "TOPLEFT",
+              "l": 249.95562744140625,
+              "r": 349.17498779296875,
+              "t": 310.16129557291663
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 2,
+            "text": "IPLTSpiru Haret\""
+          },
+          {
+            "bbox": {
+              "b": 337.48388671875,
+              "coord_origin": "TOPLEFT",
+              "l": 354.50937906901044,
+              "r": 405.7193603515625,
+              "t": 305.19356282552087
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 2,
+            "text": "Sorocean Iurie"
+          },
+          {
+            "bbox": {
+              "b": 339.2580769856771,
+              "coord_origin": "TOPLEFT",
+              "l": 433.4581298828125,
+              "r": 479.6893717447917,
+              "t": 306.2580769856771
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 2,
+            "text": "Prunici Ludmila"
+          },
+          {
+            "bbox": {
+              "b": 341.3871053059896,
+              "coord_origin": "TOPLEFT",
+              "l": 504.2274983723958,
+              "r": 552.5924886067709,
+              "t": 306.9677530924479
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 2,
+            "text": "Chiselita Stela"
+          },
+          {
+            "bbox": {
+              "b": 330.3871053059896,
+              "coord_origin": "TOPLEFT",
+              "l": 213.6818644205729,
+              "r": 223.28375244140625,
+              "t": 316.54840087890625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 2,
+            "text": "I"
+          },
+          {
+            "bbox": {
+              "b": 355.93550618489587,
+              "coord_origin": "TOPLEFT",
+              "l": 36.93625005086263,
+              "r": 52.22812398274739,
+              "t": 339.9677530924479
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 372.6129150390625,
+              "coord_origin": "TOPLEFT",
+              "l": 66.80875142415366,
+              "r": 135.0887451171875,
+              "t": 340.67742919921875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Luchiţa Ana- Maria"
+          },
+          {
+            "bbox": {
+              "b": 364.80645751953125,
+              "coord_origin": "TOPLEFT",
+              "l": 150.02499389648438,
+              "r": 160.33812459309897,
+              "t": 351.32259114583337
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "8"
+          },
+          {
+            "bbox": {
+              "b": 376.5161539713542,
+              "coord_origin": "TOPLEFT",
+              "l": 249.2443644205729,
+              "r": 315.74623616536456,
+              "t": 344.2258097330729
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 3,
+            "text": "IPLT Mihai Viteazul\""
+          },
+          {
+            "bbox": {
+              "b": 379.00002034505206,
+              "coord_origin": "TOPLEFT",
+              "l": 354.50937906901044,
+              "r": 403.22998046875,
+              "t": 347.06453450520837
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 3,
+            "text": "Lupaşco Eleonora"
+          },
+          {
+            "bbox": {
+              "b": 381.12904866536456,
+              "coord_origin": "TOPLEFT",
+              "l": 433.1024983723958,
+              "r": 491.7805989583333,
+              "t": 349.19356282552087
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 3,
+            "text": "Ungureanu Zinaida"
+          },
+          {
+            "bbox": {
+              "b": 382.9032389322917,
+              "coord_origin": "TOPLEFT",
+              "l": 503.5162353515625,
+              "r": 565.0393473307291,
+              "t": 349.90323893229163
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 3,
+            "text": "Hristoforov Monica"
+          },
+          {
+            "bbox": {
+              "b": 372.96775309244794,
+              "coord_origin": "TOPLEFT",
+              "l": 210.83687337239584,
+              "r": 224.70623779296875,
+              "t": 357.7096964518229
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 3,
+            "text": "II"
+          },
+          {
+            "bbox": {
+              "b": 397.4516194661458,
+              "coord_origin": "TOPLEFT",
+              "l": 36.22499974568685,
+              "r": 51.872500101725265,
+              "t": 381.83872477213544
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4."
+          },
+          {
+            "bbox": {
+              "b": 415.1935628255208,
+              "coord_origin": "TOPLEFT",
+              "l": 66.80875142415366,
+              "r": 138.2893778483073,
+              "t": 382.54840087890625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Dumbrăveanu Teodora"
+          },
+          {
+            "bbox": {
+              "b": 407.0322672526042,
+              "coord_origin": "TOPLEFT",
+              "l": 148.60249837239581,
+              "r": 160.33812459309897,
+              "t": 392.48388671875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "9"
+          },
+          {
+            "bbox": {
+              "b": 414.48388671875,
+              "coord_origin": "TOPLEFT",
+              "l": 210.1256306966146,
+              "r": 223.9949951171875,
+              "t": 399.9355061848958
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 4,
+            "text": "II"
+          },
+          {
+            "bbox": {
+              "b": 412.70969645182294,
+              "coord_origin": "TOPLEFT",
+              "l": 248.53312174479166,
+              "r": 347.75250244140625,
+              "t": 393.9032389322917
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 4,
+            "text": "IPLTSpiru Haret\""
+          },
+          {
+            "bbox": {
+              "b": 420.87099202473956,
+              "coord_origin": "TOPLEFT",
+              "l": 353.44248453776044,
+              "r": 404.296875,
+              "t": 388.9355061848958
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 4,
+            "text": "Sorocean Iurie"
+          },
+          {
+            "bbox": {
+              "b": 423.70969645182294,
+              "coord_origin": "TOPLEFT",
+              "l": 432.0356038411458,
+              "r": 472.5768636067708,
+              "t": 389.6451822916667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 4,
+            "text": "Pirojoc Elena"
+          },
+          {
+            "bbox": {
+              "b": 424.7742106119792,
+              "coord_origin": "TOPLEFT",
+              "l": 503.1606038411458,
+              "r": 547.2580973307291,
+              "t": 391.7742106119792
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 4,
+            "text": "Tigǎnaş Odetta"
+          },
+          {
+            "bbox": {
+              "b": 439.3225911458333,
+              "coord_origin": "TOPLEFT",
+              "l": 36.58062489827474,
+              "r": 50.80562337239583,
+              "t": 424.0645345052083
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "5."
+          },
+          {
+            "bbox": {
+              "b": 462.0322672526042,
+              "coord_origin": "TOPLEFT",
+              "l": 248.53312174479166,
+              "r": 337.4393717447917,
+              "t": 426.54840087890625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 5,
+            "text": "IPÎ LT Orizont\", filiala Durleşti"
+          },
+          {
+            "bbox": {
+              "b": 448.9032389322917,
+              "coord_origin": "TOPLEFT",
+              "l": 67.16437276204428,
+              "r": 137.22249348958331,
+              "t": 432.58066813151044
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "Surlari Daniel"
+          },
+          {
+            "bbox": {
+              "b": 448.5484212239583,
+              "coord_origin": "TOPLEFT",
+              "l": 148.95811971028644,
+              "r": 159.27125040690103,
+              "t": 435.0645345052083
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 5,
+            "text": "8"
+          },
+          {
+            "bbox": {
+              "b": 463.4516194661458,
+              "coord_origin": "TOPLEFT",
+              "l": 353.44248453776044,
+              "r": 394.6949869791667,
+              "t": 430.45163981119794
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 5,
+            "text": "Burleai Valeriu"
+          },
+          {
+            "bbox": {
+              "b": 466.2903238932292,
+              "coord_origin": "TOPLEFT",
+              "l": 431.3243815104167,
+              "r": 480.400634765625,
+              "t": 432.58066813151044
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 5,
+            "text": "Bulmaga Petru"
+          },
+          {
+            "bbox": {
+              "b": 467.0,
+              "coord_origin": "TOPLEFT",
+              "l": 501.7381184895833,
+              "r": 574.9968668619791,
+              "t": 434.00002034505206
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 5,
+            "text": "Dede Durmuş Ali"
+          },
+          {
+            "bbox": {
+              "b": 457.0645345052083,
+              "coord_origin": "TOPLEFT",
+              "l": 209.41436767578125,
+              "r": 223.28375244140625,
+              "t": 441.8064778645833
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 5,
+            "text": "II"
+          },
+          {
+            "bbox": {
+              "b": 481.9032389322917,
+              "coord_origin": "TOPLEFT",
+              "l": 35.15812428792318,
+              "r": 50.4499994913737,
+              "t": 465.9355061848958
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 6,
+            "text": "6."
+          },
+          {
+            "bbox": {
+              "b": 503.1935628255208,
+              "coord_origin": "TOPLEFT",
+              "l": 247.1106160481771,
+              "r": 340.28436279296875,
+              "t": 469.48388671875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 6,
+            "text": "IPÎLCI,Prometeu Protalent\""
+          },
+          {
+            "bbox": {
+              "b": 491.1290690104167,
+              "coord_origin": "TOPLEFT",
+              "l": 66.09749857584634,
+              "r": 129.3987528483073,
+              "t": 473.741943359375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 6,
+            "text": "Tiltu Andrei"
+          },
+          {
+            "bbox": {
+              "b": 491.48388671875,
+              "coord_origin": "TOPLEFT",
+              "l": 148.2468770345052,
+              "r": 158.91561889648438,
+              "t": 477.2903238932292
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 6,
+            "text": "8"
+          },
+          {
+            "bbox": {
+              "b": 508.5161539713542,
+              "coord_origin": "TOPLEFT",
+              "l": 430.6131184895833,
+              "r": 475.7775065104167,
+              "t": 474.0968017578125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 6,
+            "text": "Heghea Victoria"
+          },
+          {
+            "bbox": {
+              "b": 499.2903238932292,
+              "coord_origin": "TOPLEFT",
+              "l": 208.703125,
+              "r": 222.5724894205729,
+              "t": 484.3871256510417
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 6,
+            "text": "II"
+          },
+          {
+            "bbox": {
+              "b": 518.8064778645833,
+              "coord_origin": "TOPLEFT",
+              "l": 352.3756103515625,
+              "r": 398.9624837239583,
+              "t": 482.9677734375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 6,
+            "text": "Ciobanu Oleg"
+          },
+          {
+            "bbox": {
+              "b": 509.225830078125,
+              "coord_origin": "TOPLEFT",
+              "l": 502.8049723307292,
+              "r": 565.7506103515625,
+              "t": 493.2580973307292
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 6,
+            "text": "Grecu Elena"
+          },
+          {
+            "bbox": {
+              "b": 524.1290690104167,
+              "coord_origin": "TOPLEFT",
+              "l": 34.80250040690104,
+              "r": 50.09437561035156,
+              "t": 508.1612955729167
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 7,
+            "text": "7."
+          },
+          {
+            "bbox": {
+              "b": 541.5161539713542,
+              "coord_origin": "TOPLEFT",
+              "l": 63.96375020345052,
+              "r": 118.73000081380208,
+              "t": 508.5161539713542
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 7,
+            "text": "Moldovan Sofia"
+          },
+          {
+            "bbox": {
+              "b": 534.0645345052083,
+              "coord_origin": "TOPLEFT",
+              "l": 146.82437133789062,
+              "r": 158.55999755859375,
+              "t": 519.5161539713542
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 7,
+            "text": "9"
+          },
+          {
+            "bbox": {
+              "b": 540.4516194661458,
+              "coord_origin": "TOPLEFT",
+              "l": 246.39937337239584,
+              "r": 346.3299967447917,
+              "t": 520.225830078125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 7,
+            "text": "IPLT Spiru Haret\""
+          },
+          {
+            "bbox": {
+              "b": 548.6129150390625,
+              "coord_origin": "TOPLEFT",
+              "l": 350.953125,
+              "r": 401.8074951171875,
+              "t": 516.3225911458333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 7,
+            "text": "Sorocean Iurie"
+          },
+          {
+            "bbox": {
+              "b": 551.0968017578125,
+              "coord_origin": "TOPLEFT",
+              "l": 429.5462239583333,
+              "r": 471.1543782552083,
+              "t": 517.0322672526042
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 7,
+            "text": "Pirojoc Elena"
+          },
+          {
+            "bbox": {
+              "b": 552.1612955729167,
+              "coord_origin": "TOPLEFT",
+              "l": 501.3824869791667,
+              "r": 544.7687581380209,
+              "t": 518.0968017578125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 7,
+            "text": "Tiganaş Odetta"
+          },
+          {
+            "bbox": {
+              "b": 541.8709716796875,
+              "coord_origin": "TOPLEFT",
+              "l": 206.2137451171875,
+              "r": 223.9949951171875,
+              "t": 526.6129150390625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 7,
+            "text": "III"
+          },
+          {
+            "bbox": {
+              "b": 566.0000406901042,
+              "coord_origin": "TOPLEFT",
+              "l": 34.44687525431315,
+              "r": 48.671875,
+              "t": 551.0968017578125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 8,
+            "text": "8."
+          },
+          {
+            "bbox": {
+              "b": 583.741943359375,
+              "coord_origin": "TOPLEFT",
+              "l": 63.96375020345052,
+              "r": 115.17374674479167,
+              "t": 551.8064778645833
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 8,
+            "text": "Maximov Amelia"
+          },
+          {
+            "bbox": {
+              "b": 588.0000406901042,
+              "coord_origin": "TOPLEFT",
+              "l": 246.04374186197916,
+              "r": 338.86187744140625,
+              "t": 553.5806884765625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 8,
+            "text": "IPÎLCI,Prometeu Protalent\""
+          },
+          {
+            "bbox": {
+              "b": 576.2903645833333,
+              "coord_origin": "TOPLEFT",
+              "l": 146.11311848958331,
+              "r": 157.49312337239584,
+              "t": 561.3871256510417
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 8,
+            "text": "9"
+          },
+          {
+            "bbox": {
+              "b": 592.2580973307292,
+              "coord_origin": "TOPLEFT",
+              "l": 350.953125,
+              "r": 419.2331136067708,
+              "t": 558.1935628255208
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 8,
+            "text": "Şargarovschi Sergiu"
+          },
+          {
+            "bbox": {
+              "b": 592.6129150390625,
+              "coord_origin": "TOPLEFT",
+              "l": 429.1906331380208,
+              "r": 474.35498046875,
+              "t": 559.6129150390625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 8,
+            "text": "Heghea Victoria"
+          },
+          {
+            "bbox": {
+              "b": 584.0968017578125,
+              "coord_origin": "TOPLEFT",
+              "l": 205.50250244140625,
+              "r": 223.28375244140625,
+              "t": 569.1935628255208
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 8,
+            "text": "III"
+          },
+          {
+            "bbox": {
+              "b": 594.3871256510417,
+              "coord_origin": "TOPLEFT",
+              "l": 501.3824869791667,
+              "r": 569.306884765625,
+              "t": 578.0645345052083
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 8,
+            "text": "Statii Tatiana"
+          },
+          {
+            "bbox": {
+              "b": 607.8710123697917,
+              "coord_origin": "TOPLEFT",
+              "l": 33.37999979654948,
+              "r": 47.96062469482422,
+              "t": 592.9677734375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 9,
+            "text": "9."
+          },
+          {
+            "bbox": {
+              "b": 633.4193929036459,
+              "coord_origin": "TOPLEFT",
+              "l": 62.896873474121094,
+              "r": 116.95187377929688,
+              "t": 600.0645345052083
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 9,
+            "text": "Culin Alexandra"
+          },
+          {
+            "bbox": {
+              "b": 648.6774495442709,
+              "coord_origin": "TOPLEFT",
+              "l": 349.88625081380206,
+              "r": 396.1175130208333,
+              "t": 600.4193929036458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 9,
+            "text": "Baciu- Lascova Renata"
+          },
+          {
+            "bbox": {
+              "b": 636.9677734375,
+              "coord_origin": "TOPLEFT",
+              "l": 244.265625,
+              "r": 329.97125244140625,
+              "t": 604.3225911458333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 9,
+            "text": "IPLTGheorghe Asachi\""
+          },
+          {
+            "bbox": {
+              "b": 625.9677734375,
+              "coord_origin": "TOPLEFT",
+              "l": 145.04624430338544,
+              "r": 156.4262491861979,
+              "t": 611.4193929036458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 9,
+            "text": "8"
+          },
+          {
+            "bbox": {
+              "b": 633.7742106119791,
+              "coord_origin": "TOPLEFT",
+              "l": 204.7912394205729,
+              "r": 222.21687825520834,
+              "t": 618.5161539713541
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 9,
+            "text": "III"
+          },
+          {
+            "bbox": {
+              "b": 650.45166015625,
+              "coord_origin": "TOPLEFT",
+              "l": 428.4793701171875,
+              "r": 476.1330973307292,
+              "t": 616.741943359375
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 9,
+            "text": "Zacuțelu Maria"
+          },
+          {
+            "bbox": {
+              "b": 652.225830078125,
+              "coord_origin": "TOPLEFT",
+              "l": 499.6043701171875,
+              "r": 539.7899983723959,
+              "t": 619.9355061848959
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 9,
+            "text": "Manea Valeria"
+          },
+          {
+            "bbox": {
+              "b": 667.1290690104166,
+              "coord_origin": "TOPLEFT",
+              "l": 33.024374643961586,
+              "r": 52.93937428792317,
+              "t": 648.6774495442709
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 10,
+            "text": "10."
+          },
+          {
+            "bbox": {
+              "b": 675.6451822916666,
+              "coord_origin": "TOPLEFT",
+              "l": 63.25249989827474,
+              "r": 122.99749755859375,
+              "t": 659.3225911458334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 10,
+            "text": "Stratan Ana"
+          },
+          {
+            "bbox": {
+              "b": 676.0000406901041,
+              "coord_origin": "TOPLEFT",
+              "l": 143.9793701171875,
+              "r": 155.71499633789062,
+              "t": 661.45166015625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 10,
+            "text": "9"
+          },
+          {
+            "bbox": {
+              "b": 688.4193929036459,
+              "coord_origin": "TOPLEFT",
+              "l": 243.90999348958334,
+              "r": 308.6337483723958,
+              "t": 655.0645345052084
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 10,
+            "text": "IPLT,Liviu Deleanu\""
+          },
+          {
+            "bbox": {
+              "b": 691.2580973307291,
+              "coord_origin": "TOPLEFT",
+              "l": 349.17498779296875,
+              "r": 393.6281331380208,
+              "t": 657.5484212239584
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 10,
+            "text": "Cecalev Elena"
+          },
+          {
+            "bbox": {
+              "b": 693.3871256510416,
+              "coord_origin": "TOPLEFT",
+              "l": 428.1237386067708,
+              "r": 466.1756184895833,
+              "t": 660.0323079427084
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 10,
+            "text": "Racu Olesea"
+          },
+          {
+            "bbox": {
+              "b": 684.1613362630209,
+              "coord_origin": "TOPLEFT",
+              "l": 203.724365234375,
+              "r": 221.505615234375,
+              "t": 669.2580973307291
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 10,
+            "text": "III"
+          },
+          {
+            "bbox": {
+              "b": 695.8710123697916,
+              "coord_origin": "TOPLEFT",
+              "l": 498.8931070963542,
+              "r": 561.8387451171875,
+              "t": 678.48388671875
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 10,
+            "text": "Roşca Raisa"
+          },
+          {
+            "bbox": {
+              "b": 709.3548583984375,
+              "coord_origin": "TOPLEFT",
+              "l": 32.31312497456869,
+              "r": 52.22812398274739,
+              "t": 693.0323079427084
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 11,
+            "text": "11."
+          },
+          {
+            "bbox": {
+              "b": 728.8710123697916,
+              "coord_origin": "TOPLEFT",
+              "l": 61.1187489827474,
+              "r": 109.83937581380208,
+              "t": 695.8710123697916
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 11,
+            "text": "Crivenco Sandra"
+          },
+          {
+            "bbox": {
+              "b": 721.4193929036459,
+              "coord_origin": "TOPLEFT",
+              "l": 143.62374877929688,
+              "r": 155.00374348958334,
+              "t": 707.225830078125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 11,
+            "text": "9"
+          },
+          {
+            "bbox": {
+              "b": 729.5806884765625,
+              "coord_origin": "TOPLEFT",
+              "l": 203.01312255859375,
+              "r": 220.4387410481771,
+              "t": 714.6774495442709
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 11,
+            "text": "III"
+          },
+          {
+            "bbox": {
+              "b": 727.45166015625,
+              "coord_origin": "TOPLEFT",
+              "l": 243.1987508138021,
+              "r": 342.41811116536456,
+              "t": 709.0000406901041
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 11,
+            "text": "IPLTSpiru Haret\""
+          },
+          {
+            "bbox": {
+              "b": 736.6774495442709,
+              "coord_origin": "TOPLEFT",
+              "l": 347.75250244140625,
+              "r": 398.6068522135417,
+              "t": 704.3871256510416
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 11,
+            "text": "Sorocean Iurie"
+          },
+          {
+            "bbox": {
+              "b": 739.5161539713541,
+              "coord_origin": "TOPLEFT",
+              "l": 426.7012532552083,
+              "r": 467.2424723307292,
+              "t": 704.7419840494791
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 11,
+            "text": "Pirojoc Elena"
+          },
+          {
+            "bbox": {
+              "b": 740.5806884765625,
+              "coord_origin": "TOPLEFT",
+              "l": 497.8262532552083,
+              "r": 541.568115234375,
+              "t": 706.5161539713541
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 11,
+            "text": "Tîganaş Odetta"
+          },
+          {
+            "bbox": {
+              "b": 756.5484212239584,
+              "coord_origin": "TOPLEFT",
+              "l": 31.24625015258789,
+              "r": 51.51687367757161,
+              "t": 740.5806884765625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 12,
+            "text": "12."
+          },
+          {
+            "bbox": {
+              "b": 765.7742106119791,
+              "coord_origin": "TOPLEFT",
+              "l": 61.47437540690104,
+              "r": 129.04312133789062,
+              "t": 749.45166015625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 12,
+            "text": "Juvală Victor"
+          },
+          {
+            "bbox": {
+              "b": 765.4193929036459,
+              "coord_origin": "TOPLEFT",
+              "l": 143.26812744140625,
+              "r": 153.58124796549478,
+              "t": 752.2903645833334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 12,
+            "text": "8"
+          },
+          {
+            "bbox": {
+              "b": 779.2580973307291,
+              "coord_origin": "TOPLEFT",
+              "l": 241.42061360677084,
+              "r": 313.2568766276042,
+              "t": 745.9032796223959
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 12,
+            "text": "IP Liceul Da Vinci\""
+          },
+          {
+            "bbox": {
+              "b": 781.3871256510416,
+              "coord_origin": "TOPLEFT",
+              "l": 347.75250244140625,
+              "r": 393.9837239583333,
+              "t": 748.7419840494791
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 12,
+            "text": "Zavtur Ludmila"
+          },
+          {
+            "bbox": {
+              "b": 783.8710123697916,
+              "coord_origin": "TOPLEFT",
+              "l": 426.3456217447917,
+              "r": 468.3093668619792,
+              "t": 750.5161539713541
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 7,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 6,
+            "start_row_offset_idx": 12,
+            "text": "Chiosa Zinaida"
+          },
+          {
+            "bbox": {
+              "b": 785.6451822916666,
+              "coord_origin": "TOPLEFT",
+              "l": 497.114990234375,
+              "r": 541.2124837239584,
+              "t": 751.9355061848959
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 8,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 7,
+            "start_row_offset_idx": 12,
+            "text": "Creeu Mariana"
+          },
+          {
+            "bbox": {
+              "b": 774.2903645833334,
+              "coord_origin": "TOPLEFT",
+              "l": 201.94624837239584,
+              "r": 219.72749837239584,
+              "t": 759.0323079427084
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 12,
+            "text": "III"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 42.73588232015459,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 30.892419858990294,
+            "r": 580.7685724431818,
+            "t": 686.3857330140829
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRINNOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 731.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 259.66666666666663,
+            "r": 310.66666666666663,
+            "t": 737.6266666666667
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FRINNOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 677.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 150.33333333333334,
+            "r": 439.3333333333333,
+            "t": 727.2933333333334
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "23. 04. 26nr. 01/1-7/50g",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 637.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.0,
+            "r": 281.66666666666663,
+            "t": 659.96
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "23. 04. 26nr. 01/1-7/50g"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref.: Cu privire la delegarea elevilor la olimpiada republicană la științe",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 561.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 263.33333333333337,
+            "t": 593.96
+          },
+          "charspan": [
+            0,
+            74
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Ref.: Cu privire la delegarea elevilor la olimpiada republicană la științe"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul Ordinului MEC nr. 1802din 21.10.2025 Cu privire la Orarul olimpiadelor și concursurilor republicane pentru anul de studii2026, a ordinului DGETS nr. 01/1-7/477 din 08.04.2026 Cu privire la totalurile olimpiadei la științe, etapa municipală, ediția 2026 și pentru asigurarea participării eficiente a elevilor delegați la olimpiada republicană la științe,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 479.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 547.0,
+            "t": 547.6266666666668
+          },
+          "charspan": [
+            0,
+            364
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În temeiul Ordinului MEC nr. 1802din 21.10.2025 Cu privire la Orarul olimpiadelor și concursurilor republicane pentru anul de studii2026, a ordinului DGETS nr. 01/1-7/477 din 08.04.2026 Cu privire la totalurile olimpiadei la științe, etapa municipală, ediția 2026 și pentru asigurarea participării eficiente a elevilor delegați la olimpiada republicană la științe,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 451.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 282.66666666666663,
+            "r": 331.6666666666667,
+            "t": 466.2933333333334
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se desemnează conducător al echipei municipale Tiganaș Odetta, profesor de biologie, Instituția Publică Liceul Teoretic Spiru Haret\" cu acordarea ulterioară a două zile de recuperare pentru munca prestată în zilele de 23 mai -24 mai 2026.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 339.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 546.3333333333333,
+            "t": 389.62666666666667
+          },
+          "charspan": [
+            0,
+            241
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Se desemnează conducător al echipei municipale Tiganaș Odetta, profesor de biologie, Instituția Publică Liceul Teoretic Spiru Haret\" cu acordarea ulterioară a două zile de recuperare pentru munca prestată în zilele de 23 mai -24 mai 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se deleagă la olimpiada republicană laștiințe, în perioada 22-24.05.2026, în incinta Universității de Stat din Moldova, mun. Chişinău, str. A. Mateevici 60, primii 12 lideri ai clasamentului (conform punctajului/scorului acumulat în descreștere) la olimpiada municipală, ediția 2026, conform anexei.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 388.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 547.0,
+            "t": 452.96000000000004
+          },
+          "charspan": [
+            0,
+            302
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se deleagă la olimpiada republicană laștiințe, în perioada 22-24.05.2026, în incinta Universității de Stat din Moldova, mun. Chişinău, str. A. Mateevici 60, primii 12 lideri ai clasamentului (conform punctajului/scorului acumulat în descreștere) la olimpiada municipală, ediția 2026, conform anexei."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Conducătorul echipei municipale, TiganaşOdetta:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 323.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 348.3333333333333,
+            "t": 342.29333333333335
+          },
+          "charspan": [
+            0,
+            50
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Conducătorul echipei municipale, TiganaşOdetta:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2",
+      "orig": "3.2 va verifica datele elevilor participanți la olimpiadă din lista de înregistrare;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 280.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 466.3333333333333,
+            "t": 300.96000000000004
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "va verifica datele elevilor participanți la olimpiadă din lista de înregistrare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1",
+      "orig": "3.1 va asigura prezența obligatorie a actului de identitate/certificatului de naştere în original și o copie a acestuia pentru fiecare participant laolimpiada republicană;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 294.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 545.6666666666667,
+            "t": 328.6266666666668
+          },
+          "charspan": [
+            0,
+            171
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "va asigura prezența obligatorie a actului de identitate/certificatului de naştere în original și o copie a acestuia pentru fiecare participant laolimpiada republicană;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.3",
+      "orig": "3.3 va coordona cu elevii participanți activitățile din cadrul olimpiadei în baza Programului de desfăşurare a olimpiadei la ştiințe, ediția 2026.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 254.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 545.0,
+            "t": 286.6266666666668
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "va coordona cu elevii participanți activitățile din cadrul olimpiadei în baza Programului de desfăşurare a olimpiadei la ştiințe, ediția 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul realizării prevederilor prezentuluiordin îi revine S. Axinti, șef al direcției managementul curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 199.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 545.0,
+            "t": 231.2933333333333
+          },
+          "charspan": [
+            0,
+            123
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Controlul realizării prevederilor prezentuluiordin îi revine S. Axinti, șef al direcției managementul curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Responsabil de îndeplinirea prevederilor prezentului -ordin se desemnează E.Grecu, specialist principal, direcția managementul curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 226.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666667,
+            "r": 544.6666666666667,
+            "t": 259.2933333333333
+          },
+          "charspan": [
+            0,
+            148
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Responsabil de îndeplinirea prevederilor prezentului -ordin se desemnează E.Grecu, specialist principal, direcția managementul curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Monitorizarea realizării prezentului ordinrevine V. Crudu, sef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 178.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.33333333333333,
+            "r": 491.0,
+            "t": 201.96000000000004
+          },
+          "charspan": [
+            0,
+            81
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Monitorizarea realizării prezentului ordinrevine V. Crudu, sef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: E. Grecu 022235272",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 130.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.66666666666666,
+            "r": 213.33333333333334,
+            "t": 143.62666666666678
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Ex.: E. Grecu 022235272"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Muel",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 118.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 238.66666666666666,
+            "r": 325.33333333333337,
+            "t": 146.2933333333333
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Muel"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "co",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 126.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 156.0,
+            "r": 172.33333333333331,
+            "t": 132.2933333333333
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "co"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chisinăte RepubficaMoldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun/ugman.com",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 85.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.33333333333334,
+            "r": 455.0,
+            "t": 116.2933333333333
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chisinăte RepubficaMoldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun/ugman.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "adjunct DGETS",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 148.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 462.6666666666667,
+            "r": 543.6666666666667,
+            "t": 163.96000000000004
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "adjunct DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 136.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 450.3333333333333,
+            "r": 543.3333333333333,
+            "t": 149.96000000000004
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 596.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 286.0,
+            "r": 338.0,
+            "t": 612.96
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nr/",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 673.0890283203125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 41.20374933878581,
+            "r": 63.96375020345052,
+            "t": 690.8309665934245
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Nr/"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa la ordinul nr.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 757.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 191.66666666666666,
+            "r": 316.66666666666663,
+            "t": 778.6266666666667
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Anexa la ordinul nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "一",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 760.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 328.66666666666663,
+            "r": 346.0,
+            "t": 778.96
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "一"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "7",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 763.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 342.0,
+            "r": 356.33333333333337,
+            "t": 776.96
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "7"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "509",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 759.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 361.33333333333337,
+            "r": 393.33333333333337,
+            "t": 778.96
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "509"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din 2 3.",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 756.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 404.66666666666663,
+            "r": 452.3333333333333,
+            "t": 773.2933333333334
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "din 2 3."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "042026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 751.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 450.0,
+            "r": 497.0,
+            "t": 777.96
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "042026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Liderii clasamentului dela etapa municipală a olimpiadei la științe, delegațila olimpiada republicană, ediția 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 694.0245141601563,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 150.38062540690103,
+            "r": 483.6012369791667,
+            "t": 729.8632255808512
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "Liderii clasamentului dela etapa municipală a olimpiadei la științe, delegațila olimpiada republicană, ediția 2026"
+    }
+  ],
+  "version": "1.10.0"
+}

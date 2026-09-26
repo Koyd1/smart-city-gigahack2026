@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "36effb218d5544a373840b45fce775ce94237b16e134fa142204a9caaf329bbe",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1789716812_o-viata.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "4610450",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 06:43:01 GMT",
+    "Etag": "\"6aace94c-465992\"",
+    "Last-Modified": "Fri, 18 Sep 2026 07:33:32 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/36effb218d5544a373840b45fce775ce94237b16e134fa142204a9caaf329bbe.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1789716812_o-viata.pdf",
+  "retrieved_at": "2026-09-26T06:43:21.954065+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

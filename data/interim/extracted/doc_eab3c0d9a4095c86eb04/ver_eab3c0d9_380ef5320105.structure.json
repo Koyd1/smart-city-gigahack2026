@@ -1,0 +1,1229 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/25"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/texts/31"
+      },
+      {
+        "$ref": "#/texts/32"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/pictures/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "ac9288eefd310d92f68801dcb2e16daa359824fe0728839c4075b1057388feb5",
+  "origin": {
+    "binary_hash": 4644813227673845429,
+    "filename": "ac9288eefd310d92f68801dcb2e16daa359824fe0728839c4075b1057388feb5.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 746.2619286006243,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 272.3698934659091,
+            "r": 384.5390027225379,
+            "t": 818.9209996789305
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        },
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 646.9109718248366,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.32636482007575,
+            "r": 326.20586470170457,
+            "t": 683.7360940286861
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 376.65725531361477,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 383.639794921875,
+            "r": 497.4120001775568,
+            "t": 491.7506273688318
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINĂU DIRECTIA GENERALÀ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 697.6601037597657,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 194.83125813802081,
+            "r": 483.5625,
+            "t": 745.3491143798828
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINĂU DIRECTIA GENERALÀ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01/121913sin 29 03 26",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 651.8486108398438,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.4937515258789,
+            "r": 326.10626220703125,
+            "t": 686.0194787597657
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "01/121913sin 29 03 26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 659.7342004394532,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.16875076293945,
+            "r": 113.7062505086263,
+            "t": 670.2483097330729
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.5673608398438,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 293.65625,
+            "r": 357.45001220703125,
+            "t": 644.7140486653647
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la repartizarea biletelor în taberele de odihnă în sezonul estival",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 569.9887475585938,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.32500076293945,
+            "r": 285.17500813802087,
+            "t": 617.3022444661459
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Cu privire la repartizarea biletelor în taberele de odihnă în sezonul estival"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul Instrucțiunii cu privire la organizarea odihnei, recreerii și întremării copiilor și adolescenților în perioada vacanței de vară, aprobată prin Decizia Consiliului Municipal Chişinău nr. 5/11 din 15.07.2021, anexa nr.1, Regulamentului privind organizarea și desfăşurarea odihnei de vară cu stabilirea atribuțiilor, responsabilităților și rigorilor aferente evidenței, monitorizării și raportării modului de valorificare a biletelor de odihnă și utilizare a mijloacelor financiare\", aprobat prin Decizia Consiliului Municipal Chişinău nr. 3/13 din 05.07.2019, anexa 6, în scopul realizării prevederilor Deciziei Consiliului Municipal Chişinău nr. 3/2 din 29.05.2026Cu privire la organizarea întremării și odihnei elevilor în vara anului 2026\", a ordinului DGETS nr. 01/1-7/912 din 29.05.26, organizăriiși desfăşurării odihnei de vară a copiilor în sezonul estival 2026,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 360.45751790364585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.85000038146973,
+            "r": 552.1500244140625,
+            "t": 555.3440738932293
+          },
+          "charspan": [
+            0,
+            879
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "În temeiul Instrucțiunii cu privire la organizarea odihnei, recreerii și întremării copiilor și adolescenților în perioada vacanței de vară, aprobată prin Decizia Consiliului Municipal Chişinău nr. 5/11 din 15.07.2021, anexa nr.1, Regulamentului privind organizarea și desfăşurarea odihnei de vară cu stabilirea atribuțiilor, responsabilităților și rigorilor aferente evidenței, monitorizării și raportării modului de valorificare a biletelor de odihnă și utilizare a mijloacelor financiare\", aprobat prin Decizia Consiliului Municipal Chişinău nr. 3/13 din 05.07.2019, anexa 6, în scopul realizării prevederilor Deciziei Consiliului Municipal Chişinău nr. 3/2 din 29.05.2026Cu privire la organizarea întremării și odihnei elevilor în vara anului 2026\", a ordinului DGETS nr. 01/1-7/912 din 29.05.26, organizăriiși desfăşurării odihnei de vară a copiilor în sezonul estival 2026,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 343.93534179687504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 309.51251220703125,
+            "r": 372.5687662760417,
+            "t": 360.0819889322917
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Eliberarea biletelor de odihnă în sezonul estival 2026 se va realiza în conformitate cu prevederile Regulamentului privind organizarea și desfășurarea odihnei de vară cu stabilirea atribuțiilor, responsabilităților și rigorilor aferente evidenței, monitorizării şi raportării modului de valorificare a biletelor de odihnă și utilizare a mijloacelor financiare\", în instituțiile de învățământ.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 239.54520507812504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.1125005086263,
+            "r": 552.8875325520833,
+            "t": 336.4252506510417
+          },
+          "charspan": [
+            0,
+            395
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Eliberarea biletelor de odihnă în sezonul estival 2026 se va realiza în conformitate cu prevederile Regulamentului privind organizarea și desfășurarea odihnei de vară cu stabilirea atribuțiilor, responsabilităților și rigorilor aferente evidenței, monitorizării şi raportării modului de valorificare a biletelor de odihnă și utilizare a mijloacelor financiare\", în instituțiile de învățământ."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se implementează aplicația electronică Tabere - 2026\" pentru înregistrarea beneficiarilor de biletele de odihnă în taberele constante, cu sejur de zi, sportive.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 190.35416503906254,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.48125012715657,
+            "r": 551.0437825520833,
+            "t": 239.92069335937504
+          },
+          "charspan": [
+            0,
+            163
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se implementează aplicația electronică Tabere - 2026\" pentru înregistrarea beneficiarilor de biletele de odihnă în taberele constante, cu sejur de zi, sportive."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Conducătorii instituțiilor de învățământ din subordine:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 171.5789778645834,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 132.8812510172526,
+            "r": 457.75,
+            "t": 190.35416503906254
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Conducătorii instituțiilor de învățământ din subordine:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. vor desemna prin ordin persoana responsabilă de: prezentarea listei solicitanților de bilete în taberele de odihnă, introducerea datelor în aplicația Tabere - 2026\", evidența biletelor primite, transmiterea bonului de plată pentru fiecare solicitant și achitarea lor, prezentarea dosarelor pentru biletele gratuite, eliberarea biletelor de odihnă;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 92.34761393229167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.21875063578288,
+            "r": 550.6750081380208,
+            "t": 174.5830061848959
+          },
+          "charspan": [
+            0,
+            352
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "vor desemna prin ordin persoana responsabilă de: prezentarea listei solicitanților de bilete în taberele de odihnă, introducerea datelor în aplicația Tabere - 2026\", evidența biletelor primite, transmiterea bonului de plată pentru fiecare solicitant și achitarea lor, prezentarea dosarelor pentru biletele gratuite, eliberarea biletelor de odihnă;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. vor prezenta copia ordinului de numire a persoanei responsabile până la 05.06.26 la DGETS, bir. 22, 16, 14;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 751.9610096232096,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.4011624654134,
+            "r": 554.3880615234375,
+            "t": 786.0421577707926
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "vor prezenta copia ordinului de numire a persoanei responsabile până la 05.06.26 la DGETS, bir. 22, 16, 14;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.5.",
+      "orig": "3.5. vor asigura procesarea datelor cu caracter personal în conformitate cu normele legale;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 671.4055668131512,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.05668640136719,
+            "r": 553.6991373697917,
+            "t": 704.1096988932293
+          },
+          "charspan": [
+            0,
+            91
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "vor asigura procesarea datelor cu caracter personal în conformitate cu normele legale;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.4.",
+      "orig": "3.4. vor asigura, repartizarea biletelor disponibile elevilor din instituțiile subordonate: până la data de 02.06.26, primul și al doilea schimb, și până la data de 10.06.26 următoarele schimburi;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 703.4211918131512,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.7122090657552,
+            "r": 553.6991373697917,
+            "t": 753.3380263264975
+          },
+          "charspan": [
+            0,
+            196
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "vor asigura, repartizarea biletelor disponibile elevilor din instituțiile subordonate: până la data de 02.06.26, primul și al doilea schimb, și până la data de 10.06.26 următoarele schimburi;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.6.",
+      "orig": "3.6. vor informa comunitatea elevilor si părinților despre oferta educațională pentru sezonul estival 2026 în municipiul Chişinău constituită din Programe subvenționate de către APL.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 621.4887475585938,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.67877833048503,
+            "r": 553.6991373697917,
+            "t": 671.7498254394532
+          },
+          "charspan": [
+            0,
+            182
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "vor informa comunitatea elevilor si părinților despre oferta educațională pentru sezonul estival 2026 în municipiul Chişinău constituită din Programe subvenționate de către APL."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.1.",
+      "orig": "4.1. vor asigura repartizarea biletelor de odihnă instituțiilor din subordine, conform solicitărilor, în temeiul ord. DGETS nr.01/1-7/9128 din 29.05.26, şi a numărului de bilete disponibil pentru fiecare tabără și schimb;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 523.7205997721355,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.9898255666097,
+            "r": 553.0101725260417,
+            "t": 575.014443359375
+          },
+          "charspan": [
+            0,
+            221
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "vor asigura repartizarea biletelor de odihnă instituțiilor din subordine, conform solicitărilor, în temeiul ord. DGETS nr.01/1-7/9128 din 29.05.26, şi a numărului de bilete disponibil pentru fiecare tabără și schimb;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Direcția managementul economico-financiar și evidența patrimoniului, Svetlana Ignatieva, Direcțiile educație, tineret și sport din sectoare, Musteață Ion, Spînu Rodica, Rău Valentina, Alexandr Votcariov:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 572.9489119466147,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.67877833048503,
+            "r": 553.0101725260417,
+            "t": 622.5215030924479
+          },
+          "charspan": [
+            0,
+            206
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Direcția managementul economico-financiar și evidența patrimoniului, Svetlana Ignatieva, Direcțiile educație, tineret și sport din sectoare, Musteață Ion, Spînu Rodica, Rău Valentina, Alexandr Votcariov:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2.",
+      "orig": "4.2. vor primi biletele de odihnă în baza actului de primire - predare și vor repartiza biletele către instituții în baza actului de predare - primire, înregistrând aceste acte în registru separat;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 477.2462955729167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.9898255666097,
+            "r": 552.3212076822917,
+            "t": 526.81888671875
+          },
+          "charspan": [
+            0,
+            197
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "vor primi biletele de odihnă în baza actului de primire - predare și vor repartiza biletele către instituții în baza actului de predare - primire, înregistrând aceste acte în registru separat;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.",
+      "orig": "4.3. vor asigura validarea listelor în timp de 24 de ore de la primirea lor din instituție;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 446.60770507812504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.67877833048503,
+            "r": 551.9767252604167,
+            "t": 478.62333007812504
+          },
+          "charspan": [
+            0,
+            91
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "vor asigura validarea listelor în timp de 24 de ore de la primirea lor din instituție;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.4.",
+      "orig": "4.4. vor informa, în regim de urgență, responsabilul din instituție despre eventuala excludere a persoanelor din listă;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 412.8708072916667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.6453488667806,
+            "r": 551.9767252604167,
+            "t": 446.60770507812504
+          },
+          "charspan": [
+            0,
+            119
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "vor informa, în regim de urgență, responsabilul din instituție despre eventuala excludere a persoanelor din listă;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.6.",
+      "orig": "4.6. vor informa conducerea DGETS despre orice caz de nerespectare a prevederilor prezentului ordin.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 284.8083072916668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.61191876729329,
+            "r": 551.2878011067708,
+            "t": 318.20096679687504
+          },
+          "charspan": [
+            0,
+            100
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "vor informa conducerea DGETS despre orice caz de nerespectare a prevederilor prezentului ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.5.",
+      "orig": "4.5. vor conlucra cu responsabilii din instituțiile de învățământ în vederea monitorizării solicitărilor și eliberării biletelor repartizate pentru fiecare instituție, corectitudinii completării dosarelor pentru biletele cu titlu gratuit și prezentarea copiei autentificate de către directorul instituției de învățământ a listelor elevilor pentru biletele cu titlu gratuit la DETS sectorul Centru si DETS sectorul Botanica, asigurării protecției datelor cu caracter personal.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 313.7256656901043,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.61191876729329,
+            "r": 551.9767252604167,
+            "t": 414.93631835937504
+          },
+          "charspan": [
+            0,
+            475
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "vor conlucra cu responsabilii din instituțiile de învățământ în vederea monitorizării solicitărilor și eliberării biletelor repartizate pentru fiecare instituție, corectitudinii completării dosarelor pentru biletele cu titlu gratuit și prezentarea copiei autentificate de către directorul instituției de învățământ a listelor elevilor pentru biletele cu titlu gratuit la DETS sectorul Centru si DETS sectorul Botanica, asigurării protecției datelor cu caracter personal."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Conducătorii școlilor sportive, vor informa, până la data de 02.06.2026, conducătorii instituțiilor de învățământ primar, secundar ciclul I, II, despre elevii din instituție care vor beneficia de bilete din cadrul şcolilor sportive.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 232.82596679687504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.26744206746419,
+            "r": 550.5988362630208,
+            "t": 285.4968245442708
+          },
+          "charspan": [
+            0,
+            235
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Conducătorii școlilor sportive, vor informa, până la data de 02.06.2026, conducătorii instituțiilor de învățământ primar, secundar ciclul I, II, despre elevii din instituție care vor beneficia de bilete din cadrul şcolilor sportive."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Şeful Direcției managementul economico-financiar și evidența patrimoniului, Svetlana Ignatieva, șefi DETS din sectoare: Musteața Ion, Valentina Rău, Alexandr Votcariov, şefă interimară Spînu Rodica, conducătorii instituțiilordeînvățământ, , vor asigura evidența biletelor",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 118.87788736979167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.57848803202312,
+            "r": 550.2543538411458,
+            "t": 188.41719401041667
+          },
+          "charspan": [
+            0,
+            274
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Şeful Direcției managementul economico-financiar și evidența patrimoniului, Svetlana Ignatieva, șefi DETS din sectoare: Musteața Ion, Valentina Rău, Alexandr Votcariov, şefă interimară Spînu Rodica, conducătorii instituțiilordeînvățământ, , vor asigura evidența biletelor"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Direcția managementul învățământului extrașcolar, tineret și sport, Chiriac Angela, specialist principal, va elabora ordinele de deplasare a școlilor sportive în taberele sportive.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 186.6959212239584,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.92296473185222,
+            "r": 550.2543538411458,
+            "t": 236.26851236979167
+          },
+          "charspan": [
+            0,
+            183
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Direcția managementul învățământului extrașcolar, tineret și sport, Chiriac Angela, specialist principal, va elabora ordinele de deplasare a școlilor sportive în taberele sportive."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "repartizate, conform documentelor confirmative a persoanelor responsabile de eliberarea biletelor de odihnă, inclusiv, și în aplicația electronică Tabere - 2025\".",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 706.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.0,
+            "r": 553.3333333333333,
+            "t": 753.2933333333334
+          },
+          "charspan": [
+            0,
+            162
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "repartizate, conform documentelor confirmative a persoanelor responsabile de eliberarea biletelor de odihnă, inclusiv, și în aplicația electronică Tabere - 2025\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. A desemna responsabili de realizarea prevederilor prezentului ordin conducătorii instituțiilor de învățământ primar, secundar ciclul I, II, şefii DETS din sectoare: Ion Musteața, Valentina Rău, Alexandr Votcariov, şefa interimară Spînu Rodica, șeful Direcției managementul economico-financiar și evidența patrimoniului, Svetlana Ignatieva, şeful Direcției managementul învățământului extraşcolar, tineret și sport, Silvia Butuc-Canațui.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 604.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.0,
+            "r": 553.0,
+            "t": 704.6266666666667
+          },
+          "charspan": [
+            0,
+            439
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "A desemna responsabili de realizarea prevederilor prezentului ordin conducătorii instituțiilor de învățământ primar, secundar ciclul I, II, şefii DETS din sectoare: Ion Musteața, Valentina Rău, Alexandr Votcariov, şefa interimară Spînu Rodica, șeful Direcției managementul economico-financiar și evidența patrimoniului, Svetlana Ignatieva, şeful Direcției managementul învățământului extraşcolar, tineret și sport, Silvia Butuc-Canațui."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. Controlul realizării prevederilor prezentului ordin mi-l asum.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 586.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 135.66666666666666,
+            "r": 500.3333333333333,
+            "t": 606.96
+          },
+          "charspan": [
+            0,
+            65
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Controlul realizării prevederilor prezentului ordin mi-l asum."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Şef adjunct al DGETS",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 492.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 412.6666666666667,
+            "r": 542.6666666666666,
+            "t": 508.96000000000004
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Şef adjunct al DGETS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "reiPAVALOI",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 461.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 461.6666666666667,
+            "r": 545.0,
+            "t": 475.29333333333335
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "reiPAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex. Raisa Stratulat,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 177.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.33333333333333,
+            "r": 163.66666666666669,
+            "t": 188.2933333333334
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "Ex. Raisa Stratulat,"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": ".022-232333",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 162.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 104.0,
+            "r": 157.0,
+            "t": 174.96000000000004
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": ".022-232333"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 133.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 158.66666666666669,
+            "r": 492.3333333333333,
+            "t": 164.2933333333334
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

@@ -1,0 +1,81 @@
+---
+document_id: "doc_57cbb89e0d18cede38d8"
+version_id: "ver_57cbb89e_5d3783e9414d"
+title: "1775625987_ordin-nr-01-1-7-455-din-06042026-organizarea-si-desfasurarea-testarii-nationale-in-invatamantul-primar-anul-scolar-2025-2026.pdf"
+source_url: "https://chisinauedu.dgets.md/storage/orders/1775625987_ordin-nr-01-1-7-455-din-06042026-organizarea-si-desfasurarea-testarii-nationale-in-invatamantul-primar-anul-scolar-2025-2026.pdf"
+retrieved_at: "2026-09-26T07:17:12.048638+00:00"
+content_sha256: "5d3783e9414d2fd603a4540a6c7ddbc5c2f5a387c4e74a3ccf783fe55e87dafa"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+<!-- image -->
+
+## CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT
+
+<!-- image -->
+
+## ORDIN
+
+Ref.: Organizarea și desfăşurarea testării naționale în învățământulprimar, anulşcolar 2025-2026
+
+Întru realizarea prevederilor Metodologiei de organizare și desfăşurare a testării naționale în învățământul primar", aprobată prin Ordinul MECC nr.1572 din 23.10.2018, modificatăprin Ordinele nr.1811/2024, nr. 2081/2025și în scopul asigurării condițiilor optime pentru desfăşurarea și susținerea eficientă a testării naționale de către toți candidații,
+
+1. Se organizează testarea națională a elevilor din clasa a IV-a în conformitate cu orarul aprobat prin ordinulMEC nr.1782 din 17.10.2025 cu privire la examenele de absolvire, anul de studii2025-2026:
+
+## ORDON:
+
+|   Nr. d/0 | Proba de evaluare                                    | Data           |
+|-----------|------------------------------------------------------|----------------|
+|        1. | Limba și literatura română (alolingvi) – probă orală | 12 mai (marți) |
+|        2. | Matematică                                           | 14 mai (joi)   |
+|        3. | Limba de instruire                                   | 19 mai (marți) |
+|        4. | Limba și literatura maternă (ucraineană/bulgară)     | 21 mai (joi)   |
+
+2. Direcția managementul curricular (S. Axînti, șef) va:
+- 2.2. primi, în varianta electronică, de la Agenția Națională pentru Curriculum și Evaluare testele și baremele de corectare și le va transmite către instituțiile de învățământ din subordine;
+- 2.1. monitoriza organizarea și desfăşurarea testării naționale în învățământul primar;
+- 2.3. acumula și va sistematiza datele din centralizatoarele parvenite de la instituțiile de învățământ și le va transmite, în următoarele trei zile de la susținerea probei, punctajele cumulative (numărul de elevi cu același număr de puncte) Agenției Naționale pentru Curriculum și Evaluare;
+- 2.5. elabora și vor transmite Agenției Naționale pentru Curriculum și Evaluare până la 30 iunie 2026 raportul final, în conformitate cu Anexa nr.2 la Metodologie.
+- 2.4. analiza modul de desfăşurare a testării naționale în instituțiile de învățământ din subordine și rezultatele acestora ca indicatori de impact a calității procesului educațional;
+
+<!-- page: 2 -->
+
+3. Directorii instituțiilor de învățământ vor:
+- 3.2. aduce, contra semnătură, la cunoştința cadrelor didactice și părinților prevederile metodologei;
+- 3.1. organiza și vor desfăşura, în conformitate cu prevederile metodologiei, testarea națională în instituția de învățământ respectivă;
+- 3.3. explica tuturor persoanelor implicate modalitatea de organizare și desfáşurare a testării naționaleîn învățământul primar;
+- 3.5. constitui și vor aproba, prin ordin scris, comisia şcolară de evaluare din care fac parte învățători/profesori la disciplină, cu excepția învățătorului de la clasa datăși lista asistenților;
+- 3.4. primi, în varianta electronică, de la DGETS testele și baremele pentru testarea națională, vor multiplica numărul necesar de teste și vor asigura securitatea acestora;
+- 3.6. instrui cadrele didactice desemnate în calitate de asistenți și vor asigura prezența și repartizarea acestora în sălile unde se desfăşoară testarea, prin tragerea la sorți, în ziua probei de la testarea națională;
+- 3.8. aproba lista elevilor care participă la testarea națională, pe clase, în ordine alfabetică;
+- 3.7. preîntâmpina, sub orice formă, modalitate, acumulările de bani pentru organizarea și desfăşurarea testării naționale în învățământul primar;
+- 3.9. acumula șivor transmite punctajele cumulative (numărul de elevi cu același număr de puncte) în format electronic la adresa de e-mail tdemcenco@gmail.com în ziua următoare fiecărei probei de testare;
+- 3.10. analiza rezultatele finale ale elevilor din învățământul primar, elaborând, în conformitate cu Anexa nr.1 la Metodologie, raportul final cu privire la organizareași desfășurarea testării naționale pe care îl vor prezinta (varianta scrisă confirmată prin semnătura directorului și ștampila instituției de învățământ) până la 27 mai 2026 la DGETS, direcției managementul curricular, în bir. nr.4 (T. Demcenco).
+4. Asistenții vor:
+- 4.1. asigura desfăşurarea regulamentară a testării naționale în sala în care au fost repartizați;
+- 4.2. verifica aranjarea elevilor în bănci, conform ordinii stabilite prin listele aprobate de către administrația instituției de învățământ;
+- 4.3. primi, sub semnătură, de la administrația instituției de învățământ testele și maculatoarele (o foaie A4, documentată cu ștampila instituției respective) și le vor repartiza elevilor o singură dată înainte de începutul probei;
+- 4.5. închide, prin dublă îndoire, colțul drept de sus al foii de titlu al testului, lipindu-l, ulterior, cu o bandă adezivă transparentă;
+- 4.4. asigura securitatea subiectelor din testele elevilor, din momentul primirii până la predarea lor Preşedintelui Comisiei școlare de evaluare;
+- 4.6. fixa, pe tablă, ora de început și de sfârșit a timpului rezervat pentru realizarea subiectelor din test;
+- 4.7. închide prin Z"spațiile libere pe toate paginile din test, la predare probei de către elev, în prezența lui;
+
+<!-- page: 3 -->
+
+- 4.8. preda, subsemnătură, Preşedintelui Comisiei şcolare de evaluare testele scrise, testele neutilizate, prin proces-verbal;
+- 5.1. asigura instruirea învățătorilor/ profesorilor-evaluatori cu privire la aplicarea baremului de corectare;
+5. Preşedintele Comisiei şcolare de evaluare va:
+- 5.2. codifica și va transmite spre verificare învățătorilor/profesorilor evaluatori testele scrise ale elevilor;
+- 5.3. asigura respectarea de către învățătorii/profesorii-evaluatori a baremuluide corectare.
+6. Se desemnează responsabili de îndeplinirea prevederilor ordinului dat T. Demcenco, specialist principal, DGETS și directorii instituțiilor de învățământ participante la testare.
+8. Monitorizarea executării prezentului ordin revine V. Crudu, șef adjunct, DGETS.
+7. Controlul realizării prevederilor prezentului ordin revine S. Axînti, şef direcție managementul curricular.
+
+<!-- image -->

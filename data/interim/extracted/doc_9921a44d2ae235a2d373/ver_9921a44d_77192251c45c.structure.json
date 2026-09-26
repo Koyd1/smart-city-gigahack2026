@@ -1,0 +1,2004 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/21"
+      },
+      {
+        "$ref": "#/texts/22"
+      },
+      {
+        "$ref": "#/tables/0"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "30f7755a22cff9c130038c37755aaa8e7c706ce63b597a13289f30776d95d293",
+  "origin": {
+    "binary_hash": 2927111572311888531,
+    "filename": "30f7755a22cff9c130038c37755aaa8e7c706ce63b597a13289f30776d95d293.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 719.1262588500977,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.63265991210938,
+            "r": 193.00917053222656,
+            "t": 802.6658782958984
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 46.957275390625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 251.66146850585938,
+            "r": 321.591064453125,
+            "t": 106.11474609375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 152.89213053385419,
+                "coord_origin": "TOPLEFT",
+                "l": 78.15988413492839,
+                "r": 127.84157307942708,
+                "t": 137.87196858723956
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Perioada"
+            },
+            {
+              "bbox": {
+                "b": 156.27166748046875,
+                "coord_origin": "TOPLEFT",
+                "l": 295.9375,
+                "r": 407.6279296875,
+                "t": 140.125
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Conținutul activității"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 176.54888916015625,
+                "coord_origin": "TOPLEFT",
+                "l": 274.64534505208337,
+                "r": 341.5101725260417,
+                "t": 159.2757059733073
+              },
+              "col_span": 2,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": true,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "Prima etapă"
+            },
+            {
+              "bbox": {
+                "b": 176.54888916015625,
+                "coord_origin": "TOPLEFT",
+                "l": 274.64534505208337,
+                "r": 341.5101725260417,
+                "t": 159.2757059733073
+              },
+              "col_span": 2,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": true,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "Prima etapă"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 205.83819580078125,
+                "coord_origin": "TOPLEFT",
+                "l": 69.94186147054036,
+                "r": 135.68605041503906,
+                "t": 176.54888916015625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "01-29 aprilie 2026"
+            },
+            {
+              "bbox": {
+                "b": 223.86238606770834,
+                "coord_origin": "TOPLEFT",
+                "l": 147.2659912109375,
+                "r": 551.0697835286458,
+                "t": 178.0509033203125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Depunerea cererilor pentru concursul de înscriere a elevilor în clasa a V-a cu profil arte și sport, clase bilingve și in instituțiile care nu au în structură învățământ primar dar numărul de cereri depăşeşte numārul de locuri disponibile.'"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 251.64969889322916,
+                "coord_origin": "TOPLEFT",
+                "l": 70.6889533996582,
+                "r": 134.19186401367188,
+                "t": 222.73588053385416
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "30 aprilie – 03mai2026"
+            },
+            {
+              "bbox": {
+                "b": 270.42488606770837,
+                "coord_origin": "TOPLEFT",
+                "l": 146.89244588216144,
+                "r": 550.6962483723958,
+                "t": 223.48689778645834
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Emiterea deciziei OLSDI cu privire la organizarea testării elevilor înscriși in concursul de inmatriculare în clasa a V-a in instituțiile care nu au în structură invāțământ primar dar numărul de cereri depäşeşte numărul de locuri disponibile."
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 300.4652099609375,
+                "coord_origin": "TOPLEFT",
+                "l": 75.54505920410156,
+                "r": 128.21511840820312,
+                "t": 271.1759033203125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "04-08 mai 2026"
+            },
+            {
+              "bbox": {
+                "b": 377.44354248046875,
+                "coord_origin": "TOPLEFT",
+                "l": 145.39825439453125,
+                "r": 550.6962483723958,
+                "t": 274.5554402669271
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Organizarea probelor de concurs: 1) probe de aptitudini pentru instituțiile de învățământ general cu profil arte și sport; 2) testare pentru elevii participanți la concursul de înscriere în clasele bilingve din instituțiile de invățāmânt general; 3) in instituțiile de invățământ in care nu au învățământ primar, dar au un număr mai mare de solicitanți decât numărul de locuri disponibile."
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 392.0881754557292,
+                "coord_origin": "TOPLEFT",
+                "l": 64.33866310119629,
+                "r": 127.09447733561198,
+                "t": 377.0680338541667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "15 mai 2026"
+            },
+            {
+              "bbox": {
+                "b": 394.7167154947917,
+                "coord_origin": "TOPLEFT",
+                "l": 146.89244588216144,
+                "r": 344.49855550130206,
+                "t": 378.57004801432294
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "Afişarea rezultatelor probelor de testare."
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 410.4878743489583,
+                "coord_origin": "TOPLEFT",
+                "l": 63.96511650085449,
+                "r": 126.34738667805989,
+                "t": 395.4677327473958
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 6,
+              "text": "18 mai 2026"
+            },
+            {
+              "bbox": {
+                "b": 466.8134765625,
+                "coord_origin": "TOPLEFT",
+                "l": 145.7717997233073,
+                "r": 550.3226725260417,
+                "t": 396.59423828125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 6,
+              "text": "Afişarea listei elevilor inscrişi in clasa a V-a, anul de studii 2026-2027, in instituțiile care nu au in structurā inväțämânt primar, dar au organizat testare, in clasele bilingve și in clasele cu profil arte și sport. Postarea pe pagina web a și in instituțiile de invățământ și a OLSDÎ a numărului de locuri rămase libere."
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 485.5887044270833,
+                "coord_origin": "TOPLEFT",
+                "l": 264.93314615885413,
+                "r": 337.77471923828125,
+                "t": 469.0665283203125
+              },
+              "col_span": 2,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": true,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 7,
+              "text": "A doua etapă"
+            },
+            {
+              "bbox": {
+                "b": 485.5887044270833,
+                "coord_origin": "TOPLEFT",
+                "l": 264.93314615885413,
+                "r": 337.77471923828125,
+                "t": 469.0665283203125
+              },
+              "col_span": 2,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": true,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 7,
+              "text": "A doua etapă"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 512.625,
+                "coord_origin": "TOPLEFT",
+                "l": 62.09738413492838,
+                "r": 115.51453653971353,
+                "t": 483.711181640625
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 8,
+              "text": "19-26 mai 2026"
+            },
+            {
+              "bbox": {
+                "b": 516.7555338541667,
+                "coord_origin": "TOPLEFT",
+                "l": 145.7717997233073,
+                "r": 550.3226725260417,
+                "t": 484.4621988932292
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 8,
+              "text": "Depunerea cererilor pentru concursul de Înscriere a elevilor in clasa a V-a in clasele bilingve și in clasele cu profil arte și sport la locurile rämase libere"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 544.5428059895833,
+                "coord_origin": "TOPLEFT",
+                "l": 61.723837534586586,
+                "r": 115.51453653971353,
+                "t": 514.5024820963542
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 9,
+              "text": "27-29 mai 2026"
+            },
+            {
+              "bbox": {
+                "b": 560.6894938151041,
+                "coord_origin": "TOPLEFT",
+                "l": 143.156982421875,
+                "r": 549.2020670572917,
+                "t": 516.3800048828125
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 9,
+              "text": "Organizarea probelor de concurs la locurile rămase libere: 1) probe de aptitudini pentru instituțiile de învățämânt general cu profil arte și sport; 2) testare pentru cei din clasele bilingve."
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 573.8321533203125,
+                "coord_origin": "TOPLEFT",
+                "l": 66.57994206746419,
+                "r": 136.05959574381512,
+                "t": 558.8119710286458
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 10,
+              "text": "02 iunie 2026"
+            },
+            {
+              "bbox": {
+                "b": 577.587158203125,
+                "coord_origin": "TOPLEFT",
+                "l": 143.156982421875,
+                "r": 347.11338297526044,
+                "t": 560.3140055338541
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 10,
+              "text": "Afişarea rezultatelor probelor de concurs."
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 594.48486328125,
+                "coord_origin": "TOPLEFT",
+                "l": 66.20639546712239,
+                "r": 136.43314107259113,
+                "t": 579.4646809895834
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 11,
+              "text": "04 iunie 2026"
+            },
+            {
+              "bbox": {
+                "b": 612.509033203125,
+                "coord_origin": "TOPLEFT",
+                "l": 145.39825439453125,
+                "r": 549.5756022135417,
+                "t": 580.5912272135416
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 11,
+              "text": "Afişarea listei elevilor inscrişi în clasa a V-a, în anul de studii 2026 – 2027, in clasele bilingve și in clasele cu profil arte și sport."
+            }
+          ]
+        ],
+        "num_cols": 2,
+        "num_rows": 12,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 152.89213053385419,
+              "coord_origin": "TOPLEFT",
+              "l": 78.15988413492839,
+              "r": 127.84157307942708,
+              "t": 137.87196858723956
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Perioada"
+          },
+          {
+            "bbox": {
+              "b": 156.27166748046875,
+              "coord_origin": "TOPLEFT",
+              "l": 295.9375,
+              "r": 407.6279296875,
+              "t": 140.125
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Conținutul activității"
+          },
+          {
+            "bbox": {
+              "b": 176.54888916015625,
+              "coord_origin": "TOPLEFT",
+              "l": 274.64534505208337,
+              "r": 341.5101725260417,
+              "t": 159.2757059733073
+            },
+            "col_span": 2,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": true,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "Prima etapă"
+          },
+          {
+            "bbox": {
+              "b": 205.83819580078125,
+              "coord_origin": "TOPLEFT",
+              "l": 69.94186147054036,
+              "r": 135.68605041503906,
+              "t": 176.54888916015625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "01-29 aprilie 2026"
+          },
+          {
+            "bbox": {
+              "b": 223.86238606770834,
+              "coord_origin": "TOPLEFT",
+              "l": 147.2659912109375,
+              "r": 551.0697835286458,
+              "t": 178.0509033203125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Depunerea cererilor pentru concursul de înscriere a elevilor în clasa a V-a cu profil arte și sport, clase bilingve și in instituțiile care nu au în structură învățământ primar dar numărul de cereri depăşeşte numārul de locuri disponibile.'"
+          },
+          {
+            "bbox": {
+              "b": 251.64969889322916,
+              "coord_origin": "TOPLEFT",
+              "l": 70.6889533996582,
+              "r": 134.19186401367188,
+              "t": 222.73588053385416
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "30 aprilie – 03mai2026"
+          },
+          {
+            "bbox": {
+              "b": 270.42488606770837,
+              "coord_origin": "TOPLEFT",
+              "l": 146.89244588216144,
+              "r": 550.6962483723958,
+              "t": 223.48689778645834
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Emiterea deciziei OLSDI cu privire la organizarea testării elevilor înscriși in concursul de inmatriculare în clasa a V-a in instituțiile care nu au în structură invāțământ primar dar numărul de cereri depäşeşte numărul de locuri disponibile."
+          },
+          {
+            "bbox": {
+              "b": 300.4652099609375,
+              "coord_origin": "TOPLEFT",
+              "l": 75.54505920410156,
+              "r": 128.21511840820312,
+              "t": 271.1759033203125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "04-08 mai 2026"
+          },
+          {
+            "bbox": {
+              "b": 377.44354248046875,
+              "coord_origin": "TOPLEFT",
+              "l": 145.39825439453125,
+              "r": 550.6962483723958,
+              "t": 274.5554402669271
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Organizarea probelor de concurs: 1) probe de aptitudini pentru instituțiile de învățământ general cu profil arte și sport; 2) testare pentru elevii participanți la concursul de înscriere în clasele bilingve din instituțiile de invățāmânt general; 3) in instituțiile de invățământ in care nu au învățământ primar, dar au un număr mai mare de solicitanți decât numărul de locuri disponibile."
+          },
+          {
+            "bbox": {
+              "b": 392.0881754557292,
+              "coord_origin": "TOPLEFT",
+              "l": 64.33866310119629,
+              "r": 127.09447733561198,
+              "t": 377.0680338541667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "15 mai 2026"
+          },
+          {
+            "bbox": {
+              "b": 394.7167154947917,
+              "coord_origin": "TOPLEFT",
+              "l": 146.89244588216144,
+              "r": 344.49855550130206,
+              "t": 378.57004801432294
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "Afişarea rezultatelor probelor de testare."
+          },
+          {
+            "bbox": {
+              "b": 410.4878743489583,
+              "coord_origin": "TOPLEFT",
+              "l": 63.96511650085449,
+              "r": 126.34738667805989,
+              "t": 395.4677327473958
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 6,
+            "text": "18 mai 2026"
+          },
+          {
+            "bbox": {
+              "b": 466.8134765625,
+              "coord_origin": "TOPLEFT",
+              "l": 145.7717997233073,
+              "r": 550.3226725260417,
+              "t": 396.59423828125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 6,
+            "text": "Afişarea listei elevilor inscrişi in clasa a V-a, anul de studii 2026-2027, in instituțiile care nu au in structurā inväțämânt primar, dar au organizat testare, in clasele bilingve și in clasele cu profil arte și sport. Postarea pe pagina web a și in instituțiile de invățământ și a OLSDÎ a numărului de locuri rămase libere."
+          },
+          {
+            "bbox": {
+              "b": 485.5887044270833,
+              "coord_origin": "TOPLEFT",
+              "l": 264.93314615885413,
+              "r": 337.77471923828125,
+              "t": 469.0665283203125
+            },
+            "col_span": 2,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": true,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 7,
+            "text": "A doua etapă"
+          },
+          {
+            "bbox": {
+              "b": 512.625,
+              "coord_origin": "TOPLEFT",
+              "l": 62.09738413492838,
+              "r": 115.51453653971353,
+              "t": 483.711181640625
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 8,
+            "text": "19-26 mai 2026"
+          },
+          {
+            "bbox": {
+              "b": 516.7555338541667,
+              "coord_origin": "TOPLEFT",
+              "l": 145.7717997233073,
+              "r": 550.3226725260417,
+              "t": 484.4621988932292
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 8,
+            "text": "Depunerea cererilor pentru concursul de Înscriere a elevilor in clasa a V-a in clasele bilingve și in clasele cu profil arte și sport la locurile rämase libere"
+          },
+          {
+            "bbox": {
+              "b": 544.5428059895833,
+              "coord_origin": "TOPLEFT",
+              "l": 61.723837534586586,
+              "r": 115.51453653971353,
+              "t": 514.5024820963542
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 9,
+            "text": "27-29 mai 2026"
+          },
+          {
+            "bbox": {
+              "b": 560.6894938151041,
+              "coord_origin": "TOPLEFT",
+              "l": 143.156982421875,
+              "r": 549.2020670572917,
+              "t": 516.3800048828125
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 9,
+            "text": "Organizarea probelor de concurs la locurile rămase libere: 1) probe de aptitudini pentru instituțiile de învățämânt general cu profil arte și sport; 2) testare pentru cei din clasele bilingve."
+          },
+          {
+            "bbox": {
+              "b": 573.8321533203125,
+              "coord_origin": "TOPLEFT",
+              "l": 66.57994206746419,
+              "r": 136.05959574381512,
+              "t": 558.8119710286458
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 10,
+            "text": "02 iunie 2026"
+          },
+          {
+            "bbox": {
+              "b": 577.587158203125,
+              "coord_origin": "TOPLEFT",
+              "l": 143.156982421875,
+              "r": 347.11338297526044,
+              "t": 560.3140055338541
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 10,
+            "text": "Afişarea rezultatelor probelor de concurs."
+          },
+          {
+            "bbox": {
+              "b": 594.48486328125,
+              "coord_origin": "TOPLEFT",
+              "l": 66.20639546712239,
+              "r": 136.43314107259113,
+              "t": 579.4646809895834
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 11,
+            "text": "04 iunie 2026"
+          },
+          {
+            "bbox": {
+              "b": 612.509033203125,
+              "coord_origin": "TOPLEFT",
+              "l": 145.39825439453125,
+              "r": 549.5756022135417,
+              "t": 580.5912272135416
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 11,
+            "text": "Afişarea listei elevilor inscrişi în clasa a V-a, în anul de studii 2026 – 2027, in clasele bilingve și in clasele cu profil arte și sport."
+          }
+        ]
+      },
+      "footnotes": [
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 227.6923828125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 63.86857986450195,
+            "r": 556.5968627929688,
+            "t": 704.88427734375
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Ministerul Educatiei și Cercetării al Republicii Moldova",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 681.7540384928385,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.21718724568684,
+            "r": 247.6953125,
+            "t": 710.3064575195312
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Ministerul Educatiei și Cercetării al Republicii Moldova"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 658.2862955729166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 130.5906219482422,
+            "r": 185.60624186197919,
+            "t": 670.4112955729166
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "18.03.2026",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 630.5161336263021,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.4695307413737,
+            "r": 137.27109273274738,
+            "t": 644.9879048665365
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "18.03.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "512",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 630.125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 178.53280639648438,
+            "r": 201.71796671549478,
+            "t": 644.9879048665365
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "512"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.5604858398438,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 151.02499389648438,
+            "r": 167.52968343098956,
+            "t": 639.5121053059896
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "mun. Chișinãu",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 609.7862955729166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.08906046549478,
+            "r": 191.1078084309896,
+            "t": 621.5201619466146
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "mun. Chișinãu"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la înscrierea elevilor în clasa a V-a, în anul de studii 2026-2027, în clasele bilingve, cu profil arte și sport și în instituțiile de învāțämânt care nu au în structură învățāmânt primar, dar numărul de cereri depāşeşte numārul de locuri disponibile",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 521.000020345052,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.46640586853027,
+            "r": 343.5796712239583,
+            "t": 597.2701619466146
+          },
+          "charspan": [
+            0,
+            261
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Cu privire la înscrierea elevilor în clasa a V-a, în anul de studii 2026-2027, în clasele bilingve, cu profil arte și sport și în instituțiile de învāțämânt care nu au în structură învățāmânt primar, dar numărul de cereri depāşeşte numārul de locuri disponibile"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul prevederilor art. 29 al. (2) și al. (3) al Codului educației al Republicii Moldova nr.152/2014 cu modificārile ulterioare, pct. 9, subpet. 9.10. din Regulamentul cu privire la organizarea și functionarea Ministerului Educației și Cercetärii, aprobat prin Hotărârea Guvernului nr. 146/2021 cu modificările ulterioare și în scopul înscrierii elevilor în clasa a V-a în clasele bilingve, cu profil arte și sport, precum și în instituțiile de învățämânt care nu au în structură învătământ primar, dar numārul de cereri depāşeşte numärul de locuri disponibile, Ministrul Educației și Cercetārii emite prezentul",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 413.8306477864583,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.46640586853027,
+            "r": 556.9617106119792,
+            "t": 509.26613362630206
+          },
+          "charspan": [
+            0,
+            616
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "În temeiul prevederilor art. 29 al. (2) și al. (3) al Codului educației al Republicii Moldova nr.152/2014 cu modificārile ulterioare, pct. 9, subpet. 9.10. din Regulamentul cu privire la organizarea și functionarea Ministerului Educației și Cercetärii, aprobat prin Hotărârea Guvernului nr. 146/2021 cu modificările ulterioare și în scopul înscrierii elevilor în clasa a V-a în clasele bilingve, cu profil arte și sport, precum și în instituțiile de învățämânt care nu au în structură învătământ primar, dar numārul de cereri depāşeşte numärul de locuri disponibile, Ministrul Educației și Cercetārii emite prezentul"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 389.9718017578125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 290.52888997395837,
+            "r": 338.07810465494794,
+            "t": 403.6612955729167
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "ORDIN:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se aprobā calendarul inscrierii în clasa a V-a in clasele bilingve, cu profil arte și sport, precum şi în instituțiile de invátämânt care nu au în structură invățământ primar, dar numărul de cereri depāşeşte numārul de locuri disponibile, conform anexei.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 333.6492106119792,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0062484741211,
+            "r": 556.5687255859375,
+            "t": 378.6290690104167
+          },
+          "charspan": [
+            0,
+            257
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se aprobā calendarul inscrierii în clasa a V-a in clasele bilingve, cu profil arte și sport, precum şi în instituțiile de invátämânt care nu au în structură invățământ primar, dar numărul de cereri depāşeşte numārul de locuri disponibile, conform anexei."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Direcția politici in invățământul general:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 316.04842122395826,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.61328125,
+            "r": 305.85467529296875,
+            "t": 330.9112955729167
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Direcția politici in invățământul general:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "2.1.va aduce la cunoştințā prezentul ordin Organelor locale de specialitate în domeniul invățământului;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 285.54032389322913,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.44062296549478,
+            "r": 556.9617106119792,
+            "t": 315.26615397135424
+          },
+          "charspan": [
+            0,
+            103
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "2.1.va aduce la cunoştințā prezentul ordin Organelor locale de specialitate în domeniul invățământului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. va monitoriza inscrierea in clasa a V-a în instituțiile de învățāmânt publice și private.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 266.76615397135413,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.8335927327474,
+            "r": 539.2781168619792,
+            "t": 284.366943359375
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "va monitoriza inscrierea in clasa a V-a în instituțiile de învățāmânt publice și private."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Organele locale de specialitate in domeniul învățământului:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 247.991943359375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.22031148274739,
+            "r": 396.23748779296875,
+            "t": 265.20161946614587
+          },
+          "charspan": [
+            0,
+            62
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Organele locale de specialitate in domeniul învățământului:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. vor asigura respectarea cadrului normativ in procesul de inscriere a elevilor in clasa a V-a, in institușiile de inväțämânt expuse in pct.1 al prezentului ordin;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 201.05647786458337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.97734069824219,
+            "r": 557.3546549479167,
+            "t": 233.52018229166663
+          },
+          "charspan": [
+            0,
+            166
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "vor asigura respectarea cadrului normativ in procesul de inscriere a elevilor in clasa a V-a, in institușiile de inväțämânt expuse in pct.1 al prezentului ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. vor aduce la cunoştințã prezentul ordin instituțiilor de invăşământ din subordine;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 232.3468017578125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.97734069824219,
+            "r": 520.0226236979167,
+            "t": 248.38309733072913
+          },
+          "charspan": [
+            0,
+            87
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "vor aduce la cunoştințã prezentul ordin instituțiilor de invăşământ din subordine;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.3.",
+      "orig": "3.3. vor monitoriza activitatea Comisiilor de şcolarizare din instituțiile de învățämânt;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 184.62906901041663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.97734069824219,
+            "r": 525.1312255859375,
+            "t": 202.6209716796875
+          },
+          "charspan": [
+            0,
+            89
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "vor monitoriza activitatea Comisiilor de şcolarizare din instituțiile de învățämânt;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.4.",
+      "orig": "3.4. vor asigura încadrarea fârā concurs, a elevilor clasei a IV-a din şcolile primare și şcolile primare - grādinițā in clasa a V-a în instituțiile de învāțāmânt din subordine care au în structura lor ciclul gimnazial.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 140.04036458333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.58437093098959,
+            "r": 556.9617106119792,
+            "t": 186.975830078125
+          },
+          "charspan": [
+            0,
+            219
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "vor asigura încadrarea fârā concurs, a elevilor clasei a IV-a din şcolile primare și şcolile primare - grādinițā in clasa a V-a în instituțiile de învāțāmânt din subordine care au în structura lor ciclul gimnazial."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Doamna Valentina Olaru, secretar de stat, va controla executarea prezentului ordin.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 117.35489908854163,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.3640619913737,
+            "r": 510.5913899739583,
+            "t": 136.91133626302087
+          },
+          "charspan": [
+            0,
+            86
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Doamna Valentina Olaru, secretar de stat, va controla executarea prezentului ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ministru Dan PERCIUN",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 89.975830078125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 174.2101542154948,
+            "r": 224.11717732747397,
+            "t": 104.44759114583337
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 1
+        },
+        {
+          "bbox": {
+            "b": 88.80240885416663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 370.69451904296875,
+            "r": 452.4320068359375,
+            "t": 100.53629557291663
+          },
+          "charspan": [
+            9,
+            20
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Ministru Dan PERCIUN"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Executant: Lilia Cirlan, 022-233-383",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 57.90323893229163,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.6453119913737,
+            "r": 167.13671875,
+            "t": 83.7177734375
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Executant: Lilia Cirlan, 022-233-383"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexa la Ordinul nr. 6 f2 18.03.2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 771.71875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 340.0159912109375,
+            "r": 560.781982421875,
+            "t": 788.6164315541586
+          },
+          "charspan": [
+            0,
+            36
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Anexa la Ordinul nr. 6 f2 18.03.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Calendarul înscrierii în clasa a V-a cu profil arte și sport, clase bilingve, precum și în instituțiile de învățământ care nu au în structură învățământ primar, dar numărul de cereri depăşește numărul de locuri disponibile",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 718.7726847330729,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 76.2921511332194,
+            "r": 551.8168538411458,
+            "t": 769.0902226765951
+          },
+          "charspan": [
+            0,
+            222
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Calendarul înscrierii în clasa a V-a cu profil arte și sport, clase bilingve, precum și în instituțiile de învățământ care nu au în structură învățământ primar, dar numărul de cereri depăşește numărul de locuri disponibile"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "orig": "În anul de studii 2026-2027 instituțiile de invāțāmânt care nu au în structurā invățământ primar vor admite la concursul pentru inscrierea in clasa a V-a cererile depuse în perioada ianuarie-martie 2026.",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 189.68754069010413,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.44767506917317,
+            "r": 556.2994384765625,
+            "t": 227.61344401041663
+          },
+          "charspan": [
+            0,
+            203
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "În anul de studii 2026-2027 instituțiile de invāțāmânt care nu au în structurā invățământ primar vor admite la concursul pentru inscrierea in clasa a V-a cererile depuse în perioada ianuarie-martie 2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "orig": "***Etapă organizată doar in instituțiile de învāțământ cu clasele bilingve, clasele cu profil arte și sport cu locuri disponibile.",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 101.068603515625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 68.07412846883138,
+            "r": 547.3343098958333,
+            "t": 132.23539225260413
+          },
+          "charspan": [
+            0,
+            130
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "***Etapă organizată doar in instituțiile de învāțământ cu clasele bilingve, clasele cu profil arte și sport cu locuri disponibile."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "orig": "**Conducātorii instituțiilor de învățāmânt general cu profil arte și sport, cu clasele bilingve și ai instituțiilor de invățământ care nu au invāțământ primar, dar au un număr mai mare de solicitanți decât numārul de locuri planificat, sunt responsabili de elaborarea și evaluarea probelor/testelor, precum și de desfaşurarea concursului de înscriere.",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 130.7333984375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.70058186848958,
+            "r": 547.7078450520833,
+            "t": 190.81404622395837
+          },
+          "charspan": [
+            0,
+            351
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "**Conducātorii instituțiilor de învățāmânt general cu profil arte și sport, cu clasele bilingve și ai instituțiilor de invățământ care nu au invāțământ primar, dar au un număr mai mare de solicitanți decât numārul de locuri planificat, sunt responsabili de elaborarea și evaluarea probelor/testelor, precum și de desfaşurarea concursului de înscriere."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "footnote",
+      "orig": "Pentru elevii care nu au fost inscrişi în clasa a V-a urmare testārii, OLSDÎ va asigura inmatricularea conform districtului şcolar sau în instituțiile de învățämânt cu locuri disponibile din localitate.",
+      "parent": {
+        "$ref": "#/tables/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 57.88557942708337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 66.57994206746419,
+            "r": 547.3343098958333,
+            "t": 101.068603515625
+          },
+          "charspan": [
+            0,
+            202
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Pentru elevii care nu au fost inscrişi în clasa a V-a urmare testārii, OLSDÎ va asigura inmatricularea conform districtului şcolar sau în instituțiile de învățämânt cu locuri disponibile din localitate."
+    }
+  ],
+  "version": "1.10.0"
+}

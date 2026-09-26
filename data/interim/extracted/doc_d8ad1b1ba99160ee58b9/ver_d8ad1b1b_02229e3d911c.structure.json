@@ -1,0 +1,720 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/16"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/pictures/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "a0efc0a90a74ae543a28a2d849b7144adad186bac024ad2e72969db5bc1b73d2",
+  "origin": {
+    "binary_hash": 8256960370700940242,
+    "filename": "a0efc0a90a74ae543a28a2d849b7144adad186bac024ad2e72969db5bc1b73d2.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 710.6344575607536,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 236.61365012428976,
+            "r": 348.4071013849432,
+            "t": 783.092501747594
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        },
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 586.8565315426204,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.5666806492661,
+            "r": 312.54413026751894,
+            "t": 630.5474465619427
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 84.2568566067182,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 371.6619910037879,
+            "r": 485.0711115056818,
+            "t": 230.26114242717006
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRIN NOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 713.8133274332682,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 267.08536783854163,
+            "r": 318.78658040364587,
+            "t": 720.2311690266928
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FRIN NOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 647.7472924804688,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 125.0,
+            "r": 468.3109944661458,
+            "t": 696.4473962402344
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.01441",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 594.5169458007813,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.71951230367024,
+            "r": 192.69511922200522,
+            "t": 627.7387272135417
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "nr.01441"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din 290426",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 596.4045597330729,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 176.32926432291669,
+            "r": 312.83536783854163,
+            "t": 627.3612044270834
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "din 290426"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea și desfăşurarea mesei rotunde pentru profesorii de limbi străine",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 550.7246077473959,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.53048833211263,
+            "r": 396.89634195963544,
+            "t": 579.7936588541667
+          },
+          "charspan": [
+            0,
+            90
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "Cu privire la organizarea și desfăşurarea mesei rotunde pentru profesorii de limbi străine"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În scopul eficientizării demersului didactic la disciplina limba străină, promovării schimbului de bune practici, îmbunătățirii competențelor de comunicare ale elevilor și adaptării procesului educațional la cerințele actuale,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 489.1888208007813,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.9268290201823,
+            "r": 542.7012125651042,
+            "t": 537.1338891601563
+          },
+          "charspan": [
+            0,
+            226
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "În scopul eficientizării demersului didactic la disciplina limba străină, promovării schimbului de bune practici, îmbunătățirii competențelor de comunicare ale elevilor și adaptării procesului educațional la cerințele actuale,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 465.0275455729167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 280.1036580403646,
+            "r": 334.78049723307294,
+            "t": 478.9957869466146
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează la data de 14 mai 2026, ora 14:30, online, masa rotundă pentru profesorii de limbi străine, cu subiectul Strategii didactice de predare-învățare specifice disciplinei Limba străină\".",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 406.13439778645835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.55487823486328,
+            "r": 543.0731608072917,
+            "t": 452.56937500000004
+          },
+          "charspan": [
+            0,
+            200
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se organizează la data de 14 mai 2026, ora 14:30, online, masa rotundă pentru profesorii de limbi străine, cu subiectul Strategii didactice de predare-învățare specifice disciplinei Limba străină\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Pentru participarea la activitate cadrele didactice vor accesa următorul link: https://meet.google.com/yqg-twrx-dut.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 367.2498356119792,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.1829268137614,
+            "r": 541.5853678385417,
+            "t": 399.33902832031254
+          },
+          "charspan": [
+            0,
+            119
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Pentru participarea la activitate cadrele didactice vor accesa următorul link: https://meet.google.com/yqg-twrx-dut."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Conducătorii instituțiilor de învățământ, ciclul I și II, vor delega la activitate profesorii de limbi străine, care se vor conecta de la un singur dispozitiv din instituție.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 326.10013671875004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.1829268137614,
+            "r": 542.3292643229167,
+            "t": 358.94437500000004
+          },
+          "charspan": [
+            0,
+            177
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Conducătorii instituțiilor de învățământ, ciclul I și II, vor delega la activitate profesorii de limbi străine, care se vor conecta de la un singur dispozitiv din instituție."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Responsabil de îndeplinirea prevederilor prezentului ordin se numește Valentina Coropcean, specialist principal, DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 288.72562500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.1829268137614,
+            "r": 543.4451090494792,
+            "t": 318.54972167968754
+          },
+          "charspan": [
+            0,
+            122
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Responsabil de îndeplinirea prevederilor prezentului ordin se numește Valentina Coropcean, specialist principal, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul asupra îndeplinirii prevederilor prezentului ordin revine Svetlana AXîNTI, şef al direcției managementul curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 253.23872721354167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.1829268137614,
+            "r": 541.9573160807292,
+            "t": 283.0628238932293
+          },
+          "charspan": [
+            0,
+            136
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Controlul asupra îndeplinirii prevederilor prezentului ordin revine Svetlana AXîNTI, şef al direcției managementul curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Monitorizarea îndeplinirii prezentului ordin revine Valentin CRUDU, şef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 217.37430664062504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.1829268137614,
+            "r": 541.5853678385417,
+            "t": 246.82088053385417
+          },
+          "charspan": [
+            0,
+            90
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Monitorizarea îndeplinirii prezentului ordin revine Valentin CRUDU, şef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex: V. Coropcean, (022)235271",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 90.90506835937504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 73.29878044128418,
+            "r": 215.38414510091147,
+            "t": 103.36323893229167
+          },
+          "charspan": [
+            0,
+            29
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Ex: V. Coropcean, (022)235271"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 167.16414225260417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 480.5853678385417,
+            "r": 543.0731608072917,
+            "t": 182.6424544270834
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Şef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PAVALOI",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 141.87027832031254,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 483.1890462239583,
+            "r": 542.3292643229167,
+            "t": 154.70597167968754
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 52.397988281250036,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 121.28048706054688,
+            "r": 483.5609944661458,
+            "t": 79.20194335937504
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

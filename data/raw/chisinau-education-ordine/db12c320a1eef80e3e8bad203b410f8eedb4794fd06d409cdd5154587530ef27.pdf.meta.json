@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "db12c320a1eef80e3e8bad203b410f8eedb4794fd06d409cdd5154587530ef27",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/attachments/1784893383_26-anexa-1-confer-gr-did-doi-1046-din-230726_aIl4TA.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "15248863",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 06:51:40 GMT",
+    "Etag": "\"6a634fc7-e8addf\"",
+    "Last-Modified": "Fri, 24 Jul 2026 11:43:03 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/db12c320a1eef80e3e8bad203b410f8eedb4794fd06d409cdd5154587530ef27.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/attachments/1784893383_26-anexa-1-confer-gr-did-doi-1046-din-230726_aIl4TA.pdf",
+  "retrieved_at": "2026-09-26T06:52:05.259816+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "ce34fc2eaf6cc76f8f6efc2e8b4b7a562e614ada149e638903b59157e9ebc49e",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1774935801_ordinul-nr-423.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "1277630",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 06:44:38 GMT",
+    "Etag": "\"69cb5ef9-137ebe\"",
+    "Last-Modified": "Tue, 31 Mar 2026 05:43:21 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/ce34fc2eaf6cc76f8f6efc2e8b4b7a562e614ada149e638903b59157e9ebc49e.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1774935801_ordinul-nr-423.pdf",
+  "retrieved_at": "2026-09-26T06:44:38.359708+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

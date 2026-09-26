@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "cc0561ef002154c3302f8ab7078c71f56865b35eb7876bfac074f746f733330e",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1788327609_ord1106-din-280826-maratonul-educational.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "4500986",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 06:48:18 GMT",
+    "Etag": "\"6a97b6b9-44adfa\"",
+    "Last-Modified": "Wed, 02 Sep 2026 05:40:09 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/cc0561ef002154c3302f8ab7078c71f56865b35eb7876bfac074f746f733330e.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1788327609_ord1106-din-280826-maratonul-educational.pdf",
+  "retrieved_at": "2026-09-26T06:48:20.060327+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

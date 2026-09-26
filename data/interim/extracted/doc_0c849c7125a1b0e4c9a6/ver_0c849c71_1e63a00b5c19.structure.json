@@ -1,0 +1,920 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/0"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/texts/23"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    }
+  ],
+  "key_value_items": [],
+  "name": "b0a75d676260be88652218c21fc7895f48bbc712954ae1259d23002c2066d870",
+  "origin": {
+    "binary_hash": 11322894077661730928,
+    "filename": "b0a75d676260be88652218c21fc7895f48bbc712954ae1259d23002c2066d870.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 718.6909561157227,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 217.02584838867188,
+            "r": 329.0744934082031,
+            "t": 792.1046752929688
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 621.2300567626953,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 62.73011016845703,
+            "r": 260.2855224609375,
+            "t": 643.9092864990234
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 441.3507080078125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 404.7213439941406,
+            "r": 546.1735229492188,
+            "t": 590.2134246826172
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÃ EDUCATIE, TINERET $I SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 666.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 139.33333333333334,
+            "r": 428.3333333333333,
+            "t": 715.3333333333334
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÃ EDUCATIE, TINERET $I SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr. 01/1-7/534 din 28.04.26",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 625.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 59.666666666666664,
+            "r": 257.66666666666663,
+            "t": 643.6666666666666
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "nr. 01/1-7/534 din 28.04.26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la punerea în aplicare a deciziei Consiliului de administrației nr.3/1 din 24.04.2026 ,Cu privire la aprobarea Planului de admitere în învățământul liceal pentru anul de studii 2026-2027\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 545.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.0,
+            "r": 375.6666666666667,
+            "t": 608.6666666666666
+          },
+          "charspan": [
+            0,
+            198
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "Cu privire la punerea în aplicare a deciziei Consiliului de administrației nr.3/1 din 24.04.2026 ,Cu privire la aprobarea Planului de admitere în învățământul liceal pentru anul de studii 2026-2027\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul Codului educației nr.152/2014, Metodologiei de admitere a elevilor în învățământul liceal, aprobată prin ordinul MEC nr. 190/2024 (pct. 14 (2), pct. 18), cu completările aprobate prin Ordinul MEC nr.1089/2025 și Instrucțiunii privind organizarea și desfáşurarea probei suplimentare în cadrul concursului de admitere în învățământul liceal, aprobată prin Ordinul MEC nr.509/2024, ordinului MEC cu nr. 421 din 09.03.2026, ,Cu privire la admiterea elevilor în învățământul liceal, sesiunea 2026\" precum și în scopul aplicării deciziei Consiliului de administrației al DGETS nr. 3/1 din 24.04.2026 Cu privire la la aprobarea Planului de admitere în învățământul liceal pentru anul de studii 2026-2027\",",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 384.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.0,
+            "r": 549.0,
+            "t": 530.6666666666667
+          },
+          "charspan": [
+            0,
+            709
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "În temeiul Codului educației nr.152/2014, Metodologiei de admitere a elevilor în învățământul liceal, aprobată prin ordinul MEC nr. 190/2024 (pct. 14 (2), pct. 18), cu completările aprobate prin Ordinul MEC nr.1089/2025 și Instrucțiunii privind organizarea și desfáşurarea probei suplimentare în cadrul concursului de admitere în învățământul liceal, aprobată prin Ordinul MEC nr.509/2024, ordinului MEC cu nr. 421 din 09.03.2026, ,Cu privire la admiterea elevilor în învățământul liceal, sesiunea 2026\" precum și în scopul aplicării deciziei Consiliului de administrației al DGETS nr. 3/1 din 24.04.2026 Cu privire la la aprobarea Planului de admitere în învățământul liceal pentru anul de studii 2026-2027\","
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 353.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 275.66666666666663,
+            "r": 334.6666666666667,
+            "t": 367.6666666666667
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se aprobă Planul de înmatriculare în învățământul liceal pentru anul de studii 20262027.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 304.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.666666666666664,
+            "r": 547.3333333333333,
+            "t": 336.3333333333333
+          },
+          "charspan": [
+            0,
+            91
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Se aprobă Planul de înmatriculare în învățământul liceal pentru anul de studii 20262027."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Direcția management instituțional (D. Garbuz, șef):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 279.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 62.0,
+            "r": 368.0,
+            "t": 296.33333333333326
+          },
+          "charspan": [
+            0,
+            54
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Direcția management instituțional (D. Garbuz, șef):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. va monitoriza respectarea prevederilor actelor normativ-reglatorii referitor la admiterea elevilor în învățământul liceal de către directorii instituțiilor de învățământ secundar (ciclul II, liceu).",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 199.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333334,
+            "r": 548.3333333333333,
+            "t": 248.33333333333326
+          },
+          "charspan": [
+            0,
+            203
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "va monitoriza respectarea prevederilor actelor normativ-reglatorii referitor la admiterea elevilor în învățământul liceal de către directorii instituțiilor de învățământ secundar (ciclul II, liceu)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. va disemina Planul de înmatriculare în învățământul liceal pentru anul de studii 2026 - 2027 pe site-ul www.chisinauedu.md;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 247.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333334,
+            "r": 548.0,
+            "t": 280.0
+          },
+          "charspan": [
+            0,
+            128
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "va disemina Planul de înmatriculare în învățământul liceal pentru anul de studii 2026 - 2027 pe site-ul www.chisinauedu.md;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Directorii instituțiilor de învățământ secundar, ciclul II:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 183.66666666666674,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.666666666666664,
+            "r": 390.3333333333333,
+            "t": 200.66666666666674
+          },
+          "charspan": [
+            0,
+            62
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Directorii instituțiilor de învățământ secundar, ciclul II:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. vor informa comunitatea cointeresată cu prevederile impuse de actele legislative și normative în vigoare privind admiterea elevilor în învāțāmântul liceal;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 103.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.66666666666666,
+            "r": 548.6666666666667,
+            "t": 152.66666666666674
+          },
+          "charspan": [
+            0,
+            160
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "vor informa comunitatea cointeresată cu prevederile impuse de actele legislative și normative în vigoare privind admiterea elevilor în învāțāmântul liceal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. vor asigura respectarea cu strictețe a prevederilor actelor normativ-reglatorii referitor de admiterea elevilor în învățământ liceal;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 151.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.33333333333334,
+            "r": 547.6666666666667,
+            "t": 184.0
+          },
+          "charspan": [
+            0,
+            138
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "vor asigura respectarea cu strictețe a prevederilor actelor normativ-reglatorii referitor de admiterea elevilor în învățământ liceal;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.3.",
+      "orig": "3.3. vor asigura respectarea Planului de înmatriculare in invățământul liceal pentru anul de studii 2026-2027 aprobat de DGETS;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 738.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.0,
+            "r": 549.0,
+            "t": 773.6666666666666
+          },
+          "charspan": [
+            0,
+            127
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "vor asigura respectarea Planului de înmatriculare in invățământul liceal pentru anul de studii 2026-2027 aprobat de DGETS;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Executarea prevederilor prezentului ordin se atribuie Direcției management instituțional (D. Garbuz, șef) și directorilor instituțiilor de învățământ secundar, ciclul II.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 645.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.0,
+            "r": 549.3333333333333,
+            "t": 693.6666666666667
+          },
+          "charspan": [
+            0,
+            173
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Executarea prevederilor prezentului ordin se atribuie Direcției management instituțional (D. Garbuz, șef) și directorilor instituțiilor de învățământ secundar, ciclul II."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.4.",
+      "orig": "3.4. vor coordona cu conducerea DGETS eventualele modificări a numărului de clase sau elevi incluși în Planul de înmatriculare în învățământul liceal pentru anul de studii 2026-2027.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 693.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.33333333333334,
+            "r": 548.3333333333333,
+            "t": 740.6666666666666
+          },
+          "charspan": [
+            0,
+            182
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "vor coordona cu conducerea DGETS eventualele modificări a numărului de clase sau elevi incluși în Planul de înmatriculare în învățământul liceal pentru anul de studii 2026-2027."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul realizării prevederilor prezentului ordin revine șefului adjunct al Direcției generale, educație, tineret și sport, Valentin Crudu,",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 610.6666666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 61.333333333333336,
+            "r": 547.6666666666667,
+            "t": 645.3333333333334
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Controlul realizării prevederilor prezentului ordin revine șefului adjunct al Direcției generale, educație, tineret și sport, Valentin Crudu,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "CONSL",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 536.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 446.6666666666667,
+            "r": 474.0,
+            "t": 544.0
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "CONSL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "UL HUA",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 520.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 475.6666666666667,
+            "r": 497.3333333333333,
+            "t": 544.6666666666667
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "UL HUA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "BDUC",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 530.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 447.0,
+            "r": 471.3333333333333,
+            "t": 536.3333333333333
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "BDUC"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ndrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 496.6666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 450.6666666666667,
+            "r": 547.3333333333334,
+            "t": 513.3333333333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "ndrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "0800",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 476.3333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 467.0,
+            "r": 486.0,
+            "t": 477.0
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "0800"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIMIRIR",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 449.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 440.0,
+            "r": 478.0,
+            "t": 463.33333333333337
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "PRIMIRIR"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex. D.Garbuz , 022-20-16-01",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 186.33333333333337,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 58.666666666666664,
+            "r": 154.33333333333331,
+            "t": 197.33333333333337
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Ex. D.Garbuz , 022-20-16-01"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinãu, Republica Moldova. Tel.: (022)201601, www.chisinauedu.md. e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 144.66666666666663,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 168.0,
+            "r": 433.6666666666667,
+            "t": 169.33333333333337
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinãu, Republica Moldova. Tel.: (022)201601, www.chisinauedu.md. e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

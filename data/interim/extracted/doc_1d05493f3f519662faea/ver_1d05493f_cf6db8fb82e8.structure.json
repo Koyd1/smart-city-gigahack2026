@@ -1,0 +1,2268 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/texts/37"
+      },
+      {
+        "$ref": "#/tables/0"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/pictures/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "9477c853a13d0418bb9595037c6f5cde25fdb6fae55e0c89514cbe7e43e40d0e",
+  "origin": {
+    "binary_hash": 5858266664816348430,
+    "filename": "9477c853a13d0418bb9595037c6f5cde25fdb6fae55e0c89514cbe7e43e40d0e.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 735.8164796953961,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 264.55948686079546,
+            "r": 376.5348615056818,
+            "t": 808.0335113285895
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 645.5395923519249,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 103.45080026337595,
+            "r": 275.4128924005682,
+            "t": 667.75650741305
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/28"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 329.65900248959576,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 436.11685014204545,
+            "r": 561.5633031486742,
+            "t": 451.930683013154
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 84.23433570526163,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 180.04535333806817,
+            "r": 249.82503388375946,
+            "t": 147.34418790873963
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 87.23523056629017,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 269.97439364346593,
+            "r": 380.95347981770834,
+            "t": 160.2640445711951
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 723.0649881326175,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 351.1890340909091,
+            "r": 434.39872040719695,
+            "t": 743.5494263943594
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 722.1341242057447,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 474.6253838186553,
+            "r": 575.2267140151515,
+            "t": 746.2732805997325
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/6"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 176.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 91.33333333333333,
+                "r": 161.33333333333331,
+                "t": 163.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Crudu Valentin"
+            },
+            {
+              "bbox": {
+                "b": 180.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 239.66666666666666,
+                "r": 331.66666666666663,
+                "t": 166.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "şef adjunct, DGETS"
+            },
+            {
+              "bbox": {
+                "b": 185.0,
+                "coord_origin": "TOPLEFT",
+                "l": 472.0,
+                "r": 521.6666666666667,
+                "t": 171.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "preşedinte"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 190.0,
+                "coord_origin": "TOPLEFT",
+                "l": 90.66666666666667,
+                "r": 150.66666666666669,
+                "t": 176.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "Marț Viorica"
+            },
+            {
+              "bbox": {
+                "b": 194.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 239.33333333333334,
+                "r": 366.0,
+                "t": 179.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "specialist principal, DGETS"
+            },
+            {
+              "bbox": {
+                "b": 197.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 472.0,
+                "r": 512.6666666666667,
+                "t": 184.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "membru"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 204.0,
+                "coord_origin": "TOPLEFT",
+                "l": 90.33333333333333,
+                "r": 154.0,
+                "t": 189.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "Popescu Olga"
+            },
+            {
+              "bbox": {
+                "b": 207.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 239.0,
+                "r": 365.6666666666667,
+                "t": 193.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "specialist principal, DGETS"
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": ""
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 216.0,
+                "coord_origin": "TOPLEFT",
+                "l": 90.33333333333333,
+                "r": 171.66666666666669,
+                "t": 203.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "Dubineanschi Ala"
+            },
+            {
+              "bbox": {
+                "b": 220.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 238.66666666666666,
+                "r": 345.6666666666667,
+                "t": 207.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "manager serviciu social"
+            },
+            {
+              "bbox": {
+                "b": 210.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 471.6666666666667,
+                "r": 512.6666666666667,
+                "t": 197.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "membru"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 230.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 89.66666666666667,
+                "r": 214.0,
+                "t": 215.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "Filimon – Ceahlǎu Mariana"
+            },
+            {
+              "bbox": {
+                "b": 235.0,
+                "coord_origin": "TOPLEFT",
+                "l": 238.66666666666666,
+                "r": 426.3333333333333,
+                "t": 219.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "şefa interimar a Secției asistență medicală"
+            },
+            {
+              "bbox": {
+                "b": 236.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 471.3333333333333,
+                "r": 512.0,
+                "t": 211.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "membru membru"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 242.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 89.66666666666667,
+                "r": 142.66666666666669,
+                "t": 229.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "Rusu Lucia"
+            },
+            {
+              "bbox": {
+                "b": 259.0,
+                "coord_origin": "TOPLEFT",
+                "l": 238.33333333333334,
+                "r": 401.0,
+                "t": 231.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "şefa structurii teritoriale de asistență psihopedagogică"
+            },
+            {
+              "bbox": {
+                "b": 250.0,
+                "coord_origin": "TOPLEFT",
+                "l": 471.3333333333333,
+                "r": 511.6666666666667,
+                "t": 237.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 5,
+              "text": "membru"
+            }
+          ]
+        ],
+        "num_cols": 3,
+        "num_rows": 6,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 176.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 91.33333333333333,
+              "r": 161.33333333333331,
+              "t": 163.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Crudu Valentin"
+          },
+          {
+            "bbox": {
+              "b": 180.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 239.66666666666666,
+              "r": 331.66666666666663,
+              "t": 166.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "şef adjunct, DGETS"
+          },
+          {
+            "bbox": {
+              "b": 185.0,
+              "coord_origin": "TOPLEFT",
+              "l": 472.0,
+              "r": 521.6666666666667,
+              "t": 171.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "preşedinte"
+          },
+          {
+            "bbox": {
+              "b": 190.0,
+              "coord_origin": "TOPLEFT",
+              "l": 90.66666666666667,
+              "r": 150.66666666666669,
+              "t": 176.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "Marț Viorica"
+          },
+          {
+            "bbox": {
+              "b": 194.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 239.33333333333334,
+              "r": 366.0,
+              "t": 179.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "specialist principal, DGETS"
+          },
+          {
+            "bbox": {
+              "b": 197.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 472.0,
+              "r": 512.6666666666667,
+              "t": 184.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "membru"
+          },
+          {
+            "bbox": {
+              "b": 204.0,
+              "coord_origin": "TOPLEFT",
+              "l": 90.33333333333333,
+              "r": 154.0,
+              "t": 189.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "Popescu Olga"
+          },
+          {
+            "bbox": {
+              "b": 207.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 239.0,
+              "r": 365.6666666666667,
+              "t": 193.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "specialist principal, DGETS"
+          },
+          {
+            "bbox": {
+              "b": 210.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 471.6666666666667,
+              "r": 512.6666666666667,
+              "t": 197.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "membru"
+          },
+          {
+            "bbox": {
+              "b": 216.0,
+              "coord_origin": "TOPLEFT",
+              "l": 90.33333333333333,
+              "r": 171.66666666666669,
+              "t": 203.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "Dubineanschi Ala"
+          },
+          {
+            "bbox": {
+              "b": 220.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 238.66666666666666,
+              "r": 345.6666666666667,
+              "t": 207.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "manager serviciu social"
+          },
+          {
+            "bbox": {
+              "b": 236.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 471.3333333333333,
+              "r": 512.0,
+              "t": 211.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "membru membru"
+          },
+          {
+            "bbox": {
+              "b": 230.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 89.66666666666667,
+              "r": 214.0,
+              "t": 215.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "Filimon – Ceahlǎu Mariana"
+          },
+          {
+            "bbox": {
+              "b": 235.0,
+              "coord_origin": "TOPLEFT",
+              "l": 238.66666666666666,
+              "r": 426.3333333333333,
+              "t": 219.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "şefa interimar a Secției asistență medicală"
+          },
+          {
+            "bbox": {
+              "b": 242.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 89.66666666666667,
+              "r": 142.66666666666669,
+              "t": 229.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "Rusu Lucia"
+          },
+          {
+            "bbox": {
+              "b": 259.0,
+              "coord_origin": "TOPLEFT",
+              "l": 238.33333333333334,
+              "r": 401.0,
+              "t": 231.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "şefa structurii teritoriale de asistență psihopedagogică"
+          },
+          {
+            "bbox": {
+              "b": 250.0,
+              "coord_origin": "TOPLEFT",
+              "l": 471.3333333333333,
+              "r": 511.6666666666667,
+              "t": 237.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 5,
+            "text": "membru"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 577.6830634568223,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.97508382161459,
+            "r": 568.389247750947,
+            "t": 678.5903426909929
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRINNOEINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 738.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 294.66666666666663,
+            "r": 346.0,
+            "t": 744.6266666666667
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FRINNOEINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 717.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 221.0,
+            "r": 418.6666666666667,
+            "t": 734.96
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 686.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 185.0,
+            "r": 475.3333333333333,
+            "t": 720.96
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "03.09.26 nr. 0/1-7/1111",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 643.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.33333333333333,
+            "r": 277.66666666666663,
+            "t": 670.2933333333334
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "03.09.26 nr. 0/1-7/1111"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 588.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 300.3333333333333,
+            "r": 354.3333333333333,
+            "t": 610.96
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la punerea în aplicare a Instrucțiuniiprivind organizarea și desfăşurarea învățământului la domiciliu",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 516.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.66666666666667,
+            "r": 300.66666666666663,
+            "t": 558.96
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Cu privire la punerea în aplicare a Instrucțiuniiprivind organizarea și desfăşurarea învățământului la domiciliu"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Întru realizarea prevederilor Ordinului Ministerului Educației și Cercetării nr. 486 din 16.03.2026 Cu privire la aprobarea Instrucțiunii privind organizarea și desfăşurarea învățământului la domiciliu pentru elevii din instituțiile de învățământ primar, secundar (ciclul I și II) și din instituțiile de învățământ special, precum și ale Ordinului Ministerului Educației și Cercetării nr. 686 din 27.03.2026 Cu privire la punerea în aplicare a Instrucțiunii privind organizarea și desfăşurarea învățământului la domiciliu pentru elevii din instituțiile de învățământ primar, secundar (ciclul I și II) și din instituțiile de învățământ special,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 390.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.33333333333333,
+            "r": 562.6666666666667,
+            "t": 506.6266666666667
+          },
+          "charspan": [
+            0,
+            643
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Întru realizarea prevederilor Ordinului Ministerului Educației și Cercetării nr. 486 din 16.03.2026 Cu privire la aprobarea Instrucțiunii privind organizarea și desfăşurarea învățământului la domiciliu pentru elevii din instituțiile de învățământ primar, secundar (ciclul I și II) și din instituțiile de învățământ special, precum și ale Ordinului Ministerului Educației și Cercetării nr. 686 din 27.03.2026 Cu privire la punerea în aplicare a Instrucțiunii privind organizarea și desfăşurarea învățământului la domiciliu pentru elevii din instituțiile de învățământ primar, secundar (ciclul I și II) și din instituțiile de învățământ special,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 363.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 318.0,
+            "r": 368.0,
+            "t": 377.62666666666667
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se pune în aplicare, în instituțiile de învățământ primar, secundar (ciclul I și II) și de învățământ special din municipiul Chişinău, Instrucțiunea privind organizarea și desfăşurarea învățământului la domiciliu, aprobată prin Ordinul MEC nr. 486/2026.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 293.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.33333333333333,
+            "r": 560.0,
+            "t": 340.29333333333335
+          },
+          "charspan": [
+            0,
+            256
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se pune în aplicare, în instituțiile de învățământ primar, secundar (ciclul I și II) și de învățământ special din municipiul Chişinău, Instrucțiunea privind organizarea și desfăşurarea învățământului la domiciliu, aprobată prin Ordinul MEC nr. 486/2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Comisia de specialitate:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.66666666666667,
+            "r": 219.66666666666666,
+            "t": 256.96000000000004
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Comisia de specialitate:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se constituie Comisia de specialitate pentru examinarea dosarelor privind organizarea învățământului la domiciliu, conformcomponenței nominale aprobate în Anexa nr. 1 la prezentul ordin.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 255.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.33333333333333,
+            "r": 560.3333333333333,
+            "t": 298.96000000000004
+          },
+          "charspan": [
+            0,
+            189
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Se constituie Comisia de specialitate pentru examinarea dosarelor privind organizarea învățământului la domiciliu, conformcomponenței nominale aprobate în Anexa nr. 1 la prezentul ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "3.1.va examina dosarele elevilor pentru care se solicită organizarea învățământului la domiciliu, în conformitate cu prevederile Instrucțiunii;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 211.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.66666666666667,
+            "r": 559.6666666666667,
+            "t": 243.62666666666667
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "3.1.va examina dosarele elevilor pentru care se solicită organizarea învățământului la domiciliu, în conformitate cu prevederile Instrucțiunii;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Direcția management curricular (S. Axînti, șef):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 156.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.0,
+            "r": 332.33333333333337,
+            "t": 174.62666666666667
+          },
+          "charspan": [
+            0,
+            51
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Direcția management curricular (S. Axînti, șef):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. va întocmi procesul-verbal al şedinței, în care va fi reflectată decizia Comisiei privind organizarea învățământului la domiciliu și perioada de desfáşurare a acestuia, stabilită în actele medicale prezentate;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 171.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 105.66666666666667,
+            "r": 559.0,
+            "t": 215.2933333333334
+          },
+          "charspan": [
+            0,
+            214
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "va întocmi procesul-verbal al şedinței, în care va fi reflectată decizia Comisiei privind organizarea învățământului la domiciliu și perioada de desfáşurare a acestuia, stabilită în actele medicale prezentate;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.1.",
+      "orig": "4.1. va aduce la cunoştința conducătorilor instituțiilor de învățământ prevederile Ordinelor MEC nr. 486/2026 și nr. 686/2026, precum și aleprezentului ordin;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 127.29333333333341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.0,
+            "r": 558.3333333333333,
+            "t": 160.62666666666667
+          },
+          "charspan": [
+            0,
+            158
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "va aduce la cunoştința conducătorilor instituțiilor de învățământ prevederile Ordinelor MEC nr. 486/2026 și nr. 686/2026, precum și aleprezentului ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.",
+      "orig": "4.3. va monitoriza respectarea prevederilor Instrucțiunii de către instituțiile de învățământ din subordine.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 91.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.0,
+            "r": 558.0,
+            "t": 119.62666666666667
+          },
+          "charspan": [
+            0,
+            108
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "va monitoriza respectarea prevederilor Instrucțiunii de către instituțiile de învățământ din subordine."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2.",
+      "orig": "4.2. va asigura coordonarea procesului de organizare a învățământului la domiciliu;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 112.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 108.0,
+            "r": 512.6666666666667,
+            "t": 133.2933333333334
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "va asigura coordonarea procesului de organizare a învățământului la domiciliu;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Directorii instituțiilor de învățământ primar, secundar (ciclul I și II) și special:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 71.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.0,
+            "r": 476.3333333333333,
+            "t": 92.62666666666667
+          },
+          "charspan": [
+            0,
+            87
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Directorii instituțiilor de învățământ primar, secundar (ciclul I și II) și special:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "5.1.vor aduce la cunoștința cadrelor didactice, părinților/reprezentanților legali prevederile Instrucțiunii;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 49.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 107.33333333333333,
+            "r": 557.0,
+            "t": 78.2933333333333
+          },
+          "charspan": [
+            0,
+            109
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "5.1.vor aduce la cunoștința cadrelor didactice, părinților/reprezentanților legali prevederile Instrucțiunii;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "5.2.vor prezenta sau expedia către DGETS, în termen de 3 zile lucrătoare de la recepționarea cererii și a actelor justificative prevăzute la pct. 6 din Instrucțiune, demersul instituției privind organizarea învățământului la domiciliu, însoțit de copiile actelor respective, în format fizic, la biroul nr. 7 al DGETS, sau în format electronic, la adresa de e-mail dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 737.2770318603516,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 114.875,
+            "r": 565.5375162760417,
+            "t": 807.820382715861
+          },
+          "charspan": [
+            0,
+            382
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "5.2.vor prezenta sau expedia către DGETS, în termen de 3 zile lucrătoare de la recepționarea cererii și a actelor justificative prevăzute la pct. 6 din Instrucțiune, demersul instituției privind organizarea învățământului la domiciliu, însoțit de copiile actelor respective, în format fizic, la biroul nr. 7 al DGETS, sau în format electronic, la adresa de e-mail dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.4.",
+      "orig": "5.4. vor asigura identificarea și aprobarea cadrelor didactice care vor realiza procesul educațional la domiciliu;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 681.0749190266928,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 113.7125015258789,
+            "r": 565.1500244140625,
+            "t": 711.3077783203125
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "vor asigura identificarea și aprobarea cadrelor didactice care vor realiza procesul educațional la domiciliu;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "5.3.vor emite ordinul intern al instituției în temeiul ordinului DGETS privind organizarea învățământului la domiciliu pentru elev;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 708.5945723470052,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 114.1000010172526,
+            "r": 565.1500244140625,
+            "t": 739.2150354003907
+          },
+          "charspan": [
+            0,
+            131
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "5.3.vor emite ordinul intern al instituției în temeiul ordinului DGETS privind organizarea învățământului la domiciliu pentru elev;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.5.",
+      "orig": "5.5. vor asigura elaborarea orarului lecțiilor, încoordonare cu părintele/reprezentantul legal al elevului, și aprobarea acestuia de către Consiliul de administrație al instituției, în termen de 7 zile de la emiterea ordinului DGETS privind organizarea învățământului la domiciliu;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 636.1132185872397,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 113.7125015258789,
+            "r": 564.7624918619792,
+            "t": 682.2377201334635
+          },
+          "charspan": [
+            0,
+            281
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "vor asigura elaborarea orarului lecțiilor, încoordonare cu părintele/reprezentantul legal al elevului, și aprobarea acestuia de către Consiliul de administrație al instituției, în termen de 7 zile de la emiterea ordinului DGETS privind organizarea învățământului la domiciliu;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "5.7.vor monitoriza desfáşurarea procesului educațional la domiciliu și realizarea integrală a curriculumului la disciplinele şcolare.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 584.1747013346354,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 112.9375,
+            "r": 563.9875081380208,
+            "t": 614.0199772135417
+          },
+          "charspan": [
+            0,
+            133
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "5.7.vor monitoriza desfáşurarea procesului educațional la domiciliu și realizarea integrală a curriculumului la disciplinele şcolare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.6.",
+      "orig": "5.6. vor asigura evidența lecțiilor desfaşurate șia rezultatelor şcolare ale elevului în Sistemul Informațional Catalogul Electronic (SICE);",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 610.9191674804688,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 113.32499949137369,
+            "r": 563.9875081380208,
+            "t": 640.7644230143229
+          },
+          "charspan": [
+            0,
+            140
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "vor asigura evidența lecțiilor desfaşurate șia rezultatelor şcolare ale elevului în Sistemul Informațional Catalogul Electronic (SICE);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Competența privind gestionarea dosarelor și elaborarea proiectelor de ordine revine Marț Viorica, specialist principal, DGETS – pentru elevii cu cerințe educaționale speciale, și Popescu Olga, specialist principal, DGETS – pentru elevii cu probleme de sănătate.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 540.3758121744793,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.625,
+            "r": 563.6000162760417,
+            "t": 586.8879174804688
+          },
+          "charspan": [
+            0,
+            264
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Competența privind gestionarea dosarelor și elaborarea proiectelor de ordine revine Marț Viorica, specialist principal, DGETS – pentru elevii cu cerințe educaționale speciale, și Popescu Olga, specialist principal, DGETS – pentru elevii cu probleme de sănătate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Monitorizarea realizării prevederilor prezentului ordin revine V. Crudu, şef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 484.94889160156254,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.84999974568684,
+            "r": 556.2375081380208,
+            "t": 505.8793522135417
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "Monitorizarea realizării prevederilor prezentului ordin revine V. Crudu, şef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Controlul îndeplinirii prevederilor prezentului ordin revine S. Axînti, şef al Direcției management curricular, DGETS, și D. Garbuz, şef al Direcției management instituțional, DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 505.49173828125004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.625,
+            "r": 563.2125244140625,
+            "t": 546.9650252278645
+          },
+          "charspan": [
+            0,
+            185
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Controlul îndeplinirii prevederilor prezentului ordin revine S. Axînti, şef al Direcției management curricular, DGETS, și D. Garbuz, şef al Direcției management instituțional, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 55.48718098958341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 140.45000203450522,
+            "r": 504.6999918619792,
+            "t": 88.82083984375004
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "junct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 391.53710774739585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 536.0875244140625,
+            "r": 561.6625162760417,
+            "t": 401.2271305338542
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "junct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "OI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 365.5678287760417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 547.3249918619792,
+            "r": 560.8874918619792,
+            "t": 376.80826660156254
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "OI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Ex.:E. Grecu: (022)235270",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 124.48010091145841,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.13750012715657,
+            "r": 215.625,
+            "t": 138.82136881510417
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "Ex.:E. Grecu: (022)235270"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ee",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 115.95291992187504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 181.91250610351562,
+            "r": 197.7999979654948,
+            "t": 126.03055664062504
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "ee"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Veeve",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 110.52648763020841,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 266.0,
+            "r": 348.9250081380208,
+            "t": 149.28657877604167
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Veeve"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la ordinul nr. Ol/l-7/1l1 f",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 721.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 280.66666666666663,
+            "r": 436.6666666666667,
+            "t": 744.6266666666667
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "la ordinul nr. Ol/l-7/1l1 f"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr.1",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 734.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 513.3333333333333,
+            "r": 564.3333333333333,
+            "t": 747.2933333333334
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Anexa nr.1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din 03.09. 26",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 722.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 472.0,
+            "r": 576.6666666666667,
+            "t": 736.6266666666667
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "din 03.09. 26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Componența nominală a Comisiei de specialitate privind organizarea învățământului la domiciliu",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 681.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 163.0,
+            "r": 493.6666666666667,
+            "t": 713.96
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Componența nominală a Comisiei de specialitate privind organizarea învățământului la domiciliu"
+    }
+  ],
+  "version": "1.10.0"
+}

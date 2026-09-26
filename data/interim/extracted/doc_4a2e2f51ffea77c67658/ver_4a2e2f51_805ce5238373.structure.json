@@ -1,0 +1,681 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/13"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/15"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/2"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "14b3aae987de91de984982e8ca930588370eb34170de0df62724c9f028826df0",
+  "origin": {
+    "binary_hash": 2820601299949743600,
+    "filename": "14b3aae987de91de984982e8ca930588370eb34170de0df62724c9f028826df0.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 703.865917108659,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 255.7330214839654,
+            "r": 366.6904474102251,
+            "t": 778.2159105186646
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 604.6433117282586,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.80344104382816,
+            "r": 294.60039183341416,
+            "t": 645.8388154196506
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 100.96008870339358,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 388.2890442754758,
+            "r": 502.9353777072574,
+            "t": 220.16165501211708
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PAFN NOIENSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 706.5966566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 285.65218098958337,
+            "r": 336.8531494140625,
+            "t": 712.5751519466146
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PAFN NOIENSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 687.166552093099,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 212.77489217122397,
+            "r": 409.356689453125,
+            "t": 701.7391330664062
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERALAL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERETŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 656.5267612402344,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 176.8968505859375,
+            "r": 465.7898763020833,
+            "t": 688.6611708268229
+          },
+          "charspan": [
+            0,
+            82
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PRIMAR GENERALAL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERETŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "080426.01/1-7/423",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 610.5670953059896,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.3330790201823,
+            "r": 293.87422688802087,
+            "t": 649.0536472265625
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "080426.01/1-7/423"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 577.3117038671875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 296.86407470703125,
+            "r": 340.96417236328125,
+            "t": 591.5106377864583
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref.: Organizarea vizitelor de monitorizare în instituțiile de învățământ secundar general, ciclul I și ciclul II",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 535.4622572526041,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.46443049112956,
+            "r": 357.0345458984375,
+            "t": 564.9810560807291
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Ref.: Organizarea vizitelor de monitorizare în instituțiile de învățământ secundar general, ciclul I și ciclul II"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu planul de acțiuni al Direcției Generale Educație, Tineret și Sport din municipiul Chişinău, pentru anul 2026, în scopul asigurării calității desfăşurării procesului educațional la disciplinele şcolare educație plastică și educație tehnologică, în clasele a V-a - a IX-a, din instituțiile de învățământ secundar,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 467.45686581380204,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.71697107950847,
+            "r": 555.1112874348958,
+            "t": 525.3735324804687
+          },
+          "charspan": [
+            0,
+            330
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "În conformitate cu planul de acțiuni al Direcției Generale Educație, Tineret și Sport din municipiul Chişinău, pentru anul 2026, în scopul asigurării calității desfăşurării procesului educațional la disciplinele şcolare educație plastică și educație tehnologică, în clasele a V-a - a IX-a, din instituțiile de învățământ secundar,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 439.8063327734375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 293.12677001953125,
+            "r": 343.20654296875,
+            "t": 454.7525608007812
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează în perioada 09.04 – 29.05.2026, vizite de monitorizare în instituțiile de învățământ secundar la subiectul: Monitorizarea calității și eficienței sistemului intern de evaluare a performanțelor elevilor la Educația plastică și Educația tehnologică în clasele a V-a − a IX-a.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 371.427304453125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.34324137369792,
+            "r": 554.3638102213542,
+            "t": 428.22299944010416
+          },
+          "charspan": [
+            0,
+            291
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se organizează în perioada 09.04 – 29.05.2026, vizite de monitorizare în instituțiile de învățământ secundar la subiectul: Monitorizarea calității și eficienței sistemului intern de evaluare a performanțelor elevilor la Educația plastică și Educația tehnologică în clasele a V-a − a IX-a."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Administrația instituțiilor de învățământ și cadrele didactice la disciplinele şcolare educație plastică și educație tehnologică vor prezenta documentația şcolară solicitată de specialistul DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 330.698788828125,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.34324137369792,
+            "r": 553.6163330078125,
+            "t": 372.17461890625
+          },
+          "charspan": [
+            0,
+            199
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Administrația instituțiilor de învățământ și cadrele didactice la disciplinele şcolare educație plastică și educație tehnologică vor prezenta documentația şcolară solicitată de specialistul DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Iustina Doroşchevici, specialist superior va elabora nota informativă cu referire la rezultatele vizitelor de monitorizare.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 301.5536472265625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.71697107950847,
+            "r": 553.6163330078125,
+            "t": 330.3251316015625
+          },
+          "charspan": [
+            0,
+            126
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Iustina Doroşchevici, specialist superior va elabora nota informativă cu referire la rezultatele vizitelor de monitorizare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Monitorizarea îndeplinirii prezentului ordin revine şefului adjunct al DGETS, V. Cudu,",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 256.7149427994791,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.71697107950847,
+            "r": 532.3137613932292,
+            "t": 275.77137997395823
+          },
+          "charspan": [
+            0,
+            89
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Monitorizarea îndeplinirii prezentului ordin revine şefului adjunct al DGETS, V. Cudu,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Controlul realizării prevederilor ordinului revine şefei direcției managementul curricular, DGETS, S. Axînti.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 275.02406552083335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.96951166788737,
+            "r": 552.868896484375,
+            "t": 303.0482761328125
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Controlul realizării prevederilor ordinului revine şefei direcției managementul curricular, DGETS, S. Axînti."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex. Iustina Doroşchevici 022 235296",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 95.66924781249998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.22205289204915,
+            "r": 266.2182413736979,
+            "t": 110.9891127213541
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Ex. Iustina Doroşchevici 022 235296"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Sef adjunct SILIAHOrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 189.8305433854166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 445.9822184244792,
+            "r": 553.2426350911458,
+            "t": 217.4810560807291
+          },
+          "charspan": [
+            0,
+            30
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Sef adjunct SILIAHOrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 55.314430104166604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 150.36204020182294,
+            "r": 481.11279296875,
+            "t": 83.3386000260416
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

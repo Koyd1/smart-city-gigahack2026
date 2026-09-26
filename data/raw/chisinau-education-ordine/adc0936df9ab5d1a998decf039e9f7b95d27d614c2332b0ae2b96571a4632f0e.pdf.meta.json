@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "adc0936df9ab5d1a998decf039e9f7b95d27d614c2332b0ae2b96571a4632f0e",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1765808927_ordin-semin-fizica-1.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "93795",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 06:44:14 GMT",
+    "Etag": "\"69401b20-16e63\"",
+    "Last-Modified": "Mon, 15 Dec 2025 14:28:48 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/adc0936df9ab5d1a998decf039e9f7b95d27d614c2332b0ae2b96571a4632f0e.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1765808927_ordin-semin-fizica-1.pdf",
+  "retrieved_at": "2026-09-26T06:44:14.589004+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

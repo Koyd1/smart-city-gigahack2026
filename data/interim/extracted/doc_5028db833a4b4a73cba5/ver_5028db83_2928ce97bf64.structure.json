@@ -1,0 +1,1134 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/texts/28"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/1"
+        },
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "597561b0972275b8bc848b14602b666d287755c2a7020034f10c2e6c9b55a270",
+  "origin": {
+    "binary_hash": 17369308906858586736,
+    "filename": "597561b0972275b8bc848b14602b666d287755c2a7020034f10c2e6c9b55a270.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 720.023569377726,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 257.0784146363943,
+            "r": 362.8186866115084,
+            "t": 788.5745285893765
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 623.3184928460323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.91779101890207,
+            "r": 296.2413485492476,
+            "t": 663.9252311305054
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 400.21230916178905,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 370.03330178280004,
+            "r": 539.3050226526452,
+            "t": 575.0300285771574
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 348.9874613173499,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 157.98906936440693,
+            "r": 199.57067304572803,
+            "t": 372.0554424903315
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRINNOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 722.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 286.0,
+            "r": 334.33333333333337,
+            "t": 728.0133233333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FRINNOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 704.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 217.66666666666666,
+            "r": 402.6666666666667,
+            "t": 718.3466566666666
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERETŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 676.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 184.66666666666669,
+            "r": 456.0,
+            "t": 705.0133233333333
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERETŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "01/1",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 639.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 103.66666666666667,
+            "r": 145.33333333333334,
+            "t": 663.0133233333333
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "01/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 639.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 194.0,
+            "r": 214.33333333333331,
+            "t": 653.67999
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "din"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 613.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 289.0,
+            "r": 348.3333333333333,
+            "t": 626.67999
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la tezele semestriale, anul de studii 2025-2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 561.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.0,
+            "r": 266.0,
+            "t": 590.67999
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "Cu privire la tezele semestriale, anul de studii 2025-2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu Planul-cadru pentru învățământul primar, gimnazial și liceal, anul de studii 2025-2026, aprobat prin ordinul MEC nr. 266/2025, Regulamentul privind evaluarea și notarea rezultatelor învățării, promovarea şi absolvirea în învățământul primar şi secundar și în scopul organizării eficiente a evaluărilor semestriale în învățământul liceal, anul de studii 2025-2026,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 470.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.0,
+            "r": 541.0,
+            "t": 547.0133233333333
+          },
+          "charspan": [
+            0,
+            382
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "În conformitate cu Planul-cadru pentru învățământul primar, gimnazial și liceal, anul de studii 2025-2026, aprobat prin ordinul MEC nr. 266/2025, Regulamentul privind evaluarea și notarea rezultatelor învățării, promovarea şi absolvirea în învățământul primar şi secundar și în scopul organizării eficiente a evaluărilor semestriale în învățământul liceal, anul de studii 2025-2026,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 456.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 282.66666666666663,
+            "r": 352.0,
+            "t": 468.67999
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se stabilește perioada desfăşurării tezelor semestriale după cum urmează:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 425.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.66666666666667,
+            "r": 500.0,
+            "t": 438.67999
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se stabilește perioada desfăşurării tezelor semestriale după cum urmează:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "√Sesiunea de vară în perioada 11-22.05.2026.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 393.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 130.33333333333334,
+            "r": 385.0,
+            "t": 410.3466566666666
+          },
+          "charspan": [
+            0,
+            44
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "√Sesiunea de vară în perioada 11-22.05.2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "√Sesiunea de iarnă în perioada 08-19.12.2025",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 409.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 130.66666666666666,
+            "r": 385.3333333333333,
+            "t": 425.3466566666666
+          },
+          "charspan": [
+            0,
+            44
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "√Sesiunea de iarnă în perioada 08-19.12.2025"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Tezele semestriale se vor organiza în conformitate cu curricula, ediția 2019 la disciplinele şcolare specificate în Anexa nr.3 la Ordinul MEC nr. 266 din 28.02.2025.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 350.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 540.0,
+            "t": 394.01332333333335
+          },
+          "charspan": [
+            0,
+            168
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Tezele semestriale se vor organiza în conformitate cu curricula, ediția 2019 la disciplinele şcolare specificate în Anexa nr.3 la Ordinul MEC nr. 266 din 28.02.2025."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Direcția management curricular (S. Axînti, şef):",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 333.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 368.6666666666667,
+            "t": 348.01332333333335
+          },
+          "charspan": [
+            0,
+            51
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Direcția management curricular (S. Axînti, şef):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "3.1.va informa conducătorii instituțiilor de învățământ secundar, ciclul II cu prevederile prezentului ordin;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 304.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 540.3333333333333,
+            "t": 333.34665666666666
+          },
+          "charspan": [
+            0,
+            109
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "3.1.va informa conducătorii instituțiilor de învățământ secundar, ciclul II cu prevederile prezentului ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. va acorda consultațiile de rigoare cadrelor didactice responsabile de elaborarea instrumentelor de evaluare pentru teza semestrială la disciplinele școlare;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 273.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.66666666666667,
+            "r": 540.0,
+            "t": 302.67999
+          },
+          "charspan": [
+            0,
+            161
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "va acorda consultațiile de rigoare cadrelor didactice responsabile de elaborarea instrumentelor de evaluare pentru teza semestrială la disciplinele școlare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.3.",
+      "orig": "3.3. va monitoriza desfăşurarea tezelor semestriale în instituțiile de învățământ secundar, ciclul II;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 243.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 540.0,
+            "t": 272.67999
+          },
+          "charspan": [
+            0,
+            102
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "va monitoriza desfăşurarea tezelor semestriale în instituțiile de învățământ secundar, ciclul II;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.4.",
+      "orig": "3.4. va analiza rezultatele tezelor semestriale, formulând concluzii și recomandări pentru subiecții antrenați în evaluarea semestrială.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 213.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 539.6666666666667,
+            "t": 242.67998999999998
+          },
+          "charspan": [
+            0,
+            136
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "va analiza rezultatele tezelor semestriale, formulând concluzii și recomandări pentru subiecții antrenați în evaluarea semestrială."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Conducătorii instituțiilor de învățământ secundar, ciclul II:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 198.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.0,
+            "r": 422.3333333333333,
+            "t": 213.01332333333323
+          },
+          "charspan": [
+            0,
+            64
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Conducătorii instituțiilor de învățământ secundar, ciclul II:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.1.",
+      "orig": "4.1. vor aduce la cunoştința cadrelor didactice, elevilor, părinților, conținutul prezentului ordin;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 166.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.66666666666667,
+            "r": 539.6666666666667,
+            "t": 198.34665666666672
+          },
+          "charspan": [
+            0,
+            100
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "vor aduce la cunoştința cadrelor didactice, elevilor, părinților, conținutul prezentului ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2.",
+      "orig": "4.2. vor elabora orarul desfăşurării tezelor semestriale în instituția de învățământ, prezentându-1, pentru coordonare, la DGETS (biroul 1) până la 05.12.2025 în sesiunea de iarnă și până la 07.05.2026 în sesiunea de vară;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 122.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.0,
+            "r": 539.6666666666667,
+            "t": 168.01332333333323
+          },
+          "charspan": [
+            0,
+            222
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "vor elabora orarul desfăşurării tezelor semestriale în instituția de învățământ, prezentându-1, pentru coordonare, la DGETS (biroul 1) până la 05.12.2025 în sesiunea de iarnă și până la 07.05.2026 în sesiunea de vară;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.",
+      "orig": "4.3. vor organiza și desfáşura tezele semestriale în conformitate cu prevederile Regulamentului privind evaluarea și notarea rezultatelor învățării, promovarea și absolvirea în învățământul primar și secundar, aprobat prin ordinul MEC nr. 70/2020 și completat conform ordinului MEC nr. 384/2021 și ordinului MEC nr. 666/2024",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 714.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.66666666666667,
+            "r": 541.0,
+            "t": 789.67999
+          },
+          "charspan": [
+            0,
+            324
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "vor organiza și desfáşura tezele semestriale în conformitate cu prevederile Regulamentului privind evaluarea și notarea rezultatelor învățării, promovarea și absolvirea în învățământul primar și secundar, aprobat prin ordinul MEC nr. 70/2020 și completat conform ordinului MEC nr. 384/2021 și ordinului MEC nr. 666/2024"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.4.",
+      "orig": "4.4. vor prezenta rezultatele tezelor semestriale la DGETS (biroul 1), conform anexelor 1 și 2 până la 26.12.2025 în sesiunea de iarnă și până la 28.05.2026 în sesiunea de vară.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 667.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.0,
+            "r": 540.6666666666667,
+            "t": 712.3466566666666
+          },
+          "charspan": [
+            0,
+            177
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "vor prezenta rezultatele tezelor semestriale la DGETS (biroul 1), conform anexelor 1 și 2 până la 26.12.2025 în sesiunea de iarnă și până la 28.05.2026 în sesiunea de vară."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Responsabili de îndeplinirea prezentului ordin se desemnează S. Axînti, şef al direcției managementul curricular și directorii instituțiilor de învățământ secundar, ciclul II.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 621.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.0,
+            "r": 540.6666666666667,
+            "t": 666.0133233333333
+          },
+          "charspan": [
+            0,
+            178
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Responsabili de îndeplinirea prezentului ordin se desemnează S. Axînti, şef al direcției managementul curricular și directorii instituțiilor de învățământ secundar, ciclul II."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Controlul realizării prezentului ordin revine V. Crudu, şef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 604.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.0,
+            "r": 516.0,
+            "t": 620.0133233333333
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Controlul realizării prezentului ordin revine V. Crudu, şef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 511.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 473.6666666666667,
+            "r": 542.3333333333333,
+            "t": 531.3466566666666
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "Şef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ndrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 485.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 448.3333333333333,
+            "r": 540.6666666666667,
+            "t": 498.34665666666666
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "ndrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Ex: S. Axînti, (022) 235272",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 336.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 204.66666666666669,
+            "t": 349.3466566666666
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Ex: S. Axînti, (022) 235272"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, municipiul Chişinãu, MD-2704, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 146.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 175.0,
+            "r": 460.0,
+            "t": 172.67998999999998
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Str. Mitropolit Dosoftei, 99, municipiul Chişinãu, MD-2704, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

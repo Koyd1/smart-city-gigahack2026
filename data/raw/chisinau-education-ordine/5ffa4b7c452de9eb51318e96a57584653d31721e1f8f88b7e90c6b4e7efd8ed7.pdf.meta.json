@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "5ffa4b7c452de9eb51318e96a57584653d31721e1f8f88b7e90c6b4e7efd8ed7",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1774528851_ord-410-testare-tematia-vi-aprilie2026.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "3278216",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 07:18:23 GMT",
+    "Etag": "\"69c52953-320588\"",
+    "Last-Modified": "Thu, 26 Mar 2026 12:40:51 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/5ffa4b7c452de9eb51318e96a57584653d31721e1f8f88b7e90c6b4e7efd8ed7.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1774528851_ord-410-testare-tematia-vi-aprilie2026.pdf",
+  "retrieved_at": "2026-09-26T07:18:24.732770+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

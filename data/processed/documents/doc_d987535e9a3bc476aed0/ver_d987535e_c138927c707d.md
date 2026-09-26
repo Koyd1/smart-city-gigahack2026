@@ -1,0 +1,237 @@
+---
+document_id: "doc_d987535e9a3bc476aed0"
+version_id: "ver_d987535e_c138927c707d"
+title: "1788853705_steaua-intre-stele.pdf"
+source_url: "https://chisinauedu.dgets.md/storage/orders/1788853705_steaua-intre-stele.pdf"
+retrieved_at: "2026-09-26T06:38:49.748047+00:00"
+content_sha256: "c138927c707d1cd47ea1720958fa0929e505cd41b918a2cc35b6203ee457466c"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+<!-- image -->
+
+## CONSILIUL MUNICIPAL CHIŞINÃU
+
+## DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT
+
+## PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU
+
+<!-- image -->
+
+## ORDIN
+
+Cu privire la organizarea și desfăşurarea Festivalului-concurs municipalde creație Steaua între stele", ediția aVII-a
+
+În scopul realizării prevederilor Deciziei Consiliului municipal Chişinău nr. 4/3 din 13 iulie 2026 Cu privire la aplicarea bugetului municipal Chişinău pentru anul 2026 în lectura a doua", în temeiul Ordinelor DGETS nr. 01/1-7/1059 din 30.07.2026Cu privire la aplicarea Deciziei Consiliului municipal Chişinău nr. 4/3 din 13 iulie 2026 Cu privire la aplicarea bugetului municipal Chişinău pentru anul 2026 în lectura a doua", nr.01/1-7/41 din 16.01.2026 privindaprobarea Programului de activități și manifestări educative, sportive și cultural-artistice al DGETS (tineret și sport) pentru anul 2026,
+
+## ORDON:
+
+1. Direcția managementul învățământului extraşcolar, tineret și sport a DGETS (Silvia
+- etapa municipală a Festivalului-concurs de creație Steaua între stele", ediția a
+3. Butuc-Canațui, şefa) va organiza și desfăşura:
+4. VII-a, în perioada 15-18 octombrie 2026, în baza IPLT ,Mihai Viteazul";
+2. Centrele de creație cu profil estetic (CCC Floarea Soarelui", directoarea, Alina Ureche-Iordachi, CCC Luceafărul", director Veaceslav Levineț, CAE Curcubeul", directoarea Elena Negură, CCC ,,Ghiocel", directoarea, Ala Culeac, CEE Lăstărel", directoarea, VioricaFlorea):
+- Gala Laureaților, data de 24 octombrie 2026.
+- 2.1. vor desfăşura etapa de sector a Festivalului-concurs municipal de creație Steaua între stele", în perioada 01-08.10.2026, respectând  cerințele
+- 2.2. vor prezenta procesele-verbale cu rezultatele desfăşurării etapei de sector a Festivalului-concurs și ofertele învingătorilor pentru a participa la etapa municipală, la DGETS, bir.22, până la data de 09 octombrie 2026 (în format electronic și de
+9. Regulamentului concursului (anexa nr.1);
+10. hârtie).
+
+<!-- page: 2 -->
+
+3. Conducătorii instituțiilor de învățământ primar, secundar ciclul I şi II, extraşcolar vor asigura participarea elevilor la etapele de sector și municipiu a Festivaluluiconcurs, numind responsabili de viața și sănătatea copiilor cadrele didactice/manageriale din instituțiile de învățământ participante la concurs.
+5. Direcția managementul economico-financiar și evidența patrimoniului a DGETS (Svetlana Ignatieva) va efectua finanțarea Festivalului-concurs municipal de creație Steaua între stele", ediția a VII-a, conform pct.7,luna octombrie 2026 din bugetul DGETS și a devizului de cheltuieli aprobat (anexa nr.2).
+4. Directoarea IPLTMihai Viteazul", Demerji Valentina va crea condiții optime pentru buna desfăşurare a etapei municipale a Festivalului-concurs de creație Steaua între stele", ediția a VII-a, conform pct.1 prezentului ordin.
+6. Responsabil pentru executarea actelor la nivel primar, ce țin de partea financiară a activității, conform legislației în vigoare, în baza contractului de răspundere materială, se numește, Svetlana Nazaria, specialist principal, Direcția managementul învățământului extraşcolar, tineret și sport a DGETS.
+8. Controlul realizării prevederilor prezentului ordin mi-l asum.
+7. Monitorizarea realizării prevederilor prezentului ordin revine șefei Direcției managementul învățământului extraşcolar, tineret și sport, Silvia Butuc-Canațui.
+
+<!-- image -->
+
+<!-- page: 3 -->
+
+18 ani).
+
+<!-- image -->
+
+APROB: Şef adjunct al DGETS
+
+MUAndrei PAVALOI
+
+Festivalului-concurs municipal de creație,Steaua între stele"
+
+Festivalul-concurs de creație Steaua între stele" este organizat și desfaşurat
+
+de către Direcția Generală Educație Tineret și Sport a Consiliului municipal Chişinău și este destinat copiilor.
+
+## I.OBIECTIVELECONCURSUIUI:
+
+- Identificarea talentelor în domeniul artei vocale și picturei;
+- Promovarea artei vocale și picturei la nivel național;
+- Promovarea tinerilor talente.
+
+## II. CONDITII DE PARTICIPARE:
+
+1. Concursul se desfășşoară în 3 etape:
+2. Etapa I - etapa şcolară (locală) se desfăşoară în perioada lunii septembrie. Deținătorii Locului I (după categoriile de vârstă), la ambele secțiuni, vor fi delegați la etapa de sector, în baza procesului-verbal și ofertei de participare în 2 exemplare.
+3. Etapa III - etapa municipală va fi organizată de către DGETS în perioada 15-18 octombrie 2026.
+4. Etapa II - etapa de sector va fi organizată de către Centrele de Creație cu Profil Estetic în perioada 01-08.10.2026 pentru ambele probe, menționate în Regulament. Câte 20 participanți de la fiecare categorie de vârstă și secțiune (vocală și pictură) vor fi delegați la etapa municipală. În total 200 participanți. Centrele de Creație cu Profil Estetic vor prezenta până la data de 09 octombrie 2026 la DGETS, bir.22: ofertageneralizată de participare la etapa municipală pentru probele: vocală și pictură (în format de hârtie și electronic) și procesul-verbal privind desfăşurarea etapei de sector a concursului;
+2. Concursul se desfăşoară pe secțiuni:
+
+## a)Secțiunea interpretare vocală
+
+La secțiunea intrepretare vocală pot participa toți doritorii, indiferent de apartenența etnică sau religioasă, cu vârsta cuprinsă între 6 și 18 ani (categoria A 6-8 ani; categoria B 9-10 ani; categoria C 11-13 ani; categoria D 14-15 ani; categoria E 16-
+
+## Cerințe de interpretare
+
+- Genul muzicii uşoare (pop, pop-rock).
+- Formatul prestației: interpretare exclusiv în direct LIVE solo.
+
+<!-- page: 4 -->
+
+- Durata piesei: nu va depăşi 4:00 minute.
+- Formula de scenă: individual (solo).
+- Prezența negativului pe stick în ziua concursului.
+- Limba repertoriului: limba română.
+
+## Tematici permise
+
+- Număr de piese: o singură melodie per concurent.
+
+Piesa aleasă trebuie să abordeze cel puțin una dintre următoarele teme:
+
+- Patrie și dragoste de țară.
+- Copilărie.
+- Pace.
+- Şcoală și educație.
+- Valorile familiei.
+- Părinți.
+
+## Criteriile principale de jurizare
+
+- Prietenie.
+- Calitățile vocale și interpretative.
+- Intonația.
+- Calitatea timbrului vocal.
+- Stilul interpretativ.
+- Ritm, dicția.
+- Emisie vocală și prezența scenică.
+- Conținutul piesei.
+- Aspectul exterior al participantului.
+
+Intrarea pe scenă a participanților se va face strict pe baza unei programări prestabilite (ordine de intrare pe ore/categorii), comunicată oficial
+
+## Organizare și desfăşurare
+
+de organizatori înaintea evenimentului.
+
+Oferta de participare se depune în 2 exemplare la etapa de sector și trebuie să cuprindă:
+
+## Înscriere și participare
+
+- Denumirea instituției de învățământ.
+- Numele și prenumele participantului.
+- Categoria de vârstă.
+- Numele, prenumele cadrului didactic/nr.de telefon.
+- Denumirea piesei.
+- Autorii piesei.
+- Durata.
+
+NOTÀ: participanții la secțiunea interpretare vocală pot i incluși la categoria NOMINATIE, prezentând a doua piesă cu tematică liberă într-o limbă străină (engleză, franceză, italiană, rusă).
+
+## b) Secțiunea de pictură
+
+La secțiunea de pictură pot participa toți doritorii, indiferent de apartenența etnică sau religioasă, cu vârsta cuprinsă între 6 și 18 ani (categoria A 6-8 ani; categoria B 9-10 ani; categoria C 11-13 ani; categoria D 14-15 ani; categoria E 16-18 ani).
+
+<!-- page: 5 -->
+
+## Formatul și suportul lucrării
+
+- Desenul se realizează în format fizic, pe loc, respectând un program prestabilit și comunicat în prealabil.
+- Lucrarea trebuie executată în format A3 (grafică, pictură sau colaj).
+- Fiecare concurent este responsabil să aducă toate materialele și instrumentele de lucru necesare la concurs.
+
+## Tematică și criterii de evaluare
+
+- Tema concursului este Independența care ne unește".
+- Viziunea artistică și originalitatea compoziției.
+
+## Criteriile principale de jurizare
+
+- Organizarea spațială și unitatea compozițională.
+- Aspectul estetic general și armonia cromatică.
+- Tehnica de execuție și claritatea elementelor redate.
+
+## Identificare și drepturi
+
+- (eticheta cu datele necesare).
+- Pe partea dreaptă a fiecărei lucrări se aplică pașaportul de identificare
+- Lucrările declarate câștigătoare rămân în patrimoniul organizatorilor și nu se
+- returnează.
+
+## Înscriere și participare
+
+Oferta de participare se depune în 2 exemplare la etapa de sector și trebuie să cuprindă:
+
+- Denumirea instituției de învățământ.
+- Numele, prenumele cadrului didactic/nr.de telefon.
+- Numele și prenumele participantului.
+- Categoria de vârstă.
+
+## III. JURIZAREA:
+
+1. Membrii juriului vor aprecia participanții după categorii de vârstă: categoria A 6-8 ani; categoria B 9-10 ani; categoria C 11-13 ani; categoria D 14-15 ani; categoria E 16-18 ani).
+3. Aprecierile membrilor de juriu nu se negociază între membrii juriului, fiecare
+2. Fiecare membru al juriului punctează în mod individual prestațiile partricipanților, iar la final, pe baza punctajelor cumulate, se decid pozițiile câștigătoare.
+4. notând în mod individual.
+5. Juriul va acorda note de la 7 la 10 fiecărui participant.
+6. 4.Componența juriului va fi anunțată la concurs.
+6. Orice încercare a participantului de a influența la rezultate va fi sancționată cu descalificarea.
+8. Membrii juriului vor fi prezenți la Gala Laureaților.
+7. Litigiile apărute în procesul desfăşurării concursului vor fi soluționate pe cale amiabilă.
+9. Decizia juriului nu poate fi contestată nici de participanți, nici de organizatori.
+11. 11.Juriului i se permite de a interveni cu modificări în modalitatea de repartizare
+10. Juriul poate acorda premii speciale.
+13. a premiilor, păstrând suma indicată în devizul de cheltuieli.
+
+<!-- page: 6 -->
+
+## IV. REZULTTELE CONCURSULUIŞI PREMIEREA:
+
+1.Premierea învingătorilor se va efectua în baza deciziei juriului; se vor acorda diplome, premii băneşti, cupe (pentru Premiul Mare), conform sectiunilor și categoriilor de vârstă (categoria A 6-8 ani; categoria B 9-10 ani; categoria C 11-13 ani; categoria D14-15 ani; categoria E 16-18 ani:
+
+| Secțiunea muzicală Premiul Mare   | 10 part. x 600,00 lei = 6 000,00 lei   |
+|-----------------------------------|----------------------------------------|
+| Locul I                           | 25 part. x 500,00 lei = 12 500,00lei   |
+| Locul II                          | 30part. x 400,00lei =12000,00 lei      |
+| Locul III                         | 35 part. x 300,00 lei =10500,00 lei    |
+
+Nominație Cea mai reuşită prezentare a piesei în limba străină"
+
+| Secțiunea de pictură Premiul Mare   | 10 part. x 600,00 lei = 6 000,00 lei   |
+|-------------------------------------|----------------------------------------|
+| Locul I                             | 25part. x 500,00 lei = 12500,00 lei    |
+| Locul II                            | 30 part. x 400,00 lei =12000,00 lei    |
+| Locul III                           | 35part. x 300,00 lei = 10500,00lei     |
+
+10part. x100,00lei=10 000,00 lei
+
+2.De asemenea, pentru organizarea și realizarea concursului se prevăd și alte cheltuieli (remunerarea juriului, asigurarea serviciului de sonorizare, prezentarea programului, scenografia, servicii tehnice, diplome, cupe, fondul social), suma totală find de 57 672,90 lei (cincizeci și şapte mii şase sute șaptezeci și doi lei 90 bani). Pentru ridicarea premiilor, prezența câștigătorului/reprezentantului legal/cadrul didactic este obligatorie.
+
+3.În cazul absenței motivate a câștigătorului premiul va fi înmânat reprezentantului legal/cadrului didactic.
+
+## V. PRELUCRAREA DATELORCUCARACTER PERSONAL:
+
+2. Organizatorul se obligă să respecte drepturile tuturor participanților, în conformitate cu cadrul legal privind protecția datelor cu caracter personal.
+2. 1.Organizatorul are dreptul să anunțe public numele și prenumele câştigătorilor la concurs, inclusiv prin plasarea lor pe pagina web.
+3. Organizatorul îşi rezervă dreptul de a modifica prevederile prezentului Regulament în caz de necesitate, cu anunțarea ulterioară a modificărilor pe pagina oficială web.
+4. În circumstanțe excepționale, Organizatorul poate suspenda și/sau anula concursul, cu condiția anunțării participanților prin plasarea unui aviz pe pagina oficială web.
+
+<!-- image -->

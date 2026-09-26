@@ -6,6 +6,34 @@ from civic_ai.processing.export import build_rag_export
 from civic_ai.processing.processor import ResourceProcessor
 
 
+def test_rag_export_preserves_versions_with_same_title_and_canonical(tmp_path: Path) -> None:
+    (tmp_path / "schemas").mkdir()
+    project_root = Path(__file__).resolve().parents[1]
+    for schema in ("document.schema.json", "chunk.schema.json"):
+        (tmp_path / "schemas" / schema).write_bytes((project_root / "schemas" / schema).read_bytes())
+    source = Source("orders", "education", "https://example.md/ordine", "path_prefix", True)
+    processor = ResourceProcessor(tmp_path)
+    for page in (1, 2):
+        processor.process(Resource(
+            source=source,
+            url=f"{source.url}?page={page}",
+            final_url=f"{source.url}?page={page}",
+            status=200,
+            headers={"Content-Type": "text/html"},
+            body=(f'<html><head><link rel="canonical" href="{source.url}"></head>'
+                  f'<body><main><h1>Ordine</h1><p>Order number {page}</p></main></body></html>').encode(),
+            retrieved_at="2026-09-26T06:00:00+00:00",
+        ))
+    result = build_rag_export(tmp_path)
+    manifest = json.loads((result.root / "manifest.json").read_text())
+    files = [entry["file"] for entry in manifest["documents"]]
+    assert result.documents == 2
+    assert len(set(files)) == 2
+    contents = [(result.root / name).read_text() for name in files]
+    assert any("Order number 1" in content for content in contents)
+    assert any("Order number 2" in content for content in contents)
+
+
 def test_html_pipeline_exports_traceable_files(tmp_path: Path) -> None:
     (tmp_path / "schemas").mkdir()
     project_root = Path(__file__).resolve().parents[1]

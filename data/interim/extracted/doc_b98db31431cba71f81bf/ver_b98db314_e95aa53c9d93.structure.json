@@ -1,0 +1,1008 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/texts/8"
+      },
+      {
+        "$ref": "#/texts/9"
+      },
+      {
+        "$ref": "#/texts/10"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/1"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/pictures/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    }
+  ],
+  "key_value_items": [],
+  "name": "8e5884807598ed5fcf8a2d7dc23374bbc81d508bbccb4e10d1a551c142fa9072",
+  "origin": {
+    "binary_hash": 15106570415578452082,
+    "filename": "8e5884807598ed5fcf8a2d7dc23374bbc81d508bbccb4e10d1a551c142fa9072.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 693.3390918549346,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 259.98450313683713,
+            "r": 372.1541000828598,
+            "t": 767.1896898920556
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        },
+        {
+          "$ref": "#/texts/4"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 568.9105620169441,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.23180604876895,
+            "r": 321.9032250236742,
+            "t": 607.773871576806
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 525.184370355232,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 387.19892163825756,
+            "r": 552.1864991714015,
+            "t": 666.4367612264047
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 346.02724249405475,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 336.2153847064394,
+            "r": 434.8266678503788,
+            "t": 392.2798947960018
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/24"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 331.70565807074917,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 253.75350911458332,
+            "r": 310.15006303267046,
+            "t": 368.32897712916173
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIN",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 697.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 291.0,
+            "r": 305.6666666666667,
+            "t": 702.2933333333333
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PRIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "NOIINSENE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 697.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 305.6666666666667,
+            "r": 341.3333333333333,
+            "t": 702.6266666666668
+          },
+          "charspan": [
+            0,
+            9
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "NOIINSENE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 627.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 177.0,
+            "r": 467.3333333333333,
+            "t": 675.96
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "0626",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 570.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 245.33333333333334,
+            "r": 317.66666666666663,
+            "t": 610.6266666666667
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "0626"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "19",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 583.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 214.66666666666666,
+            "r": 261.33333333333337,
+            "t": 604.96
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "19"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 526.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.66666666666663,
+            "r": 342.0,
+            "t": 542.2933333333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr. 04/43n1 mr.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 565.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.66666666666667,
+            "r": 232.0,
+            "t": 616.96
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "nr. 04/43n1 mr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la totalurile mesei rotunde pentru cadrele.didactice la disciplina limba străină",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 469.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.66666666666667,
+            "r": 291.33333333333337,
+            "t": 517.96
+          },
+          "charspan": [
+            0,
+            91
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Cu privire la totalurile mesei rotunde pentru cadrele.didactice la disciplina limba străină"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul ordinului DGETS nr. 01/1-7/541 din 29.04.2026 Cu privirela organizarea și desfășurarea mesei rotunde pentru cadrele didactice la disciplina limba străină, la data de 14 mai 2026, ora 14.30, s-a desfăşurat online, masa rotundă cu genericul: Strategii didactice de predare-învățare specifice disciplinei Limba străină\". La masa rotundă au participat 384 cadre didactice.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 357.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.66666666666667,
+            "r": 551.3333333333333,
+            "t": 453.29333333333335
+          },
+          "charspan": [
+            0,
+            379
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "În temeiul ordinului DGETS nr. 01/1-7/541 din 29.04.2026 Cu privirela organizarea și desfășurarea mesei rotunde pentru cadrele didactice la disciplina limba străină, la data de 14 mai 2026, ora 14.30, s-a desfăşurat online, masa rotundă cu genericul: Strategii didactice de predare-învățare specifice disciplinei Limba străină\". La masa rotundă au participat 384 cadre didactice."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Reeșind din cele menționate,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 340.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 118.33333333333334,
+            "r": 283.0,
+            "t": 359.2933333333334
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Reeșind din cele menționate,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 314.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 285.66666666666663,
+            "r": 344.3333333333333,
+            "t": 330.62666666666667
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Cadrele didactice participante la activitatea de instruire vor disemina informația recepționată în cadrul ședințelor Comisiilor metodice la aria curriculară Limbă și comunicare din instituțiile de învățământsecundar, ciclul I și II în care activează.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 233.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.0,
+            "r": 550.3333333333333,
+            "t": 306.96000000000004
+          },
+          "charspan": [
+            0,
+            253
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Cadrele didactice participante la activitatea de instruire vor disemina informația recepționată în cadrul ședințelor Comisiilor metodice la aria curriculară Limbă și comunicare din instituțiile de învățământsecundar, ciclul I și II în care activează."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se consideră activitatea de instruire desfăşurată în cadrul seminarului de către cadrele didactice participante cu comunicări (anexa nr.1), drept activitatecu durata de 30 (treizeci) ore în baza hărții creditare din Regulamentul de atestare a cadrelor didactice la grad didactic/managerial.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 155.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 549.0,
+            "t": 231.2933333333333
+          },
+          "charspan": [
+            0,
+            293
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Se consideră activitatea de instruire desfăşurată în cadrul seminarului de către cadrele didactice participante cu comunicări (anexa nr.1), drept activitatecu durata de 30 (treizeci) ore în baza hărții creditare din Regulamentul de atestare a cadrelor didactice la grad didactic/managerial."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se consideră activitatea cadrelor didactice participante la seminar (anexa nr.2), drept activitate cu durata de 6 (şase) ore în baza Hărții creditare din Regulamentul de atestare a cadrelor didacticela grad didactic.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 99.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.66666666666667,
+            "r": 548.3333333333333,
+            "t": 157.2933333333333
+          },
+          "charspan": [
+            0,
+            219
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Se consideră activitatea cadrelor didactice participante la seminar (anexa nr.2), drept activitate cu durata de 6 (şase) ore în baza Hărții creditare din Regulamentul de atestare a cadrelor didacticela grad didactic."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Responsabilitatea de realizare a prevederilor prezentului ordin revine V. Coropcean și Comisiei de evaluare internă şi atestare din cadrul instituțiilor de învățământ.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 726.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 102.66666666666667,
+            "r": 555.3333333333333,
+            "t": 781.96
+          },
+          "charspan": [
+            0,
+            170
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Responsabilitatea de realizare a prevederilor prezentului ordin revine V. Coropcean și Comisiei de evaluare internă şi atestare din cadrul instituțiilor de învățământ."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul executării prevederilor ordinului emis revine S.Axînti, șef al direcției management curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 685.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.33333333333333,
+            "r": 555.0,
+            "t": 726.2933333333334
+          },
+          "charspan": [
+            0,
+            115
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Controlul executării prevederilor ordinului emis revine S.Axînti, șef al direcției management curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ef adjunct",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 597.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 493.0,
+            "r": 553.3333333333333,
+            "t": 616.6266666666667
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "ef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Andrei PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 581.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 456.0,
+            "r": 552.6666666666667,
+            "t": 597.6266666666667
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Andrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "10600",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 559.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 445.0,
+            "r": 469.6666666666667,
+            "t": 560.2933333333334
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "10600"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIM",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 534.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 422.0,
+            "r": 439.0,
+            "t": 548.6266666666667
+          },
+          "charspan": [
+            0,
+            4
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "PRIM"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Monitorizarea realizării prevederilor prezentului ordin revine şefului adjunct al DGETS, V. Crudu.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 650.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.33333333333333,
+            "r": 554.6666666666667,
+            "t": 687.96
+          },
+          "charspan": [
+            0,
+            101
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Monitorizarea realizării prevederilor prezentului ordin revine şefului adjunct al DGETS, V. Crudu."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: Valentina Coropcean, (022)235271",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 343.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.66666666666667,
+            "r": 245.0,
+            "t": 360.96000000000004
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Ex.: Valentina Coropcean, (022)235271"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Meeee",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 350.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 335.3333333333333,
+            "r": 406.6666666666667,
+            "t": 380.6266666666667
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "Meeee"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 305.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.0,
+            "r": 425.0,
+            "t": 337.29333333333335
+          },
+          "charspan": [
+            0,
+            145
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Bloropmy",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 337.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 252.33333333333334,
+            "r": 304.66666666666663,
+            "t": 362.96000000000004
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Bloropmy"
+    }
+  ],
+  "version": "1.10.0"
+}

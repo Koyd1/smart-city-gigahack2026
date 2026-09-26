@@ -1,0 +1,3488 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/tables/0"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        },
+        {
+          "$ref": "#/texts/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    }
+  ],
+  "key_value_items": [],
+  "name": "8e887a52d3fe598024db117b09ffb6d49f68e868f227edc3b172f8acdae4504a",
+  "origin": {
+    "binary_hash": 12786555713348718666,
+    "filename": "8e887a52d3fe598024db117b09ffb6d49f68e868f227edc3b172f8acdae4504a.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 842.0,
+        "width": 595.0
+      }
+    }
+  },
+  "pictures": [],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 177.0,
+                "coord_origin": "TOPLEFT",
+                "l": 31.666666666666664,
+                "r": 68.0,
+                "t": 161.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr.d/o"
+            },
+            {
+              "bbox": {
+                "b": 185.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 116.33333333333333,
+                "r": 234.0,
+                "t": 169.66666666666669
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Instituția de învățământ"
+            },
+            {
+              "bbox": {
+                "b": 187.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 283.3333333333333,
+                "r": 350.6666666666667,
+                "t": 158.66666666666669
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Numărul absolvenților"
+            },
+            {
+              "bbox": {
+                "b": 202.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 360.0,
+                "r": 501.0,
+                "t": 145.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "Instituția de invățământ care va asigura continuitatea şcolarizării absolvenților invățământului primar"
+            },
+            {
+              "bbox": {
+                "b": 189.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 513.6666666666667,
+                "r": 560.6666666666666,
+                "t": 161.0
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 0,
+              "text": "Numārul de locuri"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 211.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 51.0,
+                "r": 63.666666666666664,
+                "t": 197.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1."
+            },
+            {
+              "bbox": {
+                "b": 213.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 73.33333333333334,
+                "r": 164.66666666666666,
+                "t": 196.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "IPCE Ilie Fulga\""
+            },
+            {
+              "bbox": {
+                "b": 214.33333333333331,
+                "coord_origin": "TOPLEFT",
+                "l": 307.6666666666667,
+                "r": 325.3333333333333,
+                "t": 199.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "90"
+            },
+            {
+              "bbox": {
+                "b": 216.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 356.3333333333333,
+                "r": 464.3333333333333,
+                "t": 200.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": "IPLT ,Dragoş Vodā\""
+            },
+            {
+              "bbox": {
+                "b": 216.66666666666669,
+                "coord_origin": "TOPLEFT",
+                "l": 528.6666666666666,
+                "r": 545.6666666666666,
+                "t": 202.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 1,
+              "text": "90"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 226.0,
+                "coord_origin": "TOPLEFT",
+                "l": 49.333333333333336,
+                "r": 63.666666666666664,
+                "t": 211.33333333333331
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 228.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 73.66666666666666,
+                "r": 229.33333333333334,
+                "t": 210.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "IP Şcoala Primară ,,Pas cu Pas\""
+            },
+            {
+              "bbox": {
+                "b": 229.0,
+                "coord_origin": "TOPLEFT",
+                "l": 305.3333333333333,
+                "r": 327.3333333333333,
+                "t": 213.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "141"
+            },
+            {
+              "bbox": {
+                "b": 230.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 356.3333333333333,
+                "r": 475.0,
+                "t": 214.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": "LT ,Vasile Alecsandri\""
+            },
+            {
+              "bbox": {
+                "b": 231.0,
+                "coord_origin": "TOPLEFT",
+                "l": 526.6666666666667,
+                "r": 548.0,
+                "t": 216.66666666666669
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 2,
+              "text": "130"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 254.0,
+                "coord_origin": "TOPLEFT",
+                "l": 49.666666666666664,
+                "r": 63.333333333333336,
+                "t": 240.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 255.33333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 74.0,
+                "r": 202.33333333333334,
+                "t": 240.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "IP Şcoala Primară nr. 101"
+            },
+            {
+              "bbox": {
+                "b": 257.33333333333337,
+                "coord_origin": "TOPLEFT",
+                "l": 305.3333333333333,
+                "r": 327.6666666666667,
+                "t": 242.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "105"
+            },
+            {
+              "bbox": {
+                "b": 259.0,
+                "coord_origin": "TOPLEFT",
+                "l": 356.0,
+                "r": 475.0,
+                "t": 229.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": "LT ,Bogdan P.Haşdeu\" IPLT Grigore Vieru\""
+            },
+            {
+              "bbox": {
+                "b": 259.66666666666663,
+                "coord_origin": "TOPLEFT",
+                "l": 526.0,
+                "r": 548.0,
+                "t": 231.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 3,
+              "text": "11 105"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 268.0,
+                "coord_origin": "TOPLEFT",
+                "l": 49.333333333333336,
+                "r": 63.0,
+                "t": 254.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4."
+            },
+            {
+              "bbox": {
+                "b": 271.33333333333337,
+                "coord_origin": "TOPLEFT",
+                "l": 73.33333333333334,
+                "r": 245.0,
+                "t": 254.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Şcoala Primară – Grădiniță nr. 124"
+            },
+            {
+              "bbox": {
+                "b": 271.66666666666663,
+                "coord_origin": "TOPLEFT",
+                "l": 307.0,
+                "r": 324.6666666666667,
+                "t": 256.66666666666663
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "20"
+            },
+            {
+              "bbox": {
+                "b": 287.66666666666663,
+                "coord_origin": "TOPLEFT",
+                "l": 355.6666666666667,
+                "r": 488.0,
+                "t": 257.33333333333337
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 4,
+              "text": "IPLT Dimitrie Cantemir\" IPLTPA Mihai Grecu\""
+            },
+            {
+              "bbox": {
+                "b": 287.66666666666663,
+                "coord_origin": "TOPLEFT",
+                "l": 528.6666666666666,
+                "r": 545.0,
+                "t": 260.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 4,
+              "text": "5 15"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 296.33333333333337,
+                "coord_origin": "TOPLEFT",
+                "l": 49.333333333333336,
+                "r": 62.333333333333336,
+                "t": 282.33333333333337
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "5."
+            },
+            {
+              "bbox": {
+                "b": 300.0,
+                "coord_origin": "TOPLEFT",
+                "l": 73.33333333333334,
+                "r": 252.33333333333334,
+                "t": 282.33333333333337
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "Şcoala Primară ,Spiridon Vangheli\""
+            },
+            {
+              "bbox": {
+                "b": 299.66666666666663,
+                "coord_origin": "TOPLEFT",
+                "l": 305.0,
+                "r": 327.0,
+                "t": 285.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 5,
+              "text": "118"
+            },
+            {
+              "bbox": {
+                "b": 315.0,
+                "coord_origin": "TOPLEFT",
+                "l": 355.6666666666667,
+                "r": 465.6666666666667,
+                "t": 285.66666666666663
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 5,
+              "text": "IPLT Nicolae Iorga\" Gimnaziul Decebal\""
+            },
+            {
+              "bbox": {
+                "b": 316.0,
+                "coord_origin": "TOPLEFT",
+                "l": 528.0,
+                "r": 544.6666666666666,
+                "t": 288.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 5,
+              "text": "86 22"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 338.33333333333337,
+                "coord_origin": "TOPLEFT",
+                "l": 49.0,
+                "r": 62.0,
+                "t": 324.66666666666663
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 6,
+              "text": "6."
+            },
+            {
+              "bbox": {
+                "b": 340.66666666666663,
+                "coord_origin": "TOPLEFT",
+                "l": 73.33333333333334,
+                "r": 186.0,
+                "t": 324.66666666666663
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 6,
+              "text": "Şcoala Primară nr. 120"
+            },
+            {
+              "bbox": {
+                "b": 342.0,
+                "coord_origin": "TOPLEFT",
+                "l": 306.3333333333333,
+                "r": 324.0,
+                "t": 327.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 6,
+              "text": "60"
+            },
+            {
+              "bbox": {
+                "b": 372.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 355.0,
+                "r": 477.3333333333333,
+                "t": 313.66666666666663
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 6,
+              "text": "LT Mircea cel Bătrân\" Gimnaziul Decebal\" IPLT Liviu Rebreanu\" IPLT Mihai Eminescu\""
+            },
+            {
+              "bbox": {
+                "b": 359.0,
+                "coord_origin": "TOPLEFT",
+                "l": 527.6666666666667,
+                "r": 544.3333333333334,
+                "t": 316.33333333333337
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 6,
+              "text": "10 15 30"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 381.0,
+                "coord_origin": "TOPLEFT",
+                "l": 48.666666666666664,
+                "r": 61.666666666666664,
+                "t": 366.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 7,
+              "text": "7."
+            },
+            {
+              "bbox": {
+                "b": 383.0,
+                "coord_origin": "TOPLEFT",
+                "l": 72.66666666666666,
+                "r": 182.66666666666666,
+                "t": 367.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 7,
+              "text": "Şcoala Primară nr. 82"
+            },
+            {
+              "bbox": {
+                "b": 384.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 306.3333333333333,
+                "r": 323.3333333333333,
+                "t": 370.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 7,
+              "text": "88"
+            },
+            {
+              "bbox": {
+                "b": 400.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 354.6666666666667,
+                "r": 500.3333333333333,
+                "t": 370.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 7,
+              "text": "Gimnaziul Steliana Grama\" IPLT ,Ginta Latină\""
+            },
+            {
+              "bbox": {
+                "b": 401.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 527.6666666666667,
+                "r": 544.0,
+                "t": 359.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 7,
+              "text": "15 73 15"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 408.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 48.0,
+                "r": 61.333333333333336,
+                "t": 395.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 8,
+              "text": "8."
+            },
+            {
+              "bbox": {
+                "b": 410.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 72.33333333333334,
+                "r": 182.33333333333334,
+                "t": 395.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 8,
+              "text": "Şcoala Primară nr. 95"
+            },
+            {
+              "bbox": {
+                "b": 413.0,
+                "coord_origin": "TOPLEFT",
+                "l": 305.6666666666667,
+                "r": 323.3333333333333,
+                "t": 397.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 8,
+              "text": "56"
+            },
+            {
+              "bbox": {
+                "b": 428.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 354.0,
+                "r": 429.0,
+                "t": 398.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 8,
+              "text": "IPLT,Olimp\" LT Dacia\""
+            },
+            {
+              "bbox": {
+                "b": 430.0,
+                "coord_origin": "TOPLEFT",
+                "l": 526.6666666666667,
+                "r": 543.6666666666666,
+                "t": 401.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 8,
+              "text": "30 26"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 437.0,
+                "coord_origin": "TOPLEFT",
+                "l": 48.0,
+                "r": 61.333333333333336,
+                "t": 423.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 9,
+              "text": "9."
+            },
+            {
+              "bbox": {
+                "b": 439.0,
+                "coord_origin": "TOPLEFT",
+                "l": 72.0,
+                "r": 179.66666666666666,
+                "t": 423.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 9,
+              "text": "Şcoala Primară nr. 19"
+            },
+            {
+              "bbox": {
+                "b": 455.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 303.3333333333333,
+                "r": 325.6666666666667,
+                "t": 426.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 9,
+              "text": "45 159"
+            },
+            {
+              "bbox": {
+                "b": 443.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 353.6666666666667,
+                "r": 447.3333333333333,
+                "t": 426.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 9,
+              "text": "LT Stefan Voda\""
+            },
+            {
+              "bbox": {
+                "b": 443.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 527.0,
+                "r": 543.3333333333334,
+                "t": 429.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 9,
+              "text": "45"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 451.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 48.666666666666664,
+                "r": 67.0,
+                "t": 436.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 10,
+              "text": "10."
+            },
+            {
+              "bbox": {
+                "b": 455.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 71.0,
+                "r": 255.0,
+                "t": 437.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 10,
+              "text": "IP Şcoala Primară ,Anatol Popovici\""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 10,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 471.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 354.0,
+                "r": 454.6666666666667,
+                "t": 441.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 10,
+              "text": "IPLT ,Gaudeamus\" IPLPS ,,AVANTE\""
+            },
+            {
+              "bbox": {
+                "b": 472.0,
+                "coord_origin": "TOPLEFT",
+                "l": 524.6666666666667,
+                "r": 546.0,
+                "t": 444.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 10,
+              "text": "150 9"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 480.0,
+                "coord_origin": "TOPLEFT",
+                "l": 48.333333333333336,
+                "r": 67.0,
+                "t": 465.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 11,
+              "text": "11."
+            },
+            {
+              "bbox": {
+                "b": 483.0,
+                "coord_origin": "TOPLEFT",
+                "l": 71.33333333333334,
+                "r": 230.0,
+                "t": 466.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 11,
+              "text": "Şcoala Primarā Grigore Vieru\""
+            },
+            {
+              "bbox": {
+                "b": 484.0,
+                "coord_origin": "TOPLEFT",
+                "l": 302.0,
+                "r": 325.6666666666667,
+                "t": 468.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 11,
+              "text": "247"
+            },
+            {
+              "bbox": {
+                "b": 514.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 353.6666666666667,
+                "r": 496.3333333333333,
+                "t": 470.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 11,
+              "text": "IPLT Petru Zadnipru\" IPLPS ,,AVANTE\" IPLT Constantin Negruzzi\""
+            },
+            {
+              "bbox": {
+                "b": 514.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 524.3333333333333,
+                "r": 545.6666666666666,
+                "t": 472.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 11,
+              "text": "140 77 10"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 536.0,
+                "coord_origin": "TOPLEFT",
+                "l": 47.66666666666667,
+                "r": 66.33333333333334,
+                "t": 521.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 12,
+              "text": "12."
+            },
+            {
+              "bbox": {
+                "b": 539.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 70.66666666666666,
+                "r": 240.66666666666666,
+                "t": 521.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 12,
+              "text": "Şcoala Primară - Grădiniță nr. 226"
+            },
+            {
+              "bbox": {
+                "b": 539.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 304.3333333333333,
+                "r": 321.6666666666667,
+                "t": 525.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 12,
+              "text": "44"
+            },
+            {
+              "bbox": {
+                "b": 569.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 353.0,
+                "r": 499.3333333333333,
+                "t": 512.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 12,
+              "text": "IPLT ,Gaudeamus\" IP Gimnaziul D.Matcovschi\" Gimnaziul nr.53"
+            },
+            {
+              "bbox": {
+                "b": 543.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 525.6666666666667,
+                "r": 542.3333333333334,
+                "t": 514.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 12,
+              "text": "20 34"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 577.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 47.66666666666667,
+                "r": 66.0,
+                "t": 563.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 13,
+              "text": "13."
+            },
+            {
+              "bbox": {
+                "b": 578.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 70.33333333333334,
+                "r": 130.66666666666669,
+                "t": 563.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 13,
+              "text": "IPCE nr. 88"
+            },
+            {
+              "bbox": {
+                "b": 624.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 303.6666666666667,
+                "r": 321.3333333333333,
+                "t": 567.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 13,
+              "text": "33 73"
+            },
+            {
+              "bbox": {
+                "b": 596.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 353.0,
+                "r": 498.6666666666667,
+                "t": 568.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 13,
+              "text": "CE Gimnaziul-Grădiniță STEAM\""
+            },
+            {
+              "bbox": {
+                "b": 585.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 526.0,
+                "r": 542.0,
+                "t": 557.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 13,
+              "text": "10 12"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 619.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 47.0,
+                "r": 65.33333333333334,
+                "t": 605.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 14,
+              "text": "14."
+            },
+            {
+              "bbox": {
+                "b": 634.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 69.0,
+                "r": 273.0,
+                "t": 604.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 14,
+              "text": "Şcoala Primară - Grădinițā Antonin Ursu\""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 14,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 639.0,
+                "coord_origin": "TOPLEFT",
+                "l": 351.6666666666667,
+                "r": 498.6666666666667,
+                "t": 596.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 14,
+              "text": "Gimnaziul Decebal\" IPLT Principesa Natalia Dadiani\""
+            },
+            {
+              "bbox": {
+                "b": 627.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 525.0,
+                "r": 541.3333333333334,
+                "t": 599.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 14,
+              "text": "21 32"
+            }
+          ],
+          [
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 15,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 678.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 68.66666666666666,
+                "r": 194.0,
+                "t": 661.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 15,
+              "text": "LTI.S.Neciui-Levitchi\""
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 15,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 668.0,
+                "coord_origin": "TOPLEFT",
+                "l": 352.3333333333333,
+                "r": 498.6666666666667,
+                "t": 638.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 15,
+              "text": "IPLTPA ,Ion și Doina Aldea-Teodorovici\""
+            },
+            {
+              "bbox": {
+                "b": 656.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 524.6666666666667,
+                "r": 540.3333333333334,
+                "t": 641.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 15,
+              "text": "41"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 675.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 46.66666666666667,
+                "r": 65.0,
+                "t": 661.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 16,
+              "text": "15."
+            },
+            {
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 16,
+              "text": ""
+            },
+            {
+              "bbox": {
+                "b": 680.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 305.0,
+                "r": 322.0,
+                "t": 665.3333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 16,
+              "text": "15"
+            },
+            {
+              "bbox": {
+                "b": 710.6666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 351.3333333333333,
+                "r": 498.0,
+                "t": 667.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 16,
+              "text": "LT Mihai Marinciuc\" IPLTPA Ion și Doina Aldea-Teodorovici\""
+            },
+            {
+              "bbox": {
+                "b": 698.3333333333334,
+                "coord_origin": "TOPLEFT",
+                "l": 525.0,
+                "r": 540.6666666666666,
+                "t": 669.6666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 16,
+              "text": "10 5"
+            }
+          ]
+        ],
+        "num_cols": 5,
+        "num_rows": 17,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 202.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 360.0,
+              "r": 501.0,
+              "t": 145.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "Instituția de invățământ care va asigura continuitatea şcolarizării absolvenților invățământului primar"
+          },
+          {
+            "bbox": {
+              "b": 177.0,
+              "coord_origin": "TOPLEFT",
+              "l": 31.666666666666664,
+              "r": 68.0,
+              "t": 161.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr.d/o"
+          },
+          {
+            "bbox": {
+              "b": 187.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 283.3333333333333,
+              "r": 350.6666666666667,
+              "t": 158.66666666666669
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Numărul absolvenților"
+          },
+          {
+            "bbox": {
+              "b": 189.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 513.6666666666667,
+              "r": 560.6666666666666,
+              "t": 161.0
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 0,
+            "text": "Numārul de locuri"
+          },
+          {
+            "bbox": {
+              "b": 185.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 116.33333333333333,
+              "r": 234.0,
+              "t": 169.66666666666669
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Instituția de învățământ"
+          },
+          {
+            "bbox": {
+              "b": 211.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 51.0,
+              "r": 63.666666666666664,
+              "t": 197.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1."
+          },
+          {
+            "bbox": {
+              "b": 213.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 73.33333333333334,
+              "r": 164.66666666666666,
+              "t": 196.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "IPCE Ilie Fulga\""
+          },
+          {
+            "bbox": {
+              "b": 214.33333333333331,
+              "coord_origin": "TOPLEFT",
+              "l": 307.6666666666667,
+              "r": 325.3333333333333,
+              "t": 199.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "90"
+          },
+          {
+            "bbox": {
+              "b": 216.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 356.3333333333333,
+              "r": 464.3333333333333,
+              "t": 200.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": "IPLT ,Dragoş Vodā\""
+          },
+          {
+            "bbox": {
+              "b": 216.66666666666669,
+              "coord_origin": "TOPLEFT",
+              "l": 528.6666666666666,
+              "r": 545.6666666666666,
+              "t": 202.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 1,
+            "text": "90"
+          },
+          {
+            "bbox": {
+              "b": 226.0,
+              "coord_origin": "TOPLEFT",
+              "l": 49.333333333333336,
+              "r": 63.666666666666664,
+              "t": 211.33333333333331
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 228.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 73.66666666666666,
+              "r": 229.33333333333334,
+              "t": 210.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "IP Şcoala Primară ,,Pas cu Pas\""
+          },
+          {
+            "bbox": {
+              "b": 229.0,
+              "coord_origin": "TOPLEFT",
+              "l": 305.3333333333333,
+              "r": 327.3333333333333,
+              "t": 213.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "141"
+          },
+          {
+            "bbox": {
+              "b": 230.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 356.3333333333333,
+              "r": 475.0,
+              "t": 214.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 2,
+            "text": "LT ,Vasile Alecsandri\""
+          },
+          {
+            "bbox": {
+              "b": 231.0,
+              "coord_origin": "TOPLEFT",
+              "l": 526.6666666666667,
+              "r": 548.0,
+              "t": 216.66666666666669
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 2,
+            "text": "130"
+          },
+          {
+            "bbox": {
+              "b": 259.0,
+              "coord_origin": "TOPLEFT",
+              "l": 356.0,
+              "r": 475.0,
+              "t": 229.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 3,
+            "text": "LT ,Bogdan P.Haşdeu\" IPLT Grigore Vieru\""
+          },
+          {
+            "bbox": {
+              "b": 259.66666666666663,
+              "coord_origin": "TOPLEFT",
+              "l": 526.0,
+              "r": 548.0,
+              "t": 231.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 3,
+            "text": "11 105"
+          },
+          {
+            "bbox": {
+              "b": 254.0,
+              "coord_origin": "TOPLEFT",
+              "l": 49.666666666666664,
+              "r": 63.333333333333336,
+              "t": 240.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 255.33333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 74.0,
+              "r": 202.33333333333334,
+              "t": 240.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "IP Şcoala Primară nr. 101"
+          },
+          {
+            "bbox": {
+              "b": 257.33333333333337,
+              "coord_origin": "TOPLEFT",
+              "l": 305.3333333333333,
+              "r": 327.6666666666667,
+              "t": 242.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "105"
+          },
+          {
+            "bbox": {
+              "b": 268.0,
+              "coord_origin": "TOPLEFT",
+              "l": 49.333333333333336,
+              "r": 63.0,
+              "t": 254.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4."
+          },
+          {
+            "bbox": {
+              "b": 271.33333333333337,
+              "coord_origin": "TOPLEFT",
+              "l": 73.33333333333334,
+              "r": 245.0,
+              "t": 254.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Şcoala Primară – Grădiniță nr. 124"
+          },
+          {
+            "bbox": {
+              "b": 271.66666666666663,
+              "coord_origin": "TOPLEFT",
+              "l": 307.0,
+              "r": 324.6666666666667,
+              "t": 256.66666666666663
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "20"
+          },
+          {
+            "bbox": {
+              "b": 287.66666666666663,
+              "coord_origin": "TOPLEFT",
+              "l": 355.6666666666667,
+              "r": 488.0,
+              "t": 257.33333333333337
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 4,
+            "text": "IPLT Dimitrie Cantemir\" IPLTPA Mihai Grecu\""
+          },
+          {
+            "bbox": {
+              "b": 287.66666666666663,
+              "coord_origin": "TOPLEFT",
+              "l": 528.6666666666666,
+              "r": 545.0,
+              "t": 260.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 4,
+            "text": "5 15"
+          },
+          {
+            "bbox": {
+              "b": 296.33333333333337,
+              "coord_origin": "TOPLEFT",
+              "l": 49.333333333333336,
+              "r": 62.333333333333336,
+              "t": 282.33333333333337
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "5."
+          },
+          {
+            "bbox": {
+              "b": 300.0,
+              "coord_origin": "TOPLEFT",
+              "l": 73.33333333333334,
+              "r": 252.33333333333334,
+              "t": 282.33333333333337
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "Şcoala Primară ,Spiridon Vangheli\""
+          },
+          {
+            "bbox": {
+              "b": 299.66666666666663,
+              "coord_origin": "TOPLEFT",
+              "l": 305.0,
+              "r": 327.0,
+              "t": 285.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 5,
+            "text": "118"
+          },
+          {
+            "bbox": {
+              "b": 315.0,
+              "coord_origin": "TOPLEFT",
+              "l": 355.6666666666667,
+              "r": 465.6666666666667,
+              "t": 285.66666666666663
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 5,
+            "text": "IPLT Nicolae Iorga\" Gimnaziul Decebal\""
+          },
+          {
+            "bbox": {
+              "b": 316.0,
+              "coord_origin": "TOPLEFT",
+              "l": 528.0,
+              "r": 544.6666666666666,
+              "t": 288.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 5,
+            "text": "86 22"
+          },
+          {
+            "bbox": {
+              "b": 372.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 355.0,
+              "r": 477.3333333333333,
+              "t": 313.66666666666663
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 6,
+            "text": "LT Mircea cel Bătrân\" Gimnaziul Decebal\" IPLT Liviu Rebreanu\" IPLT Mihai Eminescu\""
+          },
+          {
+            "bbox": {
+              "b": 359.0,
+              "coord_origin": "TOPLEFT",
+              "l": 527.6666666666667,
+              "r": 544.3333333333334,
+              "t": 316.33333333333337
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 6,
+            "text": "10 15 30"
+          },
+          {
+            "bbox": {
+              "b": 338.33333333333337,
+              "coord_origin": "TOPLEFT",
+              "l": 49.0,
+              "r": 62.0,
+              "t": 324.66666666666663
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 6,
+            "text": "6."
+          },
+          {
+            "bbox": {
+              "b": 340.66666666666663,
+              "coord_origin": "TOPLEFT",
+              "l": 73.33333333333334,
+              "r": 186.0,
+              "t": 324.66666666666663
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 6,
+            "text": "Şcoala Primară nr. 120"
+          },
+          {
+            "bbox": {
+              "b": 342.0,
+              "coord_origin": "TOPLEFT",
+              "l": 306.3333333333333,
+              "r": 324.0,
+              "t": 327.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 6,
+            "text": "60"
+          },
+          {
+            "bbox": {
+              "b": 401.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 527.6666666666667,
+              "r": 544.0,
+              "t": 359.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 7,
+            "text": "15 73 15"
+          },
+          {
+            "bbox": {
+              "b": 381.0,
+              "coord_origin": "TOPLEFT",
+              "l": 48.666666666666664,
+              "r": 61.666666666666664,
+              "t": 366.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 7,
+            "text": "7."
+          },
+          {
+            "bbox": {
+              "b": 383.0,
+              "coord_origin": "TOPLEFT",
+              "l": 72.66666666666666,
+              "r": 182.66666666666666,
+              "t": 367.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 7,
+            "text": "Şcoala Primară nr. 82"
+          },
+          {
+            "bbox": {
+              "b": 384.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 306.3333333333333,
+              "r": 323.3333333333333,
+              "t": 370.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 7,
+            "text": "88"
+          },
+          {
+            "bbox": {
+              "b": 400.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 354.6666666666667,
+              "r": 500.3333333333333,
+              "t": 370.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 7,
+            "text": "Gimnaziul Steliana Grama\" IPLT ,Ginta Latină\""
+          },
+          {
+            "bbox": {
+              "b": 408.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 48.0,
+              "r": 61.333333333333336,
+              "t": 395.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 8,
+            "text": "8."
+          },
+          {
+            "bbox": {
+              "b": 410.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 72.33333333333334,
+              "r": 182.33333333333334,
+              "t": 395.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 8,
+            "text": "Şcoala Primară nr. 95"
+          },
+          {
+            "bbox": {
+              "b": 413.0,
+              "coord_origin": "TOPLEFT",
+              "l": 305.6666666666667,
+              "r": 323.3333333333333,
+              "t": 397.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 8,
+            "text": "56"
+          },
+          {
+            "bbox": {
+              "b": 428.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 354.0,
+              "r": 429.0,
+              "t": 398.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 8,
+            "text": "IPLT,Olimp\" LT Dacia\""
+          },
+          {
+            "bbox": {
+              "b": 430.0,
+              "coord_origin": "TOPLEFT",
+              "l": 526.6666666666667,
+              "r": 543.6666666666666,
+              "t": 401.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 8,
+            "text": "30 26"
+          },
+          {
+            "bbox": {
+              "b": 437.0,
+              "coord_origin": "TOPLEFT",
+              "l": 48.0,
+              "r": 61.333333333333336,
+              "t": 423.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 9,
+            "text": "9."
+          },
+          {
+            "bbox": {
+              "b": 439.0,
+              "coord_origin": "TOPLEFT",
+              "l": 72.0,
+              "r": 179.66666666666666,
+              "t": 423.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 9,
+            "text": "Şcoala Primară nr. 19"
+          },
+          {
+            "bbox": {
+              "b": 455.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 303.3333333333333,
+              "r": 325.6666666666667,
+              "t": 426.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 9,
+            "text": "45 159"
+          },
+          {
+            "bbox": {
+              "b": 443.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 353.6666666666667,
+              "r": 447.3333333333333,
+              "t": 426.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 9,
+            "text": "LT Stefan Voda\""
+          },
+          {
+            "bbox": {
+              "b": 443.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 527.0,
+              "r": 543.3333333333334,
+              "t": 429.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 9,
+            "text": "45"
+          },
+          {
+            "bbox": {
+              "b": 451.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 48.666666666666664,
+              "r": 67.0,
+              "t": 436.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 10,
+            "text": "10."
+          },
+          {
+            "bbox": {
+              "b": 455.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 71.0,
+              "r": 255.0,
+              "t": 437.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 10,
+            "text": "IP Şcoala Primară ,Anatol Popovici\""
+          },
+          {
+            "bbox": {
+              "b": 471.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 354.0,
+              "r": 454.6666666666667,
+              "t": 441.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 10,
+            "text": "IPLT ,Gaudeamus\" IPLPS ,,AVANTE\""
+          },
+          {
+            "bbox": {
+              "b": 472.0,
+              "coord_origin": "TOPLEFT",
+              "l": 524.6666666666667,
+              "r": 546.0,
+              "t": 444.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 10,
+            "text": "150 9"
+          },
+          {
+            "bbox": {
+              "b": 480.0,
+              "coord_origin": "TOPLEFT",
+              "l": 48.333333333333336,
+              "r": 67.0,
+              "t": 465.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 11,
+            "text": "11."
+          },
+          {
+            "bbox": {
+              "b": 483.0,
+              "coord_origin": "TOPLEFT",
+              "l": 71.33333333333334,
+              "r": 230.0,
+              "t": 466.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 11,
+            "text": "Şcoala Primarā Grigore Vieru\""
+          },
+          {
+            "bbox": {
+              "b": 484.0,
+              "coord_origin": "TOPLEFT",
+              "l": 302.0,
+              "r": 325.6666666666667,
+              "t": 468.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 11,
+            "text": "247"
+          },
+          {
+            "bbox": {
+              "b": 514.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 353.6666666666667,
+              "r": 496.3333333333333,
+              "t": 470.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 11,
+            "text": "IPLT Petru Zadnipru\" IPLPS ,,AVANTE\" IPLT Constantin Negruzzi\""
+          },
+          {
+            "bbox": {
+              "b": 514.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 524.3333333333333,
+              "r": 545.6666666666666,
+              "t": 472.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 11,
+            "text": "140 77 10"
+          },
+          {
+            "bbox": {
+              "b": 569.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 353.0,
+              "r": 499.3333333333333,
+              "t": 512.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 12,
+            "text": "IPLT ,Gaudeamus\" IP Gimnaziul D.Matcovschi\" Gimnaziul nr.53"
+          },
+          {
+            "bbox": {
+              "b": 543.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 525.6666666666667,
+              "r": 542.3333333333334,
+              "t": 514.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 12,
+            "text": "20 34"
+          },
+          {
+            "bbox": {
+              "b": 536.0,
+              "coord_origin": "TOPLEFT",
+              "l": 47.66666666666667,
+              "r": 66.33333333333334,
+              "t": 521.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 12,
+            "text": "12."
+          },
+          {
+            "bbox": {
+              "b": 539.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 70.66666666666666,
+              "r": 240.66666666666666,
+              "t": 521.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 12,
+            "text": "Şcoala Primară - Grădiniță nr. 226"
+          },
+          {
+            "bbox": {
+              "b": 539.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 304.3333333333333,
+              "r": 321.6666666666667,
+              "t": 525.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 12,
+            "text": "44"
+          },
+          {
+            "bbox": {
+              "b": 585.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 526.0,
+              "r": 542.0,
+              "t": 557.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 13,
+            "text": "10 12"
+          },
+          {
+            "bbox": {
+              "b": 577.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 47.66666666666667,
+              "r": 66.0,
+              "t": 563.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 13,
+            "text": "13."
+          },
+          {
+            "bbox": {
+              "b": 578.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 70.33333333333334,
+              "r": 130.66666666666669,
+              "t": 563.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 13,
+            "text": "IPCE nr. 88"
+          },
+          {
+            "bbox": {
+              "b": 624.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 303.6666666666667,
+              "r": 321.3333333333333,
+              "t": 567.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 13,
+            "text": "33 73"
+          },
+          {
+            "bbox": {
+              "b": 596.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 353.0,
+              "r": 498.6666666666667,
+              "t": 568.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 13,
+            "text": "CE Gimnaziul-Grădiniță STEAM\""
+          },
+          {
+            "bbox": {
+              "b": 639.0,
+              "coord_origin": "TOPLEFT",
+              "l": 351.6666666666667,
+              "r": 498.6666666666667,
+              "t": 596.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 14,
+            "text": "Gimnaziul Decebal\" IPLT Principesa Natalia Dadiani\""
+          },
+          {
+            "bbox": {
+              "b": 627.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 525.0,
+              "r": 541.3333333333334,
+              "t": 599.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 14,
+            "text": "21 32"
+          },
+          {
+            "bbox": {
+              "b": 619.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 47.0,
+              "r": 65.33333333333334,
+              "t": 605.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 14,
+            "text": "14."
+          },
+          {
+            "bbox": {
+              "b": 634.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 69.0,
+              "r": 273.0,
+              "t": 604.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 14,
+            "text": "Şcoala Primară - Grădinițā Antonin Ursu\""
+          },
+          {
+            "bbox": {
+              "b": 668.0,
+              "coord_origin": "TOPLEFT",
+              "l": 352.3333333333333,
+              "r": 498.6666666666667,
+              "t": 638.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 16,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 15,
+            "text": "IPLTPA ,Ion și Doina Aldea-Teodorovici\""
+          },
+          {
+            "bbox": {
+              "b": 656.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 524.6666666666667,
+              "r": 540.3333333333334,
+              "t": 641.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 16,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 15,
+            "text": "41"
+          },
+          {
+            "bbox": {
+              "b": 675.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 46.66666666666667,
+              "r": 65.0,
+              "t": 661.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 17,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 16,
+            "text": "15."
+          },
+          {
+            "bbox": {
+              "b": 678.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 68.66666666666666,
+              "r": 194.0,
+              "t": 661.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 16,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 15,
+            "text": "LTI.S.Neciui-Levitchi\""
+          },
+          {
+            "bbox": {
+              "b": 680.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 305.0,
+              "r": 322.0,
+              "t": 665.3333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 17,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 16,
+            "text": "15"
+          },
+          {
+            "bbox": {
+              "b": 710.6666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 351.3333333333333,
+              "r": 498.0,
+              "t": 667.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 17,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 16,
+            "text": "LT Mihai Marinciuc\" IPLTPA Ion și Doina Aldea-Teodorovici\""
+          },
+          {
+            "bbox": {
+              "b": 698.3333333333334,
+              "coord_origin": "TOPLEFT",
+              "l": 525.0,
+              "r": 540.6666666666666,
+              "t": 669.6666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 17,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 16,
+            "text": "10 5"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 129.12664794921875,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 24.77596664428711,
+            "r": 569.39697265625,
+            "t": 700.5645904541016
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexa la Ordinul nr.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 769.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 276.6666666666667,
+            "r": 388.6666666666667,
+            "t": 786.0
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Anexa la Ordinul nr."
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "din",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 769.0,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 451.0,
+            "r": 470.66666666666663,
+            "t": 784.0
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "din"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Plan de admitere pentru înscrierea elevilor în clasa a V-a în anul de studii 2026-2027",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 712.3333333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 167.0,
+            "r": 489.0,
+            "t": 745.3333333333334
+          },
+          "charspan": [
+            0,
+            86
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "Plan de admitere pentru înscrierea elevilor în clasa a V-a în anul de studii 2026-2027"
+    }
+  ],
+  "version": "1.10.0"
+}

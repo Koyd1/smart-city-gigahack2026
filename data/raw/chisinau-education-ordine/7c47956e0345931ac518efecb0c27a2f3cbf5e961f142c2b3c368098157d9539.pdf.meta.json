@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "7c47956e0345931ac518efecb0c27a2f3cbf5e961f142c2b3c368098157d9539",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1774935605_ordinul-nr424.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "1129647",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 07:15:54 GMT",
+    "Etag": "\"69cb5e35-113caf\"",
+    "Last-Modified": "Tue, 31 Mar 2026 05:40:05 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/7c47956e0345931ac518efecb0c27a2f3cbf5e961f142c2b3c368098157d9539.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1774935605_ordinul-nr424.pdf",
+  "retrieved_at": "2026-09-26T07:16:11.143315+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

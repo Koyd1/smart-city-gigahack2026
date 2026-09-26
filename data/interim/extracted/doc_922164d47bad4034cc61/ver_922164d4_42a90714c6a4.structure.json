@@ -1,0 +1,6020 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/texts/15"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/texts/17"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/pictures/6"
+      },
+      {
+        "$ref": "#/pictures/7"
+      },
+      {
+        "$ref": "#/pictures/8"
+      },
+      {
+        "$ref": "#/texts/28"
+      },
+      {
+        "$ref": "#/texts/29"
+      },
+      {
+        "$ref": "#/texts/30"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/32"
+      },
+      {
+        "$ref": "#/groups/4"
+      },
+      {
+        "$ref": "#/texts/34"
+      },
+      {
+        "$ref": "#/groups/5"
+      },
+      {
+        "$ref": "#/texts/39"
+      },
+      {
+        "$ref": "#/groups/6"
+      },
+      {
+        "$ref": "#/texts/43"
+      },
+      {
+        "$ref": "#/groups/7"
+      },
+      {
+        "$ref": "#/texts/45"
+      },
+      {
+        "$ref": "#/groups/8"
+      },
+      {
+        "$ref": "#/texts/47"
+      },
+      {
+        "$ref": "#/groups/9"
+      },
+      {
+        "$ref": "#/texts/53"
+      },
+      {
+        "$ref": "#/groups/11"
+      },
+      {
+        "$ref": "#/texts/57"
+      },
+      {
+        "$ref": "#/texts/58"
+      },
+      {
+        "$ref": "#/texts/59"
+      },
+      {
+        "$ref": "#/texts/60"
+      },
+      {
+        "$ref": "#/texts/61"
+      },
+      {
+        "$ref": "#/texts/62"
+      },
+      {
+        "$ref": "#/groups/12"
+      },
+      {
+        "$ref": "#/texts/69"
+      },
+      {
+        "$ref": "#/texts/70"
+      },
+      {
+        "$ref": "#/groups/13"
+      },
+      {
+        "$ref": "#/texts/75"
+      },
+      {
+        "$ref": "#/groups/15"
+      },
+      {
+        "$ref": "#/texts/78"
+      },
+      {
+        "$ref": "#/groups/16"
+      },
+      {
+        "$ref": "#/texts/84"
+      },
+      {
+        "$ref": "#/texts/85"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/texts/86"
+      },
+      {
+        "$ref": "#/groups/17"
+      },
+      {
+        "$ref": "#/texts/92"
+      },
+      {
+        "$ref": "#/groups/18"
+      },
+      {
+        "$ref": "#/texts/103"
+      },
+      {
+        "$ref": "#/groups/19"
+      },
+      {
+        "$ref": "#/texts/106"
+      },
+      {
+        "$ref": "#/texts/107"
+      },
+      {
+        "$ref": "#/groups/20"
+      },
+      {
+        "$ref": "#/texts/111"
+      },
+      {
+        "$ref": "#/texts/112"
+      },
+      {
+        "$ref": "#/groups/21"
+      },
+      {
+        "$ref": "#/texts/116"
+      },
+      {
+        "$ref": "#/texts/117"
+      },
+      {
+        "$ref": "#/texts/118"
+      },
+      {
+        "$ref": "#/groups/22"
+      },
+      {
+        "$ref": "#/texts/122"
+      },
+      {
+        "$ref": "#/groups/23"
+      },
+      {
+        "$ref": "#/texts/125"
+      },
+      {
+        "$ref": "#/pictures/9"
+      },
+      {
+        "$ref": "#/texts/128"
+      },
+      {
+        "$ref": "#/texts/129"
+      },
+      {
+        "$ref": "#/texts/130"
+      },
+      {
+        "$ref": "#/texts/131"
+      },
+      {
+        "$ref": "#/texts/132"
+      },
+      {
+        "$ref": "#/groups/25"
+      },
+      {
+        "$ref": "#/texts/137"
+      },
+      {
+        "$ref": "#/texts/138"
+      },
+      {
+        "$ref": "#/texts/139"
+      },
+      {
+        "$ref": "#/texts/140"
+      },
+      {
+        "$ref": "#/groups/26"
+      },
+      {
+        "$ref": "#/texts/145"
+      },
+      {
+        "$ref": "#/tables/1"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/0"
+        },
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        },
+        {
+          "$ref": "#/texts/6"
+        },
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/31"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/33"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/4"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/35"
+        },
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        },
+        {
+          "$ref": "#/texts/38"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/5"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        },
+        {
+          "$ref": "#/texts/42"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/6"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/44"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/7"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/46"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/8"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/groups/10"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/9"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/48"
+        },
+        {
+          "$ref": "#/texts/49"
+        },
+        {
+          "$ref": "#/texts/50"
+        },
+        {
+          "$ref": "#/texts/51"
+        },
+        {
+          "$ref": "#/texts/52"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/groups/9"
+      },
+      "self_ref": "#/groups/10"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/54"
+        },
+        {
+          "$ref": "#/texts/55"
+        },
+        {
+          "$ref": "#/texts/56"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/11"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/63"
+        },
+        {
+          "$ref": "#/texts/64"
+        },
+        {
+          "$ref": "#/texts/65"
+        },
+        {
+          "$ref": "#/texts/66"
+        },
+        {
+          "$ref": "#/texts/67"
+        },
+        {
+          "$ref": "#/texts/68"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/12"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/groups/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "form_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/13"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/71"
+        },
+        {
+          "$ref": "#/texts/72"
+        },
+        {
+          "$ref": "#/texts/73"
+        },
+        {
+          "$ref": "#/texts/74"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/groups/13"
+      },
+      "self_ref": "#/groups/14"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/76"
+        },
+        {
+          "$ref": "#/texts/77"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/15"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/79"
+        },
+        {
+          "$ref": "#/texts/80"
+        },
+        {
+          "$ref": "#/texts/81"
+        },
+        {
+          "$ref": "#/texts/82"
+        },
+        {
+          "$ref": "#/texts/83"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/16"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/87"
+        },
+        {
+          "$ref": "#/texts/88"
+        },
+        {
+          "$ref": "#/texts/89"
+        },
+        {
+          "$ref": "#/texts/90"
+        },
+        {
+          "$ref": "#/texts/91"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/17"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/93"
+        },
+        {
+          "$ref": "#/texts/94"
+        },
+        {
+          "$ref": "#/texts/95"
+        },
+        {
+          "$ref": "#/texts/96"
+        },
+        {
+          "$ref": "#/texts/97"
+        },
+        {
+          "$ref": "#/texts/98"
+        },
+        {
+          "$ref": "#/texts/99"
+        },
+        {
+          "$ref": "#/texts/100"
+        },
+        {
+          "$ref": "#/texts/101"
+        },
+        {
+          "$ref": "#/texts/102"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/18"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/104"
+        },
+        {
+          "$ref": "#/texts/105"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/19"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/108"
+        },
+        {
+          "$ref": "#/texts/109"
+        },
+        {
+          "$ref": "#/texts/110"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/20"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/113"
+        },
+        {
+          "$ref": "#/texts/114"
+        },
+        {
+          "$ref": "#/texts/115"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/21"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/119"
+        },
+        {
+          "$ref": "#/texts/120"
+        },
+        {
+          "$ref": "#/texts/121"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/22"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/groups/24"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/23"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/123"
+        },
+        {
+          "$ref": "#/texts/124"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/groups/23"
+      },
+      "self_ref": "#/groups/24"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/133"
+        },
+        {
+          "$ref": "#/texts/134"
+        },
+        {
+          "$ref": "#/texts/135"
+        },
+        {
+          "$ref": "#/texts/136"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/25"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/141"
+        },
+        {
+          "$ref": "#/texts/142"
+        },
+        {
+          "$ref": "#/texts/143"
+        },
+        {
+          "$ref": "#/texts/144"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/26"
+    }
+  ],
+  "key_value_items": [],
+  "name": "a4c61107568e2804be2f5f52b6b319e656d9c4509388d899a7e08d034a9099d4",
+  "origin": {
+    "binary_hash": 12096823644392561108,
+    "filename": "a4c61107568e2804be2f5f52b6b319e656d9c4509388d899a7e08d034a9099d4.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "4": {
+      "page_no": 4,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "5": {
+      "page_no": 5,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "6": {
+      "page_no": 6,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "7": {
+      "page_no": 7,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 109.9685655010087,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 161.80301244543705,
+            "r": 206.78571480360608,
+            "t": 136.16850408498226
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/12"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 108.02185691670172,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 373.80466238137063,
+            "r": 488.1197208583755,
+            "t": 222.0686448109418
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 689.3542073442012,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 257.83691605740745,
+            "r": 369.22985641786715,
+            "t": 763.4345622134772
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 589.0579135046341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.76957100272979,
+            "r": 291.0040231466613,
+            "t": 629.315953188911
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 704.0589131888078,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 60.718578841190215,
+            "r": 149.59742562518025,
+            "t": 784.2803200470954
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 703.0547173512452,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 172.56391808529028,
+            "r": 272.50768581928025,
+            "t": 779.3510837797819
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 702.7097099745847,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 367.0582869295466,
+            "r": 474.2331695945791,
+            "t": 777.1354840512463
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/6"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 702.4260958819357,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 481.6284746556634,
+            "r": 555.6274442654808,
+            "t": 784.2212566572783
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/7"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 703.604831681969,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 297.9330081279166,
+            "r": 357.5664306783996,
+            "t": 793.4350501375666
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/8"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/126"
+        },
+        {
+          "$ref": "#/texts/127"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 85.91856633765792,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.72572500164877,
+            "r": 554.140058720736,
+            "t": 778.7935298032751
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 6
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/9"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 333.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 69.0,
+                "r": 335.6666666666667,
+                "t": 317.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Gradul de originalitate și de creativitate a produsului."
+            },
+            {
+              "bbox": {
+                "b": 333.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 500.3333333333333,
+                "r": 547.3333333333333,
+                "t": 318.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "20 puncte"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 348.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 69.33333333333333,
+                "r": 314.0,
+                "t": 333.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "Respectarea specificului și a rigorilor caricaturii."
+            },
+            {
+              "bbox": {
+                "b": 348.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 499.6666666666667,
+                "r": 546.3333333333333,
+                "t": 334.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "20 puncte"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 364.0,
+                "coord_origin": "TOPLEFT",
+                "l": 69.0,
+                "r": 419.6666666666667,
+                "t": 348.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": " Rafinamentul satiric al lucrării, precum și claritatea mesajului simbolic."
+            },
+            {
+              "bbox": {
+                "b": 363.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 498.6666666666667,
+                "r": 545.3333333333333,
+                "t": 349.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "20 puncte"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 379.0,
+                "coord_origin": "TOPLEFT",
+                "l": 84.66666666666667,
+                "r": 318.3333333333333,
+                "t": 364.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "Respectarea cerințelor din Paşaportul caricaturii."
+            },
+            {
+              "bbox": {
+                "b": 379.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 498.6666666666667,
+                "r": 545.3333333333333,
+                "t": 364.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "20 puncte"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 394.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 69.66666666666667,
+                "r": 229.66666666666666,
+                "t": 379.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "Condițiile grafice de realizare."
+            },
+            {
+              "bbox": {
+                "b": 394.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 498.6666666666667,
+                "r": 545.3333333333333,
+                "t": 380.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "20 puncte"
+            }
+          ]
+        ],
+        "num_cols": 2,
+        "num_rows": 5,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 333.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 69.0,
+              "r": 335.6666666666667,
+              "t": 317.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Gradul de originalitate și de creativitate a produsului."
+          },
+          {
+            "bbox": {
+              "b": 333.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 500.3333333333333,
+              "r": 547.3333333333333,
+              "t": 318.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "20 puncte"
+          },
+          {
+            "bbox": {
+              "b": 348.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 69.33333333333333,
+              "r": 314.0,
+              "t": 333.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "Respectarea specificului și a rigorilor caricaturii."
+          },
+          {
+            "bbox": {
+              "b": 348.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 499.6666666666667,
+              "r": 546.3333333333333,
+              "t": 334.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "20 puncte"
+          },
+          {
+            "bbox": {
+              "b": 364.0,
+              "coord_origin": "TOPLEFT",
+              "l": 69.0,
+              "r": 419.6666666666667,
+              "t": 348.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": " Rafinamentul satiric al lucrării, precum și claritatea mesajului simbolic."
+          },
+          {
+            "bbox": {
+              "b": 363.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 498.6666666666667,
+              "r": 545.3333333333333,
+              "t": 349.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "20 puncte"
+          },
+          {
+            "bbox": {
+              "b": 379.0,
+              "coord_origin": "TOPLEFT",
+              "l": 84.66666666666667,
+              "r": 318.3333333333333,
+              "t": 364.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "Respectarea cerințelor din Paşaportul caricaturii."
+          },
+          {
+            "bbox": {
+              "b": 379.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 498.6666666666667,
+              "r": 545.3333333333333,
+              "t": 364.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "20 puncte"
+          },
+          {
+            "bbox": {
+              "b": 394.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 69.66666666666667,
+              "r": 229.66666666666666,
+              "t": 379.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "Condițiile grafice de realizare."
+          },
+          {
+            "bbox": {
+              "b": 394.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 498.6666666666667,
+              "r": 545.3333333333333,
+              "t": 380.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "20 puncte"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 447.42122782340766,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.11048538822456,
+            "r": 546.073793900253,
+            "t": 522.0437654687029
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 4
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 484.0,
+                "coord_origin": "TOPLEFT",
+                "l": 120.0,
+                "r": 186.66666666666666,
+                "t": 471.6666666666667
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Desen istoric"
+            },
+            {
+              "bbox": {
+                "b": 483.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 362.0,
+                "r": 458.0,
+                "t": 471.3333333333333
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Caricatură istorică"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 601.0,
+                "coord_origin": "TOPLEFT",
+                "l": 56.666666666666664,
+                "r": 294.33333333333337,
+                "t": 512.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "Reprezintă vizual un fapt/eveniment/proces/ fenomen istoric aşa cum s-a întâmplat sau aşa cum este interpretat în istorie. Scopul principal este informativ și ilustrativ. Nu judecă evenimentul, doar îl arată, fără comentarii sau ironie."
+            },
+            {
+              "bbox": {
+                "b": 586.0,
+                "coord_origin": "TOPLEFT",
+                "l": 306.3333333333333,
+                "r": 539.3333333333333,
+                "t": 511.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Comentează critic un fapt/eveniment/ proces fenomen/ istoric prin exagerare, ironie sau umor. Scopul este satiric și reflexiv, adică să transmită o opinie sau să scoată în evidență absurdul sau nedreptatea unui eveniment sau comportament"
+            }
+          ]
+        ],
+        "num_cols": 2,
+        "num_rows": 2,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 484.0,
+              "coord_origin": "TOPLEFT",
+              "l": 120.0,
+              "r": 186.66666666666666,
+              "t": 471.6666666666667
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Desen istoric"
+          },
+          {
+            "bbox": {
+              "b": 483.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 362.0,
+              "r": 458.0,
+              "t": 471.3333333333333
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Caricatură istorică"
+          },
+          {
+            "bbox": {
+              "b": 601.0,
+              "coord_origin": "TOPLEFT",
+              "l": 56.666666666666664,
+              "r": 294.33333333333337,
+              "t": 512.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "Reprezintă vizual un fapt/eveniment/proces/ fenomen istoric aşa cum s-a întâmplat sau aşa cum este interpretat în istorie. Scopul principal este informativ și ilustrativ. Nu judecă evenimentul, doar îl arată, fără comentarii sau ironie."
+          },
+          {
+            "bbox": {
+              "b": 586.0,
+              "coord_origin": "TOPLEFT",
+              "l": 306.3333333333333,
+              "r": 539.3333333333333,
+              "t": 511.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Comentează critic un fapt/eveniment/ proces fenomen/ istoric prin exagerare, ironie sau umor. Scopul este satiric și reflexiv, adică să transmită o opinie sau să scoată în evidență absurdul sau nedreptatea unui eveniment sau comportament"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 239.66156528927183,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.59734148319936,
+            "r": 553.1983993018234,
+            "t": 372.41074563511825
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 7
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/1"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex. S. Axînti, 022-23-52-72",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 98.1369398697916,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.00917625427246,
+            "r": 209.69617716471353,
+            "t": 109.13494605468748
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "Ex. S. Axînti, 022-23-52-72"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 562.2518894140625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 293.30133056640625,
+            "r": 342.671630859375,
+            "t": 576.182675546875
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la organizarea și desfaşurarea Concursului interdisciplinar municipal,Satira comentează istoria",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 519.3597588802083,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.09027735392253,
+            "r": 414.7450358072917,
+            "t": 547.5879082942708
+          },
+          "charspan": [
+            0,
+            106
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "Cu privire la organizarea și desfaşurarea Concursului interdisciplinar municipal,Satira comentează istoria"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul demersului administrației Instituției Private de Învățământ Liceul de Creativitate și Inventică ,,Prometeu-Prim\", în scopul dezvoltării la elevi a competențelor de cercetare, formării gândirii critice și stimulării creativității acestora,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 461.8036268815104,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.00917625427246,
+            "r": 550.2430419921875,
+            "t": 506.162167734375
+          },
+          "charspan": [
+            0,
+            249
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "În temeiul demersului administrației Instituției Private de Învățământ Liceul de Creativitate și Inventică ,,Prometeu-Prim\", în scopul dezvoltării la elevi a competențelor de cercetare, formării gândirii critice și stimulării creativității acestora,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 435.4084649348958,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 291.49951171875,
+            "r": 343.031982421875,
+            "t": 448.9726535742187
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează, în perioada 25.03-20.05.2026, Concursul interdisciplinar municipal ,Satira comentează istoria\" pentru elevii claselor a VII-a-XII-a din instituțiile de învățământ din municipiul Chişinău, în conformitate cu regulamentul ataşat.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 378.58554826822916,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 103.38789621988933,
+            "r": 549.8826904296875,
+            "t": 421.4776788020833
+          },
+          "charspan": [
+            0,
+            246
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Se organizează, în perioada 25.03-20.05.2026, Concursul interdisciplinar municipal ,Satira comentează istoria\" pentru elevii claselor a VII-a-XII-a din instituțiile de învățământ din municipiul Chişinău, în conformitate cu regulamentul ataşat."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1",
+      "orig": "2.1 vor aduce la cunoştință cadrelor didactice și elevilor prevederile prezentului ordin și regulamentul de organizare a concursului (se ataşează);",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 335.3267998958333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.96478271484375,
+            "r": 549.1619466145833,
+            "t": 365.3879571223958
+          },
+          "charspan": [
+            0,
+            147
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "vor aduce la cunoştință cadrelor didactice și elevilor prevederile prezentului ordin și regulamentul de organizare a concursului (se ataşează);"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Directorii instituțiilor de învățământ secundar, ciclul I și ciclul II:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 364.65476213541666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.58606211344402,
+            "r": 438.8896484375,
+            "t": 380.78513322916666
+          },
+          "charspan": [
+            0,
+            74
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Directorii instituțiilor de învățământ secundar, ciclul I și ciclul II:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. vor asigura înscrierea regulamentară a participanților la concurs.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 319.9296237890625,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.60441589355469,
+            "r": 454.3854166666667,
+            "t": 335.3267998958333
+          },
+          "charspan": [
+            0,
+            71
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "vor asigura înscrierea regulamentară a participanților la concurs."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Responsabilitatea de asigurare a condițiilor optime pentru organizarea și desfăşurarea concursului revine T. Bologan, directorul Instituției Private de Învățământ Liceul de Creativitate și Inventică ,Prometeu-Prim\".",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 276.3042982682292,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.58606211344402,
+            "r": 549.1619466145833,
+            "t": 320.6628187760417
+          },
+          "charspan": [
+            0,
+            218
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Responsabilitatea de asigurare a condițiilor optime pentru organizarea și desfăşurarea concursului revine T. Bologan, directorul Instituției Private de Învățământ Liceul de Creativitate și Inventică ,Prometeu-Prim\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Controlul realizării prevederilor prezentului ordin revine S. Axînti, șef al direcției management curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 246.97633602864585,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 101.22569529215495,
+            "r": 548.4412027994792,
+            "t": 275.9376804296875
+          },
+          "charspan": [
+            0,
+            119
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Controlul realizării prevederilor prezentului ordin revine S. Axînti, șef al direcției management curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Monitorizarea îndeplinirii prezentului ordin revine V. Crudu, şef adjunct al DGEys.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 230.1127699479166,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.86532592773438,
+            "r": 527.5399169921875,
+            "t": 246.6097181901041
+          },
+          "charspan": [
+            0,
+            86
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Monitorizarea îndeplinirii prezentului ordin revine V. Crudu, şef adjunct al DGEys."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct ndrei Pavaloi",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 177.68902320312498,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 481.7733154296875,
+            "r": 548.8015950520833,
+            "t": 206.2837904557291
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Şef adjunct ndrei Pavaloi"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1.1",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 705.9588850602213,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 269.5171101888021,
+            "r": 285.01289876302087,
+            "t": 715.4904707535807
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "1.1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FEINNOIENSINE",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 693.1279015804037,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 288.2562052408854,
+            "r": 339.42832438151044,
+            "t": 698.993491993815
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "FEINNOIENSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 642.537177906901,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 179.4253438313802,
+            "r": 467.358642578125,
+            "t": 687.2623060807291
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "950326.0111396",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 597.8120293880208,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.2976188659668,
+            "r": 290.77876790364587,
+            "t": 630.0727919205729
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "950326.0111396"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinãu, Republica Moldova, Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 54.878232187499975,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 166.8125,
+            "r": 464.8360595703125,
+            "t": 77.97393531249998
+          },
+          "charspan": [
+            0,
+            144
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinãu, Republica Moldova, Tel.: (022)201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIMNOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 706.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 199.0,
+            "r": 245.66666666666669,
+            "t": 711.67999
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "PRIMNOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "LICEULTEORETIC",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 758.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 399.0,
+            "r": 441.33333333333337,
+            "t": 772.3466566666666
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "LICEULTEORETIC"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "\"'MIRCEA ELLIADES",
+      "parent": {
+        "$ref": "#/pictures/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 706.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 393.6666666666667,
+            "r": 448.33333333333337,
+            "t": 728.3466566666666
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "\"'MIRCEA ELLIADES"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "IP",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 760.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 503.66666666666663,
+            "r": 513.0,
+            "t": 769.0133233333333
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "IP"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "LT",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 760.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 524.0,
+            "r": 533.0,
+            "t": 769.3466566666666
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "LT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Principesa",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 746.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 499.33333333333337,
+            "r": 536.3333333333334,
+            "t": 755.3466566666666
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Principesa"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Natalia Dadiani\"",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 740.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 491.0,
+            "r": 547.0,
+            "t": 748.67999
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "Natalia Dadiani\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FONDATA",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 731.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 507.66666666666663,
+            "r": 530.3333333333334,
+            "t": 736.67999
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "FONDATA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "19",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 720.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 506.0,
+            "r": 517.6666666666666,
+            "t": 729.67999
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "19"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "28",
+      "parent": {
+        "$ref": "#/pictures/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 721.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 519.0,
+            "r": 531.6666666666666,
+            "t": 730.0133233333333
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "28"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "REGULAMENTUL CONCURSULUI INTERDISCIPLINAR MUNICIPAL SATIRA COMENTEAZÃ ISTORIA (ediția a VII-a)",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 581.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 158.0,
+            "r": 432.0,
+            "t": 642.3466566666666
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "REGULAMENTUL CONCURSULUI INTERDISCIPLINAR MUNICIPAL SATIRA COMENTEAZÃ ISTORIA (ediția a VII-a)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "I. DISPOZITII GENERALE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 554.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.0,
+            "r": 196.33333333333334,
+            "t": 568.67999
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "I. DISPOZITII GENERALE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "TIPUL CONCURSULUI:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 527.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.0,
+            "r": 181.0,
+            "t": 539.67999
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "TIPUL CONCURSULUI:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· interdisciplinar (istorie, educație plastică)",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 509.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 280.33333333333337,
+            "t": 523.67999
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "interdisciplinar (istorie, educație plastică)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORGANIZATOR:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 481.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.0,
+            "r": 145.0,
+            "t": 493.3466566666666
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "ORGANIZATOR:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Liceul de Creativitate și Inventică Prometeu-Prim\", Chișinău",
+      "parent": {
+        "$ref": "#/groups/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 463.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 375.3333333333333,
+            "t": 477.3466566666666
+          },
+          "charspan": [
+            0,
+            62
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Liceul de Creativitate și Inventică Prometeu-Prim\", Chișinău"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PARTENERI:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 430.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.666666666666664,
+            "r": 125.0,
+            "t": 441.34665666666666
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "PARTENERI:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Direcția Generală Educație, Tineret și Sport a Consiliului municipal Chişinău",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 412.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 446.3333333333333,
+            "t": 426.0133233333333
+          },
+          "charspan": [
+            0,
+            77
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Direcția Generală Educație, Tineret și Sport a Consiliului municipal Chişinău"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Catedra de Istorie și Geografie, Universitatea Pedagogică de Stat Ion Creangă\"",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 395.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666666,
+            "r": 459.6666666666667,
+            "t": 411.0133233333333
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Catedra de Istorie și Geografie, Universitatea Pedagogică de Stat Ion Creangă\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Liceul Teoretic ,Mircea Eliade\", municipiul Chişinău",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 380.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.66666666666666,
+            "r": 337.0,
+            "t": 394.34665666666666
+          },
+          "charspan": [
+            0,
+            52
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "Liceul Teoretic ,Mircea Eliade\", municipiul Chişinău"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Liceul Teoretic Principesa Natalia Dadiani\", municipiul Chişinãu",
+      "parent": {
+        "$ref": "#/groups/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 364.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.66666666666666,
+            "r": 396.0,
+            "t": 378.34665666666666
+          },
+          "charspan": [
+            0,
+            64
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Liceul Teoretic Principesa Natalia Dadiani\", municipiul Chişinãu"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "II. ARGUMENT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 335.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.666666666666664,
+            "r": 136.0,
+            "t": 346.34665666666666
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "II. ARGUMENT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Caricatura este un gen aparte al artelor vizuale, care reprezintă o persoană sau o situație, printr-o exagerare intenționată a unor trăsături sau caracteristici, în scopul satirizării, ridiculizării sau atragerii atenției.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 285.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.33333333333334,
+            "r": 533.0,
+            "t": 329.3466566666666
+          },
+          "charspan": [
+            0,
+            222
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "Caricatura este un gen aparte al artelor vizuale, care reprezintă o persoană sau o situație, printr-o exagerare intenționată a unor trăsături sau caracteristici, în scopul satirizării, ridiculizării sau atragerii atenției."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Caricatura este o sursă istorică, un document vizual, un martor interesant al istoriei, mai ales, pentru secolele al XIX-XX -lea.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 253.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.66666666666666,
+            "r": 549.6666666666667,
+            "t": 281.01332333333335
+          },
+          "charspan": [
+            0,
+            129
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "Caricatura este o sursă istorică, un document vizual, un martor interesant al istoriei, mai ales, pentru secolele al XIX-XX -lea."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Acest gen artistic este o formă particulară de exprimare a unui punct de vedere, într-o manieră sugestivăşi comică.",
+      "parent": {
+        "$ref": "#/groups/6"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 219.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 522.6666666666667,
+            "t": 247.67998999999998
+          },
+          "charspan": [
+            0,
+            115
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Acest gen artistic este o formă particulară de exprimare a unui punct de vedere, într-o manieră sugestivăşi comică."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "III. SCOPUL CONCURSULUI:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 190.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.666666666666664,
+            "r": 211.66666666666666,
+            "t": 202.3466566666666
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/43",
+      "text": "III. SCOPUL CONCURSULUI:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Dezvoltarea abilităților artistice și a competențelor de analiză istorică ale elevilor, prin crearea unui cadru favorabil dialogului interdisciplinar și valorificării competenței \"a învăța să înveți\".",
+      "parent": {
+        "$ref": "#/groups/7"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 155.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.66666666666666,
+            "r": 546.0,
+            "t": 184.34665666666672
+          },
+          "charspan": [
+            0,
+            200
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/44",
+      "text": "Dezvoltarea abilităților artistice și a competențelor de analiză istorică ale elevilor, prin crearea unui cadru favorabil dialogului interdisciplinar și valorificării competenței \"a învăța să înveți\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "IV. OBIECTIVELE CONCURSULUI:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 120.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.333333333333336,
+            "r": 246.33333333333334,
+            "t": 138.01332333333335
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/45",
+      "text": "IV. OBIECTIVELE CONCURSULUI:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Dezvoltarea competențelor de cercetare ale elevilor, stimularea creativității acestora, formarea gândirii critice, emularea bunăstării emoționale și aplicarea abilităților în contexte noi.",
+      "parent": {
+        "$ref": "#/groups/8"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 86.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 523.6666666666667,
+            "t": 118.01332333333335
+          },
+          "charspan": [
+            0,
+            188
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/46",
+      "text": "Dezvoltarea competențelor de cercetare ale elevilor, stimularea creativității acestora, formarea gândirii critice, emularea bunăstării emoționale și aplicarea abilităților în contexte noi."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "V. CALENDARUL CONCURSULUI:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 783.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 52.333333333333336,
+            "r": 241.66666666666666,
+            "t": 797.0133233333333
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/47",
+      "text": "V. CALENDARUL CONCURSULUI:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Perioada desfăşurării primei etape: 25.03 - 27.04.2026",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 765.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.66666666666666,
+            "r": 340.0,
+            "t": 780.0133233333333
+          },
+          "charspan": [
+            0,
+            54
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/48",
+      "text": "Perioada desfăşurării primei etape: 25.03 - 27.04.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Evaluarea lucrărilor, prima etapă: 28.04 - 04.05.2026",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 748.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.33333333333334,
+            "r": 337.0,
+            "t": 763.67999
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/49",
+      "text": "Evaluarea lucrărilor, prima etapă: 28.04 - 04.05.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Prezentarea lucrărilor participante în a doua etapă: 04.05 - 11.05.2026",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 731.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 412.0,
+            "t": 746.67999
+          },
+          "charspan": [
+            0,
+            71
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/50",
+      "text": "Prezentarea lucrărilor participante în a doua etapă: 04.05 - 11.05.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Evaluarea lucrărilor, etapă a doua: 12.05-15.05.2026",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 715.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 332.3333333333333,
+            "t": 729.67999
+          },
+          "charspan": [
+            0,
+            52
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/51",
+      "text": "Evaluarea lucrărilor, etapă a doua: 12.05-15.05.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Premierea participanților: 20.05.2026",
+      "parent": {
+        "$ref": "#/groups/10"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 699.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 262.66666666666663,
+            "t": 713.67999
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/52",
+      "text": "Premierea participanților: 20.05.2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VI. CONDITII DE PARTICIPARE:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 668.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 53.0,
+            "r": 233.33333333333334,
+            "t": 680.0133233333333
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/53",
+      "text": "VI. CONDITII DE PARTICIPARE:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Pot participa elevii din clasele gimnaziale și liceale (clasele a VII-a − a XII-a), precum și elevii din Centrele de Excelență din municipiul Chişinău.",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 632.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.66666666666666,
+            "r": 544.0,
+            "t": 661.67999
+          },
+          "charspan": [
+            0,
+            151
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/54",
+      "text": "Pot participa elevii din clasele gimnaziale și liceale (clasele a VII-a − a XII-a), precum și elevii din Centrele de Excelență din municipiul Chişinău."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Participanții la concurs urmează să realizeze o caricatură cu tentă istorică, respectând următoarele rigori:",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 598.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 539.3333333333333,
+            "t": 628.0133233333333
+          },
+          "charspan": [
+            0,
+            108
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/55",
+      "text": "Participanții la concurs urmează să realizeze o caricatură cu tentă istorică, respectând următoarele rigori:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Tematica lucrărilor:",
+      "parent": {
+        "$ref": "#/groups/11"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 583.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.33333333333333,
+            "r": 181.0,
+            "t": 595.0133233333333
+          },
+          "charspan": [
+            0,
+            22
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/56",
+      "text": "Tematica lucrărilor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Clasa a VII-a: Puterea, conflictul și schimbarea în istoria modernă. (Vizează: războaie, revoluții, tratate, alianțe și consecințele lor, etc.)",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 551.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.66666666666666,
+            "r": 563.3333333333334,
+            "t": 580.3466566666666
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/57",
+      "text": "Clasa a VII-a: Puterea, conflictul și schimbarea în istoria modernă. (Vizează: războaie, revoluții, tratate, alianțe și consecințele lor, etc.)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Clasa a VIII-a: Nașterea și afirmarea statelor în epoca modernă. (Formarea statelor moderne, uniri, independență, identitate națională, etc)",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 521.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.66666666666666,
+            "r": 546.3333333333333,
+            "t": 549.0133233333333
+          },
+          "charspan": [
+            0,
+            140
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/58",
+      "text": "Clasa a VIII-a: Nașterea și afirmarea statelor în epoca modernă. (Formarea statelor moderne, uniri, independență, identitate națională, etc)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Clasa a IX-a: Regimurile politice în oglinda satirei. (Modul de exercitare a puterii politice în stat, raportul dintre stat și cetățean, respectarea sau limitarea drepturilor și libertăților etc. )",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 490.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.0,
+            "r": 561.6666666666666,
+            "t": 519.67999
+          },
+          "charspan": [
+            0,
+            197
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/59",
+      "text": "Clasa a IX-a: Regimurile politice în oglinda satirei. (Modul de exercitare a puterii politice în stat, raportul dintre stat și cetățean, respectarea sau limitarea drepturilor și libertăților etc. )"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Clasa a X-a: Puterea și societatea: lecții satirice din Antichitate și Evul Mediu. (Vizează, personalități, relațiile de putere, comportamentele și contradicții sociale, etc.)",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 457.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 527.0,
+            "t": 487.01332333333335
+          },
+          "charspan": [
+            0,
+            175
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/60",
+      "text": "Clasa a X-a: Puterea și societatea: lecții satirice din Antichitate și Evul Mediu. (Vizează, personalități, relațiile de putere, comportamentele și contradicții sociale, etc.)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Clasa a XI-a: Revoluțiile factor de progres în istorie? (Transformările complexe: politice, economice, sociale, culturale și de mentalitate, etc.)",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 428.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.66666666666667,
+            "r": 525.0,
+            "t": 456.01332333333335
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/61",
+      "text": "Clasa a XI-a: Revoluțiile factor de progres în istorie? (Transformările complexe: politice, economice, sociale, culturale și de mentalitate, etc.)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Clasa a XII-a: Propagandă, manipulare, dezinformare în istoria contemporană.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 411.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 106.0,
+            "r": 483.6666666666667,
+            "t": 426.0133233333333
+          },
+          "charspan": [
+            0,
+            76
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/62",
+      "text": "Clasa a XII-a: Propagandă, manipulare, dezinformare în istoria contemporană."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Caricatura trebuie să fie o creație proprie.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 380.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.0,
+            "r": 280.0,
+            "t": 394.34665666666666
+          },
+          "charspan": [
+            0,
+            44
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/63",
+      "text": "Caricatura trebuie să fie o creație proprie."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Fiecare elev poate participa cu o singură lucrare, care va fi transmisă în format electronic în cadrul primei etape.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 349.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 83.0,
+            "r": 543.0,
+            "t": 378.34665666666666
+          },
+          "charspan": [
+            0,
+            116
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/64",
+      "text": "Fiecare elev poate participa cu o singură lucrare, care va fi transmisă în format electronic în cadrul primei etape."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Caricatura trebuie să fie creația unui singur elev/ eleve.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 333.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.66666666666666,
+            "r": 343.0,
+            "t": 347.34665666666666
+          },
+          "charspan": [
+            0,
+            58
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/65",
+      "text": "Caricatura trebuie să fie creația unui singur elev/ eleve."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Respectarea întocmai a rigorilor unei caricaturi. (vezi Anexa 2)",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 317.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 379.3333333333333,
+            "t": 330.34665666666666
+          },
+          "charspan": [
+            0,
+            64
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/66",
+      "text": "Respectarea întocmai a rigorilor unei caricaturi. (vezi Anexa 2)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "·În prima etapă a concursului participă toți doritorii. Rezultatele primei etape vor fi publicate pe site-ul LCI ,,Prometeu-Prim\", https://prometeu.md/ inclusiv pe pagina de Facebook a LCI ,, Prometeu-Prim\" În a doua etapă, elevii urmează să prezinte lucrările cu care au participat în prima etapă în format fizic la secretariatul LCI Prometeu-Prim\", str. Nicolae Iorga 2, în perioada 04.0511.05.2026.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.33333333333333,
+            "r": 559.0,
+            "t": 315.3466566666667
+          },
+          "charspan": [
+            0,
+            401
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/67",
+      "text": "·În prima etapă a concursului participă toți doritorii. Rezultatele primei etape vor fi publicate pe site-ul LCI ,,Prometeu-Prim\", https://prometeu.md/ inclusiv pe pagina de Facebook a LCI ,, Prometeu-Prim\" În a doua etapă, elevii urmează să prezinte lucrările cu care au participat în prima etapă în format fizic la secretariatul LCI Prometeu-Prim\", str. Nicolae Iorga 2, în perioada 04.0511.05.2026."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Lucrările plagiate și generate de AI vor fi eliminate din concurs.",
+      "parent": {
+        "$ref": "#/groups/12"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 225.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.66666666666666,
+            "r": 384.3333333333333,
+            "t": 238.01332333333323
+          },
+          "charspan": [
+            0,
+            66
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/68",
+      "text": "Lucrările plagiate și generate de AI vor fi eliminate din concurs."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VII. CERINTE PRIVIND ,PAŞAPORTUL CARICATURII\"",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 197.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.666666666666664,
+            "r": 357.0,
+            "t": 209.67998999999998
+          },
+          "charspan": [
+            0,
+            45
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/69",
+      "text": "VII. CERINTE PRIVIND ,PAŞAPORTUL CARICATURII\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Lucrarea trebuie să conțină Paşaportul caricaturii, anexat la lucrare, plasat în colțul din dreapta jos, care va include:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 167.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.666666666666664,
+            "r": 558.6666666666666,
+            "t": 194.67998999999998
+          },
+          "charspan": [
+            0,
+            121
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/70",
+      "text": "Lucrarea trebuie să conțină Paşaportul caricaturii, anexat la lucrare, plasat în colțul din dreapta jos, care va include:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "o Titlul lucrării;",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 138.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.0,
+            "r": 161.66666666666669,
+            "t": 150.67998999999998
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/71",
+      "text": "o Titlul lucrării;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "o Tema abordată;",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 123.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.33333333333334,
+            "r": 168.66666666666669,
+            "t": 135.67998999999998
+          },
+          "charspan": [
+            0,
+            16
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/72",
+      "text": "o Tema abordată;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Simboluri comentate, minimum trei;",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 93.0,
+            "r": 265.66666666666663,
+            "t": 120.67998999999998
+          },
+          "charspan": [
+            0,
+            34
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/73",
+      "text": "Simboluri comentate, minimum trei;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Mesajul descifrat al fucrării (3 enunțuri); Formatul mesajului: Times New Roman, 14 pt, spațiere 1,15 (vezi Model Anexa I). Nu indicați numele și prenume în Paşaportul caricaturii.",
+      "parent": {
+        "$ref": "#/groups/14"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 62.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.0,
+            "r": 565.3333333333334,
+            "t": 105.3466566666666
+          },
+          "charspan": [
+            0,
+            180
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/74",
+      "text": "Mesajul descifrat al fucrării (3 enunțuri); Formatul mesajului: Times New Roman, 14 pt, spațiere 1,15 (vezi Model Anexa I). Nu indicați numele și prenume în Paşaportul caricaturii."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "VIII.CONDITIILE TEHNICE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 766.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.33333333333333,
+            "r": 243.33333333333334,
+            "t": 778.67999
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/75",
+      "text": "VIII.CONDITIILE TEHNICE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Lucrările pot fi realizate cu mijloace grafice diferite: creion, peniță, acuarelă, guașă, ulei, alb-negru sau color, format A3.",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 732.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 565.3333333333333,
+            "t": 761.3466566666666
+          },
+          "charspan": [
+            0,
+            127
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/76",
+      "text": "Lucrările pot fi realizate cu mijloace grafice diferite: creion, peniță, acuarelă, guașă, ulei, alb-negru sau color, format A3."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Lucrarea trebuie să fie clară, lizibilă și scanată/fotografiată corespunzător.",
+      "parent": {
+        "$ref": "#/groups/15"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 714.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 430.3333333333333,
+            "t": 728.67999
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/77",
+      "text": "Lucrarea trebuie să fie clară, lizibilă și scanată/fotografiată corespunzător."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "IX. ÎNSCRIEREA ÎN CONCURS",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 687.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.0,
+            "r": 256.33333333333337,
+            "t": 701.67999
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/78",
+      "text": "IX. ÎNSCRIEREA ÎN CONCURS"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "O Completați Formularul Google, accesând link-ul de mai jos:",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 657.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.0,
+            "r": 368.0,
+            "t": 670.3466566666666
+          },
+          "charspan": [
+            0,
+            60
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/79",
+      "text": "O Completați Formularul Google, accesând link-ul de mai jos:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "O https://forms.gle/c4TczdXHFzeRUfdF7",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 643.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.33333333333333,
+            "r": 283.0,
+            "t": 655.0133233333333
+          },
+          "charspan": [
+            0,
+            37
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/80",
+      "text": "O https://forms.gle/c4TczdXHFzeRUfdF7"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "O Lucrarea se încarcă în acelaşi Formular Google în unul din formatele: pdf, jpeg, png.",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 625.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.33333333333333,
+            "r": 485.0,
+            "t": 639.67999
+          },
+          "charspan": [
+            0,
+            87
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/81",
+      "text": "O Lucrarea se încarcă în acelaşi Formular Google în unul din formatele: pdf, jpeg, png."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "O Caricatura trebuie ataşată corect orientată (nu inversată).",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 610.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.0,
+            "r": 349.0,
+            "t": 624.3466566666666
+          },
+          "charspan": [
+            0,
+            61
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/82",
+      "text": "O Caricatura trebuie ataşată corect orientată (nu inversată)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Fiecare elev/elevă va încărca lucrarea de pe propria adresă de gmail.",
+      "parent": {
+        "$ref": "#/groups/16"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 595.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 404.0,
+            "t": 609.3466566666666
+          },
+          "charspan": [
+            0,
+            69
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/83",
+      "text": "Fiecare elev/elevă va încărca lucrarea de pe propria adresă de gmail."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "X. CRITERII DE EVALUARE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 568.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.66666666666667,
+            "r": 249.0,
+            "t": 579.3466566666666
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/84",
+      "text": "X. CRITERII DE EVALUARE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Lucrările vor fi evaluate conform următoarei grile (100 puncte):",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 553.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 123.66666666666666,
+            "r": 396.3333333333333,
+            "t": 566.0133233333333
+          },
+          "charspan": [
+            0,
+            64
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/85",
+      "text": "Lucrările vor fi evaluate conform următoarei grile (100 puncte):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "XI.JURIZAREA",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 414.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 81.33333333333333,
+            "r": 168.33333333333331,
+            "t": 426.67999
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/86",
+      "text": "XI.JURIZAREA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Evaluarea va fi realizată de un juriu format din specialişti în istorie, educație plastică și arte vizuale.",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 385.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 549.3333333333333,
+            "t": 399.0133233333333
+          },
+          "charspan": [
+            0,
+            107
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/87",
+      "text": "Evaluarea va fi realizată de un juriu format din specialişti în istorie, educație plastică și arte vizuale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Se va ține cont de nivelul de studii (gimnazial/liceal).",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 370.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 334.6666666666667,
+            "t": 383.0133233333333
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/88",
+      "text": "Se va ține cont de nivelul de studii (gimnazial/liceal)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Vor exista două categorii de premii, gimnaziu și liceu.",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 354.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 338.6666666666667,
+            "t": 368.34665666666666
+          },
+          "charspan": [
+            0,
+            55
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/89",
+      "text": "Vor exista două categorii de premii, gimnaziu și liceu."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Rezultatele primei și celei de-a doua etape a concursului vor fi publicate pe site-ul liceului.",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 338.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 531.0,
+            "t": 352.67999
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/90",
+      "text": "Rezultatele primei și celei de-a doua etape a concursului vor fi publicate pe site-ul liceului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Deciziile juriului sunt finale și nu pot fi contestate.",
+      "parent": {
+        "$ref": "#/groups/17"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 324.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 323.0,
+            "t": 337.67999
+          },
+          "charspan": [
+            0,
+            55
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/91",
+      "text": "Deciziile juriului sunt finale și nu pot fi contestate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "COMITETULDE EVALUARE:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 296.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.33333333333333,
+            "r": 241.66666666666666,
+            "t": 309.67999
+          },
+          "charspan": [
+            0,
+            21
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/92",
+      "text": "COMITETULDE EVALUARE:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Bologan Tatiana, directoarea Liceului de Creativitate și Inventică ,Prometeu-Prim\", grad didactic superior",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 250.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.0,
+            "r": 545.3333333333333,
+            "t": 279.01332333333335
+          },
+          "charspan": [
+            0,
+            106
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/93",
+      "text": "Bologan Tatiana, directoarea Liceului de Creativitate și Inventică ,Prometeu-Prim\", grad didactic superior"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Breazu Florina, dr. în arte vizuale, maestru în artă, preşedintele Uniunii Artiştilor Plastici din Republica Moldova",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 221.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.0,
+            "r": 523.6666666666667,
+            "t": 248.67998999999998
+          },
+          "charspan": [
+            0,
+            116
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/94",
+      "text": "Breazu Florina, dr. în arte vizuale, maestru în artă, preşedintele Uniunii Artiştilor Plastici din Republica Moldova"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Chirica Alexandra, profesor de istorie și educație pentru societate, Liceul de Creativitate și Inventică ,,Prometeu - Prim\", grad didactic superior",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 189.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.0,
+            "r": 513.6666666666667,
+            "t": 219.3466566666666
+          },
+          "charspan": [
+            0,
+            147
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/95",
+      "text": "Chirica Alexandra, profesor de istorie și educație pentru societate, Liceul de Creativitate și Inventică ,,Prometeu - Prim\", grad didactic superior"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Daraban Ludmila, profesoară de istorie și educație pentru societate, Liceul Mircea Eliade\", grad didactic superior",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 160.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.66666666666667,
+            "r": 542.6666666666667,
+            "t": 188.67998999999998
+          },
+          "charspan": [
+            0,
+            114
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/96",
+      "text": "Daraban Ludmila, profesoară de istorie și educație pentru societate, Liceul Mircea Eliade\", grad didactic superior"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Nastas Lilia, profesor de istorie și educație pentru societate, Liceul Natalia Dadiani\", grad didactic superior",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 129.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.66666666666667,
+            "r": 514.6666666666667,
+            "t": 158.01332333333323
+          },
+          "charspan": [
+            0,
+            111
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/97",
+      "text": "Nastas Lilia, profesor de istorie și educație pentru societate, Liceul Natalia Dadiani\", grad didactic superior"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Bolduma Viorel, lector universitar, catedra de Istorie și Geografie, Universitatea Pedagogică de Stat ,Ion Creangă\"",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 99.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.0,
+            "r": 534.6666666666667,
+            "t": 128.34665666666672
+          },
+          "charspan": [
+            0,
+            115
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/98",
+      "text": "Bolduma Viorel, lector universitar, catedra de Istorie și Geografie, Universitatea Pedagogică de Stat ,Ion Creangă\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Carabet Svetlana, profesor de educație plasticã, Liceul de Creativitate și Inventică PrometeuPrim\"",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 68.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.0,
+            "r": 528.3333333333333,
+            "t": 97.34665666666672
+          },
+          "charspan": [
+            0,
+            98
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/99",
+      "text": "Carabet Svetlana, profesor de educație plasticã, Liceul de Creativitate și Inventică PrometeuPrim\""
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "0 Kolesnik Cezara, artist plastic, laureat al Premiului național pentru pictură",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 51.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.0,
+            "r": 437.0,
+            "t": 65.67998999999998
+          },
+          "charspan": [
+            0,
+            79
+          ],
+          "page_no": 4
+        }
+      ],
+      "self_ref": "#/texts/100",
+      "text": "0 Kolesnik Cezara, artist plastic, laureat al Premiului național pentru pictură"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Botezatu Cristina, profesor de educație plasticã, Liceul de Creativitate și Inventică ,PrometeuPrim\", grad didactic doi.",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 766.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 90.66666666666667,
+            "r": 531.6666666666667,
+            "t": 795.67999
+          },
+          "charspan": [
+            0,
+            120
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/101",
+      "text": "Botezatu Cristina, profesor de educație plasticã, Liceul de Creativitate și Inventică ,PrometeuPrim\", grad didactic doi."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Roşca- Ceban Daniela, profesoară de istoria artelor, Școala de Arte Plastice ,,Alexei Sciusev\", grad didactic I.",
+      "parent": {
+        "$ref": "#/groups/18"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 735.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 92.66666666666667,
+            "r": 532.0,
+            "t": 764.0133233333333
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/102",
+      "text": "Roşca- Ceban Daniela, profesoară de istoria artelor, Școala de Arte Plastice ,,Alexei Sciusev\", grad didactic I."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "COORDONATORI:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 705.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.33333333333333,
+            "r": 178.33333333333331,
+            "t": 717.3466566666666
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/103",
+      "text": "COORDONATORI:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Tatiana Bologan, directoarea LCI Prometeu-Prim\", grad didactic superior.",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 677.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 439.6666666666667,
+            "t": 691.0133233333333
+          },
+          "charspan": [
+            0,
+            72
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/104",
+      "text": "Tatiana Bologan, directoarea LCI Prometeu-Prim\", grad didactic superior."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Alexandra Chirica, profesoară de istorie și educație pentru societate, LCI Prometeu - Prim\", grad didactic superior.",
+      "parent": {
+        "$ref": "#/groups/19"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 646.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 543.6666666666667,
+            "t": 676.3466566666666
+          },
+          "charspan": [
+            0,
+            116
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/105",
+      "text": "Alexandra Chirica, profesoară de istorie și educație pentru societate, LCI Prometeu - Prim\", grad didactic superior."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "XII.PREMIEREA",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 618.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.33333333333333,
+            "r": 170.33333333333331,
+            "t": 630.3466566666666
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/106",
+      "text": "XII.PREMIEREA"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Se vor acorda:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 590.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.66666666666667,
+            "r": 137.33333333333331,
+            "t": 602.0133233333333
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/107",
+      "text": "Se vor acorda:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Premiul I, II și III pentru fiecare treaptă de studii.",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 560.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 316.33333333333337,
+            "t": 573.3466566666666
+          },
+          "charspan": [
+            0,
+            54
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/108",
+      "text": "Premiul I, II și III pentru fiecare treaptă de studii."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Mențiuni și premii speciale (la decizia juriului).",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 544.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 308.33333333333337,
+            "t": 558.3466566666666
+          },
+          "charspan": [
+            0,
+            50
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/109",
+      "text": "Mențiuni și premii speciale (la decizia juriului)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Premianților li se vor acorda diplome și alte surprize.",
+      "parent": {
+        "$ref": "#/groups/20"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 527.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.0,
+            "r": 333.6666666666667,
+            "t": 541.3466566666666
+          },
+          "charspan": [
+            0,
+            55
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/110",
+      "text": "Premianților li se vor acorda diplome și alte surprize."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Lucrările premiate vor fi expuse în cadrul unei expoziții organizate la sediul instituției organizatoare.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 498.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 539.6666666666667,
+            "t": 512.67999
+          },
+          "charspan": [
+            0,
+            105
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/111",
+      "text": "Lucrările premiate vor fi expuse în cadrul unei expoziții organizate la sediul instituției organizatoare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "XIII. DREPTURI DE AUTOR",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 471.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.0,
+            "r": 228.33333333333334,
+            "t": 483.67999
+          },
+          "charspan": [
+            0,
+            23
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/112",
+      "text": "XIII. DREPTURI DE AUTOR"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Participanții declară că lucrările sunt originale și le aparțin.",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 441.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333333,
+            "r": 361.0,
+            "t": 454.67999
+          },
+          "charspan": [
+            0,
+            64
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/113",
+      "text": "Participanții declară că lucrările sunt originale și le aparțin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Organizatorii își rezervă dreptul de a utiliza lucrările în scop educativ, expozițional și promoțional, cu menționarea autorului.",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 411.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 558.6666666666667,
+            "t": 439.67999
+          },
+          "charspan": [
+            0,
+            129
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/114",
+      "text": "Organizatorii își rezervă dreptul de a utiliza lucrările în scop educativ, expozițional și promoțional, cu menționarea autorului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Drepturile patrimoniale asupra lucrării rămân autorului.",
+      "parent": {
+        "$ref": "#/groups/21"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 396.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666667,
+            "r": 344.3333333333333,
+            "t": 408.34665666666666
+          },
+          "charspan": [
+            0,
+            56
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/115",
+      "text": "Drepturile patrimoniale asupra lucrării rămân autorului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "XIV. PROTECTIA DATELOR CU CARACTER PERSONAL",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 339.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.33333333333333,
+            "r": 379.3333333333333,
+            "t": 352.0133233333333
+          },
+          "charspan": [
+            0,
+            43
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/116",
+      "text": "XIV. PROTECTIA DATELOR CU CARACTER PERSONAL"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Datele colectate prin formularul de înscriere vor fi utilizate exclusiv în scopul organizării și desfaşurării concursului, cu respectarea legislației privind protecția datelor cu caracter personal.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 294.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.333333333333336,
+            "r": 532.0,
+            "t": 323.67999
+          },
+          "charspan": [
+            0,
+            197
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/117",
+      "text": "Datele colectate prin formularul de înscriere vor fi utilizate exclusiv în scopul organizării și desfaşurării concursului, cu respectarea legislației privind protecția datelor cu caracter personal."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "XV. DISPOZITIIFINALE",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 266.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.66666666666667,
+            "r": 209.33333333333334,
+            "t": 279.01332333333335
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/118",
+      "text": "XV. DISPOZITIIFINALE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "·",
+      "orig": "· Lucrările care conțin limbaj vulgar, mesaje discriminatorii sau ofensatoare vor fi descalificate.",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 237.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.33333333333333,
+            "r": 523.0,
+            "t": 250.67998999999998
+          },
+          "charspan": [
+            0,
+            99
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/119",
+      "text": "Lucrările care conțin limbaj vulgar, mesaje discriminatorii sau ofensatoare vor fi descalificate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Nerespectarea cerințelor tehnice sau a termenului-limită conduce la eliminarea din concurs.",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 222.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 510.0,
+            "t": 236.01332333333335
+          },
+          "charspan": [
+            0,
+            91
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/120",
+      "text": "Nerespectarea cerințelor tehnice sau a termenului-limită conduce la eliminarea din concurs."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Organizatorii își rezervă dreptul de a modifica regulamentul, cu informarea prealabilă a participanților.",
+      "parent": {
+        "$ref": "#/groups/22"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 206.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 84.0,
+            "r": 562.0,
+            "t": 221.3466566666666
+          },
+          "charspan": [
+            0,
+            105
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/121",
+      "text": "Organizatorii își rezervă dreptul de a modifica regulamentul, cu informarea prealabilă a participanților."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PENTRU INFORMATII SUPLIMENTARE:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 162.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.33333333333333,
+            "r": 298.0,
+            "t": 181.3466566666666
+          },
+          "charspan": [
+            0,
+            31
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/122",
+      "text": "PENTRU INFORMATII SUPLIMENTARE:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "Telefon: 060334652",
+      "parent": {
+        "$ref": "#/groups/24"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 146.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.0,
+            "r": 182.66666666666669,
+            "t": 162.01332333333335
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/123",
+      "text": "Telefon: 060334652"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "E-mail: info@prometeu.md",
+      "parent": {
+        "$ref": "#/groups/24"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 127.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.33333333333333,
+            "r": 216.66666666666666,
+            "t": 143.01332333333335
+          },
+          "charspan": [
+            0,
+            24
+          ],
+          "page_no": 5
+        }
+      ],
+      "self_ref": "#/texts/124",
+      "text": "E-mail: info@prometeu.md"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Model Anexa 1",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 787.3784114782715,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.39109802246094,
+            "r": 128.25851949055988,
+            "t": 800.6667173966471
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/125",
+      "text": "Model Anexa 1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Poziția a două imperii\" Satira comenteazá istoria\" Sabia, scaunul, flacāra\" Sabia reprezintă tendințele expansioniste a celor doi mari personaje a istoriei.",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 146.21766903645835,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 405.7942708333333,
+            "r": 549.1815592447917,
+            "t": 202.6929701432291
+          },
+          "charspan": [
+            0,
+            156
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/126",
+      "text": "Poziția a două imperii\" Satira comenteazá istoria\" Sabia, scaunul, flacāra\" Sabia reprezintă tendințele expansioniste a celor doi mari personaje a istoriei."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Scaunul caracterizeazā dorinta egalitaristă a conducâtórilor epocii. Flacàra reprezintá meschinitatea de a controla totul prin râzboaie. Mesajul lucrārii este- tendințele expansioniste ale Rusiei și Frantei.",
+      "parent": {
+        "$ref": "#/pictures/9"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 89.3732679947916,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 406.5333658854167,
+            "r": 541.4208984375,
+            "t": 145.84852841145835
+          },
+          "charspan": [
+            0,
+            207
+          ],
+          "page_no": 6
+        }
+      ],
+      "self_ref": "#/texts/127",
+      "text": "Scaunul caracterizeazā dorinta egalitaristă a conducâtórilor epocii. Flacàra reprezintá meschinitatea de a controla totul prin râzboaie. Mesajul lucrārii este- tendințele expansioniste ale Rusiei și Frantei."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Anexa 2 Anexa 2",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 789.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 50.0,
+            "r": 95.66666666666666,
+            "t": 803.3466566666666
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/128",
+      "text": "Anexa 2 Anexa 2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Caricatura istorică",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 775.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 245.0,
+            "r": 340.3333333333333,
+            "t": 787.67999
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/129",
+      "text": "Caricatura istorică"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "O caricatură istorică este o creație vizuală satiricã ce interpretează un eveniment, un proces sau o personalitate istorică prin exagerare, simbol și ironie, cu scopul de a transmite un mesaj critic sau reflexiv despre istorie. Caricatura istorică este o reprezentare artistică deformantă și simbolică a unui fapt sau personaj istoric, realizată pentru a comenta, critica sau interpreta o realitate istorică.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 705.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 51.0,
+            "r": 541.3333333333333,
+            "t": 758.67999
+          },
+          "charspan": [
+            0,
+            408
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/130",
+      "text": "O caricatură istorică este o creație vizuală satiricã ce interpretează un eveniment, un proces sau o personalitate istorică prin exagerare, simbol și ironie, cu scopul de a transmite un mesaj critic sau reflexiv despre istorie. Caricatura istorică este o reprezentare artistică deformantă și simbolică a unui fapt sau personaj istoric, realizată pentru a comenta, critica sau interpreta o realitate istorică."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Caracteristici esențiale:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 678.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 204.66666666666666,
+            "r": 323.0,
+            "t": 691.3466566666666
+          },
+          "charspan": [
+            0,
+            25
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/131",
+      "text": "Caracteristici esențiale:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "1. Utilizează exagerarea ce servește mesajului (specificul caricaturii)",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 664.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.33333333333333,
+            "r": 406.3333333333333,
+            "t": 677.67999
+          },
+          "charspan": [
+            0,
+            71
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/132",
+      "text": "1. Utilizează exagerarea ce servește mesajului (specificul caricaturii)"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "trăsături fizice accentuate;",
+      "parent": {
+        "$ref": "#/groups/25"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 637.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666666,
+            "r": 210.0,
+            "t": 651.0133233333333
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/133",
+      "text": "trăsături fizice accentuate;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "defecte morale amplificate;",
+      "parent": {
+        "$ref": "#/groups/25"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 624.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.0,
+            "r": 215.0,
+            "t": 637.3466566666666
+          },
+          "charspan": [
+            0,
+            27
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/134",
+      "text": "defecte morale amplificate;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "disproportii intenționate;",
+      "parent": {
+        "$ref": "#/groups/25"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 611.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.33333333333334,
+            "r": 203.33333333333334,
+            "t": 623.3466566666666
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/135",
+      "text": "disproportii intenționate;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "situații absurde sau metaforice.",
+      "parent": {
+        "$ref": "#/groups/25"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 599.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.33333333333334,
+            "r": 232.0,
+            "t": 610.3466566666666
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/136",
+      "text": "situații absurde sau metaforice."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "2. Conține simboluri",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 571.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.33333333333333,
+            "r": 175.66666666666666,
+            "t": 583.3466566666666
+          },
+          "charspan": [
+            0,
+            20
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/137",
+      "text": "2. Conține simboluri"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Caricatura istorică lucrează frecvent cu: obiecte simbolice; animale alegorice; metafore vizuale; contraste puternice. Simbolul este cheia interpretării.",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 545.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 513.3333333333333,
+            "t": 571.0133233333333
+          },
+          "charspan": [
+            0,
+            153
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/138",
+      "text": "Caricatura istorică lucrează frecvent cu: obiecte simbolice; animale alegorice; metafore vizuale; contraste puternice. Simbolul este cheia interpretării."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "3. Context istoric",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 519.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.33333333333333,
+            "r": 158.33333333333331,
+            "t": 531.0133233333333
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/139",
+      "text": "3. Context istoric"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Caricatura istorică se bazează pe contextul istoric, adică ansamblul circumstanțelor și condițiilor dintr-o anumită perioadă. Acest context explică:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 491.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.33333333333333,
+            "r": 553.3333333333333,
+            "t": 518.0133233333333
+          },
+          "charspan": [
+            0,
+            148
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/140",
+      "text": "Caricatura istorică se bazează pe contextul istoric, adică ansamblul circumstanțelor și condițiilor dintr-o anumită perioadă. Acest context explică:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "faptele și evenimentele importante,",
+      "parent": {
+        "$ref": "#/groups/26"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 464.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.33333333333334,
+            "r": 251.0,
+            "t": 477.67999
+          },
+          "charspan": [
+            0,
+            35
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/141",
+      "text": "faptele și evenimentele importante,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "acțiunile și deciziile personalităților istorice,",
+      "parent": {
+        "$ref": "#/groups/26"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 451.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.0,
+            "r": 293.33333333333337,
+            "t": 463.67999
+          },
+          "charspan": [
+            0,
+            49
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/142",
+      "text": "acțiunile și deciziile personalităților istorice,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "ideile, mentalitățile și valorile caracteristice epocii respective.",
+      "parent": {
+        "$ref": "#/groups/26"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 438.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 85.66666666666666,
+            "r": 373.0,
+            "t": 451.0133233333333
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/143",
+      "text": "ideile, mentalitățile și valorile caracteristice epocii respective."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Transmite un mesaj critic: interpretează, judecă, ironizează, provoacă reflecție.",
+      "parent": {
+        "$ref": "#/groups/26"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 411.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.33333333333333,
+            "r": 455.3333333333333,
+            "t": 424.0133233333333
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/144",
+      "text": "Transmite un mesaj critic: interpretează, judecă, ironizează, provoacă reflecție."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Diferența dintre:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 384.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 86.33333333333334,
+            "r": 172.0,
+            "t": 396.67999
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 7
+        }
+      ],
+      "self_ref": "#/texts/145",
+      "text": "Diferența dintre:"
+    }
+  ],
+  "version": "1.10.0"
+}

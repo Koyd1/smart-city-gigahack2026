@@ -1,0 +1,84 @@
+---
+document_id: "doc_a8d017c818208dd8aca7"
+version_id: "ver_a8d017c8_a86e45d65a27"
+title: "38 Autorizație pentru tăieri ale vegetației forestiere"
+source_url: "https://actpermisiv.gov.md/#/ep/permit/120"
+retrieved_at: "2026-09-25T22:05:29.498846+00:00"
+content_sha256: "a86e45d65a27e89a26308eda072cd888ac64a2af23bb1084557c0243174a2413"
+language: "ro"
+category: "services"
+document_type: "json"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# 38 Autorizație pentru tăieri ale vegetației forestiere
+
+Act permisiv care confirmă autorizarea următoarelor tipuri de tăieri:
+a) de regenerare, de reconstrucţie ecologică, de conservare, de îngrijire, de conducere şi de igienă în fondul forestier de stat;
+b) pentru alte tipuri de tăieri, cum ar fi: de igienă rase, de igienizare (curăţarea de rupturi şi doborîturi), de reconstrucţie a arboretelor tinere de valoare scăzută, de îngrijire a arboretelor surse de seminţe, de întreţinere şi reconstrucţie a plantajelor, tăieri sub liniile de comunicaţii şi reţelele electrice;
+c) efectuate pe terenurile din fondul forestier care nu sînt gestionate de organele silvice de stat;
+d) efectuate în spaţiile verzi ale localităţilor urbane şi rurale;
+e) efectuate în perdelele forestiere din zonele de protecţie a apelor rîurilor şi a bazinelor de apă;
+f) efectuate în perdelele de protecţie amplasate pe terenuri cu destinaţie agricolă, în perdelele forestiere de protecţie şi în plantaţiile de arbori şi arbuşti situate de-a lungul căilor de comunicaţii (limitrofe drumurilor şi căilor ferate);
+g) de arbori vătămaţi în urma calamităţilor naturale, avariilor sau în cazul lichidării focarelor active de boli şi vătămători în fondul forestier şi în vegetaţia forestieră din afara fondului forestier;
+h) de arbori vătămaţi în urma calamităţilor naturale sau în urma lichidării focarelor active de boli şi vătămători în pădurile incluse în fondul ariilor naturale protejate de stat.
+
+## Autoritatea emitentă
+
+Agenția de Mediu
+
+## Documente însoțitoare
+
+### Eliberare
+
+- Documentele de inventariere a vegetaţiei forestiere
+- Documentele de amenajare a vegetaţiei forestiere
+- Decizia deţinătorului de teren
+- Actul de coordonare cu serviciul cadastral
+- Actul de cercetare fitosanitară a arboretelor (pentru tăierile de igienă)
+- Actul de cercetare fitosanitară a arboretelor
+
+## Cadrul legal
+
+- [HG nr. 27 din 19 ianuarie 2004 pentru aprobarea Regulamentului cu privire la autorizarea tăierilor în fondul forestier și vegetația forestieră din afara fondului forestier](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=300650)
+- [HG Nr. 866 din 05.09.2018 cu privire la aprobarea formularelor-tip ale actelor permisive](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=377141)
+- [Legea Nr. 160 din  22.07.2011 privind reglementarea prin autorizare a activităţii de întreprinzător](http://lex.justice.md/md/340497/)
+- [Legea regnului vegetal  nr. 239-XVI din 08.11.2007](http://lex.justice.md/index.php?action=view&view=doc&lang=1&id=327015)
+
+## Procesul de eliberare
+
+1. Solicitantul (sau reprezentantul său legal) intră în sistem (Portalul electronic al serviciilor publice) personal sau cu ajutorul recepționarului de la  ghișeu.
+
+2. Solicitantul (sau reprezentantul său legal) îndeplinește cererea și încarcă documentele necesare, personal sau cu ajutorul recepționarului de la ghișeu.
+
+3. În cazul când Solicitantul (sau reprezentantul său legal): a) depune cererea și documentele necesare cu ajutorul recepționarului de la ghișeu, recepționarul:
+- va primi și va înregistra corespunzător cererea de solicitare a autorizației și va primi documentele prezentate de solicitant, și
+- va elibera imediat şi necondiționat solicitantului certificatul constatator conform modelului indicat în anexa nr. 2 la Legea 160 din 22.07.2011, și
+- va expedia cazul (copiile electronice ale cererii și a documentelor prezentate) autorității emitente pentru revizuire.
+Cererea poate fi returnată solicitantului doar în cazul când aceasta nu conține informația necesară pentru identificarea solicitantului. b) depune cererea și încarcă documentele personal direct în sistem, sistemul:
+- va genera automat documentul în format electronic de confirmare a primirii cererii și documentelor („certificatul constatator”) și
+- în mod automat va direcționa cererea și setul de documente autorității emitente.
+
+4. Agenția de Mediu (specialistul) deschide cazul, examinează cererea și documentele însoțitoare, verifică  respectarea condițiilor. În cazul constatării lipsei documentelor/informației necesare prevăzute expres de legislație, specialistul va sista termenul de examinare a cererii și va informa imediat despre acest fapt solicitantul cu specificarea și descrierea temeiului suspendării, termenului și acțiunilor de remediere pentru a iniția examinarea cererii.
+
+5. Specialistul  examinează cazul și organizează examinările pe exterior pentru luarea deciziei de eliberare a autorizației. În acest sens specilistul solicită Inspectoratului pentru Protecția Mediului să se deplaseze la locul în care se planifică tăierile de vegetație forestieră și să verifice informațiile expuse în cerere și în documentele anexate, întocmind un act de control care se transmite specialistului. După caz, specialistul solicită și prezentarea Avizului Agenției „Moldsilva” (în termen de 5 zile) sau organizează comisii speciale formate din reprezentanți ai Inspectoratului pentru Protecția Mediului, Academiei de Ştiinţe a Moldovei, ai deţinătorilor de terenuri şi ai altor autorităţi responsabile, care examinează cererile și prezintă recomandări, în baza cărora se emit autorizațiile de tăieri corespunzătoare.
+
+6. În funcție de decizia luată, Specialistul perfectează Autorizația sau scrie o scrisoare de respingere, cu o justificare corespunzătoare în temeiul prevederilor legii, cu înștiințarea directă a solicitantului, care se va examina și semna de directorul Agenției de Mediu.
+
+7. Cînd Autorizarea (scrisoarea de respingere) este semnată , solicitantul (sau reprezentantul său legal) primește o  notificare electronică, descarcă actul primit și confirmă recepționarea documentului.
+
+8. În cazul cînd Autorizația se eliberează pe hârtie (la solicitare sau conform cerințelor actelor normative), recepționarul tipărește  actul permisiv, îl livrează solicitantului  (sau reprezentantului său legal) și confirmă recepționarea.
+
+## Perioada de valabilitate
+
+1 an
+
+## Taxa
+
+Gratuit
+
+## Durata de prestare
+
+Până la 20 de zile de la depunerea setului complet de documente.

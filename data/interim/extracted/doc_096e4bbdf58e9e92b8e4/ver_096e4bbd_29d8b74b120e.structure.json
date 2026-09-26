@@ -1,0 +1,2466 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/2"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/pictures/3"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/18"
+      },
+      {
+        "$ref": "#/pictures/4"
+      },
+      {
+        "$ref": "#/texts/23"
+      },
+      {
+        "$ref": "#/tables/0"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/5"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "358354c801867b5f4508ae69a683ebf7208f07a4e47a94cfbcb6b22efb74d67b",
+  "origin": {
+    "binary_hash": 13598252039748769403,
+    "filename": "358354c801867b5f4508ae69a683ebf7208f07a4e47a94cfbcb6b22efb74d67b.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 725.8116455136185,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 249.6471034564394,
+            "r": 361.37476236979165,
+            "t": 799.966043034938
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 630.2541560688541,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 80.9908291163589,
+            "r": 284.05115175189394,
+            "t": 668.6483717300832
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 178.54692739298457,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 440.2894901160038,
+            "r": 532.1379539535985,
+            "t": 231.59658916096907
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 60.15717282253274,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 420.00831705729166,
+            "r": 533.913935842803,
+            "t": 176.65755192850781
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 697.274604126412,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 301.73144679214016,
+            "r": 536.3666477272727,
+            "t": 746.4935688888786
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 254.0,
+                "coord_origin": "TOPLEFT",
+                "l": 64.33333333333333,
+                "r": 85.0,
+                "t": 225.66666666666666
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr. d/o"
+            },
+            {
+              "bbox": {
+                "b": 253.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 92.33333333333334,
+                "r": 117.66666666666667,
+                "t": 226.66666666666666
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Cla- sa"
+            },
+            {
+              "bbox": {
+                "b": 254.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 136.33333333333331,
+                "r": 240.33333333333334,
+                "t": 226.66666666666666
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Numele, prenumele elevului"
+            },
+            {
+              "bbox": {
+                "b": 243.66666666666666,
+                "coord_origin": "TOPLEFT",
+                "l": 267.33333333333337,
+                "r": 394.6666666666667,
+                "t": 228.66666666666666
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "Instituția de învățământ"
+            },
+            {
+              "bbox": {
+                "b": 244.0,
+                "coord_origin": "TOPLEFT",
+                "l": 448.6666666666667,
+                "r": 495.0,
+                "t": 231.33333333333334
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 0,
+              "text": "Profesor"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 267.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 64.66666666666667,
+                "r": 77.0,
+                "t": 254.33333333333334
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "1."
+            },
+            {
+              "bbox": {
+                "b": 267.0,
+                "coord_origin": "TOPLEFT",
+                "l": 90.66666666666666,
+                "r": 102.33333333333334,
+                "t": 254.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "9"
+            },
+            {
+              "bbox": {
+                "b": 268.0,
+                "coord_origin": "TOPLEFT",
+                "l": 124.66666666666667,
+                "r": 185.66666666666666,
+                "t": 254.66666666666666
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "Bracin Gleb"
+            },
+            {
+              "bbox": {
+                "b": 270.0,
+                "coord_origin": "TOPLEFT",
+                "l": 259.33333333333337,
+                "r": 351.6666666666667,
+                "t": 256.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": "LT ,Vasil Levski\""
+            },
+            {
+              "bbox": {
+                "b": 272.0,
+                "coord_origin": "TOPLEFT",
+                "l": 409.6666666666667,
+                "r": 499.0,
+                "t": 258.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 1,
+              "text": "Komitov Borislav"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 281.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 63.333333333333336,
+                "r": 76.66666666666667,
+                "t": 268.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 282.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 91.66666666666666,
+                "r": 107.33333333333334,
+                "t": 268.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "10"
+            },
+            {
+              "bbox": {
+                "b": 282.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 124.33333333333333,
+                "r": 199.66666666666666,
+                "t": 268.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "Petev Denislav"
+            },
+            {
+              "bbox": {
+                "b": 284.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 259.0,
+                "r": 351.3333333333333,
+                "t": 270.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": "LT ,,Vasil Levski\""
+            },
+            {
+              "bbox": {
+                "b": 286.0,
+                "coord_origin": "TOPLEFT",
+                "l": 409.6666666666667,
+                "r": 495.0,
+                "t": 272.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 2,
+              "text": "Belova Ecaterina"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 295.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 63.0,
+                "r": 76.66666666666667,
+                "t": 282.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 295.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 92.0,
+                "r": 106.0,
+                "t": 282.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "11"
+            },
+            {
+              "bbox": {
+                "b": 296.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 124.33333333333333,
+                "r": 219.33333333333334,
+                "t": 283.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "Salamandic Andrei"
+            },
+            {
+              "bbox": {
+                "b": 298.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 259.0,
+                "r": 351.0,
+                "t": 284.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": "LT ,,Vasil Levski\""
+            },
+            {
+              "bbox": {
+                "b": 300.0,
+                "coord_origin": "TOPLEFT",
+                "l": 409.0,
+                "r": 494.6666666666667,
+                "t": 286.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 3,
+              "text": "Belova Ecaterina"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 309.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 63.0,
+                "r": 76.66666666666667,
+                "t": 296.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4."
+            },
+            {
+              "bbox": {
+                "b": 310.0,
+                "coord_origin": "TOPLEFT",
+                "l": 91.66666666666666,
+                "r": 106.33333333333334,
+                "t": 296.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "11"
+            },
+            {
+              "bbox": {
+                "b": 310.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 124.0,
+                "r": 205.0,
+                "t": 296.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "Cocimari Daniil"
+            },
+            {
+              "bbox": {
+                "b": 312.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 259.0,
+                "r": 351.0,
+                "t": 299.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 4,
+              "text": "LT ,,Vasil Levski\""
+            },
+            {
+              "bbox": {
+                "b": 314.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 409.3333333333333,
+                "r": 494.6666666666667,
+                "t": 300.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 4,
+              "text": "Belova Ecaterina"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 323.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 63.0,
+                "r": 76.66666666666667,
+                "t": 310.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "5."
+            },
+            {
+              "bbox": {
+                "b": 324.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 91.66666666666666,
+                "r": 107.0,
+                "t": 311.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "12"
+            },
+            {
+              "bbox": {
+                "b": 325.0,
+                "coord_origin": "TOPLEFT",
+                "l": 123.66666666666667,
+                "r": 228.66666666666666,
+                "t": 311.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 5,
+              "text": "Romanova Anastasia"
+            },
+            {
+              "bbox": {
+                "b": 326.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 258.66666666666663,
+                "r": 350.6666666666667,
+                "t": 312.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 5,
+              "text": "LT Vasil Levski\""
+            },
+            {
+              "bbox": {
+                "b": 328.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 409.3333333333333,
+                "r": 494.3333333333333,
+                "t": 314.3333333333333
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 5,
+              "text": "Belova Ecaterina"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 338.0,
+                "coord_origin": "TOPLEFT",
+                "l": 62.666666666666664,
+                "r": 76.33333333333333,
+                "t": 324.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 6,
+              "text": "6."
+            },
+            {
+              "bbox": {
+                "b": 338.0,
+                "coord_origin": "TOPLEFT",
+                "l": 91.66666666666666,
+                "r": 107.0,
+                "t": 324.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 6,
+              "text": "12"
+            },
+            {
+              "bbox": {
+                "b": 339.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 123.33333333333333,
+                "r": 206.33333333333334,
+                "t": 325.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 6,
+              "text": "Litvinova Taisia"
+            },
+            {
+              "bbox": {
+                "b": 340.6666666666667,
+                "coord_origin": "TOPLEFT",
+                "l": 258.33333333333337,
+                "r": 350.6666666666667,
+                "t": 327.0
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 6,
+              "text": "LT ,Vasil Levski\""
+            },
+            {
+              "bbox": {
+                "b": 342.3333333333333,
+                "coord_origin": "TOPLEFT",
+                "l": 409.0,
+                "r": 494.3333333333333,
+                "t": 328.6666666666667
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 6,
+              "text": "Belova Ecaterina"
+            }
+          ]
+        ],
+        "num_cols": 5,
+        "num_rows": 7,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 254.0,
+              "coord_origin": "TOPLEFT",
+              "l": 64.33333333333333,
+              "r": 85.0,
+              "t": 225.66666666666666
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr. d/o"
+          },
+          {
+            "bbox": {
+              "b": 253.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 92.33333333333334,
+              "r": 117.66666666666667,
+              "t": 226.66666666666666
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Cla- sa"
+          },
+          {
+            "bbox": {
+              "b": 254.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 136.33333333333331,
+              "r": 240.33333333333334,
+              "t": 226.66666666666666
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Numele, prenumele elevului"
+          },
+          {
+            "bbox": {
+              "b": 243.66666666666666,
+              "coord_origin": "TOPLEFT",
+              "l": 267.33333333333337,
+              "r": 394.6666666666667,
+              "t": 228.66666666666666
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "Instituția de învățământ"
+          },
+          {
+            "bbox": {
+              "b": 244.0,
+              "coord_origin": "TOPLEFT",
+              "l": 448.6666666666667,
+              "r": 495.0,
+              "t": 231.33333333333334
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 0,
+            "text": "Profesor"
+          },
+          {
+            "bbox": {
+              "b": 267.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 64.66666666666667,
+              "r": 77.0,
+              "t": 254.33333333333334
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "1."
+          },
+          {
+            "bbox": {
+              "b": 267.0,
+              "coord_origin": "TOPLEFT",
+              "l": 90.66666666666666,
+              "r": 102.33333333333334,
+              "t": 254.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "9"
+          },
+          {
+            "bbox": {
+              "b": 268.0,
+              "coord_origin": "TOPLEFT",
+              "l": 124.66666666666667,
+              "r": 185.66666666666666,
+              "t": 254.66666666666666
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "Bracin Gleb"
+          },
+          {
+            "bbox": {
+              "b": 270.0,
+              "coord_origin": "TOPLEFT",
+              "l": 259.33333333333337,
+              "r": 351.6666666666667,
+              "t": 256.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": "LT ,Vasil Levski\""
+          },
+          {
+            "bbox": {
+              "b": 272.0,
+              "coord_origin": "TOPLEFT",
+              "l": 409.6666666666667,
+              "r": 499.0,
+              "t": 258.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 1,
+            "text": "Komitov Borislav"
+          },
+          {
+            "bbox": {
+              "b": 281.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 63.333333333333336,
+              "r": 76.66666666666667,
+              "t": 268.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 282.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 91.66666666666666,
+              "r": 107.33333333333334,
+              "t": 268.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "10"
+          },
+          {
+            "bbox": {
+              "b": 282.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 124.33333333333333,
+              "r": 199.66666666666666,
+              "t": 268.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "Petev Denislav"
+          },
+          {
+            "bbox": {
+              "b": 284.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 259.0,
+              "r": 351.3333333333333,
+              "t": 270.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 2,
+            "text": "LT ,,Vasil Levski\""
+          },
+          {
+            "bbox": {
+              "b": 286.0,
+              "coord_origin": "TOPLEFT",
+              "l": 409.6666666666667,
+              "r": 495.0,
+              "t": 272.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 2,
+            "text": "Belova Ecaterina"
+          },
+          {
+            "bbox": {
+              "b": 295.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 63.0,
+              "r": 76.66666666666667,
+              "t": 282.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 295.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 92.0,
+              "r": 106.0,
+              "t": 282.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "11"
+          },
+          {
+            "bbox": {
+              "b": 296.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 124.33333333333333,
+              "r": 219.33333333333334,
+              "t": 283.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "Salamandic Andrei"
+          },
+          {
+            "bbox": {
+              "b": 298.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 259.0,
+              "r": 351.0,
+              "t": 284.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 3,
+            "text": "LT ,,Vasil Levski\""
+          },
+          {
+            "bbox": {
+              "b": 300.0,
+              "coord_origin": "TOPLEFT",
+              "l": 409.0,
+              "r": 494.6666666666667,
+              "t": 286.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 3,
+            "text": "Belova Ecaterina"
+          },
+          {
+            "bbox": {
+              "b": 309.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 63.0,
+              "r": 76.66666666666667,
+              "t": 296.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4."
+          },
+          {
+            "bbox": {
+              "b": 310.0,
+              "coord_origin": "TOPLEFT",
+              "l": 91.66666666666666,
+              "r": 106.33333333333334,
+              "t": 296.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "11"
+          },
+          {
+            "bbox": {
+              "b": 310.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 124.0,
+              "r": 205.0,
+              "t": 296.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "Cocimari Daniil"
+          },
+          {
+            "bbox": {
+              "b": 312.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 259.0,
+              "r": 351.0,
+              "t": 299.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 4,
+            "text": "LT ,,Vasil Levski\""
+          },
+          {
+            "bbox": {
+              "b": 314.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 409.3333333333333,
+              "r": 494.6666666666667,
+              "t": 300.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 4,
+            "text": "Belova Ecaterina"
+          },
+          {
+            "bbox": {
+              "b": 323.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 63.0,
+              "r": 76.66666666666667,
+              "t": 310.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "5."
+          },
+          {
+            "bbox": {
+              "b": 324.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 91.66666666666666,
+              "r": 107.0,
+              "t": 311.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "12"
+          },
+          {
+            "bbox": {
+              "b": 325.0,
+              "coord_origin": "TOPLEFT",
+              "l": 123.66666666666667,
+              "r": 228.66666666666666,
+              "t": 311.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 5,
+            "text": "Romanova Anastasia"
+          },
+          {
+            "bbox": {
+              "b": 326.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 258.66666666666663,
+              "r": 350.6666666666667,
+              "t": 312.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 5,
+            "text": "LT Vasil Levski\""
+          },
+          {
+            "bbox": {
+              "b": 328.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 409.3333333333333,
+              "r": 494.3333333333333,
+              "t": 314.3333333333333
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 5,
+            "text": "Belova Ecaterina"
+          },
+          {
+            "bbox": {
+              "b": 338.0,
+              "coord_origin": "TOPLEFT",
+              "l": 62.666666666666664,
+              "r": 76.33333333333333,
+              "t": 324.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 6,
+            "text": "6."
+          },
+          {
+            "bbox": {
+              "b": 338.0,
+              "coord_origin": "TOPLEFT",
+              "l": 91.66666666666666,
+              "r": 107.0,
+              "t": 324.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 6,
+            "text": "12"
+          },
+          {
+            "bbox": {
+              "b": 339.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 123.33333333333333,
+              "r": 206.33333333333334,
+              "t": 325.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 6,
+            "text": "Litvinova Taisia"
+          },
+          {
+            "bbox": {
+              "b": 340.6666666666667,
+              "coord_origin": "TOPLEFT",
+              "l": 258.33333333333337,
+              "r": 350.6666666666667,
+              "t": 327.0
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 6,
+            "text": "LT ,Vasil Levski\""
+          },
+          {
+            "bbox": {
+              "b": 342.3333333333333,
+              "coord_origin": "TOPLEFT",
+              "l": 409.0,
+              "r": 494.3333333333333,
+              "t": 328.6666666666667
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 6,
+            "text": "Belova Ecaterina"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 497.0879894656659,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 59.37681237423059,
+            "r": 537.9618797348485,
+            "t": 616.4607752814729
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRIN NOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 728.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 280.0,
+            "r": 331.0,
+            "t": 735.96
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FRIN NOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 674.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 170.66666666666669,
+            "r": 459.3333333333333,
+            "t": 713.6266666666667
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "PRIMAR GENERAL AL MUNICIPIÚLUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 708.6266666666668,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 206.33333333333334,
+            "r": 402.6666666666667,
+            "t": 726.6266666666667
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "300326.01/1/4/423",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 632.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.66666666666667,
+            "r": 283.33333333333337,
+            "t": 672.6266666666667
+          },
+          "charspan": [
+            0,
+            17
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "300326.01/1/4/423"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 594.96,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 278.0,
+            "r": 330.0,
+            "t": 611.96
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref.: Cu privire la delegarea elevilor la olimpiada republicană la limba și literatura bulgară",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 551.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.0,
+            "r": 240.33333333333334,
+            "t": 594.6266666666667
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Ref.: Cu privire la delegarea elevilor la olimpiada republicană la limba și literatura bulgară"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul ordinului Ministerului Educației și Cercetării al Republicii Moldova nr.1003 din 21.10.2025 Cu privire la Orarul olimpiadelor și concursurilor republicane pentru anul 2026\" și pentru asigurarea participării eficiente a elevilor delegați la olimpiada republicană la limba și literatura bulgară,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 472.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 75.0,
+            "r": 538.6666666666667,
+            "t": 537.2933333333333
+          },
+          "charspan": [
+            0,
+            304
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "În temeiul ordinului Ministerului Educației și Cercetării al Republicii Moldova nr.1003 din 21.10.2025 Cu privire la Orarul olimpiadelor și concursurilor republicane pentru anul 2026\" și pentru asigurarea participării eficiente a elevilor delegați la olimpiada republicană la limba și literatura bulgară,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 440.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 273.33333333333337,
+            "r": 322.0,
+            "t": 454.96000000000004
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Se desemnează conducător al echipei municipale Belova Ecaterina, profesoară, LT ,,Vasil Levski\".",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 331.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 72.66666666666667,
+            "r": 535.3333333333333,
+            "t": 362.29333333333335
+          },
+          "charspan": [
+            0,
+            99
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se desemnează conducător al echipei municipale Belova Ecaterina, profesoară, LT ,,Vasil Levski\"."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se deleagă la olimpiada republicană la limba și literatura bulgară, în perioada 2426.04.2026, în incinta Universității Pedagogice de Stat ,,Ion Creangă\" (str.I.Creangă,1), primii şase lideri ai clasamentului (conform punctajului/scorului acumulat în descreştere) la olimpiada municipală, ediția 2026 și elevii premianți cu diplome de gradul I,II și III la etapa republicană din anul 2025 (Anexa nr. 1).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 359.29333333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 74.66666666666667,
+            "r": 536.3333333333333,
+            "t": 442.29333333333335
+          },
+          "charspan": [
+            0,
+            405
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Se deleagă la olimpiada republicană la limba și literatura bulgară, în perioada 2426.04.2026, în incinta Universității Pedagogice de Stat ,,Ion Creangă\" (str.I.Creangă,1), primii şase lideri ai clasamentului (conform punctajului/scorului acumulat în descreştere) la olimpiada municipală, ediția 2026 și elevii premianți cu diplome de gradul I,II și III la etapa republicană din anul 2025 (Anexa nr. 1)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Conducătorul echipei municipale, Belova Ecaterina:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 311.62666666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.33333333333333,
+            "r": 346.6666666666667,
+            "t": 330.96000000000004
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "Conducătorul echipei municipale, Belova Ecaterina:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2",
+      "orig": "3.2 va verifica datele elevilor participanți la olimpiadă, din lista de înregistrare în Centrul desemnat pentru desfáşurarea probelor scrise, confirmând veridicitatea lor prin semnătură.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 252.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.0,
+            "r": 534.0,
+            "t": 289.62666666666667
+          },
+          "charspan": [
+            0,
+            186
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "va verifica datele elevilor participanți la olimpiadă, din lista de înregistrare în Centrul desemnat pentru desfáşurarea probelor scrise, confirmând veridicitatea lor prin semnătură."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1",
+      "orig": "3.1 va asigura prezența obligatorie a actului de identitate/certificatului de naştere în original și o copie a acestuia pentru fiecare participant la olimpiada republicană;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 282.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 71.33333333333333,
+            "r": 534.6666666666667,
+            "t": 317.2933333333334
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "va asigura prezența obligatorie a actului de identitate/certificatului de naştere în original și o copie a acestuia pentru fiecare participant la olimpiada republicană;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Responsabilă de îndeplinirea prevederilor prezentului ordin se desemneazăV. Coropcean, specialist principal, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 231.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.66666666666667,
+            "r": 532.6666666666667,
+            "t": 261.96000000000004
+          },
+          "charspan": [
+            0,
+            118
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Responsabilă de îndeplinirea prevederilor prezentului ordin se desemneazăV. Coropcean, specialist principal, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul realizării prevederilor prezentului ordin îi revine S. Axinti, şef al direcției managementul curricular, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 201.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 70.0,
+            "r": 533.3333333333333,
+            "t": 234.96000000000004
+          },
+          "charspan": [
+            0,
+            124
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Controlul realizării prevederilor prezentului ordin îi revine S. Axinti, şef al direcției managementul curricular, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Monitorizarea realizării prevederilor prezentului ordin revine V. Crudy,/şef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 172.62666666666678,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.0,
+            "r": 532.3333333333333,
+            "t": 203.62666666666678
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Monitorizarea realizării prevederilor prezentului ordin revine V. Crudy,/şef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: Valentina Coropcean, (022) 235271",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 74.2933333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 65.66666666666667,
+            "r": 230.0,
+            "t": 89.2933333333333
+          },
+          "charspan": [
+            0,
+            38
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Ex.: Valentina Coropcean, (022) 235271"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "junct",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 149.96000000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 504.6666666666667,
+            "r": 530.0,
+            "t": 159.2933333333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "junct"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 28.960000000000036,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 112.33333333333334,
+            "r": 442.6666666666667,
+            "t": 60.293333333333294
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Anexa nr.1",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 731.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 481.0,
+            "r": 537.0,
+            "t": 749.96
+          },
+          "charspan": [
+            0,
+            10
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Anexa nr.1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "30032026",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 702.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 467.0,
+            "r": 540.6666666666666,
+            "t": 738.96
+          },
+          "charspan": [
+            0,
+            8
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "30032026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la ordinul nr?",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 708.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 298.0,
+            "r": 368.0,
+            "t": 728.2933333333334
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "la ordinul nr?"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 707.2933333333334,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 448.0,
+            "r": 478.33333333333337,
+            "t": 730.6266666666667
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "din"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Prin decizia Consiliului municipal de coordonare la olimpiada republicană la Limba și literatura bulgară, ediția 2026, sunt delegați:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 641.6266666666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 91.66666666666667,
+            "r": 477.0,
+            "t": 676.2933333333334
+          },
+          "charspan": [
+            0,
+            133
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Prin decizia Consiliului municipal de coordonare la olimpiada republicană la Limba și literatura bulgară, ediția 2026, sunt delegați:"
+    }
+  ],
+  "version": "1.10.0"
+}

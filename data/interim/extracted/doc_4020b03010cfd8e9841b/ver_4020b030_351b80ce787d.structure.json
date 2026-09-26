@@ -1,0 +1,907 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/7"
+        },
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/pictures/4"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    }
+  ],
+  "key_value_items": [],
+  "name": "242fa28a7f0fa7239c3c5e0ce0ac1491b3d36f9cc2291bf8fb4d68dd39f428a0",
+  "origin": {
+    "binary_hash": 18108244976095996064,
+    "filename": "242fa28a7f0fa7239c3c5e0ce0ac1491b3d36f9cc2291bf8fb4d68dd39f428a0.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 840.96,
+        "width": 593.28
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 713.5127157378679,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 259.7087452651515,
+            "r": 371.73249260179927,
+            "t": 785.9698329973618
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/2"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 611.9858141814061,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.17362571022727,
+            "r": 294.2801319839015,
+            "t": 656.4467578821716
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 105.79611530172417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 199.5515574692235,
+            "r": 243.2118742601799,
+            "t": 136.39841947829973
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/17"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 67.32492271105832,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 112.59201978278882,
+            "r": 155.44594978101327,
+            "t": 109.00513014640308
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 56.1461331376338,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 366.5830107717803,
+            "r": 487.55180456912876,
+            "t": 200.3530190992866
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRIN NOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 715.7699772135417,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 290.0640869140625,
+            "r": 341.93589274088544,
+            "t": 723.4211867268881
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PRIN NOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 666.0371179199219,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 182.125,
+            "r": 471.2339680989583,
+            "t": 711.944375
+          },
+          "charspan": [
+            0,
+            113
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "nr.",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 628.163623453776,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 89.06089655558269,
+            "r": 103.55448659261067,
+            "t": 639.2578820800782
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ref.: Organizarea și desfăşurarea vizitelor de monitorizare",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 560.4504174804688,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.91666603088379,
+            "r": 278.2403767903646,
+            "t": 592.2029402669272
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Ref.: Organizarea și desfăşurarea vizitelor de monitorizare"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În conformitate cu Planul anual de acțiuni al DGETS și în scopul asigurării implementării calitative a Curriculumului Național pentru învățământul primar,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 504.59659667968754,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.53525606791179,
+            "r": 534.1666666666667,
+            "t": 555.4771305338542
+          },
+          "charspan": [
+            0,
+            154
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "În conformitate cu Planul anual de acțiuni al DGETS și în scopul asigurării implementării calitative a Curriculumului Național pentru învățământul primar,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 598.7064599609375,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.3525594075521,
+            "r": 348.41986083984375,
+            "t": 613.2437727864584
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 489.2941674804688,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 292.3525594075521,
+            "r": 349.18267822265625,
+            "t": 504.9791446940105
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează în perioada 27.11-16.12.2025 vizite de monitorizare Dezvoltarea competenței de comunicare la elevii din învățământul primar\" în instituțiile de învățământ primar și secundar, ciclul I şi II (conform agendei).",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 434.97057942708335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.91666603088379,
+            "r": 534.5480550130208,
+            "t": 485.85111328125004
+          },
+          "charspan": [
+            0,
+            226
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "Se organizează în perioada 27.11-16.12.2025 vizite de monitorizare Dezvoltarea competenței de comunicare la elevii din învățământul primar\" în instituțiile de învățământ primar și secundar, ciclul I şi II (conform agendei)."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": false,
+      "label": "list_item",
+      "marker": "",
+      "orig": "2.1.va efectua vizite de monitorizare în instituțiile de învățământ primar și secundar, ciclul I și II în termenii stabiliți;",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 387.53307942708335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.53525606791179,
+            "r": 533.7852376302083,
+            "t": 421.96354003906254
+          },
+          "charspan": [
+            0,
+            125
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "2.1.va efectua vizite de monitorizare în instituțiile de învățământ primar și secundar, ciclul I și II în termenii stabiliți;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. T. Demcenco, specialist principal din cadrul DGETS:",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 418.9030338541667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 100.88461558024089,
+            "r": 428.5160319010417,
+            "t": 438.03104492187504
+          },
+          "charspan": [
+            0,
+            54
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "T. Demcenco, specialist principal din cadrul DGETS:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. va elabora nota informativă cu referire la rezultatele vizitelor de monitorizare până la 19.12.2025.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 356.54569335937504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.53525606791179,
+            "r": 534.1666666666667,
+            "t": 389.4458805338542
+          },
+          "charspan": [
+            0,
+            105
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "va elabora nota informativă cu referire la rezultatele vizitelor de monitorizare până la 19.12.2025."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Responsabil de îndeplinirea prevederilor prezentului ordin se desemneazăT. Demcenco, specialist principal, DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 274.2951643880209,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.91666603088379,
+            "r": 533.40380859375,
+            "t": 309.10819335937504
+          },
+          "charspan": [
+            0,
+            116
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Responsabil de îndeplinirea prevederilor prezentului ordin se desemneazăT. Demcenco, specialist principal, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Conducătorii instituțiilor de învățământ primar și secundar, ciclul I și II din subordine vor prezenta documentația școlară solicitată de către specialistul la clasele primare.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 308.34305664062504,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 87.53525606791179,
+            "r": 534.1666666666667,
+            "t": 356.92822102864585
+          },
+          "charspan": [
+            0,
+            179
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Conducătorii instituțiilor de învățământ primar și secundar, ciclul I și II din subordine vor prezenta documentația școlară solicitată de către specialistul la clasele primare."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Controlul realizării prevederilor prezentului ordin revine S. Axînti, şef, direcția management curricular.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 241.39497721354167,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.29807662963867,
+            "r": 533.0224202473958,
+            "t": 274.6777327473959
+          },
+          "charspan": [
+            0,
+            109
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Controlul realizării prevederilor prezentului ordin revine S. Axînti, şef, direcția management curricular."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Monitorizarea executării prevederilor prezentului ordin revine V. Crudu, şef adjunct al DGETS.",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 206.58194824218754,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 88.29807662963867,
+            "r": 532.6409912109375,
+            "t": 241.39497721354167
+          },
+          "charspan": [
+            0,
+            97
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Monitorizarea executării prevederilor prezentului ordin revine V. Crudu, şef adjunct al DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Ex.: T Demcenco, 022201617",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 95.25687500000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 111.56410217285156,
+            "r": 272.51922607421875,
+            "t": 109.79414713541667
+          },
+          "charspan": [
+            0,
+            26
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Ex.: T Demcenco, 022201617"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Juv",
+      "parent": {
+        "$ref": "#/pictures/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 107.11625000000004,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 200.05127970377606,
+            "r": 244.67627970377603,
+            "t": 136.95597167968754
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Juv"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Jy",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 80.33703450520841,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 124.91345723470053,
+            "r": 148.17948404947919,
+            "t": 97.16963541666667
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "Jy"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Şef adjunct PAVALOI",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 114.76745442708341,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 478.4807535807292,
+            "r": 545.9903564453125,
+            "t": 149.1978743489584
+          },
+          "charspan": [
+            0,
+            19
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Şef adjunct PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, municipiul Chişinău, MD-2704,",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 57.000771484375036,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 166.1057637532552,
+            "r": 393.04486083984375,
+            "t": 70.77298828125004
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Str. Mitropolit Dosoftei, 99, municipiul Chişinău, MD-2704,"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/groups/2"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 44.75890950520841,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 180.9807637532552,
+            "r": 451.7820231119792,
+            "t": 58.913613281250036
+          },
+          "charspan": [
+            0,
+            66
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Tel.: (022) 201601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

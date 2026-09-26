@@ -1,0 +1,6342 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/pictures/1"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/pictures/5"
+      },
+      {
+        "$ref": "#/texts/27"
+      },
+      {
+        "$ref": "#/tables/0"
+      },
+      {
+        "$ref": "#/tables/1"
+      },
+      {
+        "$ref": "#/texts/28"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/pictures/2"
+        },
+        {
+          "$ref": "#/pictures/3"
+        },
+        {
+          "$ref": "#/pictures/4"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    }
+  ],
+  "key_value_items": [],
+  "name": "cf9f0b32aa5c97efd85b9fe09a35f6e66412557ee25e1782021c6f9897a50b4b",
+  "origin": {
+    "binary_hash": 152119188593642315,
+    "filename": "cf9f0b32aa5c97efd85b9fe09a35f6e66412557ee25e1782021c6f9897a50b4b.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.92,
+        "width": 595.2
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.92,
+        "width": 595.2
+      }
+    },
+    "3": {
+      "page_no": 3,
+      "size": {
+        "height": 841.92,
+        "width": 595.2
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 715.9325131319821,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 247.18421213034816,
+            "r": 360.67586514261745,
+            "t": 788.8145038349214
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/3"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 621.1718411682564,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.25203210203439,
+            "r": 307.349103397651,
+            "t": 655.1869806009686
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 87.47459824079579,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 233.91691878145974,
+            "r": 335.46405496277265,
+            "t": 129.18944549343087
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/2"
+    },
+    {
+      "annotations": [],
+      "captions": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "children": [
+        {
+          "$ref": "#/texts/18"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 85.88087760725955,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 162.6590882576552,
+            "r": 204.89547078177432,
+            "t": 105.55405707207547
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/3"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 46.80933387303298,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 380.23798139943375,
+            "r": 549.3411060717282,
+            "t": 159.6686050001856
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/4"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 721.8770395252653,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 237.40885312893246,
+            "r": 545.6352106491191,
+            "t": 754.6165662201
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/5"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 207.3404999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 78.0,
+                "r": 91.9965,
+                "t": 183.50099999999998
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "Nr. dh"
+            },
+            {
+              "bbox": {
+                "b": 193.317,
+                "coord_origin": "TOPLEFT",
+                "l": 126.96,
+                "r": 174.01800000000006,
+                "t": 183.14199999999994
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Disciplina"
+            },
+            {
+              "bbox": {
+                "b": 192.97349999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 223.92,
+                "r": 246.09599999999998,
+                "t": 183.26099999999997
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "Data"
+            },
+            {
+              "bbox": {
+                "b": 192.73349999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 281.28,
+                "r": 298.7835,
+                "t": 183.02099999999996
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "Ora"
+            },
+            {
+              "bbox": {
+                "b": 206.4135,
+                "coord_origin": "TOPLEFT",
+                "l": 320.88,
+                "r": 452.9010000000002,
+                "t": 182.063
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 0,
+              "text": "Locul desfrqurdrii reunrunu metodice"
+            },
+            {
+              "bbox": {
+                "b": 192.49349999999993,
+                "coord_origin": "TOPLEFT",
+                "l": 477.36,
+                "r": 535.1310000000001,
+                "t": 182.78099999999995
+              },
+              "col_span": 1,
+              "column_header": true,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 0,
+              "text": "Responsabil"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 221.19000000000005,
+                "coord_origin": "TOPLEFT",
+                "l": 78.24,
+                "r": 81.02,
+                "t": 211.94000000000005
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "I"
+            },
+            {
+              "bbox": {
+                "b": 249.1334999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 105.84,
+                "r": 195.99,
+                "t": 211.462
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Invdfdmdntul plimal (gcoala nationald)"
+            },
+            {
+              "bbox": {
+                "b": 220.95000000000005,
+                "coord_origin": "TOPLEFT",
+                "l": 209.52,
+                "r": 259.56,
+                "t": 211.70000000000005
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "19.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 220.71000000000004,
+                "coord_origin": "TOPLEFT",
+                "l": 274.08,
+                "r": 299.09999999999997,
+                "t": 211.46000000000004
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 234.70049999999992,
+                "coord_origin": "TOPLEFT",
+                "l": 318.0,
+                "r": 456.83,
+                "t": 209.54399999999998
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 1,
+              "text": "IPLT ,,Ion gi Doina Aldea- Teodorovici\""
+            },
+            {
+              "bbox": {
+                "b": 234.35699999999997,
+                "coord_origin": "TOPLEFT",
+                "l": 468.72,
+                "r": 518.8995000000001,
+                "t": 210.861
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 1,
+              "text": "Demcenco Tamata"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 263.22300000000007,
+                "coord_origin": "TOPLEFT",
+                "l": 77.04,
+                "r": 84.546,
+                "t": 254.89800000000002
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 2,
+              "text": "2."
+            },
+            {
+              "bbox": {
+                "b": 304.71000000000004,
+                "coord_origin": "TOPLEFT",
+                "l": 105.84,
+                "r": 197.088,
+                "t": 253.462
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 2,
+              "text": "Invdtdmdntul primar (gcoala cu predare in limba rusd)"
+            },
+            {
+              "bbox": {
+                "b": 262.95000000000005,
+                "coord_origin": "TOPLEFT",
+                "l": 209.52,
+                "r": 259.56,
+                "t": 253.70000000000005
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 2,
+              "text": "18.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 262.95000000000005,
+                "coord_origin": "TOPLEFT",
+                "l": 274.08,
+                "r": 299.09999999999997,
+                "t": 253.70000000000005
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 2,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 276.7004999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 318.0,
+                "r": 456.83,
+                "t": 250.94499999999994
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 2,
+              "text": "IPLT ,,Ion gi Doina Aldea- Teodorovici\""
+            },
+            {
+              "bbox": {
+                "b": 276.35699999999997,
+                "coord_origin": "TOPLEFT",
+                "l": 468.72,
+                "r": 518.8995000000001,
+                "t": 252.861
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 3,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 2,
+              "text": "Demcenco Tamara"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 318.903,
+                "coord_origin": "TOPLEFT",
+                "l": 77.28,
+                "r": 84.786,
+                "t": 310.578
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 3,
+              "text": "3."
+            },
+            {
+              "bbox": {
+                "b": 346.57349999999997,
+                "coord_origin": "TOPLEFT",
+                "l": 105.84,
+                "r": 196.8700000000001,
+                "t": 308.543
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 3,
+              "text": "Limba qi literatura romdnd (qcoala nationalS)"
+            },
+            {
+              "bbox": {
+                "b": 318.87,
+                "coord_origin": "TOPLEFT",
+                "l": 209.52,
+                "r": 259.56,
+                "t": 309.62
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 3,
+              "text": "18.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 318.73349999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 274.8,
+                "r": 298.7295000000001,
+                "t": 309.02099999999996
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 3,
+              "text": "r0.00"
+            },
+            {
+              "bbox": {
+                "b": 318.7004999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 318.0,
+                "r": 422.62800000000004,
+                "t": 308.063
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 3,
+              "text": "IPLT..Nicolae Sulac\""
+            },
+            {
+              "bbox": {
+                "b": 318.4604999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 468.96,
+                "r": 525.4735,
+                "t": 307.823
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 4,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 3,
+              "text": "Gilcd Silvia"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 360.66299999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 77.28,
+                "r": 82.284,
+                "t": 352.33799999999997
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 4,
+              "text": "4"
+            },
+            {
+              "bbox": {
+                "b": 402.38999999999993,
+                "coord_origin": "TOPLEFT",
+                "l": 105.84,
+                "r": 197.328,
+                "t": 350.4219999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 4,
+              "text": "Limba qi litelatura romAnd (gcoala cu predare in lirnba rusd)"
+            },
+            {
+              "bbox": {
+                "b": 360.62999999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 209.76,
+                "r": 259.8,
+                "t": 351.37999999999994
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 4,
+              "text": "19.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 360.28649999999993,
+                "coord_origin": "TOPLEFT",
+                "l": 274.8,
+                "r": 298.56899999999996,
+                "t": 351.4989999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 4,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 360.56399999999996,
+                "coord_origin": "TOPLEFT",
+                "l": 318.24,
+                "r": 426.6465000000002,
+                "t": 349.464
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 4,
+              "text": "LT,,Antioh Cantemir'\""
+            },
+            {
+              "bbox": {
+                "b": 360.42749999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 472.08,
+                "r": 527.399,
+                "t": 348.86499999999995
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 5,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 4,
+              "text": "Gilc[ Silvia"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 416.169,
+                "coord_origin": "TOPLEFT",
+                "l": 78.0,
+                "r": 81.892,
+                "t": 409.69399999999996
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 5,
+              "text": "5"
+            },
+            {
+              "bbox": {
+                "b": 458.62049999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 106.08,
+                "r": 195.74000000000004,
+                "t": 406.58199999999994
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 5,
+              "text": "Limba gi literatura rusa (qcoala cu predare in limba rusd)"
+            },
+            {
+              "bbox": {
+                "b": 416.54999999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 210.0,
+                "r": 260.04,
+                "t": 407.29999999999995
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 5,
+              "text": "19.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 416.20649999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 274.8,
+                "r": 298.56899999999996,
+                "t": 407.4189999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 5,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 416.4839999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 321.84,
+                "r": 404.29299999999995,
+                "t": 405.38399999999996
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 5,
+              "text": "LT,,N.V. Gogol\""
+            },
+            {
+              "bbox": {
+                "b": 429.7169999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 468.96,
+                "r": 521.2299999999999,
+                "t": 406.5799999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 6,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 5,
+              "text": "Coropcean Valentina"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 472.263,
+                "coord_origin": "TOPLEFT",
+                "l": 77.76,
+                "r": 85.266,
+                "t": 463.938
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 6,
+              "text": "6."
+            },
+            {
+              "bbox": {
+                "b": 472.78049999999996,
+                "coord_origin": "TOPLEFT",
+                "l": 106.8,
+                "r": 169.21,
+                "t": 462.143
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 6,
+              "text": "Lirnbi strdine"
+            },
+            {
+              "bbox": {
+                "b": 472.22999999999996,
+                "coord_origin": "TOPLEFT",
+                "l": 210.48,
+                "r": 260.52,
+                "t": 462.97999999999996
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 6,
+              "text": "18.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 471.98999999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 274.8,
+                "r": 299.82,
+                "t": 462.73999999999995
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 6,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 472.06049999999993,
+                "coord_origin": "TOPLEFT",
+                "l": 318.96,
+                "r": 437.6119999999999,
+                "t": 461.42299999999994
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 6,
+              "text": "IPLT,,Alexandr Puqkin\""
+            },
+            {
+              "bbox": {
+                "b": 485.29349999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 469.44,
+                "r": 518.3499999999999,
+                "t": 462.25999999999993
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 7,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 6,
+              "text": "Coropcean Valentina"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 500.23949999999996,
+                "coord_origin": "TOPLEFT",
+                "l": 78.0,
+                "r": 85.089,
+                "t": 492.37699999999995
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 7,
+              "text": "7."
+            },
+            {
+              "bbox": {
+                "b": 500.65349999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 106.8,
+                "r": 161.064,
+                "t": 490.941
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 7,
+              "text": "Matematicd"
+            },
+            {
+              "bbox": {
+                "b": 500.30999999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 210.48,
+                "r": 260.52,
+                "t": 491.05999999999995
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 7,
+              "text": "19.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 500.06999999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 274.8,
+                "r": 299.82,
+                "t": 490.81999999999994
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 7,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 514.404,
+                "coord_origin": "TOPLEFT",
+                "l": 318.96,
+                "r": 436.12899999999996,
+                "t": 489.263
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 7,
+              "text": "IP CE Liceul - grddinila ..Kiril si Metodii\""
+            },
+            {
+              "bbox": {
+                "b": 513.4769999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 469.68,
+                "r": 508.80699999999996,
+                "t": 490.09999999999997
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 8,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 7,
+              "text": "tsulhac Ludrnila"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 528.2159999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 78.0,
+                "r": 82.44800000000001,
+                "t": 520.8159999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 8,
+              "text": "8"
+            },
+            {
+              "bbox": {
+                "b": 529.4535,
+                "coord_origin": "TOPLEFT",
+                "l": 106.8,
+                "r": 184.21949999999998,
+                "t": 518.3029999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 8,
+              "text": "Bioloeie/ Stiinte"
+            },
+            {
+              "bbox": {
+                "b": 528.15,
+                "coord_origin": "TOPLEFT",
+                "l": 210.48,
+                "r": 260.52,
+                "t": 518.9
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 8,
+              "text": "18,08.2026"
+            },
+            {
+              "bbox": {
+                "b": 527.91,
+                "coord_origin": "TOPLEFT",
+                "l": 274.8,
+                "r": 299.82,
+                "t": 518.66
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 8,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 529.557,
+                "coord_origin": "TOPLEFT",
+                "l": 318.96,
+                "r": 445.5865,
+                "t": 516.9839999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 8,
+              "text": "LTPR ,,Mhai Marincuc\""
+            },
+            {
+              "bbox": {
+                "b": 527.67,
+                "coord_origin": "TOPLEFT",
+                "l": 469.68,
+                "r": 528.2085,
+                "t": 517.5809999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 9,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 8,
+              "text": "Grecu Elena"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 543.0629999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 77.76,
+                "r": 82.76400000000001,
+                "t": 534.7379999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 9,
+              "text": "9"
+            },
+            {
+              "bbox": {
+                "b": 543.237,
+                "coord_origin": "TOPLEFT",
+                "l": 106.8,
+                "r": 141.02100000000002,
+                "t": 533.0619999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 9,
+              "text": "Chimie"
+            },
+            {
+              "bbox": {
+                "b": 542.79,
+                "coord_origin": "TOPLEFT",
+                "l": 210.48,
+                "r": 260.52,
+                "t": 533.54
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 9,
+              "text": "19.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 542.55,
+                "coord_origin": "TOPLEFT",
+                "l": 274.8,
+                "r": 299.82,
+                "t": 533.3
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 9,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 542.7239999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 318.96,
+                "r": 445.5865,
+                "t": 531.624
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 9,
+              "text": "LTPR ..Mihai Marinr:uc\""
+            },
+            {
+              "bbox": {
+                "b": 542.0699999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 469.68,
+                "r": 528.2085,
+                "t": 532.221
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 10,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 9,
+              "text": "Grecu Elena"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 557.6039999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 78.96,
+                "r": 88.96799999999999,
+                "t": 546.5039999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 10,
+              "text": "t0"
+            },
+            {
+              "bbox": {
+                "b": 557.5004999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 106.8,
+                "r": 136.8265,
+                "t": 546.8629999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 10,
+              "text": "Fizicd"
+            },
+            {
+              "bbox": {
+                "b": 557.1569999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 210.48,
+                "r": 262.466,
+                "t": 546.982
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 10,
+              "text": "t8.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 556.71,
+                "coord_origin": "TOPLEFT",
+                "l": 275.04,
+                "r": 300.06,
+                "t": 547.46
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 10,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 570.357,
+                "coord_origin": "TOPLEFT",
+                "l": 318.96,
+                "r": 426.75300000000004,
+                "t": 546.143
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 10,
+              "text": "IPLT,,Alexandru Ioan Cvza\""
+            },
+            {
+              "bbox": {
+                "b": 570.2204999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 469.68,
+                "r": 509.9415,
+                "t": 547.3389999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 11,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 10,
+              "text": "BLrlhac [,udmila"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 585.237,
+                "coord_origin": "TOPLEFT",
+                "l": 78.96,
+                "r": 87.51799999999999,
+                "t": 575.0619999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 11,
+              "text": "l1"
+            },
+            {
+              "bbox": {
+                "b": 585.237,
+                "coord_origin": "TOPLEFT",
+                "l": 106.8,
+                "r": 161.20600000000005,
+                "t": 575.0619999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 11,
+              "text": "Informaticd"
+            },
+            {
+              "bbox": {
+                "b": 584.79,
+                "coord_origin": "TOPLEFT",
+                "l": 210.48,
+                "r": 260.52,
+                "t": 575.54
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 11,
+              "text": "18.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 584.55,
+                "coord_origin": "TOPLEFT",
+                "l": 275.04,
+                "r": 300.06,
+                "t": 575.3
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 11,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 584.7239999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 318.96,
+                "r": 427.001,
+                "t": 573.624
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 11,
+              "text": "LT..Antioh Cantemir\""
+            },
+            {
+              "bbox": {
+                "b": 597.99,
+                "coord_origin": "TOPLEFT",
+                "l": 469.68,
+                "r": 508.83000000000004,
+                "t": 574.1019999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 12,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 11,
+              "text": "Brdnza Svetlana"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 613.764,
+                "coord_origin": "TOPLEFT",
+                "l": 78.96,
+                "r": 88.96799999999999,
+                "t": 602.664
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 12,
+              "text": "I2"
+            },
+            {
+              "bbox": {
+                "b": 627.3734999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 106.8,
+                "r": 196.0770000000001,
+                "t": 600.9879999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 12,
+              "text": "Istoria romdnilor si universal["
+            },
+            {
+              "bbox": {
+                "b": 613.077,
+                "coord_origin": "TOPLEFT",
+                "l": 210.48,
+                "r": 262.466,
+                "t": 602.9019999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 12,
+              "text": "t8.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 612.6299999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 275.04,
+                "r": 300.06,
+                "t": 603.3799999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 12,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 612.7004999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 318.96,
+                "r": 442.9959999999999,
+                "t": 602.063
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 12,
+              "text": "IPLT,,Gheorghe Asachi\""
+            },
+            {
+              "bbox": {
+                "b": 626.1405,
+                "coord_origin": "TOPLEFT",
+                "l": 469.68,
+                "r": 536.7449999999999,
+                "t": 602.182
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 13,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 12,
+              "text": "Podgormejnii Viorica"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 640.9124999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 78.96,
+                "r": 87.3,
+                "t": 629.175
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 13,
+              "text": "1a IJ"
+            },
+            {
+              "bbox": {
+                "b": 655.3499999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 106.8,
+                "r": 198.22500000000005,
+                "t": 628.949
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 13,
+              "text": "Educalia pentru societate"
+            },
+            {
+              "bbox": {
+                "b": 641.1899999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 210.48,
+                "r": 260.52,
+                "t": 631.9399999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 13,
+              "text": "19.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 640.6065,
+                "coord_origin": "TOPLEFT",
+                "l": 275.76,
+                "r": 299.52899999999994,
+                "t": 631.819
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 13,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 641.0205,
+                "coord_origin": "TOPLEFT",
+                "l": 322.08,
+                "r": 446.11599999999993,
+                "t": 630.3829999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 13,
+              "text": "IPLT,,Gheorghe Asachi\""
+            },
+            {
+              "bbox": {
+                "b": 654.2204999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 469.68,
+                "r": 539.8649999999999,
+                "t": 630.262
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 14,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 13,
+              "text": "Podgormejnii Viorica"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 669.6465,
+                "coord_origin": "TOPLEFT",
+                "l": 79.92,
+                "r": 93.125,
+                "t": 660.8589999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 14,
+              "text": "14."
+            },
+            {
+              "bbox": {
+                "b": 669.8534999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 107.28,
+                "r": 152.79749999999999,
+                "t": 660.141
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 14,
+              "text": "Gcografie"
+            },
+            {
+              "bbox": {
+                "b": 669.477,
+                "coord_origin": "TOPLEFT",
+                "l": 210.72,
+                "r": 262.706,
+                "t": 659.3019999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 14,
+              "text": "t8.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 668.9264999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 275.76,
+                "r": 299.52899999999994,
+                "t": 660.1389999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 14,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 669.204,
+                "coord_origin": "TOPLEFT",
+                "l": 319.2,
+                "r": 431.0045,
+                "t": 658.104
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 14,
+              "text": "IPLT..Onisifor Ghibu\""
+            },
+            {
+              "bbox": {
+                "b": 681.99,
+                "coord_origin": "TOPLEFT",
+                "l": 470.4,
+                "r": 509.31,
+                "t": 657.624
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 15,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 14,
+              "text": "Axinti Svetlana"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 697.5195,
+                "coord_origin": "TOPLEFT",
+                "l": 79.2,
+                "r": 88.652,
+                "t": 689.6569999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 15,
+              "text": "15"
+            },
+            {
+              "bbox": {
+                "b": 697.7969999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 107.04,
+                "r": 195.31500000000005,
+                "t": 687.622
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 15,
+              "text": "Educatia muzicald"
+            },
+            {
+              "bbox": {
+                "b": 697.3499999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 210.96,
+                "r": 261.0,
+                "t": 688.0999999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 15,
+              "text": "18.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 696.7665,
+                "coord_origin": "TOPLEFT",
+                "l": 275.76,
+                "r": 299.52899999999994,
+                "t": 687.9789999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 15,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 698.6534999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 319.2,
+                "r": 408.192,
+                "t": 682.713
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 15,
+              "text": "lf ,,Ceorge tllenl"
+            },
+            {
+              "bbox": {
+                "b": 696.357,
+                "coord_origin": "TOPLEFT",
+                "l": 473.04,
+                "r": 532.9150000000001,
+                "t": 685.583
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 16,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 15,
+              "text": "Gnio Liliana"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 711.9195,
+                "coord_origin": "TOPLEFT",
+                "l": 79.92,
+                "r": 91.735,
+                "t": 704.057
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 16,
+              "text": "16."
+            },
+            {
+              "bbox": {
+                "b": 712.0935,
+                "coord_origin": "TOPLEFT",
+                "l": 107.04,
+                "r": 187.51499999999996,
+                "t": 701.901
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 16,
+              "text": "Educalia plasticd"
+            },
+            {
+              "bbox": {
+                "b": 711.75,
+                "coord_origin": "TOPLEFT",
+                "l": 210.72,
+                "r": 260.76,
+                "t": 702.5
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 16,
+              "text": "18:08.2026"
+            },
+            {
+              "bbox": {
+                "b": 711.1664999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 275.76,
+                "r": 299.52899999999994,
+                "t": 702.3789999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 16,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 711.3405,
+                "coord_origin": "TOPLEFT",
+                "l": 319.2,
+                "r": 440.0375,
+                "t": 699.025
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 16,
+              "text": "LT,,I. S.Neciui-Levilchi \""
+            },
+            {
+              "bbox": {
+                "b": 724.4369999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 469.92,
+                "r": 530.5995000000001,
+                "t": 700.941
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 17,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 16,
+              "text": "Dorogchevici Iustinia"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 740.5169999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 79.92,
+                "r": 92.15200000000002,
+                "t": 730.342
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 18,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 17,
+              "text": "t7."
+            },
+            {
+              "bbox": {
+                "b": 754.197,
+                "coord_origin": "TOPLEFT",
+                "l": 107.04,
+                "r": 162.67800000000008,
+                "t": 730.461
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 18,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 17,
+              "text": "Educafia tehnolosicd"
+            },
+            {
+              "bbox": {
+                "b": 739.6935,
+                "coord_origin": "TOPLEFT",
+                "l": 210.72,
+                "r": 263.262,
+                "t": 729.981
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 18,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 17,
+              "text": "19.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 739.2465,
+                "coord_origin": "TOPLEFT",
+                "l": 275.76,
+                "r": 299.52899999999994,
+                "t": 730.459
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 18,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 17,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 739.4205,
+                "coord_origin": "TOPLEFT",
+                "l": 319.92,
+                "r": 438.7475,
+                "t": 728.7829999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 18,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 17,
+              "text": "LT,,I. S.Neciui-Levilchi\""
+            },
+            {
+              "bbox": {
+                "b": 752.5169999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 470.64,
+                "r": 532.9879999999999,
+                "t": 728.6619999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 18,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 17,
+              "text": "Dologchevici lustinia"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 767.976,
+                "coord_origin": "TOPLEFT",
+                "l": 79.92,
+                "r": 88.816,
+                "t": 760.576
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 19,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 18,
+              "text": "18"
+            },
+            {
+              "bbox": {
+                "b": 768.4604999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 107.76,
+                "r": 180.5935,
+                "t": 757.823
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 19,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 18,
+              "text": "Educatia frzicd"
+            },
+            {
+              "bbox": {
+                "b": 767.67,
+                "coord_origin": "TOPLEFT",
+                "l": 211.44,
+                "r": 261.48,
+                "t": 758.42
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 19,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 18,
+              "text": "19.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 767.43,
+                "coord_origin": "TOPLEFT",
+                "l": 275.76,
+                "r": 300.78,
+                "t": 758.18
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 19,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 18,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 767.3969999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 319.92,
+                "r": 422.027,
+                "t": 756.6229999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 19,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 18,
+              "text": "LT..Georse Meniuc\""
+            },
+            {
+              "bbox": {
+                "b": 766.5735,
+                "coord_origin": "TOPLEFT",
+                "l": 473.52,
+                "r": 528.786,
+                "t": 756.621
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 19,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 18,
+              "text": "Poiar Diana"
+            }
+          ]
+        ],
+        "num_cols": 6,
+        "num_rows": 19,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 207.3404999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 78.0,
+              "r": 91.9965,
+              "t": 183.50099999999998
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "Nr. dh"
+          },
+          {
+            "bbox": {
+              "b": 193.317,
+              "coord_origin": "TOPLEFT",
+              "l": 126.96,
+              "r": 174.01800000000006,
+              "t": 183.14199999999994
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Disciplina"
+          },
+          {
+            "bbox": {
+              "b": 192.97349999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 223.92,
+              "r": 246.09599999999998,
+              "t": 183.26099999999997
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "Data"
+          },
+          {
+            "bbox": {
+              "b": 192.73349999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 281.28,
+              "r": 298.7835,
+              "t": 183.02099999999996
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "Ora"
+          },
+          {
+            "bbox": {
+              "b": 206.4135,
+              "coord_origin": "TOPLEFT",
+              "l": 320.88,
+              "r": 452.9010000000002,
+              "t": 182.063
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 0,
+            "text": "Locul desfrqurdrii reunrunu metodice"
+          },
+          {
+            "bbox": {
+              "b": 192.49349999999993,
+              "coord_origin": "TOPLEFT",
+              "l": 477.36,
+              "r": 535.1310000000001,
+              "t": 182.78099999999995
+            },
+            "col_span": 1,
+            "column_header": true,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 0,
+            "text": "Responsabil"
+          },
+          {
+            "bbox": {
+              "b": 221.19000000000005,
+              "coord_origin": "TOPLEFT",
+              "l": 78.24,
+              "r": 81.02,
+              "t": 211.94000000000005
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "I"
+          },
+          {
+            "bbox": {
+              "b": 249.1334999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 105.84,
+              "r": 195.99,
+              "t": 211.462
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Invdfdmdntul plimal (gcoala nationald)"
+          },
+          {
+            "bbox": {
+              "b": 220.95000000000005,
+              "coord_origin": "TOPLEFT",
+              "l": 209.52,
+              "r": 259.56,
+              "t": 211.70000000000005
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "19.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 220.71000000000004,
+              "coord_origin": "TOPLEFT",
+              "l": 274.08,
+              "r": 299.09999999999997,
+              "t": 211.46000000000004
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 234.70049999999992,
+              "coord_origin": "TOPLEFT",
+              "l": 318.0,
+              "r": 456.83,
+              "t": 209.54399999999998
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 1,
+            "text": "IPLT ,,Ion gi Doina Aldea- Teodorovici\""
+          },
+          {
+            "bbox": {
+              "b": 234.35699999999997,
+              "coord_origin": "TOPLEFT",
+              "l": 468.72,
+              "r": 518.8995000000001,
+              "t": 210.861
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 1,
+            "text": "Demcenco Tamata"
+          },
+          {
+            "bbox": {
+              "b": 263.22300000000007,
+              "coord_origin": "TOPLEFT",
+              "l": 77.04,
+              "r": 84.546,
+              "t": 254.89800000000002
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 2,
+            "text": "2."
+          },
+          {
+            "bbox": {
+              "b": 304.71000000000004,
+              "coord_origin": "TOPLEFT",
+              "l": 105.84,
+              "r": 197.088,
+              "t": 253.462
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 2,
+            "text": "Invdtdmdntul primar (gcoala cu predare in limba rusd)"
+          },
+          {
+            "bbox": {
+              "b": 262.95000000000005,
+              "coord_origin": "TOPLEFT",
+              "l": 209.52,
+              "r": 259.56,
+              "t": 253.70000000000005
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 2,
+            "text": "18.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 262.95000000000005,
+              "coord_origin": "TOPLEFT",
+              "l": 274.08,
+              "r": 299.09999999999997,
+              "t": 253.70000000000005
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 2,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 276.7004999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 318.0,
+              "r": 456.83,
+              "t": 250.94499999999994
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 2,
+            "text": "IPLT ,,Ion gi Doina Aldea- Teodorovici\""
+          },
+          {
+            "bbox": {
+              "b": 276.35699999999997,
+              "coord_origin": "TOPLEFT",
+              "l": 468.72,
+              "r": 518.8995000000001,
+              "t": 252.861
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 3,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 2,
+            "text": "Demcenco Tamara"
+          },
+          {
+            "bbox": {
+              "b": 318.903,
+              "coord_origin": "TOPLEFT",
+              "l": 77.28,
+              "r": 84.786,
+              "t": 310.578
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 3,
+            "text": "3."
+          },
+          {
+            "bbox": {
+              "b": 346.57349999999997,
+              "coord_origin": "TOPLEFT",
+              "l": 105.84,
+              "r": 196.8700000000001,
+              "t": 308.543
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 3,
+            "text": "Limba qi literatura romdnd (qcoala nationalS)"
+          },
+          {
+            "bbox": {
+              "b": 318.87,
+              "coord_origin": "TOPLEFT",
+              "l": 209.52,
+              "r": 259.56,
+              "t": 309.62
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 3,
+            "text": "18.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 318.73349999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 274.8,
+              "r": 298.7295000000001,
+              "t": 309.02099999999996
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 3,
+            "text": "r0.00"
+          },
+          {
+            "bbox": {
+              "b": 318.7004999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 318.0,
+              "r": 422.62800000000004,
+              "t": 308.063
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 3,
+            "text": "IPLT..Nicolae Sulac\""
+          },
+          {
+            "bbox": {
+              "b": 318.4604999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 468.96,
+              "r": 525.4735,
+              "t": 307.823
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 4,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 3,
+            "text": "Gilcd Silvia"
+          },
+          {
+            "bbox": {
+              "b": 360.66299999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 77.28,
+              "r": 82.284,
+              "t": 352.33799999999997
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 4,
+            "text": "4"
+          },
+          {
+            "bbox": {
+              "b": 402.38999999999993,
+              "coord_origin": "TOPLEFT",
+              "l": 105.84,
+              "r": 197.328,
+              "t": 350.4219999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 4,
+            "text": "Limba qi litelatura romAnd (gcoala cu predare in lirnba rusd)"
+          },
+          {
+            "bbox": {
+              "b": 360.62999999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 209.76,
+              "r": 259.8,
+              "t": 351.37999999999994
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 4,
+            "text": "19.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 360.28649999999993,
+              "coord_origin": "TOPLEFT",
+              "l": 274.8,
+              "r": 298.56899999999996,
+              "t": 351.4989999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 4,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 360.56399999999996,
+              "coord_origin": "TOPLEFT",
+              "l": 318.24,
+              "r": 426.6465000000002,
+              "t": 349.464
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 4,
+            "text": "LT,,Antioh Cantemir'\""
+          },
+          {
+            "bbox": {
+              "b": 360.42749999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 472.08,
+              "r": 527.399,
+              "t": 348.86499999999995
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 5,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 4,
+            "text": "Gilc[ Silvia"
+          },
+          {
+            "bbox": {
+              "b": 416.169,
+              "coord_origin": "TOPLEFT",
+              "l": 78.0,
+              "r": 81.892,
+              "t": 409.69399999999996
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 5,
+            "text": "5"
+          },
+          {
+            "bbox": {
+              "b": 458.62049999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 106.08,
+              "r": 195.74000000000004,
+              "t": 406.58199999999994
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 5,
+            "text": "Limba gi literatura rusa (qcoala cu predare in limba rusd)"
+          },
+          {
+            "bbox": {
+              "b": 416.54999999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 210.0,
+              "r": 260.04,
+              "t": 407.29999999999995
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 5,
+            "text": "19.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 416.20649999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 274.8,
+              "r": 298.56899999999996,
+              "t": 407.4189999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 5,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 416.4839999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 321.84,
+              "r": 404.29299999999995,
+              "t": 405.38399999999996
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 5,
+            "text": "LT,,N.V. Gogol\""
+          },
+          {
+            "bbox": {
+              "b": 429.7169999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 468.96,
+              "r": 521.2299999999999,
+              "t": 406.5799999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 6,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 5,
+            "text": "Coropcean Valentina"
+          },
+          {
+            "bbox": {
+              "b": 472.263,
+              "coord_origin": "TOPLEFT",
+              "l": 77.76,
+              "r": 85.266,
+              "t": 463.938
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 6,
+            "text": "6."
+          },
+          {
+            "bbox": {
+              "b": 472.78049999999996,
+              "coord_origin": "TOPLEFT",
+              "l": 106.8,
+              "r": 169.21,
+              "t": 462.143
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 6,
+            "text": "Lirnbi strdine"
+          },
+          {
+            "bbox": {
+              "b": 472.22999999999996,
+              "coord_origin": "TOPLEFT",
+              "l": 210.48,
+              "r": 260.52,
+              "t": 462.97999999999996
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 6,
+            "text": "18.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 471.98999999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 274.8,
+              "r": 299.82,
+              "t": 462.73999999999995
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 6,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 472.06049999999993,
+              "coord_origin": "TOPLEFT",
+              "l": 318.96,
+              "r": 437.6119999999999,
+              "t": 461.42299999999994
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 6,
+            "text": "IPLT,,Alexandr Puqkin\""
+          },
+          {
+            "bbox": {
+              "b": 485.29349999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 469.44,
+              "r": 518.3499999999999,
+              "t": 462.25999999999993
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 7,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 6,
+            "text": "Coropcean Valentina"
+          },
+          {
+            "bbox": {
+              "b": 500.23949999999996,
+              "coord_origin": "TOPLEFT",
+              "l": 78.0,
+              "r": 85.089,
+              "t": 492.37699999999995
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 7,
+            "text": "7."
+          },
+          {
+            "bbox": {
+              "b": 500.65349999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 106.8,
+              "r": 161.064,
+              "t": 490.941
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 7,
+            "text": "Matematicd"
+          },
+          {
+            "bbox": {
+              "b": 500.30999999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 210.48,
+              "r": 260.52,
+              "t": 491.05999999999995
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 7,
+            "text": "19.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 500.06999999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 274.8,
+              "r": 299.82,
+              "t": 490.81999999999994
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 7,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 514.404,
+              "coord_origin": "TOPLEFT",
+              "l": 318.96,
+              "r": 436.12899999999996,
+              "t": 489.263
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 7,
+            "text": "IP CE Liceul - grddinila ..Kiril si Metodii\""
+          },
+          {
+            "bbox": {
+              "b": 513.4769999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 469.68,
+              "r": 508.80699999999996,
+              "t": 490.09999999999997
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 8,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 7,
+            "text": "tsulhac Ludrnila"
+          },
+          {
+            "bbox": {
+              "b": 528.2159999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 78.0,
+              "r": 82.44800000000001,
+              "t": 520.8159999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 8,
+            "text": "8"
+          },
+          {
+            "bbox": {
+              "b": 529.4535,
+              "coord_origin": "TOPLEFT",
+              "l": 106.8,
+              "r": 184.21949999999998,
+              "t": 518.3029999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 8,
+            "text": "Bioloeie/ Stiinte"
+          },
+          {
+            "bbox": {
+              "b": 528.15,
+              "coord_origin": "TOPLEFT",
+              "l": 210.48,
+              "r": 260.52,
+              "t": 518.9
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 8,
+            "text": "18,08.2026"
+          },
+          {
+            "bbox": {
+              "b": 527.91,
+              "coord_origin": "TOPLEFT",
+              "l": 274.8,
+              "r": 299.82,
+              "t": 518.66
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 8,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 529.557,
+              "coord_origin": "TOPLEFT",
+              "l": 318.96,
+              "r": 445.5865,
+              "t": 516.9839999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 8,
+            "text": "LTPR ,,Mhai Marincuc\""
+          },
+          {
+            "bbox": {
+              "b": 527.67,
+              "coord_origin": "TOPLEFT",
+              "l": 469.68,
+              "r": 528.2085,
+              "t": 517.5809999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 9,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 8,
+            "text": "Grecu Elena"
+          },
+          {
+            "bbox": {
+              "b": 543.0629999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 77.76,
+              "r": 82.76400000000001,
+              "t": 534.7379999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 9,
+            "text": "9"
+          },
+          {
+            "bbox": {
+              "b": 543.237,
+              "coord_origin": "TOPLEFT",
+              "l": 106.8,
+              "r": 141.02100000000002,
+              "t": 533.0619999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 9,
+            "text": "Chimie"
+          },
+          {
+            "bbox": {
+              "b": 542.79,
+              "coord_origin": "TOPLEFT",
+              "l": 210.48,
+              "r": 260.52,
+              "t": 533.54
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 9,
+            "text": "19.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 542.55,
+              "coord_origin": "TOPLEFT",
+              "l": 274.8,
+              "r": 299.82,
+              "t": 533.3
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 9,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 542.7239999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 318.96,
+              "r": 445.5865,
+              "t": 531.624
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 9,
+            "text": "LTPR ..Mihai Marinr:uc\""
+          },
+          {
+            "bbox": {
+              "b": 542.0699999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 469.68,
+              "r": 528.2085,
+              "t": 532.221
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 10,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 9,
+            "text": "Grecu Elena"
+          },
+          {
+            "bbox": {
+              "b": 557.6039999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 78.96,
+              "r": 88.96799999999999,
+              "t": 546.5039999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 10,
+            "text": "t0"
+          },
+          {
+            "bbox": {
+              "b": 557.5004999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 106.8,
+              "r": 136.8265,
+              "t": 546.8629999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 10,
+            "text": "Fizicd"
+          },
+          {
+            "bbox": {
+              "b": 557.1569999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 210.48,
+              "r": 262.466,
+              "t": 546.982
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 10,
+            "text": "t8.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 556.71,
+              "coord_origin": "TOPLEFT",
+              "l": 275.04,
+              "r": 300.06,
+              "t": 547.46
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 10,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 570.357,
+              "coord_origin": "TOPLEFT",
+              "l": 318.96,
+              "r": 426.75300000000004,
+              "t": 546.143
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 10,
+            "text": "IPLT,,Alexandru Ioan Cvza\""
+          },
+          {
+            "bbox": {
+              "b": 570.2204999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 469.68,
+              "r": 509.9415,
+              "t": 547.3389999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 11,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 10,
+            "text": "BLrlhac [,udmila"
+          },
+          {
+            "bbox": {
+              "b": 585.237,
+              "coord_origin": "TOPLEFT",
+              "l": 78.96,
+              "r": 87.51799999999999,
+              "t": 575.0619999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 11,
+            "text": "l1"
+          },
+          {
+            "bbox": {
+              "b": 585.237,
+              "coord_origin": "TOPLEFT",
+              "l": 106.8,
+              "r": 161.20600000000005,
+              "t": 575.0619999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 11,
+            "text": "Informaticd"
+          },
+          {
+            "bbox": {
+              "b": 584.79,
+              "coord_origin": "TOPLEFT",
+              "l": 210.48,
+              "r": 260.52,
+              "t": 575.54
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 11,
+            "text": "18.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 584.55,
+              "coord_origin": "TOPLEFT",
+              "l": 275.04,
+              "r": 300.06,
+              "t": 575.3
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 11,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 584.7239999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 318.96,
+              "r": 427.001,
+              "t": 573.624
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 11,
+            "text": "LT..Antioh Cantemir\""
+          },
+          {
+            "bbox": {
+              "b": 597.99,
+              "coord_origin": "TOPLEFT",
+              "l": 469.68,
+              "r": 508.83000000000004,
+              "t": 574.1019999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 12,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 11,
+            "text": "Brdnza Svetlana"
+          },
+          {
+            "bbox": {
+              "b": 613.764,
+              "coord_origin": "TOPLEFT",
+              "l": 78.96,
+              "r": 88.96799999999999,
+              "t": 602.664
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 12,
+            "text": "I2"
+          },
+          {
+            "bbox": {
+              "b": 627.3734999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 106.8,
+              "r": 196.0770000000001,
+              "t": 600.9879999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 12,
+            "text": "Istoria romdnilor si universal["
+          },
+          {
+            "bbox": {
+              "b": 613.077,
+              "coord_origin": "TOPLEFT",
+              "l": 210.48,
+              "r": 262.466,
+              "t": 602.9019999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 12,
+            "text": "t8.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 612.6299999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 275.04,
+              "r": 300.06,
+              "t": 603.3799999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 12,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 612.7004999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 318.96,
+              "r": 442.9959999999999,
+              "t": 602.063
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 12,
+            "text": "IPLT,,Gheorghe Asachi\""
+          },
+          {
+            "bbox": {
+              "b": 626.1405,
+              "coord_origin": "TOPLEFT",
+              "l": 469.68,
+              "r": 536.7449999999999,
+              "t": 602.182
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 13,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 12,
+            "text": "Podgormejnii Viorica"
+          },
+          {
+            "bbox": {
+              "b": 640.9124999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 78.96,
+              "r": 87.3,
+              "t": 629.175
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 13,
+            "text": "1a IJ"
+          },
+          {
+            "bbox": {
+              "b": 655.3499999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 106.8,
+              "r": 198.22500000000005,
+              "t": 628.949
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 13,
+            "text": "Educalia pentru societate"
+          },
+          {
+            "bbox": {
+              "b": 641.1899999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 210.48,
+              "r": 260.52,
+              "t": 631.9399999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 13,
+            "text": "19.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 640.6065,
+              "coord_origin": "TOPLEFT",
+              "l": 275.76,
+              "r": 299.52899999999994,
+              "t": 631.819
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 13,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 641.0205,
+              "coord_origin": "TOPLEFT",
+              "l": 322.08,
+              "r": 446.11599999999993,
+              "t": 630.3829999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 13,
+            "text": "IPLT,,Gheorghe Asachi\""
+          },
+          {
+            "bbox": {
+              "b": 654.2204999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 469.68,
+              "r": 539.8649999999999,
+              "t": 630.262
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 14,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 13,
+            "text": "Podgormejnii Viorica"
+          },
+          {
+            "bbox": {
+              "b": 669.6465,
+              "coord_origin": "TOPLEFT",
+              "l": 79.92,
+              "r": 93.125,
+              "t": 660.8589999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 14,
+            "text": "14."
+          },
+          {
+            "bbox": {
+              "b": 669.8534999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 107.28,
+              "r": 152.79749999999999,
+              "t": 660.141
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 14,
+            "text": "Gcografie"
+          },
+          {
+            "bbox": {
+              "b": 669.477,
+              "coord_origin": "TOPLEFT",
+              "l": 210.72,
+              "r": 262.706,
+              "t": 659.3019999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 14,
+            "text": "t8.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 668.9264999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 275.76,
+              "r": 299.52899999999994,
+              "t": 660.1389999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 14,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 669.204,
+              "coord_origin": "TOPLEFT",
+              "l": 319.2,
+              "r": 431.0045,
+              "t": 658.104
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 14,
+            "text": "IPLT..Onisifor Ghibu\""
+          },
+          {
+            "bbox": {
+              "b": 681.99,
+              "coord_origin": "TOPLEFT",
+              "l": 470.4,
+              "r": 509.31,
+              "t": 657.624
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 15,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 14,
+            "text": "Axinti Svetlana"
+          },
+          {
+            "bbox": {
+              "b": 697.5195,
+              "coord_origin": "TOPLEFT",
+              "l": 79.2,
+              "r": 88.652,
+              "t": 689.6569999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 16,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 15,
+            "text": "15"
+          },
+          {
+            "bbox": {
+              "b": 697.7969999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 107.04,
+              "r": 195.31500000000005,
+              "t": 687.622
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 16,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 15,
+            "text": "Educatia muzicald"
+          },
+          {
+            "bbox": {
+              "b": 697.3499999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 210.96,
+              "r": 261.0,
+              "t": 688.0999999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 16,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 15,
+            "text": "18.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 696.7665,
+              "coord_origin": "TOPLEFT",
+              "l": 275.76,
+              "r": 299.52899999999994,
+              "t": 687.9789999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 16,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 15,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 698.6534999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 319.2,
+              "r": 408.192,
+              "t": 682.713
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 16,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 15,
+            "text": "lf ,,Ceorge tllenl"
+          },
+          {
+            "bbox": {
+              "b": 696.357,
+              "coord_origin": "TOPLEFT",
+              "l": 473.04,
+              "r": 532.9150000000001,
+              "t": 685.583
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 16,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 15,
+            "text": "Gnio Liliana"
+          },
+          {
+            "bbox": {
+              "b": 711.9195,
+              "coord_origin": "TOPLEFT",
+              "l": 79.92,
+              "r": 91.735,
+              "t": 704.057
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 17,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 16,
+            "text": "16."
+          },
+          {
+            "bbox": {
+              "b": 712.0935,
+              "coord_origin": "TOPLEFT",
+              "l": 107.04,
+              "r": 187.51499999999996,
+              "t": 701.901
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 17,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 16,
+            "text": "Educalia plasticd"
+          },
+          {
+            "bbox": {
+              "b": 711.75,
+              "coord_origin": "TOPLEFT",
+              "l": 210.72,
+              "r": 260.76,
+              "t": 702.5
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 17,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 16,
+            "text": "18:08.2026"
+          },
+          {
+            "bbox": {
+              "b": 711.1664999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 275.76,
+              "r": 299.52899999999994,
+              "t": 702.3789999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 17,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 16,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 711.3405,
+              "coord_origin": "TOPLEFT",
+              "l": 319.2,
+              "r": 440.0375,
+              "t": 699.025
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 17,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 16,
+            "text": "LT,,I. S.Neciui-Levilchi \""
+          },
+          {
+            "bbox": {
+              "b": 724.4369999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 469.92,
+              "r": 530.5995000000001,
+              "t": 700.941
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 17,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 16,
+            "text": "Dorogchevici Iustinia"
+          },
+          {
+            "bbox": {
+              "b": 740.5169999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 79.92,
+              "r": 92.15200000000002,
+              "t": 730.342
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 18,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 17,
+            "text": "t7."
+          },
+          {
+            "bbox": {
+              "b": 754.197,
+              "coord_origin": "TOPLEFT",
+              "l": 107.04,
+              "r": 162.67800000000008,
+              "t": 730.461
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 18,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 17,
+            "text": "Educafia tehnolosicd"
+          },
+          {
+            "bbox": {
+              "b": 739.6935,
+              "coord_origin": "TOPLEFT",
+              "l": 210.72,
+              "r": 263.262,
+              "t": 729.981
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 18,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 17,
+            "text": "19.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 739.2465,
+              "coord_origin": "TOPLEFT",
+              "l": 275.76,
+              "r": 299.52899999999994,
+              "t": 730.459
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 18,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 17,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 739.4205,
+              "coord_origin": "TOPLEFT",
+              "l": 319.92,
+              "r": 438.7475,
+              "t": 728.7829999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 18,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 17,
+            "text": "LT,,I. S.Neciui-Levilchi\""
+          },
+          {
+            "bbox": {
+              "b": 752.5169999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 470.64,
+              "r": 532.9879999999999,
+              "t": 728.6619999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 18,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 17,
+            "text": "Dologchevici lustinia"
+          },
+          {
+            "bbox": {
+              "b": 767.976,
+              "coord_origin": "TOPLEFT",
+              "l": 79.92,
+              "r": 88.816,
+              "t": 760.576
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 19,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 18,
+            "text": "18"
+          },
+          {
+            "bbox": {
+              "b": 768.4604999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 107.76,
+              "r": 180.5935,
+              "t": 757.823
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 19,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 18,
+            "text": "Educatia frzicd"
+          },
+          {
+            "bbox": {
+              "b": 767.67,
+              "coord_origin": "TOPLEFT",
+              "l": 211.44,
+              "r": 261.48,
+              "t": 758.42
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 19,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 18,
+            "text": "19.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 767.43,
+              "coord_origin": "TOPLEFT",
+              "l": 275.76,
+              "r": 300.78,
+              "t": 758.18
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 19,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 18,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 767.3969999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 319.92,
+              "r": 422.027,
+              "t": 756.6229999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 19,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 18,
+            "text": "LT..Georse Meniuc\""
+          },
+          {
+            "bbox": {
+              "b": 766.5735,
+              "coord_origin": "TOPLEFT",
+              "l": 473.52,
+              "r": 528.786,
+              "t": 756.621
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 19,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 18,
+            "text": "Poiar Diana"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 73.36210865591602,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 69.51007284894085,
+            "r": 551.6860987311242,
+            "t": 664.7618306777483
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [],
+      "content_layer": "body",
+      "data": {
+        "grid": [
+          [
+            {
+              "bbox": {
+                "b": 68.54999999999995,
+                "coord_origin": "TOPLEFT",
+                "l": 76.08,
+                "r": 89.98,
+                "t": 59.299999999999955
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 0,
+              "text": "19,"
+            },
+            {
+              "bbox": {
+                "b": 83.05349999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 103.2,
+                "r": 156.549,
+                "t": 58.94099999999992
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 0,
+              "text": "Inv6!dmAnt orescolar"
+            },
+            {
+              "bbox": {
+                "b": 68.31000000000006,
+                "coord_origin": "TOPLEFT",
+                "l": 207.6,
+                "r": 257.64,
+                "t": 59.06000000000006
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 0,
+              "text": "18.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 68.07000000000005,
+                "coord_origin": "TOPLEFT",
+                "l": 271.92,
+                "r": 296.94,
+                "t": 58.82000000000005
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 0,
+              "text": "10.00"
+            },
+            {
+              "bbox": {
+                "b": 82.404,
+                "coord_origin": "TOPLEFT",
+                "l": 315.84,
+                "r": 454.36899999999997,
+                "t": 53.673
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 0,
+              "text": "IP CE Liceul - grddinild ..Kiril si Metodii\""
+            },
+            {
+              "bbox": {
+                "b": 67.79700000000003,
+                "coord_origin": "TOPLEFT",
+                "l": 466.08,
+                "r": 539.5099999999999,
+                "t": 57.62199999999996
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 1,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 0,
+              "text": "Duminicd Stela"
+            }
+          ],
+          [
+            {
+              "bbox": {
+                "b": 96.87,
+                "coord_origin": "TOPLEFT",
+                "l": 74.64,
+                "r": 88.54,
+                "t": 87.62
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 1,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 0,
+              "start_row_offset_idx": 1,
+              "text": "20."
+            },
+            {
+              "bbox": {
+                "b": 138.73349999999994,
+                "coord_origin": "TOPLEFT",
+                "l": 103.92,
+                "r": 171.655,
+                "t": 87.97899999999993
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 2,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 1,
+              "start_row_offset_idx": 1,
+              "text": "Reunir.rnea metodicd bibliotecarilor scolari"
+            },
+            {
+              "bbox": {
+                "b": 110.10300000000007,
+                "coord_origin": "TOPLEFT",
+                "l": 189.84,
+                "r": 257.64,
+                "t": 87.38
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 3,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 2,
+              "start_row_offset_idx": 1,
+              "text": "a 19.08.2026"
+            },
+            {
+              "bbox": {
+                "b": 96.38999999999999,
+                "coord_origin": "TOPLEFT",
+                "l": 271.92,
+                "r": 296.96,
+                "t": 87.13999999999999
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 4,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 3,
+              "start_row_offset_idx": 1,
+              "text": "10 00"
+            },
+            {
+              "bbox": {
+                "b": 98.14049999999997,
+                "coord_origin": "TOPLEFT",
+                "l": 316.08,
+                "r": 437.2470000000001,
+                "t": 82.59199999999998
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 5,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 4,
+              "start_row_offset_idx": 1,
+              "text": "LT ,,Mihail Sadoveanu\""
+            },
+            {
+              "bbox": {
+                "b": 123.61349999999993,
+                "coord_origin": "TOPLEFT",
+                "l": 466.08,
+                "r": 541.4084999999999,
+                "t": 85.58299999999997
+              },
+              "col_span": 1,
+              "column_header": false,
+              "end_col_offset_idx": 6,
+              "end_row_offset_idx": 2,
+              "fillable": false,
+              "row_header": false,
+              "row_section": false,
+              "row_span": 1,
+              "start_col_offset_idx": 5,
+              "start_row_offset_idx": 1,
+              "text": "Arion Liuba Apovoloi Elena Cotrufd Elena"
+            }
+          ]
+        ],
+        "num_cols": 6,
+        "num_rows": 2,
+        "orientation": "rot_0",
+        "table_cells": [
+          {
+            "bbox": {
+              "b": 68.54999999999995,
+              "coord_origin": "TOPLEFT",
+              "l": 76.08,
+              "r": 89.98,
+              "t": 59.299999999999955
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 0,
+            "text": "19,"
+          },
+          {
+            "bbox": {
+              "b": 83.05349999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 103.2,
+              "r": 156.549,
+              "t": 58.94099999999992
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 0,
+            "text": "Inv6!dmAnt orescolar"
+          },
+          {
+            "bbox": {
+              "b": 68.31000000000006,
+              "coord_origin": "TOPLEFT",
+              "l": 207.6,
+              "r": 257.64,
+              "t": 59.06000000000006
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 0,
+            "text": "18.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 68.07000000000005,
+              "coord_origin": "TOPLEFT",
+              "l": 271.92,
+              "r": 296.94,
+              "t": 58.82000000000005
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 0,
+            "text": "10.00"
+          },
+          {
+            "bbox": {
+              "b": 82.404,
+              "coord_origin": "TOPLEFT",
+              "l": 315.84,
+              "r": 454.36899999999997,
+              "t": 53.673
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 0,
+            "text": "IP CE Liceul - grddinild ..Kiril si Metodii\""
+          },
+          {
+            "bbox": {
+              "b": 67.79700000000003,
+              "coord_origin": "TOPLEFT",
+              "l": 466.08,
+              "r": 539.5099999999999,
+              "t": 57.62199999999996
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 1,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 0,
+            "text": "Duminicd Stela"
+          },
+          {
+            "bbox": {
+              "b": 96.87,
+              "coord_origin": "TOPLEFT",
+              "l": 74.64,
+              "r": 88.54,
+              "t": 87.62
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 1,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 0,
+            "start_row_offset_idx": 1,
+            "text": "20."
+          },
+          {
+            "bbox": {
+              "b": 138.73349999999994,
+              "coord_origin": "TOPLEFT",
+              "l": 103.92,
+              "r": 171.655,
+              "t": 87.97899999999993
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 2,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 1,
+            "start_row_offset_idx": 1,
+            "text": "Reunir.rnea metodicd bibliotecarilor scolari"
+          },
+          {
+            "bbox": {
+              "b": 110.10300000000007,
+              "coord_origin": "TOPLEFT",
+              "l": 189.84,
+              "r": 257.64,
+              "t": 87.38
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 3,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 2,
+            "start_row_offset_idx": 1,
+            "text": "a 19.08.2026"
+          },
+          {
+            "bbox": {
+              "b": 96.38999999999999,
+              "coord_origin": "TOPLEFT",
+              "l": 271.92,
+              "r": 296.96,
+              "t": 87.13999999999999
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 4,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 3,
+            "start_row_offset_idx": 1,
+            "text": "10 00"
+          },
+          {
+            "bbox": {
+              "b": 98.14049999999997,
+              "coord_origin": "TOPLEFT",
+              "l": 316.08,
+              "r": 437.2470000000001,
+              "t": 82.59199999999998
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 5,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 4,
+            "start_row_offset_idx": 1,
+            "text": "LT ,,Mihail Sadoveanu\""
+          },
+          {
+            "bbox": {
+              "b": 123.61349999999993,
+              "coord_origin": "TOPLEFT",
+              "l": 466.08,
+              "r": 541.4084999999999,
+              "t": 85.58299999999997
+            },
+            "col_span": 1,
+            "column_header": false,
+            "end_col_offset_idx": 6,
+            "end_row_offset_idx": 2,
+            "fillable": false,
+            "row_header": false,
+            "row_section": false,
+            "row_span": 1,
+            "start_col_offset_idx": 5,
+            "start_row_offset_idx": 1,
+            "text": "Arion Liuba Apovoloi Elena Cotrufd Elena"
+          }
+        ]
+      },
+      "footnotes": [],
+      "label": "table",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 702.9493794304854,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 67.35440092150797,
+            "r": 548.6055834469379,
+            "t": 789.5476723887971
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 3
+        }
+      ],
+      "references": [],
+      "self_ref": "#/tables/1"
+    }
+  ],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PEINHOTENSIHE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 718.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 277.66666666666663,
+            "r": 330.3333333333333,
+            "t": 725.2533333333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "PEINHOTENSIHE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 699.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 206.66666666666666,
+            "r": 402.3333333333333,
+            "t": 713.2533333333333
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINĂU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 669.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 171.0,
+            "r": 459.0,
+            "t": 698.92
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINĂU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "1061sin30042",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 627.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 119.33333333333334,
+            "r": 289.66666666666663,
+            "t": 654.92
+          },
+          "charspan": [
+            0,
+            12
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "1061sin30042"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 602.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 281.66666666666663,
+            "r": 344.6666666666667,
+            "t": 616.5866666666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Cu privire la desfăşurarea reuniunilor metodice privind organizarea procesului educațional în învăţământul general, anul de studii 2026-2027",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 536.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.0,
+            "r": 359.3333333333333,
+            "t": 587.2533333333333
+          },
+          "charspan": [
+            0,
+            140
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Cu privire la desfăşurarea reuniunilor metodice privind organizarea procesului educațional în învăţământul general, anul de studii 2026-2027"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În scopul organizării procesului educațional în învățământul general, anul de studii 2026-2027,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 480.58666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.0,
+            "r": 549.6666666666667,
+            "t": 515.92
+          },
+          "charspan": [
+            0,
+            95
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "În scopul organizării procesului educațional în învățământul general, anul de studii 2026-2027,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON :",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 463.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 274.66666666666663,
+            "r": 348.3333333333333,
+            "t": 476.91999999999996
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON :"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Direcția managementul curricular (S. Axînti, şef):",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 443.58666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 82.0,
+            "r": 378.0,
+            "t": 457.91999999999996
+          },
+          "charspan": [
+            0,
+            53
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Direcția managementul curricular (S. Axînti, şef):"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.1.",
+      "orig": "1.1. va organiza reuniunile metodice municipale privind organizarea procesului educațional la disciplinele școlare, anul de studii 2026-2027, în conformitate cu orarul din anexa la prezentul ordin;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 387.58666666666664,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.66666666666667,
+            "r": 550.0,
+            "t": 439.91999999999996
+          },
+          "charspan": [
+            0,
+            197
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "va organiza reuniunile metodice municipale privind organizarea procesului educațional la disciplinele școlare, anul de studii 2026-2027, în conformitate cu orarul din anexa la prezentul ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.2.",
+      "orig": "1.2. va informa conducătorii instituțiilor de învățământ primar și secundar, ciclul I şi ciclul II cu prevederile prezentului ordin.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 350.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.66666666666667,
+            "r": 550.0,
+            "t": 383.91999999999996
+          },
+          "charspan": [
+            0,
+            132
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "va informa conducătorii instituțiilor de învățământ primar și secundar, ciclul I şi ciclul II cu prevederile prezentului ordin."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Directori instituțiilor de învățământ primar și secundar, ciclul I şi ciclul II:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 332.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.33333333333333,
+            "r": 514.6666666666667,
+            "t": 346.91999999999996
+          },
+          "charspan": [
+            0,
+            83
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Directori instituțiilor de învățământ primar și secundar, ciclul I şi ciclul II:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. vor aduce la cunoștință cadrelor didactice prevederile prezentului ordin;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 314.2533333333332,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.33333333333333,
+            "r": 508.3333333333333,
+            "t": 328.5866666666667
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "vor aduce la cunoștință cadrelor didactice prevederile prezentului ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. vor asigura participarea cadrelor didactice la reuniunile metodice municipale conform orarului din anexa la prezentul ordin;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 276.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.33333333333333,
+            "r": 549.6666666666667,
+            "t": 310.2533333333332
+          },
+          "charspan": [
+            0,
+            129
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "vor asigura participarea cadrelor didactice la reuniunile metodice municipale conform orarului din anexa la prezentul ordin;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Responsabili de îndeplinirea prezentului ordin se desemnează S. Axînti, şef al direcției managementul curricular și directorii instituțiilor de învățământ primar și secundar, ciclul I şi ciclul II.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 221.25333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 78.0,
+            "r": 550.6666666666667,
+            "t": 272.5866666666666
+          },
+          "charspan": [
+            0,
+            200
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Responsabili de îndeplinirea prezentului ordin se desemnează S. Axînti, şef al direcției managementul curricular și directorii instituțiilor de învățământ primar și secundar, ciclul I şi ciclul II."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Controlul realizării prezentului ordin revine V. Crudu, şef adjunct, DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 203.25333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 77.66666666666667,
+            "r": 519.3333333333333,
+            "t": 217.5866666666666
+          },
+          "charspan": [
+            0,
+            78
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Controlul realizării prezentului ordin revine V. Crudu, şef adjunct, DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Ex.: S. Axînti,",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 102.25333333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.33333333333333,
+            "r": 162.0,
+            "t": 113.91999999999996
+          },
+          "charspan": [
+            0,
+            15
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Ex.: S. Axînti,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "(022)235272",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 102.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 174.0,
+            "r": 233.33333333333334,
+            "t": 114.25333333333333
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "(022)235272"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "caption",
+      "orig": "Str. Mitropolit Dosoftei, 99, municipiul Chişinău, MD-2704,Ropui Tel.: (022) 201 601, www.chisinauedu.md, e-mail:dgetsmunggitan.c",
+      "parent": {
+        "$ref": "#/pictures/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 65.58666666666659,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 164.0,
+            "r": 437.6666666666667,
+            "t": 86.25333333333333
+          },
+          "charspan": [
+            0,
+            129
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "Str. Mitropolit Dosoftei, 99, municipiul Chişinău, MD-2704,Ropui Tel.: (022) 201 601, www.chisinauedu.md, e-mail:dgetsmunggitan.c"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Sef adjunct",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 141.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 483.6666666666667,
+            "r": 550.3333333333333,
+            "t": 157.91999999999996
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "Sef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Danieta",
+      "parent": {
+        "$ref": "#/pictures/4"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 119.91999999999996,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 380.3333333333333,
+            "r": 426.6666666666667,
+            "t": 132.25333333333333
+          },
+          "charspan": [
+            0,
+            7
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "Danieta"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_header",
+      "orig": "Anexa",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 742.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 511.6666666666667,
+            "r": 547.0,
+            "t": 756.2533333333333
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "Anexa"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "la ordinul nr.",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 721.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 234.0,
+            "r": 307.6666666666667,
+            "t": 741.92
+          },
+          "charspan": [
+            0,
+            14
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "la ordinul nr."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "din",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 725.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 431.66666666666663,
+            "r": 450.33333333333337,
+            "t": 741.2533333333333
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "din"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "30.",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 727.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 456.33333333333337,
+            "r": 487.6666666666667,
+            "t": 745.2533333333333
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "30."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "07,",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 727.2533333333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 487.0,
+            "r": 515.3333333333333,
+            "t": 745.92
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "07,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "26",
+      "parent": {
+        "$ref": "#/pictures/5"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 725.5866666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 511.3333333333333,
+            "r": 542.6666666666667,
+            "t": 743.92
+          },
+          "charspan": [
+            0,
+            2
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Orarul desfăşurării reuniunilor metodice municipale",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 678.92,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 184.0,
+            "r": 436.6666666666667,
+            "t": 691.92
+          },
+          "charspan": [
+            0,
+            51
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Orarul desfăşurării reuniunilor metodice municipale"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "e",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 240.80550000000005,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 245.28,
+            "r": 252.786,
+            "t": 253.293
+          },
+          "charspan": [
+            0,
+            1
+          ],
+          "page_no": 3
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "e"
+    }
+  ],
+  "version": "1.10.0"
+}

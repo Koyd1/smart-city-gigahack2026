@@ -1,0 +1,21 @@
+{
+  "category": "education",
+  "content_sha256": "1bb2a5b8d7cbc65ed7e68d4c4916adfa8c00ed3d3354972fb5b693a3b66488c9",
+  "final_url": "https://chisinauedu.dgets.md/storage/orders/1766127282_ordin-total-sem-fiz-1.pdf",
+  "headers": {
+    "Accept-Ranges": "bytes",
+    "Content-Length": "516408",
+    "Content-Type": "application/pdf",
+    "Date": "Sat, 26 Sep 2026 06:59:26 GMT",
+    "Etag": "\"6944f6b2-7e138\"",
+    "Last-Modified": "Fri, 19 Dec 2025 06:54:42 GMT",
+    "Server": "openresty",
+    "Strict-Transport-Security": "max-age=63072000; preload",
+    "X-Served-By": "chisinauedu.dgets.md"
+  },
+  "raw_path": "data/raw/chisinau-education-ordine/1bb2a5b8d7cbc65ed7e68d4c4916adfa8c00ed3d3354972fb5b693a3b66488c9.pdf",
+  "requested_url": "https://chisinauedu.dgets.md/storage/orders/1766127282_ordin-total-sem-fiz-1.pdf",
+  "retrieved_at": "2026-09-26T06:59:26.392264+00:00",
+  "source_id": "chisinau-education-ordine",
+  "status": 200
+}

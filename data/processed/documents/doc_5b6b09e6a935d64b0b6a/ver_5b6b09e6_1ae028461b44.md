@@ -1,0 +1,56 @@
+---
+document_id: "doc_5b6b09e6a935d64b0b6a"
+version_id: "ver_5b6b09e6_1ae028461b44"
+title: "1788957248_lista-certificate-digitalizare-manuale-de-engleza-c40c4772-38d4_rDJbP0.pdf"
+source_url: "https://chisinauedu.dgets.md/storage/orders/attachments/1788957248_lista-certificate-digitalizare-manuale-de-engleza-c40c4772-38d4_rDJbP0.pdf"
+retrieved_at: "2026-09-26T06:46:01.081982+00:00"
+content_sha256: "1ae028461b44c71c02613e20c647ecd7a53dd431833622d69ddc31a7a8dc44b5"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+## La Ordinul nr. 01/1-7/967 din 12.06.2026
+
+Lista participanților la Programul de dezvoltare profesională dedicat elaborării fișelor digitale interactive în baza noilor manuale și caiete la limba engleză II (nivel A1-A2)
+
+|   Nr. | Nume și prenume        | Funcția                     | Instituția                                          | Localitatea                 |   Nr. de activități create |
+|-------|------------------------|-----------------------------|-----------------------------------------------------|-----------------------------|----------------------------|
+|     1 | Antociuc Elena         | Profesoară de limba engleză | LT 'Andrei Vartic'                                  | or. Ialoveni                |                         48 |
+|     2 | Arpenti Andrei         | Profesor de limba engleză   | IPLT 'Nicolae Iorga'                                | mun. Chișinău               |                         47 |
+|     3 | Batîr Elena            | Profesoară de limba engleză | IP Gimnaziul 'Gheorghe Rîșcanu'                     | or. Rîșcani                 |                         80 |
+|     4 | Belocamenscaia Tatiana | Profesoară de limba engleză | IP Gimnaziul 'General Ivan Inzov",                  | or. Taraclia                |                         40 |
+|     4 | Boian Elena            | Profesoară de limba engleză | IPLT 'Mihail Kogălniceanu'                          | mun. Chișinău               |                         40 |
+|     5 | Bogaci Tatiana         | Profesoară de limba engleză | IPLT 'Hyperion'                                     | or. Durlești, mun. Chișinău |                         61 |
+|     6 | Bogdan Natalia         | Profesoară de limba engleză | IPLT 'Hyperion'                                     | or. Durlești, mun. Chișinău |                        120 |
+|       | Botnaru Doina          | Profesoară de limba engleză | IPLT 'Gaudeamus"                                    | Mun. Chișinău               |                         37 |
+|     7 | Casîm Inga             | Profesoară de limba engleză | IP Gimnaziul 'P. Cazmalî'                           | mun. Ceadîr- Lunga          |                         40 |
+|     8 | Cheptenari Carolina    | Profesoară de limba engleză | Centrul Educațional pentru Copiii Bolnavi de Cancer | mun. Chișinău               |                         40 |
+|     9 | Chistol Ludmila        | Profesoară de limba engleză | IP Gimnaziul Speia                                  | s. Speia, r. Anenii Noi     |                         31 |
+|    10 | Chitoroagă Carolina    | Profesoară de limba engleză | Școala Primară 'Spiridon Vangheli'                  | mun. Chișinău               |                         48 |
+|    11 | Ciubotaru Ala          | Profesoară de limba engleză | IPLT 'Mihai Eminescu'                               | or. Drochia                 |                         55 |
+
+<!-- page: 2 -->
+
+|   Nr. | Nume și prenume        | Funcția                     | Instituția                          | Localitatea                 |   Nr. de activități create |
+|-------|------------------------|-----------------------------|-------------------------------------|-----------------------------|----------------------------|
+|    12 | Condrea Zinaida        | Profesoară de limba engleză | LT 'Andrei Vartic'                  | or. Ialoveni                |                         40 |
+|    13 | Daraban Elena          | Profesoară de limba engleză | IPLT 'Mihai Eminescu'               | mun. Chișinău               |                         75 |
+|    14 | Diaconu Claudia        | Profesoară de limba engleză | IPLT 'Minerva'                      | mun. Chișinău               |                         40 |
+|    15 | Grușca Dumitru         | Profesor de limba engleză   | IPLT 'Mihai Eminescu'               | or. Fălești                 |                         40 |
+|    16 | Guțu Olga              | Profesoară de limba engleză | IPLT 'Ion Creangă'                  | mun. Soroca                 |                        114 |
+|    17 | Jelihovschii Diana     | Profesoară de limba engleză | IPLT 'Meșterul Manole'              | s. Sălcuța, r. Căușeni      |                         44 |
+|    18 | Lavric Ala             | Profesoară de limba engleză | IP Gimnaziul 'Mihail Sadoveanu'     | or. Cantemir                |                         40 |
+|    19 | Lungu Lilia            | Profesoară de limba engleză | IPLT 'Hyperion'                     | or. Durlești, mun. Chișinău |                         47 |
+|    20 | Maxim Natalia          | Profesoară de limba engleză | IP LT 'Ion Creangă'                 | mun. Cahul                  |                         40 |
+|    21 | Mazur Svetlana         | Profesoară de limba engleză | IPLT 'Mihai Eminescu'               | or. Drochia                 |                         40 |
+|    22 | Miclauș Natalia        | Profesoară de limba engleză | Școala Primară 'Alexandru Donici'   | mun. Cahul                  |                         62 |
+|    23 | Scutaru Tatiana        | Profesoară de limba engleză | IPLT 'Miguel de Cervantes Saavedra' | mun. Chișinău               |                         42 |
+|    24 | Sîrbu Ana              | Profesoară de limba engleză | LT 'Maxim Gorki'                    | mun. Bălți                  |                         47 |
+|    25 | Șeremet Ileana- Simona | Profesoară de limba engleză | LT 'Mihai Eminescu'                 | or. Căușeni                 |                         43 |
+|    26 | Terentii Natalia       | Profesoară de limba engleză | IPLT 'Petru Zadnipru'               | mun. Chișinău               |                         72 |

@@ -1,0 +1,1522 @@
+{
+  "body": {
+    "children": [
+      {
+        "$ref": "#/pictures/0"
+      },
+      {
+        "$ref": "#/texts/1"
+      },
+      {
+        "$ref": "#/texts/2"
+      },
+      {
+        "$ref": "#/texts/3"
+      },
+      {
+        "$ref": "#/texts/4"
+      },
+      {
+        "$ref": "#/texts/5"
+      },
+      {
+        "$ref": "#/texts/6"
+      },
+      {
+        "$ref": "#/texts/7"
+      },
+      {
+        "$ref": "#/groups/0"
+      },
+      {
+        "$ref": "#/groups/1"
+      },
+      {
+        "$ref": "#/groups/2"
+      },
+      {
+        "$ref": "#/groups/3"
+      },
+      {
+        "$ref": "#/texts/42"
+      }
+    ],
+    "content_layer": "body",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/body"
+  },
+  "form_items": [],
+  "furniture": {
+    "children": [],
+    "content_layer": "furniture",
+    "label": "unspecified",
+    "name": "_root_",
+    "self_ref": "#/furniture"
+  },
+  "groups": [
+    {
+      "children": [
+        {
+          "$ref": "#/texts/8"
+        },
+        {
+          "$ref": "#/texts/9"
+        },
+        {
+          "$ref": "#/texts/10"
+        },
+        {
+          "$ref": "#/texts/11"
+        },
+        {
+          "$ref": "#/texts/12"
+        },
+        {
+          "$ref": "#/texts/13"
+        },
+        {
+          "$ref": "#/texts/14"
+        },
+        {
+          "$ref": "#/texts/15"
+        },
+        {
+          "$ref": "#/texts/16"
+        },
+        {
+          "$ref": "#/texts/17"
+        },
+        {
+          "$ref": "#/texts/18"
+        },
+        {
+          "$ref": "#/texts/19"
+        },
+        {
+          "$ref": "#/texts/20"
+        },
+        {
+          "$ref": "#/texts/21"
+        },
+        {
+          "$ref": "#/texts/22"
+        },
+        {
+          "$ref": "#/texts/23"
+        },
+        {
+          "$ref": "#/texts/24"
+        },
+        {
+          "$ref": "#/texts/25"
+        },
+        {
+          "$ref": "#/texts/26"
+        },
+        {
+          "$ref": "#/texts/27"
+        },
+        {
+          "$ref": "#/texts/28"
+        },
+        {
+          "$ref": "#/texts/29"
+        },
+        {
+          "$ref": "#/texts/30"
+        },
+        {
+          "$ref": "#/texts/31"
+        },
+        {
+          "$ref": "#/texts/32"
+        },
+        {
+          "$ref": "#/texts/33"
+        },
+        {
+          "$ref": "#/texts/34"
+        },
+        {
+          "$ref": "#/texts/35"
+        }
+      ],
+      "content_layer": "body",
+      "label": "list",
+      "name": "list",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/0"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/36"
+        },
+        {
+          "$ref": "#/texts/37"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/1"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/2"
+    },
+    {
+      "children": [
+        {
+          "$ref": "#/texts/38"
+        },
+        {
+          "$ref": "#/texts/39"
+        },
+        {
+          "$ref": "#/pictures/1"
+        }
+      ],
+      "content_layer": "body",
+      "label": "key_value_area",
+      "name": "group",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "self_ref": "#/groups/3"
+    }
+  ],
+  "key_value_items": [],
+  "name": "1ba6b85b8cd8cdf28330f75abf137e72edd0761142c8b28ffc58a9c1fda71bcc",
+  "origin": {
+    "binary_hash": 18183470146157747148,
+    "filename": "1ba6b85b8cd8cdf28330f75abf137e72edd0761142c8b28ffc58a9c1fda71bcc.pdf",
+    "mimetype": "application/pdf"
+  },
+  "pages": {
+    "1": {
+      "page_no": 1,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    },
+    "2": {
+      "page_no": 2,
+      "size": {
+        "height": 841.67999,
+        "width": 595.08
+      }
+    }
+  },
+  "pictures": [
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/0"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 700.2010354864665,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 271.34188561970757,
+            "r": 383.0009550691131,
+            "t": 772.9334760191589
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 1
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/0"
+    },
+    {
+      "annotations": [],
+      "captions": [],
+      "children": [
+        {
+          "$ref": "#/texts/40"
+        },
+        {
+          "$ref": "#/texts/41"
+        }
+      ],
+      "content_layer": "body",
+      "footnotes": [],
+      "label": "picture",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 145.07832454446384,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 374.1694548536467,
+            "r": 505.4745124806654,
+            "t": 262.04453468959196
+          },
+          "charspan": [
+            0,
+            0
+          ],
+          "page_no": 2
+        }
+      ],
+      "references": [],
+      "self_ref": "#/pictures/1"
+    }
+  ],
+  "schema_name": "DoclingDocument",
+  "tables": [],
+  "texts": [
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "FRINNOIINSINE",
+      "parent": {
+        "$ref": "#/pictures/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 704.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 302.0,
+            "r": 353.0,
+            "t": 709.0133233333333
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/0",
+      "text": "FRINNOIINSINE"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "CONSILIUL MUNICIPAL CHIŞINÃU",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 683.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 228.0,
+            "r": 425.0,
+            "t": 699.67999
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/1",
+      "text": "CONSILIUL MUNICIPAL CHIŞINÃU"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 653.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 192.66666666666666,
+            "r": 481.6666666666667,
+            "t": 685.3466566666666
+          },
+          "charspan": [
+            0,
+            84
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/2",
+      "text": "PRIMAR GENERAL AL MUNICIPIULUI CHIŞINÃU DIRECTIA GENERALÅ EDUCATIE, TINERET ŞI SPORT"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Nr. 01/e-7/1152 din 16.09.26",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 603.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.0,
+            "r": 324.66666666666663,
+            "t": 632.0133233333333
+          },
+          "charspan": [
+            0,
+            28
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/3",
+      "text": "Nr. 01/e-7/1152 din 16.09.26"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDIN",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 576.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 302.0,
+            "r": 354.0,
+            "t": 598.67999
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/4",
+      "text": "ORDIN"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "Cu privire la organizarea și desfăşurarea Forumului Municipal al Educației Timpurii 2026",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 534.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.33333333333333,
+            "r": 353.6666666666667,
+            "t": 560.67999
+          },
+          "charspan": [
+            0,
+            88
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/5",
+      "text": "Cu privire la organizarea și desfăşurarea Forumului Municipal al Educației Timpurii 2026"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "În temeiul Regulamentului privind organizarea și funcționarea Direcției Generale Educație, Tineret și Sport a Consiliului Municipal Chişinău, aprobat prin Decizia Consiliului Municipal Chişinău nr. 17/10 din 06.10.2020, în scopul consolidării comunității profesionale din domeniul educației timpurii, promovării practicilor educaționale relevante, incluziunii, protecției și bunăstării copilului, precum și dezvoltării parteneriatului dintre instituțiile de educație timpurie, familie și comunitate,",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 446.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.33333333333333,
+            "r": 557.3333333333333,
+            "t": 531.3466566666666
+          },
+          "charspan": [
+            0,
+            499
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/6",
+      "text": "În temeiul Regulamentului privind organizarea și funcționarea Direcției Generale Educație, Tineret și Sport a Consiliului Municipal Chişinău, aprobat prin Decizia Consiliului Municipal Chişinău nr. 17/10 din 06.10.2020, în scopul consolidării comunității profesionale din domeniul educației timpurii, promovării practicilor educaționale relevante, incluziunii, protecției și bunăstării copilului, precum și dezvoltării parteneriatului dintre instituțiile de educație timpurie, familie și comunitate,"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "section_header",
+      "level": 1,
+      "orig": "ORDON:",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 415.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 302.33333333333337,
+            "r": 352.3333333333333,
+            "t": 427.3466566666666
+          },
+          "charspan": [
+            0,
+            6
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/7",
+      "text": "ORDON:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "1.",
+      "orig": "1. Se organizează și se desfăşoară, în perioada 21–30 septembrie 2026, Forumul Municipal al Educației Timpurii 2026, destinat personalului de conducere și didactic, specialiştilor din domeniu, partenerilor instituționali și reprezentanților comunității educaționale.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 358.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.66666666666667,
+            "r": 556.0,
+            "t": 399.01332333333335
+          },
+          "charspan": [
+            0,
+            266
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/8",
+      "text": "Se organizează și se desfăşoară, în perioada 21–30 septembrie 2026, Forumul Municipal al Educației Timpurii 2026, destinat personalului de conducere și didactic, specialiştilor din domeniu, partenerilor instituționali și reprezentanților comunității educaționale."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.",
+      "orig": "2. Programul Forumului Municipal al Educației Timpurii 2026 va cuprinde:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 343.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.33333333333333,
+            "r": 466.3333333333333,
+            "t": 356.3466566666666
+          },
+          "charspan": [
+            0,
+            72
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/9",
+      "text": "Programul Forumului Municipal al Educației Timpurii 2026 va cuprinde:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.1.",
+      "orig": "2.1. atelierele tematice de formare și schimb de bune practici Zilele Educației Timpurii – învățare, inspirație și bune practici\", desfăşurate în perioada 21–29 septembrie 2026 în instituțiile de educație timpurie din municipiul Chişinău, conform anexei nr. 1;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 300.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.0,
+            "r": 556.3333333333333,
+            "t": 341.3466566666666
+          },
+          "charspan": [
+            0,
+            260
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/10",
+      "text": "atelierele tematice de formare și schimb de bune practici Zilele Educației Timpurii – învățare, inspirație și bune practici\", desfăşurate în perioada 21–29 septembrie 2026 în instituțiile de educație timpurie din municipiul Chişinău, conform anexei nr. 1;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "2.2.",
+      "orig": "2.2. Forumul Municipal al Educației Timpurii, cu genericul ,Educație timpurie în mişcare: conectăm oameni, idei și valori\", desfăşurat la 30 septembrie 2026, în intervalul orar 10:00-14:00, în incinta Universității Pedagogice de Stat Ion Creanga\", Centrul Național de Inovații Digitale în Educație ,,Clasa Viitorului\" conform anexei nr. 2.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 244.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.33333333333333,
+            "r": 556.3333333333333,
+            "t": 298.3466566666667
+          },
+          "charspan": [
+            0,
+            339
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/11",
+      "text": "Forumul Municipal al Educației Timpurii, cu genericul ,Educație timpurie în mişcare: conectăm oameni, idei și valori\", desfăşurat la 30 septembrie 2026, în intervalul orar 10:00-14:00, în incinta Universității Pedagogice de Stat Ion Creanga\", Centrul Național de Inovații Digitale în Educație ,,Clasa Viitorului\" conform anexei nr. 2."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.",
+      "orig": "3. Se aprobă:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 228.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.0,
+            "r": 164.0,
+            "t": 242.01332333333323
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/12",
+      "text": "Se aprobă:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.1.",
+      "orig": "3.1. Planul de organizare și desfăşurare a Forumului Municipal al Educației Timpurii 2026, conform anexei nr. 3;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 200.34665666666672,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.33333333333333,
+            "r": 555.3333333333333,
+            "t": 226.34665666666672
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/13",
+      "text": "Planul de organizare și desfăşurare a Forumului Municipal al Educației Timpurii 2026, conform anexei nr. 3;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.2.",
+      "orig": "3.2. Lista materialelor organizatorice, metodologice și informaționale aferente Forumului și atelierelor tematice, conform anexei nr.4;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 170.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.0,
+            "r": 556.0,
+            "t": 198.01332333333323
+          },
+          "charspan": [
+            0,
+            135
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/14",
+      "text": "Lista materialelor organizatorice, metodologice și informaționale aferente Forumului și atelierelor tematice, conform anexei nr.4;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "3.3.",
+      "orig": "3.3. Devizul estimativ de cheltuieli, conform anexei nr. 5.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 156.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.33333333333333,
+            "r": 397.0,
+            "t": 169.01332333333323
+          },
+          "charspan": [
+            0,
+            59
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/15",
+      "text": "Devizul estimativ de cheltuieli, conform anexei nr. 5."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.",
+      "orig": "4. Direcția Management Instituțional (dna Daniela GARBUZ, şefa) va:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 140.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 99.66666666666667,
+            "r": 443.3333333333333,
+            "t": 153.01332333333323
+          },
+          "charspan": [
+            0,
+            67
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/16",
+      "text": "Direcția Management Instituțional (dna Daniela GARBUZ, şefa) va:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.1.",
+      "orig": "4.1. asigura coordonarea generală a pregătirii și desfáşurării Forumului și a atelierelor tematice;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 110.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.33333333333333,
+            "r": 556.0,
+            "t": 137.67998999999998
+          },
+          "charspan": [
+            0,
+            99
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/17",
+      "text": "asigura coordonarea generală a pregătirii și desfáşurării Forumului și a atelierelor tematice;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.2.",
+      "orig": "4.2. definitiva conceptul, programul atelierelor, agenda Forumului, lista participanților, scenariul de moderare, materialele pentru vorbitori, nominalizările și diplomele;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 82.01332333333323,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.66666666666667,
+            "r": 555.6666666666667,
+            "t": 109.01332333333323
+          },
+          "charspan": [
+            0,
+            172
+          ],
+          "page_no": 1
+        }
+      ],
+      "self_ref": "#/texts/18",
+      "text": "definitiva conceptul, programul atelierelor, agenda Forumului, lista participanților, scenariul de moderare, materialele pentru vorbitori, nominalizările și diplomele;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.3.",
+      "orig": "4.3. coordona comunicarea cu instituțiile-gazdă, invitații, formatorii, moderatorii, partenerii și reprezentanții mass-media;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 743.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.0,
+            "r": 555.6666666666667,
+            "t": 770.67999
+          },
+          "charspan": [
+            0,
+            125
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/19",
+      "text": "coordona comunicarea cu instituțiile-gazdă, invitații, formatorii, moderatorii, partenerii și reprezentanții mass-media;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.4.",
+      "orig": "4.4. acorda asistență metodologică și consultativă instituțiilor implicate și va monitoriza respectarea agendelor aprobate;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 713.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.33333333333333,
+            "r": 555.3333333333333,
+            "t": 741.0133233333333
+          },
+          "charspan": [
+            0,
+            123
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/20",
+      "text": "acorda asistență metodologică și consultativă instituțiilor implicate și va monitoriza respectarea agendelor aprobate;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.5.",
+      "orig": "4.5. asigura colectarea listelor de participare, a materialelor de feedback și a informațiilor necesare evaluării activităților;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 683.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.0,
+            "r": 555.6666666666667,
+            "t": 712.3466566666666
+          },
+          "charspan": [
+            0,
+            128
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/21",
+      "text": "asigura colectarea listelor de participare, a materialelor de feedback și a informațiilor necesare evaluării activităților;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "4.6.",
+      "orig": "4.6. elabora sinteza privind realizarea activităților și rezultatele Forumului, în termen de 10 zile lucrătoare de la încheierea evenimentului.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 654.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 117.0,
+            "r": 555.0,
+            "t": 682.0133233333333
+          },
+          "charspan": [
+            0,
+            143
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/22",
+      "text": "elabora sinteza privind realizarea activităților și rezultatele Forumului, în termen de 10 zile lucrătoare de la încheierea evenimentului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.",
+      "orig": "5. Directorii grădinițelor de copii-gazdă ale atelierelor tematice vor:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 639.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.33333333333333,
+            "r": 427.0,
+            "t": 653.0133233333333
+          },
+          "charspan": [
+            0,
+            71
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/23",
+      "text": "Directorii grădinițelor de copii-gazdă ale atelierelor tematice vor:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.1.",
+      "orig": "5.1. asigura condițiile organizatorice, tehnice, sanitare și de securitate necesare desfăşurării activităților;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 609.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.33333333333333,
+            "r": 554.6666666666667,
+            "t": 637.67999
+          },
+          "charspan": [
+            0,
+            111
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/24",
+      "text": "asigura condițiile organizatorice, tehnice, sanitare și de securitate necesare desfăşurării activităților;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.2.",
+      "orig": "5.2. organiza înregistrarea participanților, amenajarea spațiilor, suportul tehnic și distribuirea materialelor;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 581.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 115.66666666666667,
+            "r": 556.3333333333333,
+            "t": 609.67999
+          },
+          "charspan": [
+            0,
+            112
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/25",
+      "text": "organiza înregistrarea participanților, amenajarea spațiilor, suportul tehnic și distribuirea materialelor;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "5.3.",
+      "orig": "5.3. respecta agenda aprobată și vor prezenta DGETS, în termen de o zi lucrătoare, lista participanților, fotografii relevante și o scurtă sinteză a atelierului.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 552.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.33333333333333,
+            "r": 554.3333333333333,
+            "t": 579.67999
+          },
+          "charspan": [
+            0,
+            161
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/26",
+      "text": "respecta agenda aprobată și vor prezenta DGETS, în termen de o zi lucrătoare, lista participanților, fotografii relevante și o scurtă sinteză a atelierului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "6.",
+      "orig": "6. Directorii instituțiilor cu învățământ preşcolar din municipiul Chişinău vor asigura participarea persoanelor desemnate la activitățile programate, fără perturbarea procesului educațional și cu respectarea normelor privind securitatea și protecția copilului.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 508.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.0,
+            "r": 554.6666666666667,
+            "t": 550.3466566666666
+          },
+          "charspan": [
+            0,
+            261
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/27",
+      "text": "Directorii instituțiilor cu învățământ preşcolar din municipiul Chişinău vor asigura participarea persoanelor desemnate la activitățile programate, fără perturbarea procesului educațional și cu respectarea normelor privind securitatea și protecția copilului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.",
+      "orig": "7. Secția Comunicare și Relații cu Publicul va:",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 494.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 98.33333333333333,
+            "r": 324.0,
+            "t": 508.0133233333333
+          },
+          "charspan": [
+            0,
+            47
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/28",
+      "text": "Secția Comunicare și Relații cu Publicul va:"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.1.",
+      "orig": "7.1. elabora și implementa planul de promovare și identitatea vizuală unitară a evenimentului;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 465.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 115.66666666666667,
+            "r": 555.0,
+            "t": 492.67999
+          },
+          "charspan": [
+            0,
+            94
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/29",
+      "text": "elabora și implementa planul de promovare și identitatea vizuală unitară a evenimentului;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.2.",
+      "orig": "7.2. asigura reflectarea activităților pe pagina oficială DGETS a www.chisinauedu.dgets.md și pe canalele instituționale de comunicare;",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 435.0133233333333,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 114.33333333333333,
+            "r": 554.3333333333333,
+            "t": 465.34665666666666
+          },
+          "charspan": [
+            0,
+            135
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/30",
+      "text": "asigura reflectarea activităților pe pagina oficială DGETS a www.chisinauedu.dgets.md și pe canalele instituționale de comunicare;"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "7.3.",
+      "orig": "7.3. coordona, după caz, relația cu furnizorii serviciilor foto-video, transmisia în direct și colaborarea cu reprezentanții mass-media.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 406.34665666666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 116.0,
+            "r": 553.6666666666667,
+            "t": 434.0133233333333
+          },
+          "charspan": [
+            0,
+            136
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/31",
+      "text": "coordona, după caz, relația cu furnizorii serviciilor foto-video, transmisia în direct și colaborarea cu reprezentanții mass-media."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "8.",
+      "orig": "8. Direcția Management Economico-Financiar și Evidența Patrimoniului (dna Svetlana IGNATIEVA, şefa) va asigura achitarea cheltuielilor aferente activităților, în limitele mijloacelor aprobate în bugetul DGETS pentru anul 2026 și în baza documentelor justificative, conform anexei nr. 3.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 349.67999,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.0,
+            "r": 554.0,
+            "t": 405.0133233333333
+          },
+          "charspan": [
+            0,
+            286
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/32",
+      "text": "Direcția Management Economico-Financiar și Evidența Patrimoniului (dna Svetlana IGNATIEVA, şefa) va asigura achitarea cheltuielilor aferente activităților, în limitele mijloacelor aprobate în bugetul DGETS pentru anul 2026 și în baza documentelor justificative, conform anexei nr. 3."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "9.",
+      "orig": "9. Responsabilii desemnați vor asigura protecția datelor cu caracter personal, utilizarea imaginilor și a materialelor media cu respectarea cadrului normativ aplicabil, precum și arhivarea documentelor aferente evenimentului.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 307.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.33333333333333,
+            "r": 554.0,
+            "t": 348.34665666666666
+          },
+          "charspan": [
+            0,
+            225
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/33",
+      "text": "Responsabilii desemnați vor asigura protecția datelor cu caracter personal, utilizarea imaginilor și a materialelor media cu respectarea cadrului normativ aplicabil, precum și arhivarea documentelor aferente evenimentului."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "10.",
+      "orig": "10. Responsabilitatea pentru executarea prezentului ordin revine subdiviziunilor DGETS menționate și directoarelor grădinițelor de copii implicate.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 277.3466566666667,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 97.0,
+            "r": 553.0,
+            "t": 305.67999
+          },
+          "charspan": [
+            0,
+            147
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/34",
+      "text": "Responsabilitatea pentru executarea prezentului ordin revine subdiviziunilor DGETS menționate și directoarelor grădinițelor de copii implicate."
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "enumerated": true,
+      "label": "list_item",
+      "marker": "11.",
+      "orig": "11. Controlul și monitorizarea executării prezentului ordin se pun în sarcina dlui Valentin CRUDU, şef adjunct al DGETS.",
+      "parent": {
+        "$ref": "#/groups/0"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 249.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 96.66666666666667,
+            "r": 553.0,
+            "t": 276.67999
+          },
+          "charspan": [
+            0,
+            120
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/35",
+      "text": "Controlul și monitorizarea executării prezentului ordin se pun în sarcina dlui Valentin CRUDU, şef adjunct al DGETS."
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Ex.: Angela Monacu, Elena Buşilo",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 115.01332333333335,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 95.0,
+            "r": 225.33333333333334,
+            "t": 129.01332333333335
+          },
+          "charspan": [
+            0,
+            32
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/36",
+      "text": "Ex.: Angela Monacu, Elena Buşilo"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "tel. (022) 201 603",
+      "parent": {
+        "$ref": "#/groups/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 105.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 94.66666666666667,
+            "r": 163.66666666666669,
+            "t": 119.01332333333335
+          },
+          "charspan": [
+            0,
+            18
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/37",
+      "text": "tel. (022) 201 603"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "Şef adjunct",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 207.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 491.6666666666667,
+            "r": 553.3333333333333,
+            "t": 221.67998999999998
+          },
+          "charspan": [
+            0,
+            11
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/38",
+      "text": "Şef adjunct"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "ndrei PAVALOI",
+      "parent": {
+        "$ref": "#/groups/3"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 182.3466566666666,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 463.3333333333333,
+            "r": 552.0,
+            "t": 193.3466566666666
+          },
+          "charspan": [
+            0,
+            13
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/39",
+      "text": "ndrei PAVALOI"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "10800",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 180.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 438.0,
+            "r": 466.3333333333333,
+            "t": 185.3466566666666
+          },
+          "charspan": [
+            0,
+            5
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/40",
+      "text": "10800"
+    },
+    {
+      "children": [],
+      "content_layer": "body",
+      "label": "text",
+      "orig": "PRI",
+      "parent": {
+        "$ref": "#/pictures/1"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 155.67998999999998,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 414.6666666666667,
+            "r": 425.6666666666667,
+            "t": 164.67998999999998
+          },
+          "charspan": [
+            0,
+            3
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/41",
+      "text": "PRI"
+    },
+    {
+      "children": [],
+      "content_layer": "furniture",
+      "label": "page_footer",
+      "orig": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com",
+      "parent": {
+        "$ref": "#/body"
+      },
+      "prov": [
+        {
+          "bbox": {
+            "b": 61.346656666666604,
+            "coord_origin": "BOTTOMLEFT",
+            "l": 173.66666666666666,
+            "r": 474.3333333333333,
+            "t": 90.3466566666666
+          },
+          "charspan": [
+            0,
+            146
+          ],
+          "page_no": 2
+        }
+      ],
+      "self_ref": "#/texts/42",
+      "text": "Str. Mitropolit Dosoftei, 99, MD-2704, municipiul Chişinău, Republica Moldova, Tel.: (022) 201 601, www.chisinauedu.md, e-mail: dgetsmun@gmail.com"
+    }
+  ],
+  "version": "1.10.0"
+}

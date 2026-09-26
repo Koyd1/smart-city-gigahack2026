@@ -1,0 +1,719 @@
+---
+document_id: "doc_34045b0c102060f935c7"
+version_id: "ver_34045b0c_a603cf94dda2"
+title: "1781265092_ordin-de-totalizare-952.pdf"
+source_url: "https://chisinauedu.dgets.md/storage/orders/1781265092_ordin-de-totalizare-952.pdf"
+retrieved_at: "2026-09-26T07:07:57.223033+00:00"
+content_sha256: "a603cf94dda213fcf051cfb9bebe676cc0eb6f6a1db0e4cf9809b51133672c63"
+language: "ro"
+category: "education"
+document_type: "pdf"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+<!-- page: 1 -->
+
+<!-- image -->
+
+## CONSILIUL MUNICIPAL CHIŞINÃU PRIMAR GENERAL AL MUNICIPIULUI CHIŞINĂU DIRECTIA GENERALÅ EDUCATIE, TINERETŞI SPORT
+
+<!-- image -->
+
+## ORDIN
+
+Cu privire la totalurile atelierelor metodice pentru metodişti și cadrele didactice din instituțiile cu învățământ preşcolar
+
+În temeiul ordinului DGETS nr.01/1-7/506 din 22.04.2026, cu privire la organizarea atelierelor metodice pentru instituțiile cu învățământ preșcolar, în perioada 23.04 - 7.05.2026s-au desfăşurat ateliere metodice cu genericul Abordări inovative în organizarea și desfăşurarea activităților de educație fizică: modele și strategii eficiente. La ateliere au participat 610 cadre didactice din instituțiile cu învățământ preşcolar.
+
+Reieşind din cele menționate mai sus,
+
+## ORDON:
+
+1. Se consideră activitatea desfaşurată de formatorii municipali/locali și cadrele didactice ce au prezentat activități publice la educație fizică în cadrul atelierului metodic drept activitate cu durata de 30 (treizeci) ore în baza hărții creditare pentru atestarea la grad didactic (anexa nr.1).
+2. Se consideră activitatea de formare continuă a metodiştilor și cadrelor didactice participante la seminar drept activitate cu durata de 6 (şase) ore în baza hărții creditare pentru atestarea la grad didactic (anexa nr.2).
+3. Se menționează activitatea directorilor din cadrul celor 20 instituții cu învățământ preşcolar: O. Gîscă, Grădinița de copii nr.227 , M. Hmeli, Grădinița de copii nr. 210, D. Pavaloi, Grădinița de copii nr.8, O. Ionel, Grădinița de copii nr. 157, T. Tcaci, Grădinița de copii nr. 183, V. Cosnicean, Grădinița de copii nr. 215, O. Traci, Grădinița de copii nr. 141, T. Gurghiş, Grădinița de copii nr. 112, S. Lungu, Grădinița de copii nr. 139, T. Ciotu, Grădinița de copii nr. 96, J. Golinbovscaia, Grădinita de copii nr. 88, O. Curagău, Grădinița de copii nr. 186, A. Mihailova, Grădinița de copii nr. 25, S. Nazîru, Grădinița de copii nr. 211, E. Braguța, Grădinița de copii nr. 212, L. Manoli, Grădinița de copii nr. 108, D. Mişcoi, Grădinița de copii nr.81, T. Buza, Grădinița de copii nr. 196, N. Maznic, Grădinița de copii nr. 155., A. Sadîgova, Grădinița de copii nr.38 în crearea condițiilor optime pentru organizarea atelierelor metodice.
+
+<!-- page: 2 -->
+
+4. Responsabilitatea de realizare a prevederilor prezentului ordin revine Comisiei de evaluare internă și atestare din cadrul instituțiilor participante la seminar.
+5. S. Duninică, specialist principal, DGETS va informa directorii din instituțiile cu învățământ preşcolar cu prevederile acestui ordin.
+6. Contrclul realizării prevederilor prezentului ordin revine S. Axinti, șef al direcției management curricular, DGETS.
+7. Monitorizarea îndeplinirii prezentului ordin revine V. Crudu, DGETS.
+
+<!-- image -->
+
+<!-- page: 3 -->
+
+<!-- image -->
+
+## Lista formatorilor municipali din cadrul atelierelor metodice
+
+| Numele și prenumele    | Funcția                                              | Instituția                                                  |
+|------------------------|------------------------------------------------------|-------------------------------------------------------------|
+| 1. Duminică Stella     | specialist principal, direcția Management curricular | Direcția Generală Educație, Tineret și Sport, mun. Chişinău |
+| 2. Bolținschi Carolina | Profesor de educație fizică                          | Grădinița de copii nr. 201 (or. Durleşti)                   |
+| 3. Dant Daniela        | Profesor de educație fizică                          | Grădinița de copii nr. 2 (or. Durleşti)                     |
+| 4. Tricolici Ludmila   | Profesor de educație fizică                          | Grădinița de copii nr. 225                                  |
+| 5. Bobenco Nicolae     | Profesor de educație fizică                          | Grădinița de copii nr. 225                                  |
+
+## Lista formatorilor locali din cadrul atelierelor metodice
+
+| Numele și prenumele   | Functia                                                        | Instituția                               |
+|-----------------------|----------------------------------------------------------------|------------------------------------------|
+| 1. Mavrodi Maria      | Şefa catedrei de Pedagogie, Psihologie și Metodici particulare | IP Colegiul ,,Mihail Ciachir" din Comrat |
+| 2. Gîscă Oxana        | director                                                       | Grădinița de copii nr.227                |
+| 3. Dragan Aurelia     | metodist                                                       | Grădinița de copii nr.227                |
+| 4. Hmeli Marcela      | director                                                       | Grădinița de copii nr.210                |
+| 5. Boian Raisa        | metodist                                                       | Grădinița de copii nr.210                |
+| 6. Antoci Cristina    | logoped                                                        | Grădinița de copii nr.210                |
+| 7. Pavaloi Domnica    | director                                                       | Grădinița de copii nr. 8                 |
+| 8. Muntean Natalia    | educator                                                       | Grădinița de copii nr. 8                 |
+| 9. Bucuci Nadejda     | educator                                                       | Grădinița de copii nr. 8                 |
+| 10. Ionel Olga        | director                                                       | Grădinița de copii nr. 157               |
+| 11. Tonac Tatiana     | metodist                                                       | Grădinița de copii nr.157                |
+| 12. Tcaci Tatiana     | director                                                       | Grădinița de copii nr. 183               |
+| 13. Mihăilă Lucia     | metodist/educator                                              | Grădinița de copii nr. 183               |
+| 14. Anghel Olga       | metodist/educator                                              | Grădinița de copii nr. 183               |
+
+<!-- page: 4 -->
+
+| 15. Raşcu Svetlana       | metodist   | Grădinița de copii nr. 38   |
+|--------------------------|------------|-----------------------------|
+| 16. Sacîgova Aliona      | director   | Grădinița de copii nr. 38   |
+| 17. Cosnicean Veronica   | director   | Grădinița de copii nr. 215  |
+| 18. Zgerdan Oxana        | metodist   | Grădinița de copii nr. 215  |
+| 19. Prodan Cristina      | educator   | Grădinița de copii nr. 215  |
+| 20. Traci Olesea         | director   | Grădinița de copii nr. 141  |
+| 21. Druța Liudmila       | metodist   | Grădinița de copii nr. 141  |
+| 22. Gurghiş Tatiana      | director   | Grădinița de copii nr. 112  |
+| 23. Cocier Victoria      | metodist   | Grădinița de copii nr. 112  |
+| 24. Lurgu Svetlana       | director   | Grădinița de copii nr. 139  |
+| 25. Coban Anastasia      | metodist   | Grădinița de copii nr. 139  |
+| 26. Ciotu Tatiana        | director   | Grădinița de copii nr. 96   |
+| 27. Samson Inga          | metodist   | Grădinița de copii nr. 96   |
+| 28. Oprea Victoria       | educator   | Grădinița de copii nr. 96   |
+| 29. Rucnițchi Natalia    | educator   | Grădinița de copii nr. 96   |
+| 30. Bragari Tatiana      | educator   | Grădinița de copii nr. 96   |
+| 31. Golinbovscaia Janeta | director   | Grădinița de copii nr. 88   |
+| 32. Curagău Oxana        | director   | Grădinița de copii nr. 186  |
+| 33. Stîngu Liga          | metodist   | Grădinița de copii nr. 186  |
+| 34. Bunescu Nina         | educator   | Grădinița de copii nr. 186  |
+| 35. Mihailova Angela     | director   | Grădinița de copii nr.25    |
+| 36. Cimbriciuc Alina     | metodist   | Grădinița de copii nr.25    |
+| 37. Prepelița Natalia    | metodist   | Grădinița de copii nr.25    |
+| 38. Nazìru Svetlana      | director   | Grădinița de copii nr.211   |
+| 39. Cernei Ludmila       | metodist   | Grădinița de copii nr.211   |
+| 40. Mutelică Viorica     | psiholog   | Grădinița de copii nr.211   |
+| 41. Braguța Elena        | director   | Grădinița de copii nr.212   |
+| 42. Godoroja Oxana       | metodist   | Grădinița de copii nr.212   |
+| 43. Melnic Elena         | metodist   | Grădinița de copii nr.197   |
+| 44. Manoli Lilia         | director   | Grădinița de copii nr.108   |
+| 45. Dascal Angela        | metodist   | Grădinița de copii nr.108   |
+| 46. Mişcoi Diana         | director   | Grădinița de copii nr.81    |
+| 47. Stici Olga           | metodist   | Grădinița de copii nr.81    |
+
+<!-- page: 5 -->
+
+| 48. Buza Tatiana     | director   | Grădinița de copii nr.196   |
+|----------------------|------------|-----------------------------|
+| 49. Eremița Larisa   | metodist   | Grădinița de copii nr.196   |
+| 50. Miron Iulia      | metodist   | Grădinița de copii nr.196   |
+| 51. Maznic Natalia   | director   | Grădinița de copii nr.155   |
+| 52. Solovei Carolina | metodist   | Grădinița de copii nr.155   |
+
+## Lista cadrelor didactice care au prezentat activități publice în cadrul atelierelor metodice
+
+|     | Numele și prenumele   | Instituția                 |
+|-----|-----------------------|----------------------------|
+|  1. | Mahu Svetlana         | Grădinița de copii nr.227  |
+|  2. | Papuc Fedosia         | Grădinița de copii nr. 227 |
+|  3. | Îndoitu Angela        | Grădinița de copii nr.210  |
+|  4. | Colun Viorica         | Grădinița de copii nr.210  |
+|  5. | Zavadovschi Antonina  | Grădinița de copii nr. 8   |
+|  6. | Lisneac Elena         | Grădinița de copii nr. 8   |
+|  7. | Ceban Tatiana         | Grădinița de copii nr.157  |
+|  8. | Blîndescu Mariana     | Grădinița de copii nr. 157 |
+|  9. | Fîrtac Mariana        | Grădinița de copii nr. 183 |
+| 10. | Caragacean Olga       | Grădinița de copii nr. 38  |
+| 11. | Paladi Diana          | Grădinița de copii nr. 38  |
+| 12. | Cebotari Nina         | Grădinița de copii nr. 215 |
+| 13. | Zgardan Oxana         | Grădinița de copii nr. 215 |
+| 14. | Malanca Ala           | Grădinița de copii nr. 141 |
+| 15. | Eotnari Irina         | Grădinița de copii nr. 141 |
+| 16. | Moroz Doina           | Grădinița de copii nr. 112 |
+| 17. | Antipov Olesea        | Grădinița de copii nr. 112 |
+| 18. | Sîrghi Marina         | Grădinița de copii nr. 139 |
+| 19. | Coban Anastasia       | Grădinița de copii nr. 139 |
+| 20. | Bunici Romina         | Grădinița de copii nr. 96  |
+| 21. | Rudniţchi Natalia     | Grădinița de copii nr. 96  |
+| 22. | Rotarova Inga         | Grădinița de copii nr. 88  |
+| 23. | Cîvîrjic Irina        | Grădinița de copii nr. 88  |
+| 24. | Revenco Liliana       | Grădinița de copii nr. 186 |
+
+<!-- page: 6 -->
+
+|   25. | Cerneanu Mihaela    | Grădinița de copii nr.25   |
+|-------|---------------------|----------------------------|
+|   26. | Diaconu Cristina    | Grădinița de copii nr.25   |
+|   27. | Copacinschi Viorica | Grădinița de copii nr.211  |
+|   28. | Ghimbra Viorica     | Grădinița de copii nr.211  |
+|   29. | Scafari Iulia       | Grădinița de copii nr.212  |
+|   30. | Mardare Ana-Maria   | Grădinița de copii nr.212  |
+|   31. | Scripcaru Valeria   | Grădinița de copii nr.108  |
+|   32. | Terentii Ala        | Grădinița de copii nr.108  |
+|   33. | Chiriac Alina       | Grădinița de copii nr.81   |
+|   34. | Zgurean Alina       | Grădinița de copii nr.81   |
+|   35. | Malic Maria         | Grădinița de copii nr.196  |
+|   36. | Criucov Larisa      | Grădinița de copii nr.196  |
+|   37. | Roşca Larisa        | Grădinița de copii nr.155  |
+|   38. | Ciubotaru Alina     | Grădinița de copii nr.155  |
+
+<!-- page: 7 -->
+
+<!-- image -->
+
+## Lista cadrelor didactice care au participat în cadrul atelierelor metodice
+
+|     | Numele și prenumele   | Instituția                              |
+|-----|-----------------------|-----------------------------------------|
+|  1. | Roşca Olga            | Grădinița de copii nr. 2 (or. Durleşti) |
+|  2. | Deli Galina           | Grădinița de copii nr. 151              |
+|  3. | Botnari Viorica       | Grădinița de copii nr. 151              |
+|  4. | Vrabii Sofia          | Grădinița de copii nr. 151              |
+|  5. | Corobcean Eugenia     | Grădinița de copii nr. 151              |
+|  6. | Botnari Mariana       | Grădinița de copii nr. 142              |
+|  7. | Şargarovschi Alina    | Grădinița de copii nr. 142              |
+|  8. | Buciuşcan Veronica    | Grădinița de copii nr. 142              |
+|  9. | Crivoi Ana            | Grădinița de copii nr. 182              |
+| 10. | Lescinschi Svetlana   | Grădinița de copii nr. 182              |
+| 11. | Ferju Irina           | Grădinița de copii nr. 216              |
+| 12. | Aralchin Olga         | Grădinița de copii nr. 216              |
+| 13. | Bordea Livia          | Grădinița de copii nr. 216              |
+| 14. | Luca Natalia          | Grădinița de copii nr. 123              |
+| 15. | Calmîc Natalia        | Grădinița de copii nr. 123              |
+| 16. | Coropcean Elena       | Grădinița de copii nr. 123              |
+| 17. | Cravcenco Raisa       | Grădinița de copii nr. 71               |
+| 18. | Cociug Maria          | Grădinița de copii nr. 71               |
+| 19. | Oaserele Elena        | Grădinița de copii nr. 71               |
+| 20. | Şalari Ecaterina      | Grădinița de copii nr.140 (s.Băcioi)    |
+| 21. | Stici Elena           | Grădinița de copii nr.140 (s.Băcioi)    |
+| 22. | Chiperi Vera          | Grădinița de copii nr.140 (s.Băcioi)    |
+| 23. | Pădure Lilia          | Grădinița de copii nr. 214              |
+| 24. | Gurițanu Anastasia    | Grădinița de copii nr. 214              |
+| 25. | Sîrbu Iana            | Grădinița de copii nr. 214              |
+| 26. | Uzun Elena            | Grădinița de copii nr. 89               |
+| 27. | Laşcu Maria           | Grădinița de copii nr. 112              |
+| 28. | Cîrstea Alina         | Grădinița de copii nr. 112              |
+| 29. | Sîrbu Veronica        | Grădinița de copii nr. 112              |
+| 30. | Sadîgova Elvira       | Grădinița de copii nr 38                |
+| 31. | Nuțoi Natalia         | Grădinița de copii nr 38                |
+| 32. | Spătaru Alexandra     | Grădinița de copii nr 38                |
+| 33. | Caragacean Olga       | Grădinița de copii nr 38                |
+| 34. | Florea Maria          | Grădinița de copii nr. 174              |
+| 35. | Talambuța Liusea      | Grădinița de copii nr. 174              |
+| 36. | Railean Vera          | Grădinița de copii nr. 174              |
+| 37. | Efrosi Aliona         | Grădinița de copii nr. 167              |
+| 38. | Belous Angela         | Grădinița de copii nr. 167              |
+| 39. | Procopciuc Ana        | Grădinița de copii nr. 167              |
+| 40. | Şmalenea Silvia       | Grădinița de copii nr. 194 (or.Codru)   |
+
+<!-- page: 8 -->
+
+|   41. | Malancuş Ludmila    | Grădinița de copii nr. 194 (or.Codru)   |
+|-------|---------------------|-----------------------------------------|
+|   42. | Burca Ludmila       | Grădinița de copii nr. 194 (or.Codru)   |
+|   43. | Stratetivici Nina   | Grădinița de copii nr. 7                |
+|   44. | Gordilă Liliana     | Grădinița de copii nr. 7                |
+|   45. | Cozma Svetlana      | Grădinița de copii nr. 7                |
+|   46. | Ceban Veronica      | Grădinița de copii nr. 125              |
+|   47. | Istrati Victoria    | Grădinița de copii nr. 125              |
+|   48. | Hangan Tatiana      | Grădinița de copii nr. 125              |
+|   49. | Ciocîrlan Cornelia  | Grădinița de copii nr. 175              |
+|   50. | Carare Elena        | Grădinița de copii nr. 175              |
+|   51. | Covrig Ecaterina    | Grădinița de copii nr. 175              |
+|   52. | Gului Natalia       | Grădinița de copii nr 38                |
+|   53. | Buznea Victoria     | Grădinița de copii nr 38                |
+|   54. | Manole Rodica       | Grădinița de copii nr 38                |
+|   55. | Pasat Eudochia      | Grădinița de copii nr 38                |
+|   56. | Argint Maria        | Grădinița de copii nr. 133              |
+|   57. | Gurău Ala           | Grădinița de copii nr. 133              |
+|   58. | Armeanic Diana      | Grădinița de copii nr. 133              |
+|   59. | Dumanschi Anastasia | Grădinița de copii nr. 227              |
+|   60. | Erhan Irina         | Grădinița de copii nr. 227              |
+|   61. | Beschier Ionela     | Grădinița de copii nr. 227              |
+|   62. | Ceban Rodica        | Grădinița de copii nr. 227              |
+|   63. | Bodrug Valentina    | Grădinița de copii nr. 23               |
+|   64. | Balan Ana           | Grădinița de copii nr. 23               |
+|   65. | Mihailova Elena     | Grădinița de copii nr. 23               |
+|   66. | Cazacov Ana         | Liceu Teoretic V. Lupu"                 |
+|   67. | Botnari Olga        | Liceu Teoretic ,V. Lupu"                |
+|   68. | Melțer Natalia      | Grădinița de copii nr.92                |
+|   69. | Bostan Tatiana      | Grădinița de copii nr.92                |
+|   70. | Frunze Vera         | IP Complexul Educațional nr. 88         |
+|   71. | Gaina Cristina      | IP Complexul Educațional nr. 88         |
+|   72. | Pavalachi Magdalena | IP Complexul Educațional nr. 88         |
+|   73. | Musteață Efimia     | Grădinița de copii nr. 52               |
+|   74. | Munteanu Dorina     | Grădinița de copii nr. 52               |
+|   75. | Mihai Oxana         | Grădinița de copii nr. 52               |
+|   76. | Iarovoi Lucia       | Grădinița de copii nr. 54               |
+|   77. | Cebanu Natalia      | Grădinița de copii nr. 54               |
+|   78. | Răileanu Doina      | Grădinița de copii nr. 54               |
+|   79. | Şaptefraț Cristina  | Grădinița de copii nr 38                |
+|   80. | Prodius Ana         | Grădinița de copii nr 38                |
+|   81. | Vieru Nelea         | Grădinița de copii nr 38                |
+|   82. | Bogus Ala           | Grădinița de copii nr 38                |
+|   83. | Puşcaș Lucia        | Grădinița de copii nr. 210              |
+|   84. | Mihai Maria         | Grădinița de copii nr. 210              |
+|   85. | Albu Cătălina       | Grădinița de copii nr. 210              |
+|   86. | Îndoitu Angela      | Grădinița de copii nr. 210              |
+|   87. | Colun Viorica       | Grădinița de copii nr. 210              |
+|   88. | Racu Natalia        | Grădinița de copii nr. 80               |
+
+<!-- page: 9 -->
+
+| 89. Melnic Silvia            | Grădinița de copii nr. 78             |
+|------------------------------|---------------------------------------|
+| 90. Drumea Natalia           | Grădinița de copii nr. 78             |
+| 91. Bejenari Vremeș Diana    | Grădinița de copii nr. 78             |
+| 92. oma Ala                  | Grădinița de copii nr.226             |
+| 93. Mogîldea Cristina        | Grădinița de copii nr.226             |
+| 94. Iovu Maria               | Grădinița de copii nr.226             |
+| 95. un Maria                 | Grădinița de copii nr. 59             |
+| 96. Mihaescu Natalia         | Grădinița de copii nr. 59             |
+| 97. Martin Mădălina          | Grădinița de copii nr. 59             |
+| 98. Şolopa Valentina         | Grădinița de copii nr 38              |
+| 99. Postică Cristina         | Grădinița de copii nr 38              |
+| 100. Cernopiskaia Silvia     | Grădinița de copii nr. 55             |
+| 101. Berzan Victoria         | Grădinița de copii nr. 55             |
+| 102. Slivca Viorica          | Grădinița de copii nr. 55             |
+| 103. Mocanu Valentina        | Grădinița de copii nr. 49             |
+| 104. Pădureț Alioana         | Grădinița de copii nr. 49             |
+| 105. Cherdivara Ana          | Grădinița de copii nr. 49             |
+| 106. Josan Maria             | Grădinița de copii nr. 193 (s. Vatra) |
+| 107. Mafteuța Raia           | Grădinița de copii nr. 193 (s. Vatra) |
+| 108. Gîscă Lilia             | Grădinița de copii nr. 193 (s. Vatra) |
+| 109. Danuța Mariana          | Grădinița de copii nr. 156            |
+| 110. Straton Iulia           | Grădinița de copii nr. 156            |
+| 111. Bencheci Liliana        | Grădinița de copii nr. 6              |
+| 112. Gavrilencu Angela       | Grădinița de copii nr. 6              |
+| 113. Armaş Valentina         | Grădinița de copii nr. 6              |
+| 114. Bumbu Svetlana          | Grădinița de copii nr. 8              |
+| 115. Şeremet Elena           | Grădinița de copii nr. 8              |
+| 116. Guşan Elena             | Grădinița de copii nr. 8              |
+| 117. Eusuioc Tataiana        | Grădinița de copii nr. 8              |
+| 118. Cotorcea Svetlana       | Grădinița de copii nr.20              |
+| 119. Iordan lucia            | Grădinița de copii nr.20              |
+| 120. Eălănescu Serghei       | Grădinița de copii nr.20              |
+| 121. Plămădeală Viorica      | Grădinița de copii nr.85              |
+| 122. Crețu Adelina           | Grădinița de copii nr.85              |
+| 123. Paierele Lilia          | Grădinița de copii nr.85              |
+| 124. Chemencedji Elena       | Grădinița de copii nr. 113            |
+| 125. Moraru Natalia          | Grădinița de copii nr. 113            |
+| 126. Perevezențeva Ecaterina | Grădinița de copii nr. 113            |
+| 127. Singereanu Ala          | Grădinița de copii nr 38              |
+| 128. Izverscaia Olga         | Grădinița de copii nr 38              |
+| 129. Marcoci Larisa          | Grădinița de copii nr 38              |
+| 130. Celacova Olga           | Grădinița de copii nr 38              |
+| 131. Crivorucenco Maria      | Grădinița de copii nr. 3              |
+| 132. Puşcă Marina            | Grădinița de copii nr. 3              |
+| 133. Vîrlan Viorica          | Grădinița de copii nr. 3              |
+| 134. Talbu Elizaveta         | Grădinița de copii nr. 110            |
+| 135. Stratan Ludmila         | Grădinița de copii nr. 110            |
+| 136. Ganța Irina             | Grădinița de copii nr. 110            |
+
+<!-- page: 10 -->
+
+| 137. itaru Olesea                       | Grădinița de copii nr. 75                                                    |
+|-----------------------------------------|------------------------------------------------------------------------------|
+| 138. Doroftei Valeria                   | Grădinița de copii nr. 75                                                    |
+| 139. Haritonov Veronica                 | Grădinița de copii nr. 75                                                    |
+| 140. Tataru Tatiana                     | Grădinița de copii nr. 119                                                   |
+| 141. Niţă Zinaida                       | Grădinița de copii nr. 119                                                   |
+| 142. Cojocari Adriana                   | Grădinița de copii nr. 119                                                   |
+| 143. Postolachi Lucia                   | Grădinița de copii nr. 157                                                   |
+| 144. Gutu Ariadna                       | Grădinița de copii nr. 157                                                   |
+| 145. Rotaru Liliana                     | Grădinița de copii nr. 157                                                   |
+| 146. Iațcu Oxana                        | Grădinița de copii nr. 158                                                   |
+| 147. Spătaru Elena                      | Grădinița de copii nr. 158                                                   |
+| 148. Dolghi Maria                       | Grădinița de copii nr. 158                                                   |
+| 149. Iaşco Svetlana                     | Grădinița de copii nr. 177                                                   |
+| 150. Zabolotnîi Alina                   | Grădinița de copii nr. 177                                                   |
+| 151. Pricob lilia, director             | Grădinița de copii nr. 185                                                   |
+| 152. Mocanu Elana                       | Grădinița de copii nr. 185                                                   |
+| 153. Munteanu Olga                      | Grădinița de copii nr. 185                                                   |
+| 154. Bivol Parascovia                   | Grădinița de copii nr. 199                                                   |
+| 155. Lupașcu Veronica                   | Grădinița de copii nr. 1 (s.Truşeni)                                         |
+| 156. Revenco Tatiana                    | Grădinița de copii nr. 1 (s.Truşeni)                                         |
+| 157. Vîrlan Viorica 158. Cerbuşca Elena | Grădinița de copii nr. 1 (s.Truşeni) Grădinița de copii nr. 2 (s.Truşeni)    |
+| 159. Apostol Irina                      | Grădinița de copii nr. 2 (s.Truşeni)                                         |
+| 160. Grozav Feodora                     | Grădinița de copii nr. 2 (s.Truşeni)                                         |
+| 161. Braghiş Natalia                    | Liceul Teoretic ,,Grătieşti"                                                 |
+| 162. Braga Raisa                        | Liceul Teoretic ,,Grătieşti"                                                 |
+| 163. Vizir Nadejda                      | Şcoala-grădiniță ,Abeceluş"                                                  |
+| 164. Boaghe Maria                       | Şcoala-grădiniță ,Abeceluş"                                                  |
+| 165. Negru Natalia                      | Şcoala-grădiniță ,Abeceluş"                                                  |
+| 166. Snegur Silvia                      | Grădinița de copii nr. 16                                                    |
+| 167. Negara Ludmila                     | Grădinița de copii nr. 16                                                    |
+| 168. Eagrin Raisa                       | Grădinița de copii nr. 16                                                    |
+| 169. Cerbuşca Elena                     | Complexul Eeducațional ,,Truşeni"                                            |
+| 170. Covali Lidia                       | Complexul Eeducațional ,Truşeni"                                             |
+| 171. Dudca Diana                        | Complexul Eeducațional Trușeni"                                              |
+| 172. Tun Maria                          | Grădinița de copii nr. 53                                                    |
+| 173. Sîrbu Ecaterina                    | Grădinița de copii nr. 53                                                    |
+| 174. Şimcova Lilia                      | Grădinița de copii nr. 53                                                    |
+| 175. Mitreanu Nina                      | Grădinița de copii nr. 34                                                    |
+| 176. Nichiforov Olga                    | Grădinița de copii nr. 34                                                    |
+| 177. Pricop Ana                         | Grădinița de copii nr. 34                                                    |
+| 178. Ceban Olga                         | Grădinița de copii nr. 203 (s. Ghidighici)                                   |
+| 179. Graur Ina                          | Grădinița de copii nr. 203 (s. Ghidighici)                                   |
+| 180. Graur Svetlana 181. Costin Maria   | Grădinița de copii nr. 203 (s. Ghidighici) Şcoala primară grădiniță A. Ursu" |
+| 182. Uricu Vera                         |                                                                              |
+| 183. Chitanu Natalia                    | Şcoala primară grădiniță A. Ursu"                                            |
+| 184. Cebotari Nina                      | Şcoala primară grădiniță ,A. Ursu" Grădinița de copii nr. 215                |
+
+<!-- page: 11 -->
+
+| 185. Noroc Lilia        | Grădinița de copii nr. 215            |
+|-------------------------|---------------------------------------|
+| 186. Vataman Natalia    | Grădinița de copii nr. 215            |
+| 187. Pîrău Liliana      | Grădinița de copii nr. 215            |
+| 188. Luncaş Viorica     | Grădinița de copii nr. 215            |
+| 189. Profir Cristina    | Grădinița de copii nr. 25             |
+| 190. Cujba Tatian       | Grădinița de copii nr. 25             |
+| 191. Chişlea Rita       | Grădinița de copii nr. 25             |
+| 192. Păcălău Victoria   | Grădinița de copii nr. 25             |
+| 193. Haraz Mariana      | Grădinița de copii nr. 180            |
+| 194. Ioniță Victoria    | Grădinița de copii nr. 180            |
+| 195. Negrean Cristina   | Grădinița de copii nr. 180            |
+| 196. Lavric Irina       | Grădinița de copii nr. 181            |
+| 197. Scorțescu Raisa    | Grădinița de copii nr. 181            |
+| 198. Bulgac Margareta   | Grădinița de copii nr. 181            |
+| 199. Portarescu Stela   | Grădinița de copii nr. 98             |
+| 200. Pirău Diana        | Grădinița de copii nr. 98             |
+| 201. Dehtear Adriana    | Grădinița de copii nr. 98             |
+| 202. Castraveę Radusea  | Grădinița de copii nr. 44             |
+| 203. Florea Marina      | Grădinița de copii nr. 44             |
+| 204. Buza Tatiana       | Grădinița de copii nr. 44             |
+| 205. Barbăneagră Elena  | Grădinița de copii nr. 103            |
+| 206. Ursu Adriana       | Grădinița de copii nr. 103            |
+| 207. Roga Tatiana       | Grădinița de copii nr. 104            |
+| 208. Fara Natalia       | Grădinița de copii nr. 104            |
+| 209. Tutunaru Tatiana   | Grădinița de copii nr. 104            |
+| 210. Ghițiu Galina      | Grădinița de copii nr. 176 (s.Băcioi) |
+| 211. Vieru Liliana      | Grădinița de copii nr. 176 (s.Băcioi) |
+| 212. Elena Moleşteanu   | Grădinița de copii nr. 176 (s.Băcioi) |
+| 213. Stratu Aliona      | Grădinița de copii nr.165             |
+| 214. Rața Ecaterina     | Grădinița de copii nr.165             |
+| 215. Sadovnic Diana     | Grădinița de copii nr.165             |
+| 216. Ciobanu Tatiana    | Grădinița de copii nr. 141            |
+| 217. Danița Angela      | Grădinița de copii nr. 141            |
+| 218. Frumusache Mariana | Grădinița de copii nr. 141            |
+| 219. Ciocan Angela      | Grădinița de copii nr. 141            |
+| 220. Pogor Olga         | Grădinița de copii nr. 141            |
+| 221. Marjina Natalia    | Grădinița de copii nr. 168            |
+| 222. Magalatii Tatiana  | Grădinița de copii nr. 168            |
+| 223. Turcan Dorina      | Grădinița de copii nr. 168            |
+| 224. Ceban Inga         | Grădinița de copii nr. 153            |
+| 225. Culico Natalia     | Grădinița de copii nr. 153            |
+| 226. Cotorobai Victoria | Grădinița de copii nr. 202            |
+| 227. Ciobu Natalia      | Grădinița de copii nr. 202            |
+| 228. Guțu Tatiana       | Grădinița de copii nr. 202            |
+| 229. Gorgos Angela      | Grădinița de copii nr. 9              |
+| 230. Perju Elena        | Grădinița de copii nr. 9              |
+| 231. Cepraga Svetlana   | Grădinița de copii nr. 9              |
+| 232. Turcan Natalia     | Grădinița de copii nr. 35             |
+
+<!-- page: 12 -->
+
+| 233. Pleşca Olga                       | Grădinița de copii nr. 91                                         |
+|----------------------------------------|-------------------------------------------------------------------|
+| 234. Berlinschi Adelina                | Grădinița de copii nr. 91                                         |
+| 235. Gîrbea Olesea                     | Grădinița de copii nr. 91                                         |
+| 236. Rebeja Olimpia                    | Grădinița de copii nr. 165                                        |
+| 237. David Irina                       | Grădinița de copii nr. 165                                        |
+| 238. Botnari Victoria                  | Grădinița de copii nr. 165                                        |
+| 239. Ciubotari Tatiana                 | Grădinița de copii nr. 139                                        |
+| 240. Graur Lilia                       | Grădinița de copii nr. 139                                        |
+| 241. Gaiduc Nadejda                    | Grădinița de copii nr. 139                                        |
+| 242. Donoagă Carolina                  | Grădinița de copii nr. 139                                        |
+| 243. Victoria Pogor                    | Grădinița de copii nr.101 (s.Băcioi)                              |
+| 244. Breaben Ecaterina                 | Grădinița de copii nr.101 (s.Băcioi)                              |
+| 245. Borș Ecaterina                    | Grădinița de copii nr.101 (s.Băcioi)                              |
+| 246. Victoria Pogor                    | Grădinița de copii nr. 171 (s.Băcioi)                             |
+| 247. Borș Valentina                    | Grădinița de copii nr. 171 (s.Băcioi)                             |
+| 248. Breahna Lilia                     | Grădinița de copii nr. 171 (s.Băcioi)                             |
+| 249. Pogor Victoria                    | Grădinița de copii nr. 45 (s.Brăila)                              |
+| 250. Polucci Elena                     | Grădinița de copii nr. 45 (s.Brăila)                              |
+| 251. Celcinschi Liuba                  | Grădinița de copii nr. 45 (s.Brăila)                              |
+| 252. Simon Vera                        | Grădinița de copii nr. 99                                         |
+| 253. Botezatu Dana                     | Grădinița de copii nr. 99                                         |
+| 254. Golub Dumitrita                   | Grădinița de copii nr. 99                                         |
+| 255. Bîrcă Tatiana                     | Grădinița de copii nr. 106                                        |
+| 256. Leah Erica                        | Grădinița de copii nr. 106                                        |
+| 257. Fotari Elena                      | Grădinița de copii nr. 106                                        |
+| 258. Belotcaci Anna                    | Grădinița de copii nr. 17                                         |
+| 259. Leanca Olga                       | Grădinița de copii nr. 17                                         |
+| 260. Poclit Mihaela                    | Grădinița de copii nr. 17                                         |
+| 261. Rotari Diana                      | Grădinița de copii nr. 25                                         |
+| 262. Jəra Cristin                      | Grădinița de copii nr. 25                                         |
+| 263. Diaconu Cristina                  | Grădinița de copii nr. 25                                         |
+| 264. Spinenco Ana                      | Grădinița de copii nr. 25                                         |
+| 265. Fondos Maria                      | Grădinița de copii nr. 40                                         |
+| 266. Cotai Natalia                     | Grădinița de copii nr. 40                                         |
+| 267. Manolachi-Negru Lucia             | Grădinița de copii nr. 40                                         |
+| 268. Donea Lidia 269. Evciuc Alina     | Grădinița de copii nr. 79                                         |
+| 270. Deliu Natalia                     | Grădinița de copii nr. 79 Instituția Privată Învățământ Preşcolar |
+| 271. Gribiniuc Ana                     | "Wonki"                                                           |
+|                                        | Grădinița de copii nr. 96                                         |
+| 272. Musteașa Rusanda                  | Grădinița de copii nr. 96                                         |
+| 273. Ciobanu Maria                     | Grădinița de copii nr. 25                                         |
+| 274. Covalschi Aurelia                 | Grădinița de copii nr. 25                                         |
+| 275. Rusu Violeta 276. Costişanu Nelea | Grădinița de copii nr. 25                                         |
+| 277. Pcela Aliona                      | Grădinița de copii nr. 25 Grădinița de copii nr. 122              |
+| 278. Vlasova Alla                      | Grădinița de copii nr. 89                                         |
+| 279. Chinceva Natalia                  | Grădinița de copii nr. 184                                        |
+
+<!-- page: 13 -->
+
+| 280. Dimoglo Elena                           | Grădinița de copii nr. 113                               |
+|----------------------------------------------|----------------------------------------------------------|
+| 281. Gorincioi Ecaterina                     | Grădinița de copii nr. 87                                |
+| 282. Scacun Elena                            | Grădinița de copii nr. 63                                |
+| 283. leremici Irina                          | Grădinița de copii nr. 60                                |
+| 284. Gajev Natalia                           | Grădinița de copii nr. 112                               |
+| 285. Terlețcaia Iana                         | Complexul educațional Liceu-grădiniță Chiril și Metodii" |
+| 286. Agrici Inna                             | Grădinița de copii nr. 129                               |
+| 287. Cravcenco Tatiana                       | Grădinița de copii nr. 136                               |
+| 288. Sîrghii Elena                           | Grădinița de copii nr. 118                               |
+| 289. Berezovscaia Oxana                      | Grădinița de copii nr. 105                               |
+| 290. Moscalu Tatiana                         | Liceu Teoretic ,M. Lomonosov"                            |
+| 291. Lupaşcu Maria                           | Liceu Teoretic ,M. Lomonosov"                            |
+| 292. Kompsniiets Liudmyla                    | Grădinița de copii nr. 68                                |
+| 293. Popa Olga                               | Grădinița de copii nr. 116                               |
+| 294. Stratan Alexandra                       | Grădinița de copii nr. 185                               |
+| 295. Ranga Natalia                           | Grădinița de copii nr. 26                                |
+| 296. Raețcaia Nadejda                        | Grădinița de copii nr. 110                               |
+| 297. Lesnic Svetlana                         | Grădinița de copii nr. 110                               |
+| 298. Negruța Ludmila                         | Grădinița de copii nr. 77                                |
+| 299. Climova Oxana                           | Şcoala primară - grădiniță 124                           |
+| 300. Samotil Anna                            | Grădinița de copii nr. 151                               |
+| 301. Glavan Diana                            | Grădinița de copii nr. 151                               |
+| 302. Mocanu Valentina                        | Grădinița de copii nr. 49                                |
+| 303. Novac Svetlana                          | Grădinița de copii nr. 12                                |
+| 304. Ivaschin Cristina                       | Grădinița de copii nr.116                                |
+| 305. Fopa Alexandra                          | Grădinița de copii nr.116                                |
+| 306. Mija Elena                              | Grădinița de copii nr.116                                |
+| 307. Iiniuc Ala                              | Grădinița de copii nr. 25                                |
+| 308. Taburceanu Olga                         | Grădinița de copii nr. 25                                |
+| 309. Malența Ecaterina                       | Grădinița de copii nr. 25                                |
+| 310. Oleinic Marcela                         | Grădinița de copii nr. 25                                |
+| 311. Eoridovscaia Eugenia                    | Grădinița de copii nr.143                                |
+| 312. Panfilii Ana                            | Grădinița de copii nr.143                                |
+| 313. Scutelnic Nicoleta                      | Grădinița de copii nr.143                                |
+| 314. Vasilachi Tatiana                       | Grădinița de copii nr. 164                               |
+| 315. Grecu Tamara                            | Grădinița de copii nr. 164                               |
+| 316. Pucaș Aliona                            | Grădinița de copii nr. 164                               |
+| 317. Triboi Victoria                         | Grădinița de copii nr. 166                               |
+| 318. Procop Cristina                         | Grădinița de copii nr. 166                               |
+| 319. Cheptea Eugenia                         | Grădinița de copii nr. 166                               |
+| 320. Ranga Natalia                           | Grădinița de copii nr. 26                                |
+| 321. Sìrbu Olga                              | Grădinița de copii nr. 26                                |
+| 322. Bujor Lilia 323. Elvira Noroc           | Grădinița de copii nr. 26                                |
+|                                              | Grădinița de copii nr. 62                                |
+| 324. Duca Lucia                              | Grădinița de copii nr. 62                                |
+| 325. Barbacari Valentina 326. Mîrzenco Elena | Grădinița de copii nr. 62 Grădinița de copii nr. 145     |
+
+<!-- page: 14 -->
+
+| 327. Poiana Anna                            | Grădinița de copii nr. 145                            |
+|---------------------------------------------|-------------------------------------------------------|
+| 328. Bobernaga Claudia                      | Grădinița de copii nr. 145                            |
+| 329. Furtună Eugenia                        | Grădinița de copii nr. 185                            |
+| 330. Burduja Aliona                         | Grădinița de copii nr.56                              |
+| 331. Todirasco Mariana                      | Grădinița de copii nr.56                              |
+| 332. Rotari Angela                          | Grădinița de copii nr.56                              |
+| 333. Pînzari Cristina                       | Grădinița de copii nr.37                              |
+| 334. Agache Oxana                           | Grădinița de copii nr.37                              |
+| 335. Pasat Eudochia                         | Grădinița de copii nr. 38                             |
+| 336. Caşu Diana                             | Grădinița de copii nr. 38                             |
+| 337. Brad Veronica                          | Grădinița de copii nr. 38                             |
+| 338. Ipati Carolina                         | Grădinița de copii nr. 127                            |
+| 339. Ciuş Ionela                            | Grădinița de copii nr. 127                            |
+| 340. Gurduza Irina                          | Grădinița de copii nr. 127                            |
+| 341. Bostan Tatiana                         | Grădinița de copii nr. 13                             |
+| 342. Jigaranu Olga                          | Grădinița de copii nr. 13                             |
+| 343. Tulbea Victoria                        | Grădinița de copii nr. 74                             |
+| 344. Calugher Nicoleta                      | Grădinița de copii nr. 74                             |
+| 345. Bostan Svetlana                        | Grădinița de copii nr. 32                             |
+| 346. Radvan Cristina                        | Grădinița de copii nr. 32                             |
+| 347. Craciun Hristina                       | Grădinița de copii nr. 32                             |
+| 348. Ojoga Ecaterina                        | Grădinița de copii nr. 73                             |
+| 349. Strugaru Ruslana                       | Grădinița de copii nr. 73                             |
+| 350. Fluerari Ana                           | Grădinița de copii nr. 73                             |
+| 351. Ursu Steliana                          | Grădinița de copii nr. 25                             |
+| 352. Sanduleac Ionela                       | Grădinița de copii nr. 25                             |
+| 353. Vremea Tatiana                         | Grădinița de copii nr. 25                             |
+| 354. Faşcan Mihaela                         | Grădinița de copii nr. 25                             |
+| 355. Facu Maria                             | Grădinița de copii nr. 25                             |
+| 356. Ştirbu Iuliana 357. Gherman Svetlana   | Grădinița de copii nr. 25 Grădinița de copii nr. 25   |
+| 358. Tocarciuc Andreea                      |                                                       |
+|                                             | Grădinița de copii nr. Sălcioara"                     |
+| 359. Rotari Adriana                         | CE Ilie Fulga"                                        |
+| 360. Corcenco Georgeta 361. Ciucium Mariana | CE Ilie Fulga"                                        |
+|                                             | CE Ilie Fulga"                                        |
+| 362. Eogaciuc Olga                          | Grădinița de copii nr. 138                            |
+| 363. Sgaidac Lidia                          | Grădinița de copii nr. 138                            |
+| 364. Cabtătut Ntalia                        | Grădinița de copii nr. 138                            |
+| 365. Pindiuc Nadejda                        | Grădinița de copii nr. 33 (or. Cricova)               |
+| 366. Iahnova Tatiana                        | Grădinița de copii nr. 33 (or. Cricova)               |
+| 367. Răileanu Marina                        | Grădinița de copii nr. 33 (or. Cricova)               |
+| 368. Duminica Elvira                        | Grădinița de copii nr. 30                             |
+| 369. Dobrea Elena 370. Bularga Oxana        | Grădinița de copii nr. 30 Grădinița de copii nr. 30   |
+| 371. Olevschi Lilia                         |                                                       |
+|                                             | Grădinița de copii nr. 130                            |
+| 372. Rotari Omer Viorica 373. Grosu Oxana   | Grădinița de copii nr. 130 Grădinița de copii nr. 130 |
+
+<!-- page: 15 -->
+
+| 374. Zgardan Zinaida                       | Grădinița de copii nr. 161                            |
+|--------------------------------------------|-------------------------------------------------------|
+| 375. Diaconu Tatiana                       | Grădinița de copii nr. 161                            |
+| 376. Crudu Elena                           | Grădinița de copii nr. 161                            |
+| 377. Ghimbra Viorica                       | Grădinița de copii nr. 211                            |
+| 378. Copacinschi Viorica                   | Grădinița de copii nr. 211                            |
+| 379. Mazur Silvia                          | Grădinița de copii nr. 211                            |
+| 380. Purcel Elena                          | Grădinița de copii nr. 211                            |
+| 381. Alimagomedova Oxana                   | Grădinița de copii nr.24                              |
+| 382. Garama Veronica                       | Grădinița de copii nr.24                              |
+| 383. Gachiuța Tatiana                      | Grădinița de copii nr.24                              |
+| 384. Melnic Elena                          | Grădinița de copii nr. 197                            |
+| 385. Budurin Mihaela                       | Grădinița de copii nr. 197                            |
+| 386. Ciuntu Victoria                       | Grădinița de copii nr. 197                            |
+| 387. Stanciuc Zinaida                      | Grădinița de copii nr. 144 (or.Colonița)              |
+| 388. Gaidamac Maria                        | Grădinița de copii nr. 144 (or.Colonița)              |
+| 389. Lefter Irina                          | Grădinița de copii nr. 144 (or.Colonița)              |
+| 390. Crețu Irina                           | Grădinița de copii nr. 223                            |
+| 391. Bîzga Larisa                          | Grădinița de copii nr. 223                            |
+| 392. Mereuța Valentina                     | Grădinița de copii nr. 190                            |
+| 393. Croitor Corina                        | Grădinița de copii nr. 190                            |
+| 394. Nacul Irina                           | Grădinița de copii nr. 190                            |
+| 395. Fusa Carolina                         | Grădinița de copii nr. 1 (s.Bubuieci)                 |
+| 396. Diulgher Jeorjeta                     | Grădinița de copii nr. 1 (s.Bubuieci)                 |
+| 397. Fănuță Irina                          | Grădinița de copii nr. 1 (s.Bubuieci)                 |
+| 398. Grecu Victoria                        | Grădinița de copii nr. 2 (s.Bubuieci)                 |
+| 399. Semionov Victoria                     | Grădinița de copii nr. 2 (s.Bubuieci)                 |
+| 400. Gusev Natalia                         | Grădinița de copii nr. 2 (s.Bubuieci)                 |
+| 401. Mereuța Emilia                        | Grădinița de copii nr. 1 (s.Budeşti)                  |
+| 402. Victoria Ghirila                      | Grădinița de copii nr. 1 (s.Budeşti)                  |
+| 403. Ealan Ina                             | Grădinița de copii nr. 1 (s.Budeşti)                  |
+| 404. Guşan Natalia                         | Grădinița de copii nr. 212                            |
+| 405. Scutelnic Oxana                       | Grădinița de copii nr. 212                            |
+| 406. Climov Nadejda                        | Grădinița de copii nr. 212                            |
+| 407. Druţa Lucia                           | Grădinița de copii nr. 212                            |
+| 408. Mironov Aurelia                       | Grădinița de copii nr. 212                            |
+| 409. Coleac Cristina 410. Pirgaru Veronica | Grădinița de copii nr.46 Grădinița de copii nr.46     |
+| 411. Lungu Mariana                         | Grădinița de copii nr.46                              |
+| 412. Usatiuc Anastasia                     | Grădinița de copii nr.15                              |
+| 413. Spimenco Corina                       | Grădinița de copii nr.15                              |
+| 414. Grecu Larisa                          | Grădinița de copii nr. 150                            |
+| 415. Uretii Anastasia 416. Deleu Elena     | Grădinița de copii nr. 150                            |
+| 417. Guțu Ana                              | Grădinița de copii nr. 150                            |
+|                                            | Grădinița de copii nr. 137                            |
+| 418. Polişciuc Ecaterina 419. Jivilic Ana  | Grădinița de copii nr. 137 Grădinița de copii nr. 100 |
+| 420. Roşca Anastasia                       | Grădinița de copii nr. 100                            |
+
+<!-- page: 16 -->
+
+| 421. Moraru-Zamă Valeria             | Grădinița de copii nr. 100             |
+|--------------------------------------|----------------------------------------|
+| 422. Crivoşeev Larisa                | Grădinița de copii nr. 146             |
+| 423. Safaler Neonela                 | Grădinița de copii nr. 146             |
+| 424. Bînzari Veronica                | Grădinița de copii nr. 146             |
+| 425. Gavriliuc Oxana                 | Grădinița de copii nr. 118             |
+| 426. Gaidarji Angela                 | Grădinița de copii nr. 118             |
+| 427. Vozniuc Aliona                  | Grădinița de copii nr. 118             |
+| 428. Chetrean Olga                   | Grădinița de copii nr. 89              |
+| 429. Marc Romina                     | LT ,,Waldorf'                          |
+| 430. Apostol Lidia                   | Grădinița de copii nr.5                |
+| 431. Bordei Natalia                  | Grădinița de copii nr.5                |
+| 432. Andrienco Victoria              | Grădinița de copii nr.5                |
+| 433. Paladi Tatiana                  | Grădinița de copii nr.47               |
+| 434. Melnic Oxana                    | Grădinița de copii nr.47               |
+| 435. Golovei Alina                   | Grădinița de copii nr.47               |
+| 436. Bondarenco Svetlana             | Grădinița de copii nr. 136             |
+| 437. Chirilov Oxana                  | Grădinița de copii nr. 136             |
+| 438. Ciorici Veronica                | Grădinița de copii nr. 136             |
+| 439. Pleşca Natalia                  | Grădinița de copii nr. 66              |
+| 440. Mițelea Georgeta                | Grădinița de copii nr. 66              |
+| 441. Diaconu Marina                  | Grădinița de copii nr. 66              |
+| 442. Teibaş Ala                      | Grădinița de copii nr. 64              |
+| 443. Rîmbu Ludmila                   | Grădinița de copii nr. 64              |
+| 444. Ghimpu Marina                   | Grădinița de copii nr. 64              |
+| 445. Movilu Raisa                    | Grădinița de copii nr. 81              |
+| 446. Negură Cătălina                 | Grădinița de copii nr. 81              |
+| 447. Guțu Cristina                   | Grădinița de copii nr. 81              |
+| 448. Varzari Stela                   | Grădinița de copii nr. 81              |
+| 449. Cojocari Ina                    | Grădinița de copii nr. 81              |
+| 450. Danişov Nina                    | Grădinița de copii nr. 81              |
+| 451. Demian Mihaela                  | Grădinița de copii nr. 81              |
+| 452. Dobrovolscaia Tatiana           | Grădinița de copii nr.89               |
+| 453. Ceban Larisa                    | Grădinița de copii nr. 159             |
+| 454. Crețu Ira                       | Grădinița de copii nr. 159             |
+| 455. Roşca Cristina                  | Grădinița de copii nr. 159             |
+| 456. Bălan Angela                    | Grădinița de copii nr. 160             |
+| 457. Tepordei Ludmila                | Grădinița de copii nr. 160             |
+| 458. Vodovoi Valeria                 | Grădinița de copii nr. 160             |
+| 459. Zavtoni Larisa                  | Grădinița de copii nr. 1 (s.Grătieşti) |
+| 460. Lîs Marianna                    | Grădinița de copii nr. 1 (s.Grătieşti) |
+| 461. Moisei Tatiana                  | Grădinița de copii nr. 1 (s.Grătiești) |
+| 462. Lungu Cristina                  | Grădinița de copii nr. 2 (s. Hulboaca) |
+| 463. Rotaru Luminița                 | Grădinița de copii nr. 2 (s. Hulboaca) |
+| 464. Roşca Aliona                    | Grădinița de copii nr. 2 (s. Hulboaca) |
+| 465. Postolachi Svetlana             | Grădinița de copii nr. 80              |
+| 466. Cordun Elena 467. Petic Nadejda | Grădinița de copii nr. 80              |
+| 468. S:minoi Tatiana                 | Grădinița de copii nr. 80              |
+|                                      | Grădinița de copii nr. 57              |
+
+<!-- page: 17 -->
+
+| 469. Lisina Olga                      | Grădinița de copii nr. 57              |
+|---------------------------------------|----------------------------------------|
+| 470. Gurghiş Olesea                   | Grădinița de copii nr. 57              |
+| 471. Liscov Aliona                    | Grădinița de copii nr. 51              |
+| 472. Morozan Irina                    | Grădinița de copii nr. 51              |
+| 473. Blişceac Cristina                | Grădinița de copii nr. 51              |
+| 474. Gavriluța Liudmila               | Grădinița de copii nr. 41              |
+| 475. Dobrovolschi Tatiana             | Grădinița de copii nr. 41              |
+| 476. Rusu Galina                      | Grădinița de copii nr. 41              |
+| 477. Talpă Victoria                   | Grădinița de copii nr. 196             |
+| 478. Dubălaru Margareta               | Grădinița de copii nr. 196             |
+| 479. Pană Rodica                      | Grădinița de copii nr. 196             |
+| 480. Vatrici Valentina                | CE,,Hulboaca", grupa pregătitoare      |
+| 481. Pascal Valentina                 | CE,,Hulboaca", grupa pregătitoare      |
+| 482. Arventi Alina                    | Grădinița de copii nr.188              |
+| 483. Nichifor Radu                    | Grădinița de copii nr.188              |
+| 484. Cristina Vîrlan                  | Grădinița de copii nr.188              |
+| 485. Cereş Svetlana                   | Grădinița de copii nr.220 (s.Ciorescu) |
+| 486. Gritenco Marianna                | Grădinița de copii nr.220 (s.Ciorescu) |
+| 487. Firfa Eugenia                    | Grădinița de copii nr.220 (s.Ciorescu) |
+| 488. Costin Eleonora                  | Grădinița de copii nr. 128             |
+| 489. Cucerescu Svetlana               | Grădinița de copii nr. 128             |
+| 490. Timofti Zinaida                  | Grădinița de copii nr. 67              |
+| 491. Trebiş Emilia                    | Grădinița de copii nr. 67              |
+| 492. Braghiş Cristina                 | Grădinița de copii nr. 67              |
+| 493. Fascaru Oxana                    | Grădinița de copii nr. 179             |
+| 494. Iosob Cristina                   | Grădinița de copii nr. 179             |
+| 495. Josu Elena 496. Matcovschii Nina | Grădinița de copii nr. 179             |
+| 497. Negoița Inga                     | Grădinița de copii nr. 149             |
+|                                       | Grădinița de copii nr. 149             |
+| 498. Eabilev Dorina                   | Grădinița de copii nr. 149             |
+| 499. Solonaru Ala                     | Grădinița de copii nr. 135             |
+| 500. Vrabie Aliona                    | Grădinița de copii nr. 135             |
+| 501. Chiriacova Natalia               | Grădinița de copii nr. 135             |
+| 502. Şendrea Nadejda                  | CE Gimnaziu -grădiniță Cruzeşti        |
+| 503. Samsonov Mădălina                | Grădinița de copii nr. 155             |
+| 504. Tabor Alina                      | Grădinița de copii nr. 155             |
+| 505. Cegodari Valeria                 | Grădinița de copii nr. 155             |
+| 506. Profenco Maria                   | Grădinița de copii nr. 89              |
