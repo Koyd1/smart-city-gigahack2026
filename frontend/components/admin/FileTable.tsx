@@ -2,6 +2,7 @@
 
 import { useEffect, useMemo, useState } from "react";
 
+import { Input } from "@/components/ui/input";
 import { useAppTranslation } from "@/lib/i18n/I18nProvider";
 import { cn } from "@/lib/utils";
 
@@ -19,6 +20,8 @@ export type KnowledgeFileRow = {
 type FileTableProps = {
   files: KnowledgeFileRow[];
   totalCount: number;
+  search: string;
+  onSearchChange: (value: string) => void;
   loading: boolean;
   busyId: string | null;
   sortOrder: "newest" | "oldest";
@@ -48,6 +51,8 @@ function formatDate(value: string): string {
 export default function FileTable({
   files,
   totalCount,
+  search,
+  onSearchChange,
   loading,
   busyId,
   sortOrder,
@@ -120,20 +125,48 @@ export default function FileTable({
 
   return (
     <section className="rounded-[30px] border border-[#e8eaf1] bg-[#fcfdff] px-4 py-5 shadow-[0_24px_60px_-48px_rgba(15,23,42,0.65)] md:px-6 md:py-6">
-      <div className="mb-4 flex flex-col gap-4 sm:flex-row sm:items-start sm:justify-between">
-        <div>
-          <h2 className="m-0 text-[1.9rem] font-bold tracking-[-0.02em] text-[#0f172a]">
-            {t("admin.fileTable.title")}
-          </h2>
-          <p className="mt-2 text-[1.02rem] text-[#667085]">{totalLabel}</p>
+      <div className="mb-5">
+        <h2 className="m-0 text-[1.9rem] font-bold tracking-[-0.02em] text-[#0f172a]">
+          {t("admin.fileTable.title")}
+        </h2>
+      </div>
+      <div className="mb-4 flex flex-col gap-3 lg:flex-row lg:items-center">
+        <div className="min-w-0 w-full flex-1">
+          <Input
+            icon={
+              <svg
+                className="h-5 w-5"
+                viewBox="0 0 20 20"
+                fill="none"
+                xmlns="http://www.w3.org/2000/svg"
+                aria-hidden="true"
+              >
+                <path
+                  d="M13.125 13.125L17 17M15.3333 8.66667C15.3333 12.3486 12.3486 15.3333 8.66667 15.3333C4.98477 15.3333 2 12.3486 2 8.66667C2 4.98477 4.98477 2 8.66667 2C12.3486 2 15.3333 8.66667 15.3333 8.66667Z"
+                  stroke="currentColor"
+                  strokeWidth="1.8"
+                  strokeLinecap="round"
+                />
+              </svg>
+            }
+            value={search}
+            onChange={(event) => onSearchChange(event.target.value)}
+            placeholder={t("admin.knowledge.searchPlaceholder")}
+            wrapperClassName="rounded-2xl border-[#eef1f6] bg-[#f6f8fc] px-4 py-0"
+            className="py-3 text-sm"
+            aria-label={t("admin.knowledge.searchAriaLabel")}
+          />
         </div>
-        <div className="flex items-center gap-3">
-          {loading ? (
-            <span className="inline-flex items-center gap-2 rounded-full bg-[#eef2ff] px-3 py-1.5 text-sm text-[#4338ca]">
-              <span className="inline-flex h-4 w-4 animate-spin rounded-full border-2 border-[#a5b4fc] border-t-[#4338ca]" />
-              {t("admin.fileTable.refreshing")}
-            </span>
-          ) : null}
+        <div className="flex flex-wrap items-center justify-between gap-3 lg:justify-end">
+          <div className="flex items-center gap-3">
+            <p className="m-0 whitespace-nowrap text-sm text-[#667085]">{totalLabel}</p>
+            {loading ? (
+              <span className="inline-flex items-center gap-2 rounded-full bg-[#eef2ff] px-3 py-1.5 text-sm text-[#4338ca]">
+                <span className="inline-flex h-4 w-4 animate-spin rounded-full border-2 border-[#a5b4fc] border-t-[#4338ca]" />
+                {t("admin.fileTable.refreshing")}
+              </span>
+            ) : null}
+          </div>
           <label className="inline-flex items-center gap-3 rounded-2xl border border-[#eef2f7] bg-[#f6f8fc] px-4 py-2.5 text-sm font-medium text-[#6b7280] shadow-[0_12px_28px_-24px_rgba(15,23,42,0.45)]">
             <span>{t("admin.fileTable.sortBy")}</span>
             <span className="relative inline-flex min-w-[92px] items-center">

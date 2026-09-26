@@ -166,6 +166,20 @@ export const resources = {
           footer:
             "După încărcare, documentul va intra automat în pipeline-ul de indexare."
         },
+        civicBundle: {
+          button: "Importă ZIP crawler",
+          uploading: "Se încarcă arhiva...",
+          processing: "Se importă documentele...",
+          progress: "Se importă {{filename}}: {{documents}} documente și {{chunks}} fragmente.",
+          completed: "Import finalizat: {{imported}} noi, {{skipped}} deja actualizate, {{failed}} cu erori.",
+          completedEmpty: "Importul ZIP a fost finalizat.",
+          partial: "Importul s-a încheiat cu unele erori.",
+          unsupported: "Selectați un fișier ZIP.",
+          fileTooLarge: "Arhiva depășește limita de 15 MB.",
+          uploadFailed: "Încărcarea arhivei a eșuat.",
+          statusFailed: "Nu s-a putut verifica starea importului.",
+          importFailed: "Importul arhivei a eșuat."
+        },
         fileTable: {
           title: "Fișiere încărcate",
           countOne: "1 fișier în baza de cunoștințe",
@@ -621,6 +635,20 @@ export const resources = {
           footer:
             "После загрузки документ автоматически попадет в пайплайн индексации."
         },
+        civicBundle: {
+          button: "Загрузить ZIP краулера",
+          uploading: "Загрузка архива...",
+          processing: "Импорт документов...",
+          progress: "Импорт {{filename}}: {{documents}} документов и {{chunks}} фрагментов.",
+          completed: "Импорт завершен: новых {{imported}}, уже актуальных {{skipped}}, с ошибками {{failed}}.",
+          completedEmpty: "Импорт ZIP завершен.",
+          partial: "Импорт завершен с ошибками.",
+          unsupported: "Выберите ZIP-файл.",
+          fileTooLarge: "Архив превышает лимит 15 МБ.",
+          uploadFailed: "Не удалось загрузить архив.",
+          statusFailed: "Не удалось проверить статус импорта.",
+          importFailed: "Не удалось импортировать архив."
+        },
         fileTable: {
           title: "Загруженные файлы",
           countOne: "1 файл в базе знаний",
@@ -1074,6 +1102,20 @@ export const resources = {
           uploaded: "File {{name}} was uploaded.",
           buttonUploading: "Uploading...",
           footer: "After upload, the document will automatically enter the indexing pipeline."
+        },
+        civicBundle: {
+          button: "Import crawler ZIP",
+          uploading: "Uploading archive...",
+          processing: "Importing documents...",
+          progress: "Importing {{filename}}: {{documents}} documents and {{chunks}} chunks.",
+          completed: "Import complete: {{imported}} new, {{skipped}} already current, {{failed}} failed.",
+          completedEmpty: "ZIP import complete.",
+          partial: "Import completed with errors.",
+          unsupported: "Select a ZIP file.",
+          fileTooLarge: "The archive exceeds the 15 MB limit.",
+          uploadFailed: "Failed to upload the archive.",
+          statusFailed: "Failed to check import status.",
+          importFailed: "Failed to import the archive."
         },
         fileTable: {
           title: "Uploaded files",

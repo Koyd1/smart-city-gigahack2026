@@ -39,13 +39,20 @@ def _safe_parts(name: str) -> tuple[str, ...]:
     return path.parts
 
 
+def _markdown_path(document: dict[str, Any]) -> str:
+    name = document.get("markdown_path") or document.get("markdown") or document.get("file")
+    if not isinstance(name, str) or not name:
+        raise ValueError("Each manifest document requires a Markdown file path")
+    return name
+
+
 def _read_directory(export_path: Path) -> tuple[dict[str, Any], bytes, dict[str, bytes]]:
     root = export_path.resolve()
     manifest = json.loads((root / "manifest.json").read_text(encoding="utf-8"))
     chunks = (root / "chunks.jsonl").read_bytes()
     markdown_files: dict[str, bytes] = {}
     for document in manifest.get("documents", []):
-        name = document.get("markdown_path") or document.get("file")
+        name = _markdown_path(document)
         parts = _safe_parts(name)
         path = root.joinpath(*parts).resolve()
         if not path.is_relative_to(root):
@@ -76,7 +83,7 @@ def _read_zip(export_path: Path) -> tuple[dict[str, Any], bytes, dict[str, bytes
         chunks = archive.read("chunks.jsonl")
         markdown_files = {}
         for document in manifest.get("documents", []):
-            name = document.get("markdown_path") or document.get("file")
+            name = _markdown_path(document)
             _safe_parts(name)
             markdown_files[name] = archive.read(name)
     return manifest, chunks, markdown_files
@@ -107,7 +114,7 @@ def load_civic_bundle(
     for item in manifest.get("documents", []):
         document_id = item.get("document_id")
         version_id = item.get("version_id")
-        markdown_path = item.get("markdown_path") or item.get("file")
+        markdown_path = _markdown_path(item)
         current_source_id = item.get("source_id", "legacy-civic-export")
         if not document_id or not version_id or not markdown_path:
             raise ValueError("Each manifest document requires document_id, version_id, and file path")
