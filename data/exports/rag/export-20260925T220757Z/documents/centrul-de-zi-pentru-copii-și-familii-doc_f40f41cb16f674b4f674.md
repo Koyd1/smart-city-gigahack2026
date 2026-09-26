@@ -1,0 +1,30 @@
+---
+document_id: "doc_f40f41cb16f674b4f674"
+version_id: "ver_f40f41cb_29757f0a55b5"
+title: "Centrul de zi pentru copii și familii"
+source_url: "https://proiecte.chisinau.md/ro/pv-1105-centrul-de-zi-pentru-copii-si-familii"
+retrieved_at: "2026-09-25T22:02:38.829133+00:00"
+content_sha256: "29757f0a55b5ab47f77aa77d8da7f37aada894c68c0b7c53aa9129a475ccba58"
+language: "ro"
+category: "transparency_projects"
+document_type: "html"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+**Sănătate/Asistență Socială / Asistență socială**
+
+# Centrul de zi pentru copii și familii
+
+## Descriere
+
+**În iunie 2023, în municipiul Chișinău a fost deschis un nou Centrul de zi pentru copii și familii.**
+
+Serviciile prestate în centrele de zi au drept scop prevenirea separării copilului de familie, marginalizării, excluderii sociale, instituţionalizării și facilitării procesului de incluziune a copilului în familie şi în comunitate. Grupul țintă: Familiile cu copii cu vârsta de la 7-18 ani. Beneficiari direcți: Copiii aflați în situație de risc. Serviciul social dispune de 10 centre de zi în orașul Chișinău: câte doua centre în fiecare sector al capitalei astfel, acoperind un număr de 300 copiii anual.Adresele Centrelor de zi pentru copii în situație de risc:- str. Gheorghe Asachi nr.49- str. M. Lomonosov nr. 40/2- str. Alba Iulia nr. 122- str. Ion Pelivan 15- str. Muncești nr. 808- str. Matei Basarab 5/5- str. Socoleni nr. 15- bd. Mircea cel Bătrân 24- str. Podul Înalt 22- str. Titulescu 15Centrele dispun de spații prietenoase copiilor adaptate vârstelor și necesitățile copiilor. Acțiuni realizate: • dotarea instituțiilor cu mobilier modern; • dotarea cu tehnică corespunzătoare; • dotarea a 10 ludoteci cu materiale didactice, literatură de specialitate, jocuri sociale și dezvoltative; • dotarea cu bunuri de primă necesitate a beneficiarilor; • dezvoltarea a 12 programe de asistență a copiilor și familiilor acestora. Costul total al acestui proiect este de peste 11 864 000 de lei, dintre care 7 180 900 lei reprezintă contribuiția Primăriei Chișinău, iar4 683 270 lei, UNICEF.Pentru informații suplimentare și pentru a accesa detalii despre Centrele de zi pentru copii și familie, vă rugăm să vizitați website-ul[www.gdpdc.md](http://www.gdpdc.md/).Pentru asistență și ghidare în procedura de depunere a cererii, pot fi contactați consultanții la numărul de telefon 022 226 100 sau prin e-mail la adresa centrudezi10@gmail.com.
+
+> Investiții: 11 864 000
+
+Mai mult
+
+## Proiect realizat împreună cu locuitorii orașului!

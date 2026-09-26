@@ -1,0 +1,75 @@
+---
+document_id: "doc_950fd2ad88fbeb132603"
+version_id: "ver_950fd2ad_322ceb1d68fd"
+title: "51 Autorizarea efectuării lucrărilor de instalare, operare, gestionare, mentenanţă şi/sau lichidare a reţelelor de comunicaţii electronice în zona de frontieră, la intersecția liniei frontierei de stat pe uscat sau pe apele de frontieră"
+source_url: "https://actpermisiv.gov.md/#/ep/permit/34"
+retrieved_at: "2026-09-25T22:05:08.497066+00:00"
+content_sha256: "322ceb1d68fd6ee3b4a1ea6023c17de9295e1d4e1dbbcd8621c5b410664a4bee"
+language: "ro"
+category: "services"
+document_type: "json"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# 51 Autorizarea efectuării lucrărilor de instalare, operare, gestionare, mentenanţă şi/sau lichidare a reţelelor de comunicaţii electronice în zona de frontieră, la intersecția liniei frontierei de stat pe uscat sau pe apele de frontieră
+
+Act permisiv, ce oferă dreptul solicitantului de a desfășura lucrări de instalare, operare, gestionare, mentenanţă şi/sau lichidare a reţelelor de comunicaţii electronice în zona de frontieră, la intersecția liniei frontierei de stat pe uscat sau pe apele de frontieră
+
+## Autoritatea emitentă
+
+ARCOM
+
+## Documente însoțitoare
+
+### Eliberare
+
+- Schema rețelei de comunicații electronice instalate în zona de frontieră, însoțită de descrierea analitică, și nominalizarea echipamentelor și cablurilor utilizate, adresele și coordonatele geografice ale amplasării acestora;
+- Proiectul rețelei de comunicații electronice care trece prin zona de frontieră, verificat și expertizat în condițiile legislației privind calitatea în construcții, și coordonatele geografice ale zonei de efectuare a lucrărilor;
+- Fișa de descriere abstractă a rețelei proiectate
+- Fișa de descriere abstractă a rețelei instalate
+- Declarația pe proprie răspundere cu privire la întreprinderea măsurilor necesare în scopul asigurării calității și  continuității serviciilor de comunicații electronice furnizate utilizatorilor finali în legătură cu ulterioara lichidare a rețelei respective.
+- Copiile proceselor-verbale de recepție la terminarea lucrărilor de instalare, întocmite în conformitate cu prevederile legislației.
+- Copiile contractelor încheiate cu proprietarul funciar sau cu cel de imobil sau hotărârii instanței de judecată;
+- Copia certificatului de urbanism;
+- Copia autorizației de construire.
+- Autorizare generală de furnizare a rețelelor ori serviciilor  de comunicații electronice
+
+## Cadrul legal
+
+- [HG Nr. 974 din  12.08.2008 pentru aprobarea Regulamentului privind desfășurarea activităților de instalare, operare, gestionare, mentenanță şi/sau lichidare a rețelelor de comunicații electronice la frontiera de stat a Republicii Moldova](http://lex.justice.md/md/328918/)
+- [Lege Nr. 215 din  04.11.2011 cu privire la frontiera de stat a Republicii Moldova](http://lex.justice.md/md/342894/)
+- [Lege Nr. 241 din  15.11.2007 comunicațiilor electronice](http://lex.justice.md/md/327198/)
+- [Legea Nr. 160 din  22.07.2011 privind reglementarea prin autorizare a activităţii de întreprinzător](http://lex.justice.md/md/340497/)
+- [Legea nr. 185 din 21.07.2017 pentru modificarea și completarea unor acte legislative](http://lex.justice.md/viewdoc.php?action=view&view=doc&id=371983&lang=1)
+
+## Procesul de eliberare
+
+1. Solicitantul (sau reprezentantul său legal) intră în sistem (Portalul electronic al serviciilor publice) personal sau cu ajutorul recepționarului de la ghișeu.
+
+2. Solicitantul (sau reprezentantul său legal) îndeplinește cererea și încarcă documentele necesare, personal sau cu ajutorul recepționarului de la ghișeu.
+
+3. În cazul când Solicitantul (sau reprezentantul său legal): a) depune cererea și documentele necesare cu ajutorul recepționarului de la ghișeu, recepționarul: -	va primi și va înregistra corespunzător cererea de solicitare a acordului și va primi documentele prezentate de solicitant, și -	va elibera imediat și necondiționat solicitantului certificatul constatator conform modelului indicat în anexa nr. 3 la Legea 160 din 22.07.2011, și -	va expedia cazul (copiile electronice ale cererii și a documentelor prezentate) autorității emitente pentru revizuire. Cererea poate fi returnată solicitantului doar în cazul când cererea nu conține informația necesară pentru identificarea solicitantului. b) depune cererea și încarcă documentele personal direct în sistem, sistemul: -	va genera automat documentul în format electronic de confirmare a primirii cererii și documentelor („certificatul constatator”) și -	în mod automat va direcționa cererea și setul de documente autorității emitente.
+
+4.	Autoritatea emitentă (specialistul) deschide cazul, examinează cererea și documentele însoțitoare, verifică  respectarea condițiilor. În cazul constatării lipsei documentelor/informației necesare prevăzute expres de legislație, autoritatea emitentă (specialistul) va sista termenul de examinare a cererii și va informa imediat despre acest fapt solicitantul cu specificarea și descrierea temeiului suspendării, termenului și acțiunilor de remediere pentru a iniția examinarea cererii.
+
+5.	Specialistul  examinează cazul și organizează examinările suplimentare pe interior pentru luarea deciziei de eliberare a acordului (Serviciul de Informații și Securitate, Inspectoratul General al Poliției de Frontieră, Inspectoratul pentru Protecția Mediului și autoritățile administrației publice locale din zona respectivă pentru a se asigura (cu sau fără solicitarea unei vizite de control din partea organelor în cauză) de corespunderea condițiilor prevăzute de legislație pentru tipul de activitate solicitat.)
+
+6.	Specialistul perfectează actul permisiv sau scrie o scrisoare de respingere, cu o justificare corespunzătoare în temeiul prevederilor legii, cu înștiințarea directă a solicitantului și doar în cazul în care solicitantul nu întrunește condițiile expres specificate în lege sau, după caz, nu demonstrează întrunirea acestor condiții în decursul suspendării termenului de examinare a solicitării, care se va examina și semna de directorul autorității emitente.
+
+7.	Când actul permisiv (scrisoarea) este gata, solicitantul (sau reprezentantul său legal) primește o  notificare electronică, descarcă actul permisiv și confirmă recepționarea documentului.
+
+8.	În cazul când actul permisiv se eliberează pe hârtie (la solicitare sau conform cerințelor autorității emitente), recepționarul tipărește  actul permisiv, îl livrează solicitantului  (sau reprezentantului său legal) și confirmă recepționarea.
+
+## Perioada de valabilitate
+
+Pe termenul solicitat
+
+## Taxa
+
+Gratuit
+
+## Durata de prestare
+
+În termen de cel mult 15 zile lucrătoare de la primirea cererii

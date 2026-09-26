@@ -1,0 +1,60 @@
+---
+document_id: "doc_62d6a470127170bdd372"
+version_id: "ver_62d6a470_4fe07b2d1511"
+title: "119 Certificat de furnizor de servicii ATM/ANS"
+source_url: "https://actpermisiv.gov.md/#/ep/permit/96"
+retrieved_at: "2026-09-25T22:03:30.817559+00:00"
+content_sha256: "4fe07b2d15118a7f7188fac6efd60ecc1b33981346b297ae706a10fa5c938573"
+language: "ro"
+category: "services"
+document_type: "json"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# 119 Certificat de furnizor de servicii ATM/ANS
+
+Act permisiv, emis în condițiile legii de autoritatea competentă, care atestă dreptul și capacitatea furnizorului de servicii ATM/ANS să furnizeze servicii sigure, eficiente şi continue, într-un mod care să faciliteze traficul aerian general și care să ţină totodată seama de considerentele legate de siguranţă, de cerinţele de trafic și de impactul asupra mediului.
+
+## Autoritatea emitentă
+
+Autoritatea Aeronautică Civilă
+
+## Documente însoțitoare
+
+### Eliberare
+
+- Memoriul scris de prezentare a organizaţiei care solicită certificarea
+- manualul Sistemului de Management al Siguranței (SMS) pentru furnizorii ATS
+- manuale operaționale
+- Extrasul din Registrul de stat al persoanelor juridice și al întreprinzătorilor individuali
+- Cererea-tip pentru acordarea sau modificarea Certificatului de furnizor de servicii de navigaţie aeriană
+- alte documente relevante, considerate astfel de AAC sau de către solicitant
+
+## Cadrul legal
+
+- [Codul Aerian al Republicii Moldova nr.301 din 20.12.2017](https://www.legis.md/cautare/getResults?doc_id=142505&lang=ro)
+- [HOTĂRÂRE Nr. 119 din 07-03-2023 cu privire la aprobarea Regulamentului privind stabilirea cerințelor și procedurilor administrative pentru furnizorii de management al traficului aerian și serviciilor de navigație aeriană](https://www.legis.md/cautare/getResults?doc_id=136698&lang=ro)
+- [Legea Nr. 160 din  22.07.2011 privind reglementarea prin autorizare a activităţii de întreprinzător](http://lex.justice.md/md/340497/)
+- [PIAC – CFATMANS ”Certificarea furnizorilor de servicii ATM/ANS”](https://www.caa.md/storage/upload/normative/normativ-reports/777/33_PIAC-CFATMANS_ro.pdf)
+
+## Procesul de eliberare
+
+1.	Autoritatea emitentă AAC prin președintele comisiei de certificare deschide cazul, examinează cererea și documentele însoțitoare În cazul constatării lipsei documentelor/informației necesare prevăzute expres de legislație, autoritatea emitentă (specialistul) va sista termenul de examinare a cererii și va informa imediat despre acest fapt solicitantul cu specificarea și descrierea temeiului suspendării, termenului și acțiunilor de remediere pentru a iniția examinarea cererii.
+2.	În baza setului complet de documente-dovezi AAC  va verifica conformarea furnizorului de servicii cu cerințele stabilite, după cum este prevăzut în PIAC – CFATMANS ”Certificarea furnizorilor de servicii ATM/ANS ”
+3.	În caz de conformitate deplină AAC  perfectează actul permisiv, sau scrie o scrisoare de respingere în caz de ne-conformitate, cu justificarea corespunzătoare în temeiul prevederilor legii, cu înștiințarea directă a solicitantului și doar în cazul în care solicitantul nu întrunește condițiile expres specificate în lege sau, după caz, nu demonstrează întrunirea acestor condiții în decursul suspendării termenului de examinare a solicitării, care  se vor examina și semna de directorul autorității emitente.
+4.	Când actul permisiv (scrisoarea de refuz) este gata, solicitantul (sau reprezentantul său legal) primește o notificare electronică, descarcă actul permisiv și scrisoarea  și confirmă recepționarea documentului.
+5.	În cazul când actul permisiv se eliberează pe hârtie (la solicitare sau conform cerințelor autorității emitente), recepționarul/specialistul AAC tipărește  actul permisiv, îl livrează solicitantului  (sau reprezentantului său legal) și confirmă recepționarea.
+
+## Perioada de valabilitate
+
+Nelimitată
+
+## Taxa
+
+Gratuit
+
+## Durata de prestare
+
+Până la 90 de zile din momentul depunerii cererii și documentelor necesare.

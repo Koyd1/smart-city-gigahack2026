@@ -1,0 +1,60 @@
+---
+document_id: "doc_2611fcc675c7e225c6ce"
+version_id: "ver_2611fcc6_b83acea9c976"
+title: "Programul Municipal de Dezvoltare Personală a Tinerilor „Eu - tânăr implicat”"
+source_url: "https://extrascolar.md/activity/programul-municipal-de-dezvoltare-personala-a-tinerilor-eu-tanar-implicat102"
+retrieved_at: "2026-09-25T22:03:41.877326+00:00"
+content_sha256: "b83acea9c976aabcd41f496398ac365a2d8750dd40e615f0d94914e0632faa65"
+language: "ro"
+category: "education"
+document_type: "html"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# Programul Municipal de Dezvoltare Personală a Tinerilor „Eu - tânăr implicat”
+
+###### Programul Municipal de Dezvoltare Personală a Tinerilor este dezvoltat pe module specifice ce vor ajuta tinerii să progreseze și să se dezvolte prin procesul de autocunoaștere și conștientizare.
+Al cincilea modul al programului este EUtânărimplicat.
+Sesiunile și trainingurile la acest modul sunt:
+1️⃣ 1. Voluntar în RM - realități și mituri. Aspecte legale ale activității de voluntariat (Ana Bezărău)
+2️⃣ Oportunități de voluntariat (Petru Grecu)
+3️⃣ Activitate practică de voluntariat în teritoriu (Ana Bezărău)
+4️⃣ Training (Erasmus)
+5️⃣ Manipularea (Lilia Dubița)
+7️⃣ Patru sesiuni de egalitatea de șanse și nediscriminarea (Dima Stoica)
+
+##### Opțiune preț
+
+Gratuit
+
+##### Modalitate de desfășurare
+
+Cu prezența fizică
+
+##### Orar
+
+marți, ora (16:00 - 18:00)
+
+##### Vârsta
+
+14 ani - 35 ani
+
+##### Adresa
+
+strada Petru Zadnipru 3/2
+
+#### Instituția:
+
+###### Centrul Municipal de Tineret Chișinău
+
+##### Email
+
+centru.chisinau@gmail.com
+
+##### Telefon
+
+022 482 420
+
+[Link de înregistrare](https://docs.google.com/forms/d/e/1FAIpQLSceQsHonFxv0YcobpLW3zbnRtUKQe0B0hATAwpk2T0uluiVUg/viewform)

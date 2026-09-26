@@ -1,0 +1,101 @@
+---
+document_id: "doc_d5b9386f6e2ee5057798"
+version_id: "ver_d5b9386f_6d855c10c50b"
+title: "06 Autorizare sanitar-veterinară de funcţionare"
+source_url: "https://actpermisiv.gov.md/#/ep/permit/6"
+retrieved_at: "2026-09-25T22:06:17.876640+00:00"
+content_sha256: "6d855c10c50bf9920c182a0b45396e455ddfcecca77930289ad3e2d4fbe54d75"
+language: "ro"
+category: "services"
+document_type: "json"
+document_date: null
+effective_from: null
+effective_to: null
+---
+
+# 06 Autorizare sanitar-veterinară de funcţionare
+
+Autorizația sanitară veterinară de funcționare este un document oficial emis de autoritatea sanitară veterinară competentă (Agenție). Agenții economici care desfășoară cel puțin una dintre activitățile menționate în anexa nr. 6 din Legea Nr. 221/2007 pot activa numai dacă acestea au fost supuse procedurii de autorizare/înregistrare sanitară veterinară de către Agenție. Acest document atestă faptul că instituțiile și întreprinderile, unitățile supuse supravegherii sanitare veterinare respectă cerințele impuse în domeniul sanitar veterinar, din domeniul siguranței produselor alimentare și subproduselor de origine animală. Prin obținerea unei astfel de autorizații, agenții economici demonstrează că au implementat măsuri și proceduri adecvate pentru asigurarea igienei și siguranței produselor de origine animală, respectând normele și reglementările în vigoare. Autorizația sanitară veterinară de funcționare confirmă că agenții economici sunt apți să desfășoare activități care implică efective de animale sau produse alimentare și subproduse de origine animală într-un mod sigur și conform legislației în vigoare.
+
+## Autoritatea emitentă
+
+Subdiviziuni teritoriale ANSA
+
+## Documente însoțitoare
+
+### Eliberare
+
+- contractul de angajare/prestare servicii încheiat cu un medic veterinar
+- actul ce confirmă înregistrarea activității de întreprinzător în Republica Moldova
+- actul ce confirmă dreptul de proprietate sau dreptul de folosință asupra spațiului
+### Prelungire
+
+- copia de pe contractul de angajare/prestare servicii încheiat cu un medic veterinar (a se vedea excepțiile de la art. 18 alin. (2);
+- copia de pe actul ce confirmă dreptul de proprietate sau dreptul de folosință asupra spațiului; (reînnoit)
+- autorizația de mediu pentru folosința specială a apei, doar pentru activitatea economică din piscicultură
+### Reluarea Valabilității
+
+- Înștiințarea de recepționare a notificării eliberată de APL despre reluarea activității
+- Decizia de suspendare a actului permisiv emisă de șeful subdiviziunii teritoriale pentru siguranța alimentelor
+- Copia autorizației sanitar-veterinare pentru care se solicită reluarea (emisă anterior pe format hârtie)
+- contractul de angajare/prestare servicii încheiat cu un medic veterinar
+- autorizația de mediu pentru folosința specială a apei, pentru activitatea economică din piscicultură
+- actul ce confirmă înregistrarea activității de întreprinzător în Republica Moldova
+- actul ce confirmă dreptul de proprietate sau dreptul de folosință asupra spațiului
+### Reperfectare
+
+- Înștiințare (de la Autoritatea publică locală) de recepționare a notificării de modificare a datelor privind activitatea solicitata
+- copia de pe contractul de angajare/prestare servicii încheiat cu un medic veterinar (a se vedea excepțiile de la art. 18 alin. (2);
+- copia de pe actul ce confirmă înregistrarea activității de întreprinzător în Republica Moldova;(reînnoit)
+- copia de pe actul ce confirmă dreptul de proprietate sau dreptul de folosință asupra spațiului; (reînnoit)
+- autorizația de mediu pentru folosința specială a apei, doar pentru activitatea economică din piscicultură
+### Retragere
+
+- Înștiințare (de la Autoritatea publică locală) de recepționare a notificării privind încetarea activității de comerț
+- Copia autorizației sanitar-veterinare pentru care se solicită retragerea (emisă anterior pe format hârtie)
+### Suspendare
+
+- Înștiințare (de la Autoritatea publică locală) de recepționare a notificării privind suspendarea activității de comerț
+- Copia autorizației sanitar-veterinare pentru care se solicită suspendarea (emisă anterior pe format hârtie)
+
+## Cadrul legal
+
+- [Legea Nr. 160 din  22.07.2011 privind reglementarea prin autorizare a activităţii de întreprinzător](http://lex.justice.md/md/340497/)
+- [Legea nr. 185 din 21.07.2017 pentru modificarea și completarea unor acte legislative](http://lex.justice.md/viewdoc.php?action=view&view=doc&id=371983&lang=1)
+- [Legea Nr. 221 din  19.10.2007 privind activitatea sanitar-veterinară](http://lex.justice.md/viewdoc.php?action=view&view=doc&id=335823&lang=1)
+
+## Procesul de eliberare
+
+Pasul 1. Depunerea cererii Solicitantul depune cererea prin următoarele modalități:
+1) în cazul când are acces la internet și deține semnătura electronică, accesează portalul serviciilor publice: www.servicii.gov.md,
+2) în cazul când nu are acces la internet și nu deține semnătura electronică, solicitantul se apropie la subdiviziunea teritorială al Agenției Naționale pentru Siguranța Alimentelor la ghișeul unic, unde cu ajutorul recepționarului depune cererea. Solicitantul (sau reprezentantul său legal) îndeplinește cererea și încarcă documentele necesare, personal sau cu ajutorul recepționarului de la ghișeu. În cazul când Solicitantul (sau reprezentantul său legal): a) depune cererea și încarcă documentele personal direct în sistem, sistemul: va genera automat documentul în format electronic de confirmare a primirii cererii si documentelor (certificatul constatator). b) depune cererea și documentele necesare cu ajutorul recepționarului de la ghișeu, recepționarul: va primi și va înregistra corespunzător cererea de solicitare a autorizației și va primi documentele prezentate de solicitant, și va elibera imediat și necondiționat solicitantului certificatul constatator conform modelului indicat în anexa nr. 3 la Legea 160/2011. Cererea poate fi returnată solicitantului doar în cazul când cererea nu conține informația necesară pentru identificarea solicitantului.
+
+Pasul 2. Șeful Subdiviziunii Teritoriale acceseaza cererea și o direcționează către specialist.
+
+Pasul 3. Procesarea și Examinarea Specialistul examinează cererea și documentele însoțitoare. În cazul constatării lipsei documentelor/informației necesare prevăzute expres de legislație, autoritatea emitentă (specialistul) va suspenda termenul de examinare a cererii și va informa imediat despre acest fapt solicitantul cu specificarea și descrierea temeiului suspendării, termenului și acțiunilor de remediere pentru a iniția examinarea cererii. În cazul corespunderii inspectorul inițiază procedura de înregistrare în Registrul de Stat al Controalelor (RSC) la unitatea indicată în cerere în decursul a 10 zile lucrătoare. Pasul 4. Efectuarea controlului. Inspectorul examinează cazul și inițiază control inopinat în scopul inspectării unității ce urmează a fi înregistrată. După efectuarea controlului, se perfectează fișa de evaluare a unității conform domeniului de activitate a solicitantului în baza căreia urmează a fi eliberat autorizația sanitar-veterinara de funcționare. În cazul în care unitatea nu corespunde prevederilor cadrului legal, inspectorii indică prescripții de înlăturare a deficiențelor, ce duc la imposibilitatea eliberării actului permisiv. Pasul 4. Eliberarea/amânarea/refuzul de eliberare În cazul în care unitatea corespunde prevederilor cadrului legal, se perfectează și se eliberează actul permisiv. Când actul permisiv este emis, solicitantul (reprezentantul legal) primește o notificare electronică, descarcă actul permisiv și confirmă recepționarea documentului.
+
+## Perioada de valabilitate
+
+Autorizația sanitar-veterinara de funcționare se eliberează pentru un termen nelimitat, dacă spațiul în care operatorul din domeniul alimentar își va desfășura activitatea este în proprietate, și pe perioada de valabilitate a contractului de locațiune a imobilului/terenului, dacă spațiul este în locațiune.
+
+## Taxa
+
+Taxa pentru:
+1)	Eliberare – 150 lei;
+2)	Reperfectare – 150;
+3)	Prelungire – 150 lei;
+4)	Suspendare – gratuit;
+5)	Reluarea valabilității – 150 lei
+6)	Eliberarea duplicatului – nu este aplicabil
+7)	Retragerea actului – gratuit;
+
+## Durata de prestare
+
+Termenul pentru:
+1)	Eliberare – 20 zile lucrătoare
+2)	Reperfectare – 15 zile lucrătoare
+3)	Prelungire – 15 zile lucrătoare
+4)	Suspendare – 3 zile lucrătoare
+5)	Reluarea valabilității – 15 zile lucrătoare
+6)	Eliberarea duplicatului – nu este aplicabil
+7)	Retragerea actului – 3 zile lucrătoare
