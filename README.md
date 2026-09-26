@@ -23,6 +23,7 @@
 - Docker + Docker Compose plugin
 - Node.js >= 20.9.0
 - npm
+- ngrok (опционально, только для публичного доступа через туннель)
 
 ## После обновления проекта
 
@@ -163,6 +164,105 @@ make prod-down
 - nginx в Docker проксирует трафик на frontend на хосте (`host.docker.internal:3000`)
 - backend доступен на `127.0.0.1:8000`
 - `raganything` вынесен из базового production image (опциональная установка отдельным профилем)
+
+## Публичный доступ через ngrok
+
+Этот вариант подходит для демо и временного общего доступа без отдельного сервера.
+ngrok публикует локальный frontend на `localhost:3000` по HTTPS. Backend, Redis и
+worker при этом остаются недоступны напрямую из интернета и вызываются через
+Next.js/BFF.
+
+Текущий публичный адрес проекта:
+
+```text
+https://twisting-parade-esquire.ngrok-free.dev
+```
+
+Ссылка работает, только пока включён компьютер и запущены Docker, frontend и
+ngrok.
+
+### 1. Установить и авторизовать ngrok
+
+На macOS:
+
+```bash
+brew install --cask ngrok
+ngrok config add-authtoken YOUR_NGROK_AUTHTOKEN
+```
+
+Токен берётся в ngrok Dashboard. Не добавляйте его в `.env` и не коммитьте в
+репозиторий.
+
+### 2. Запустить HTTPS-туннель
+
+В отдельном терминале из корня проекта:
+
+```bash
+ngrok http 3000 --url https://twisting-parade-esquire.ngrok-free.dev
+```
+
+Если статический домен не настроен в аккаунте ngrok, запустите:
+
+```bash
+ngrok http 3000
+```
+
+и скопируйте HTTPS-адрес из строки `Forwarding`. В таком случае подставьте этот
+адрес вместо примера во всех следующих командах и настройках.
+
+### 3. Настроить публичный origin
+
+В корневом `.env` укажите публичный URL без завершающего `/`:
+
+```dotenv
+NEXTAUTH_URL=https://twisting-parade-esquire.ngrok-free.dev
+WEB_ORIGIN=https://twisting-parade-esquire.ngrok-free.dev
+APP_DOMAIN=twisting-parade-esquire.ngrok-free.dev
+PYTHON_BACKEND_URL=http://127.0.0.1:8000
+```
+
+`NEXTAUTH_URL` и `WEB_ORIGIN` обязательны: без них авторизация и создание
+публичной сессии могут перенаправить посетителя на `127.0.0.1`.
+
+### 4. Запустить или перезапустить приложение
+
+Backend и worker из корня проекта:
+
+```bash
+docker compose up -d --force-recreate backend worker
+```
+
+Frontend в отдельном терминале:
+
+```bash
+cd frontend
+npm ci
+npm run build
+npm run start -- -H 0.0.0.0 -p 3000
+```
+
+Если frontend уже запущен, обязательно остановите его и запустите заново после
+изменения `.env`. Пересборка нужна после изменений исходного кода; при изменении
+только runtime-переменных достаточно перезапуска `npm run start`.
+
+### 5. Проверить доступность
+
+Откройте публичный адрес в браузере и проверьте health endpoint:
+
+```bash
+curl -sS https://twisting-parade-esquire.ngrok-free.dev/api/health
+```
+
+Ожидается HTTP `200`. На бесплатном тарифе ngrok новый посетитель может один раз
+увидеть промежуточную страницу-предупреждение — после подтверждения откроется
+приложение.
+
+Для остановки публичного доступа нажмите `Ctrl+C` в терминале с ngrok. Локальное
+приложение продолжит работать. После перезагрузки компьютера туннель, Docker и
+frontend нужно запустить снова.
+
+Перед публичной демонстрацией проверьте лимиты `DAILY_AI_BUDGET_USD`,
+`MONTHLY_AI_BUDGET_USD`, не публикуйте admin-пароль и не отключайте rate limits.
 
 ## Nginx и TLS
 

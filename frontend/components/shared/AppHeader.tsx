@@ -1,4 +1,5 @@
 import Link from "next/link";
+import { ExternalLink } from "lucide-react";
 import type { ReactNode } from "react";
 
 import LanguageSwitcher from "@/components/shared/LanguageSwitcher";
@@ -32,15 +33,30 @@ export default async function AppHeader({
 
   return (
     <header className="sticky top-0 z-50 flex items-center justify-between gap-2 border-b border-border bg-card px-3 py-3 sm:px-6">
-      {brandTransitionSkeleton ? (
-        <TransitionLink href="/" skeleton={brandTransitionSkeleton} className={brandClassName}>
-          {brandContent}
-        </TransitionLink>
-      ) : (
-        <Link href="/" className={brandClassName}>
-          {brandContent}
-        </Link>
-      )}
+      <div className="flex min-w-0 items-center gap-3 sm:gap-5">
+        {brandTransitionSkeleton ? (
+          <TransitionLink href="/" skeleton={brandTransitionSkeleton} className={brandClassName}>
+            {brandContent}
+          </TransitionLink>
+        ) : (
+          <Link href="/" className={brandClassName}>
+            {brandContent}
+          </Link>
+        )}
+        <a
+          href="https://eu.chisinau.md/"
+          target="_blank"
+          rel="noreferrer"
+          aria-label={t("common.actions.reportIssue")}
+          className="inline-flex shrink-0 items-center justify-center gap-1.5 rounded-full border border-border-strong bg-white px-3.5 py-1.5 text-xs font-semibold text-gray-900 transition-colors hover:bg-gray-50 focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#07549a] focus-visible:ring-offset-2 sm:text-[0.8125rem]"
+        >
+          <span aria-hidden="true" className="tracking-[-0.02em]">
+            <span className="text-[#2db34a]">EU.</span>{" "}
+            <span className="text-[#0b1d33]">CHISINAU</span>
+          </span>
+          <ExternalLink aria-hidden="true" size={13} strokeWidth={2.5} className="text-[#0b1d33]" />
+        </a>
+      </div>
       <div className="flex min-w-0 items-center gap-2 sm:gap-3">
         {actions}
         <LanguageSwitcher />
