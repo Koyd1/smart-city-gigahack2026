@@ -6,6 +6,7 @@ from datetime import UTC, datetime
 from pathlib import Path
 
 from civic_ai.models import Resource
+from civic_ai.processing.export import build_crawl_zip
 from civic_ai.processing.processor import ResourceProcessor
 from civic_ai.processing.storage import atomic_write
 
@@ -90,10 +91,11 @@ class CorpusPipeline:
             statuses = Counter(str(row["status"]) for row in source_rows)
             technical = spider.technical_events[source.source_id]
             per_source[source.source_id] = {
-                "limit": spider.max_pages_per_source,
+                "limit": spider.page_limits[source.source_id],
                 "discovered": len(spider.discovered[source.source_id]),
                 "scheduled": len(spider.scheduled[source.source_id]),
                 "responded": len(spider.responded[source.source_id]),
+                "successful": len(spider.successful[source.source_id]),
                 "processed": statuses["processed"],
                 "skipped": statuses["skipped"],
                 "failed": statuses["failed"],
@@ -106,6 +108,14 @@ class CorpusPipeline:
                     "note": "Technical requests do not consume the per-source content limit.",
                 },
             }
+            spider.logger.info(
+                "Finished %s: %s successful pages, %s processed, %s failed (limit %s)",
+                source.source_id,
+                len(spider.successful[source.source_id]),
+                statuses["processed"],
+                statuses["failed"],
+                spider.page_limits[source.source_id],
+            )
         payload = {
             "started_at": self.started_at.isoformat(),
             "finished_at": finished_at.isoformat(),
@@ -122,7 +132,11 @@ class CorpusPipeline:
             },
             "items": self.report,
         }
+        report_path = report_dir / f"crawl-{stamp}.json"
         atomic_write(
-            report_dir / f"crawl-{stamp}.json",
+            report_path,
             json.dumps(payload, ensure_ascii=False, indent=2, sort_keys=True) + "\n",
         )
+        archive_path = build_crawl_zip(self.root, payload, stamp)
+        spider.logger.info("Crawl report written to %s", report_path)
+        spider.logger.info("Crawl ZIP written to %s", archive_path)

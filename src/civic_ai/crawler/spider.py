@@ -1,8 +1,8 @@
 from __future__ import annotations
 
 import json
-from collections import defaultdict
-from collections.abc import Iterable
+from collections import defaultdict, deque
+from collections.abc import Iterable, Mapping
 from datetime import UTC, datetime
 from typing import Any, ClassVar
 from urllib.parse import urlencode, urljoin, urlsplit
@@ -36,7 +36,7 @@ class MunicipalSpider(scrapy.Spider):
         *,
         sources: Iterable[Source],
         project_root: str,
-        max_pages_per_source: int = 20,
+        max_pages_per_source: int | Mapping[str, int] = 20,
         depth_limit: int = 2,
         **kwargs: object,
     ) -> None:
@@ -44,17 +44,34 @@ class MunicipalSpider(scrapy.Spider):
         self.sources = list(sources)
         self.sources_by_id = {source.source_id: source for source in self.sources}
         self.project_root = project_root
-        self.max_pages_per_source = min(500, int(max_pages_per_source))
+        configured_limits = (
+            max_pages_per_source
+            if isinstance(max_pages_per_source, Mapping)
+            else {source.source_id: max_pages_per_source for source in self.sources}
+        )
+        self.page_limits = {
+            source.source_id: min(500, int(configured_limits.get(source.source_id, 20)))
+            for source in self.sources
+        }
         self.depth_limit = int(depth_limit)
         self.discovered: dict[str, set[str]] = defaultdict(set)
         self.scheduled: dict[str, set[str]] = defaultdict(set)
         self.responded: dict[str, set[str]] = defaultdict(set)
+        self.successful: dict[str, set[str]] = defaultdict(set)
+        self.pending: dict[str, deque[tuple[str, int]]] = defaultdict(deque)
+        self.pending_urls: dict[str, set[str]] = defaultdict(set)
+        self.active_content: set[str] = set()
         self.crawl_issues: list[dict[str, object]] = []
         self.technical_events: dict[str, list[dict[str, object]]] = defaultdict(list)
         self._sitemaps_seen: dict[str, set[str]] = defaultdict(set)
 
     async def start(self):  # type: ignore[override]
         for source in self.sources:
+            self.logger.info(
+                "Crawling %s with a limit of %s successful pages",
+                source.source_id,
+                self.page_limits[source.source_id],
+            )
             self.technical_events[source.source_id].append(
                 {
                     "kind": "robots.txt",
@@ -128,18 +145,39 @@ class MunicipalSpider(scrapy.Spider):
         if not normalized or not self._relevant_candidate(source, normalized):
             return None
         self.discovered[source.source_id].add(normalized)
-        if normalized in self.scheduled[source.source_id]:
+        source_id = source.source_id
+        if (
+            normalized in self.scheduled[source_id]
+            or normalized in self.pending_urls[source_id]
+            or len(self.successful[source_id]) >= self.page_limits[source_id]
+        ):
             return None
-        if len(self.scheduled[source.source_id]) >= self.max_pages_per_source:
+        self.pending[source_id].append((normalized, depth))
+        self.pending_urls[source_id].add(normalized)
+        return self._next_content_request(source)
+
+    def _next_content_request(self, source: Source) -> scrapy.Request | None:
+        source_id = source.source_id
+        if (
+            source_id in self.active_content
+            or len(self.successful[source_id]) >= self.page_limits[source_id]
+        ):
             return None
-        self.scheduled[source.source_id].add(normalized)
-        return scrapy.Request(
-            normalized,
-            callback=self.parse_resource,
-            errback=self.request_error,
-            cb_kwargs={"source": source, "depth": depth},
-            meta={"source_id": source.source_id, "content_url": normalized},
-        )
+        while self.pending[source_id]:
+            url, depth = self.pending[source_id].popleft()
+            self.pending_urls[source_id].discard(url)
+            if url in self.scheduled[source_id]:
+                continue
+            self.scheduled[source_id].add(url)
+            self.active_content.add(source_id)
+            return scrapy.Request(
+                url,
+                callback=self.parse_resource,
+                errback=self.request_error,
+                cb_kwargs={"source": source, "depth": depth},
+                meta={"source_id": source_id, "content_url": url},
+            )
+        return None
 
     def _reserve_synthetic_content(self, source: Source, url: str) -> bool:
         normalized = canonicalize_url(source.url, url)
@@ -148,7 +186,7 @@ class MunicipalSpider(scrapy.Spider):
         self.discovered[source.source_id].add(normalized)
         if normalized in self.scheduled[source.source_id]:
             return False
-        if len(self.scheduled[source.source_id]) >= self.max_pages_per_source:
+        if len(self.scheduled[source.source_id]) >= self.page_limits[source.source_id]:
             return False
         self.scheduled[source.source_id].add(normalized)
         return True
@@ -209,6 +247,7 @@ class MunicipalSpider(scrapy.Spider):
 
     def parse_resource(self, response: scrapy.http.Response, source: Source, depth: int):
         content_url = str(response.meta.get("content_url", response.request.url))
+        self.active_content.discard(source.source_id)
         self.responded[source.source_id].add(content_url)
         if response.status < 200 or response.status >= 300:
             self.crawl_issues.append(
@@ -219,8 +258,12 @@ class MunicipalSpider(scrapy.Spider):
                     "reason": f"HTTP {response.status}",
                 }
             )
+            next_request = self._next_content_request(source)
+            if next_request is not None:
+                yield next_request
             return
 
+        self.successful[source.source_id].add(content_url)
         yield self._resource_item(
             source,
             requested_url=response.request.url,
@@ -231,17 +274,19 @@ class MunicipalSpider(scrapy.Spider):
         )
 
         content_type = response.headers.get(b"Content-Type", b"").decode("latin-1").lower()
-        if "html" not in content_type or not self.should_discover_links(
+        if "html" in content_type and self.should_discover_links(
             source, depth, self.depth_limit
         ):
-            return
-        for href in response.css("a::attr(href)").getall():
-            candidate = canonicalize_url(response.url, href)
-            if not candidate:
-                continue
-            request = self._content_request(source, candidate, depth=depth + 1)
-            if request is not None:
-                yield request
+            for href in response.css("a::attr(href)").getall():
+                candidate = canonicalize_url(response.url, href)
+                if not candidate:
+                    continue
+                request = self._content_request(source, candidate, depth=depth + 1)
+                if request is not None:
+                    yield request
+        next_request = self._next_content_request(source)
+        if next_request is not None:
+            yield next_request
 
     def parse_act_shell(self, response: scrapy.http.Response, source: Source):
         self._complete_technical(source, "spa_shell", response.request.url, response.status)
@@ -298,7 +343,9 @@ class MunicipalSpider(scrapy.Spider):
             return
 
         if self._reserve_synthetic_content(source, source.url):
-            self.responded[source.source_id].add(canonicalize_url(source.url, source.url) or source.url)
+            catalog_url = canonicalize_url(source.url, source.url) or source.url
+            self.responded[source.source_id].add(catalog_url)
+            self.successful[source.source_id].add(catalog_url)
             body = json.dumps(
                 {"kind": "catalog", "entries": entries}, ensure_ascii=False
             ).encode()
@@ -421,6 +468,7 @@ class MunicipalSpider(scrapy.Spider):
             self._record_api_issue(source, route_url, "PermitLex", response.status)
         normalized_route = canonicalize_url(source.url, route_url) or route_url
         self.responded[source.source_id].add(normalized_route)
+        self.successful[source.source_id].add(normalized_route)
         body = json.dumps(
             {
                 "kind": "permit",
@@ -475,6 +523,7 @@ class MunicipalSpider(scrapy.Spider):
                         event["reason"] = failure.getErrorMessage()
                         break
             return
+        self.active_content.discard(source_id)
         self.crawl_issues.append(
             {
                 "status": "failed",
@@ -483,3 +532,8 @@ class MunicipalSpider(scrapy.Spider):
                 "reason": failure.getErrorMessage(),
             }
         )
+        source = self.sources_by_id.get(source_id)
+        if source is not None:
+            next_request = self._next_content_request(source)
+            if next_request is not None:
+                yield next_request

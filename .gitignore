@@ -21,7 +21,9 @@ __pycache__/
 
 # Processed samples may be committed deliberately; local bulk exports are ignored.
 data/processed/**/*.local.*
-
+data/interim/
+data/processed/
+data/raw/
 # Local PDF inspection output.
 tmp/
 .playwright-cli/console-2026-09-25T21-42-58-597Z.log

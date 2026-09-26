@@ -1,12 +1,13 @@
 from __future__ import annotations
 
 import argparse
+import hashlib
 import json
 import mimetypes
 import os
 from collections import defaultdict
 from pathlib import Path
-from urllib.parse import quote
+from urllib.parse import quote, urlsplit
 
 from jsonschema.exceptions import ValidationError
 
@@ -34,6 +35,46 @@ def page_limit(value: str) -> int:
     return parsed
 
 
+def source_limit(value: str) -> tuple[str, int]:
+    source_id, separator, limit = value.partition(":")
+    if not separator or not source_id:
+        raise argparse.ArgumentTypeError("source must use the format SOURCE_ID:LIMIT")
+    try:
+        return source_id, page_limit(limit)
+    except ValueError as exc:
+        raise argparse.ArgumentTypeError(str(exc)) from exc
+
+
+def validate_site(url: str, limit: str) -> tuple[str, int]:
+    try:
+        parsed = urlsplit(url)
+        if (
+            parsed.scheme not in {"http", "https"}
+            or not parsed.hostname
+            or parsed.username
+            or parsed.password
+        ):
+            raise ValueError("site URL must be an http(s) URL without credentials")
+        port = parsed.port
+        if port is not None and not 1 <= port <= 65535:
+            raise ValueError("site URL port must be between 1 and 65535")
+        return url, page_limit(limit)
+    except ValueError as exc:
+        raise argparse.ArgumentTypeError(str(exc)) from exc
+
+
+def source_from_site(url: str) -> Source:
+    normalized_url = url.rstrip("/") or url
+    source_id = f"site-{hashlib.sha256(normalized_url.encode()).hexdigest()[:12]}"
+    return Source(
+        source_id=source_id,
+        category="website",
+        url=normalized_url,
+        crawl_scope="same_domain",
+        enabled=True,
+    )
+
+
 def build_parser() -> argparse.ArgumentParser:
     parser = argparse.ArgumentParser(prog="civic-parser")
     parser.add_argument("--project-root", default=".", type=project_root)
@@ -41,6 +82,22 @@ def build_parser() -> argparse.ArgumentParser:
 
     crawl = subparsers.add_parser("crawl", help="Crawl configured municipal sources")
     crawl.add_argument("--profile", choices=("pilot", "all"), default="pilot")
+    crawl.add_argument(
+        "--source",
+        action="append",
+        type=source_limit,
+        default=[],
+        metavar="SOURCE_ID:LIMIT",
+        help="crawl a configured source with its own successful-page limit; repeat as needed",
+    )
+    crawl.add_argument(
+        "--site",
+        action="append",
+        nargs=2,
+        default=[],
+        metavar=("URL", "LIMIT"),
+        help="crawl a URL directly with its own successful-page limit; repeat as needed",
+    )
     crawl.add_argument("--source-id", action="append", default=[])
     crawl.add_argument("--max-pages-per-source", type=page_limit, default=20)
     crawl.add_argument("--depth", type=int, default=2)
@@ -82,15 +139,48 @@ def run_crawl(args: argparse.Namespace) -> None:
 
     from civic_ai.crawler.spider import MunicipalSpider
 
-    sources = selected_sources(args.project_root, args.profile, args.source_id)
+    if args.site and (args.source or args.source_id):
+        raise SystemExit("Use either --site or configured --source/--source-id options")
+    if args.source and args.source_id:
+        raise SystemExit("Use either --source or --source-id, not both")
+    if args.site:
+        try:
+            site_specs = [validate_site(url, limit) for url, limit in args.site]
+        except argparse.ArgumentTypeError as exc:
+            raise SystemExit(str(exc)) from exc
+        sources = [source_from_site(url) for url, _ in site_specs]
+        if len({source.source_id for source in sources}) != len(sources):
+            raise SystemExit("Each site URL may be specified only once")
+        source_limits = {
+            source.source_id: limit
+            for source, (_, limit) in zip(sources, site_specs, strict=True)
+        }
+    else:
+        limits = dict(args.source)
+        if len(limits) != len(args.source):
+            raise SystemExit("Each source may be specified only once")
+        selected_ids = set(limits) if limits else args.source_id
+        try:
+            sources = selected_sources(args.project_root, args.profile, selected_ids)
+        except ValueError as exc:
+            raise SystemExit(str(exc)) from exc
+        if not sources:
+            raise SystemExit("No enabled sources selected")
+        source_limits = {
+            source.source_id: limits.get(source.source_id, args.max_pages_per_source)
+            for source in sources
+        }
     if not sources:
         raise SystemExit("No enabled sources selected")
+    print("Starting crawl:")
+    for source in sources:
+        print(f"  {source.source_id}: {source.url} (up to {source_limits[source.source_id]} successful pages)")
     process = CrawlerProcess()
     process.crawl(
         MunicipalSpider,
         sources=sources,
         project_root=str(args.project_root),
-        max_pages_per_source=args.max_pages_per_source,
+        max_pages_per_source=source_limits,
         depth_limit=args.depth,
     )
     process.start()
