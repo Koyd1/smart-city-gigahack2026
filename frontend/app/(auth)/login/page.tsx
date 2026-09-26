@@ -23,11 +23,17 @@ export default async function LoginPage({ searchParams }: PageProps) {
     const password = String(formData.get("password") ?? "");
 
     try {
-      await signIn("credentials", {
+      const result = await signIn("credentials", {
         email,
         password,
-        redirectTo: "/admin",
+        redirect: false,
       });
+
+      if (typeof result === "string" && new URL(result, "http://localhost").searchParams.has("error")) {
+        redirect("/login?error=credentials");
+      }
+
+      redirect("/admin");
     } catch (error) {
       if (error instanceof AuthError) {
         redirect("/login?error=credentials");
