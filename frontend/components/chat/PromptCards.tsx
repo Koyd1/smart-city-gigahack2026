@@ -33,7 +33,7 @@ export default function PromptCards({
     async function load() {
       setError(null);
       try {
-        const freshItems = await loadPromptTemplates({ force: !cached });
+        const freshItems = await loadPromptTemplates({ force: !cached || cached.length === 0 });
         setItems(freshItems);
       } catch {
         setError(t("chat.prompts.loadFailed"));
@@ -49,10 +49,6 @@ export default function PromptCards({
     return <p className="text-sm text-red-600">{error}</p>;
   }
 
-  if (items.length === 0) {
-    return <p className="text-sm text-slate-400">{t("chat.prompts.empty")}</p>;
-  }
-
   const containerClass =
     layout === "grid" ? "grid gap-4 sm:grid-cols-2" : "flex gap-3 overflow-x-auto pb-1";
   const buttonClass =
@@ -62,6 +58,10 @@ export default function PromptCards({
 
   if (loading) {
     return <p className="text-sm text-slate-400">{t("common.states.loading")}</p>;
+  }
+
+  if (items.length === 0) {
+    return <p className="text-sm text-slate-400">{t("chat.prompts.empty")}</p>;
   }
 
   return (

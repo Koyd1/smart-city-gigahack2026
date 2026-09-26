@@ -15,11 +15,12 @@ async function ensureAdmin() {
   return null;
 }
 
-export async function GET() {
+export async function GET(request: Request) {
   const forbidden = await ensureAdmin();
   if (forbidden) return forbidden;
 
-  const response = await fetch(backendUrl("/api/v1/ingest"), {
+  const query = new URL(request.url).search;
+  const response = await fetch(backendUrl(`/api/v1/ingest${query}`), {
     cache: "no-store"
   });
 

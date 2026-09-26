@@ -35,6 +35,22 @@ if allowed == 0 then retry = math.ceil((cost - tokens) / refill) end
 return {allowed, math.floor(tokens), retry}
 `;
 
+const CONCURRENCY_SCRIPT = `
+local key = KEYS[1]
+local now = tonumber(ARGV[1])
+local expires = tonumber(ARGV[2])
+local limit = tonumber(ARGV[3])
+local lease = ARGV[4]
+redis.call('ZREMRANGEBYSCORE', key, 0, now)
+local count = redis.call('ZCARD', key)
+if count >= limit then
+  return 0
+end
+redis.call('ZADD', key, expires, lease)
+redis.call('EXPIRE', key, math.max(1, math.ceil((expires - now) / 1000) + 10))
+return 1
+`;
+
 let client: RedisClientType | null = null;
 let connecting: Promise<RedisClientType> | null = null;
 
@@ -86,7 +102,7 @@ export async function consumeRateLimit(options: LimitOptions): Promise<LimitResu
     };
   } catch (error) {
     console.error("rate_limit.unavailable", error);
-    return { allowed: true, remaining: 0, retryAfterSeconds: 1 };
+    return { allowed: false, remaining: 0, retryAfterSeconds: 30 };
   }
 }
 
@@ -100,13 +116,18 @@ export async function acquireConcurrencyLease(
   try {
     const redis = await getClient();
     const now = Date.now();
-    await redis.zRemRangeByScore(redisKey, 0, now);
-    const count = await redis.zCard(redisKey);
-    if (count >= maxConcurrent) {
+    const acquired = await redis.eval(CONCURRENCY_SCRIPT, {
+      keys: [redisKey],
+      arguments: [
+        String(now),
+        String(now + ttlSeconds * 1000),
+        String(maxConcurrent),
+        leaseId
+      ]
+    });
+    if (Number(acquired) !== 1) {
       return { acquired: false, release: async () => undefined };
     }
-    await redis.zAdd(redisKey, [{ score: now + ttlSeconds * 1000, value: leaseId }]);
-    await redis.expire(redisKey, ttlSeconds + 10);
     return {
       acquired: true,
       release: async () => {
@@ -115,6 +136,6 @@ export async function acquireConcurrencyLease(
     };
   } catch (error) {
     console.error("concurrency_limit.unavailable", error);
-    return { acquired: true, release: async () => undefined };
+    return { acquired: false, release: async () => undefined };
   }
 }

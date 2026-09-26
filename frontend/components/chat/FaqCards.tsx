@@ -27,7 +27,7 @@ export default function FaqCards({
     async function load() {
       setError(null);
       try {
-        const freshItems = await loadFaqItems({ force: !cached });
+        const freshItems = await loadFaqItems({ force: !cached || cached.length === 0 });
         setItems(freshItems);
       } catch {
         setError(t("chat.faq.loadFailed"));
@@ -43,10 +43,6 @@ export default function FaqCards({
     return <p className="text-sm text-red-600">{error}</p>;
   }
 
-  if (items.length === 0) {
-    return <p className="text-sm text-slate-400">{t("chat.faq.empty")}</p>;
-  }
-
   const containerClass =
     layout === "grid" ? "grid gap-4 sm:grid-cols-2" : "flex gap-3 overflow-x-auto pb-1";
   const buttonClass =
@@ -56,6 +52,10 @@ export default function FaqCards({
 
   if (loading) {
     return <p className="text-sm text-slate-400">{t("common.states.loading")}</p>;
+  }
+
+  if (items.length === 0) {
+    return <p className="text-sm text-slate-400">{t("chat.faq.empty")}</p>;
   }
 
   return (

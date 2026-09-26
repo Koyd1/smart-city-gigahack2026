@@ -31,7 +31,7 @@ seed:
 	cd frontend && node scripts/run-with-root-env.cjs npx prisma db seed
 
 import-civic:
-	$(COMPOSE) exec backend python scripts/import_civic_corpus.py --replace
+	$(COMPOSE) exec -e PYTHONPATH=/app backend python scripts/import_civic_corpus.py --replace
 
 backup:
 	python3 scripts/backup_postgres.py

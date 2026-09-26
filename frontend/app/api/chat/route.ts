@@ -29,6 +29,7 @@ type SourcePayload = {
   filename?: string;
   similarity?: number;
   snippet?: string;
+  url?: string;
 };
 
 type TelemetryPayload = {

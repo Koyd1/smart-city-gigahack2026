@@ -3,10 +3,9 @@ from __future__ import annotations
 import argparse
 import asyncio
 import json
-from collections import defaultdict
 from pathlib import Path
 
-from sqlalchemy import delete
+from sqlalchemy import delete, text
 
 from app.db.models import KnowledgeFile, VectorChunk
 from app.db.session import AsyncSessionLocal
@@ -14,7 +13,7 @@ from app.deps import embedder
 
 
 DEFAULT_EXPORT = Path("/data/exports/rag/export-20260925T220757Z")
-BATCH_SIZE = 64
+BATCH_SIZE = 128
 
 
 def load_export(export_dir: Path) -> tuple[dict[str, dict], list[dict]]:
@@ -30,9 +29,6 @@ def load_export(export_dir: Path) -> tuple[dict[str, dict], list[dict]]:
 
 async def import_corpus(export_dir: Path, replace: bool) -> None:
     documents, chunks = load_export(export_dir)
-    chunks_by_document: dict[str, list[dict]] = defaultdict(list)
-    for chunk in chunks:
-        chunks_by_document[chunk["document_id"]].append(chunk)
 
     async with AsyncSessionLocal() as session:
         if replace:
@@ -89,12 +85,37 @@ async def import_corpus(export_dir: Path, replace: bool) -> None:
         print(f"Imported {imported}/{len(chunks)} chunks", flush=True)
 
     async with AsyncSessionLocal() as session:
-        for document_id, document_chunks in chunks_by_document.items():
-            file = await session.get(KnowledgeFile, document_id)
-            if file:
-                file.status = "READY"
-                file.chunk_count = len(document_chunks)
-                file.ingest_error = None
+        await session.execute(
+            text(
+                """
+                UPDATE knowledge_files AS file
+                SET status = 'READY',
+                    chunk_count = counts.chunk_count,
+                    ingest_error = NULL,
+                    updated_at = NOW()
+                FROM (
+                    SELECT file_id, COUNT(*)::integer AS chunk_count
+                    FROM vector_chunks
+                    GROUP BY file_id
+                ) AS counts
+                WHERE file.id = counts.file_id
+                """
+            )
+        )
+        await session.execute(
+            text(
+                """
+                UPDATE knowledge_files AS file
+                SET status = 'ERROR',
+                    ingest_error = 'No chunks were found in the corpus export',
+                    updated_at = NOW()
+                WHERE status = 'PROCESSING'
+                  AND NOT EXISTS (
+                    SELECT 1 FROM vector_chunks AS chunk WHERE chunk.file_id = file.id
+                  )
+                """
+            )
+        )
         await session.commit()
 
     print(f"CIVIS corpus ready: {len(documents)} documents, {len(chunks)} chunks")

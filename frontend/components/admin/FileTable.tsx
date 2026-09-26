@@ -8,6 +8,7 @@ import { cn } from "@/lib/utils";
 export type KnowledgeFileRow = {
   id: string;
   filename: string;
+  displayName?: string;
   size: number;
   status: "PENDING" | "PROCESSING" | "READY" | "ERROR";
   chunkCount: number | null;
@@ -22,6 +23,9 @@ type FileTableProps = {
   busyId: string | null;
   sortOrder: "newest" | "oldest";
   onSortOrderChange: (value: "newest" | "oldest") => void;
+  page: number;
+  totalPages: number;
+  onPageChange: (page: number) => void;
   onDownload: (id: string) => Promise<void>;
   onDelete: (id: string) => Promise<void>;
   onReindex: (id: string) => Promise<void>;
@@ -48,6 +52,9 @@ export default function FileTable({
   busyId,
   sortOrder,
   onSortOrderChange,
+  page,
+  totalPages,
+  onPageChange,
   onDownload,
   onDelete,
   onReindex
@@ -170,7 +177,7 @@ export default function FileTable({
             <article key={file.id} className="rounded-2xl border border-[#edf0f5] bg-white p-4">
               <div className="flex items-start justify-between gap-3">
                 <div className="min-w-0">
-                  <h3 className="m-0 break-words text-base font-semibold text-[#1f2937]">{file.filename}</h3>
+                  <h3 className="m-0 break-words text-base font-semibold text-[#1f2937]">{file.displayName ?? file.filename}</h3>
                   <p className="mt-1 text-sm text-[#667085]">
                     {formatBytes(file.size)} · {formatDate(file.createdAt)}
                   </p>
@@ -194,7 +201,7 @@ export default function FileTable({
                   disabled={isBusy}
                   className="rounded-xl border border-red-200 px-2 py-2 text-sm text-[#b42318]"
                   onClick={() => {
-                    if (window.confirm(t("admin.fileTable.confirmDelete", { name: file.filename }))) {
+                    if (window.confirm(t("admin.fileTable.confirmDelete", { name: file.displayName ?? file.filename }))) {
                       void onDelete(file.id);
                     }
                   }}
@@ -236,7 +243,7 @@ export default function FileTable({
                     key={file.id}
                     className="border-b border-[#eef1f5] text-[1.02rem] text-[#1f2937] transition-colors hover:bg-[#fafbff]"
                   >
-                    <td className="px-4 py-4 font-medium">{file.filename}</td>
+                    <td className="px-4 py-4 font-medium">{file.displayName ?? file.filename}</td>
                     <td className="px-4 py-4 whitespace-nowrap">{formatBytes(file.size)}</td>
                     <td className="px-4 py-4 whitespace-nowrap">{formatDate(file.createdAt)}</td>
                     <td className="px-4 py-4">
@@ -291,7 +298,7 @@ export default function FileTable({
                               onClick={async () => {
                                 setOpenMenuId(null);
                                 const confirmed = window.confirm(
-                                  t("admin.fileTable.confirmDelete", { name: file.filename })
+                                  t("admin.fileTable.confirmDelete", { name: file.displayName ?? file.filename })
                                 );
                                 if (!confirmed) return;
                                 await onDelete(file.id);
@@ -324,6 +331,29 @@ export default function FileTable({
           </table>
         </div>
       </div>
+      {totalPages > 1 ? (
+        <nav className="mt-5 flex flex-wrap items-center justify-between gap-3" aria-label={t("admin.fileTable.pagination.label")}>
+          <button
+            type="button"
+            disabled={page <= 1 || loading}
+            className="rounded-xl border border-[#e5e7eb] bg-white px-4 py-2 text-sm font-semibold text-[#344054] disabled:cursor-not-allowed disabled:opacity-50"
+            onClick={() => onPageChange(Math.max(1, page - 1))}
+          >
+            {t("admin.fileTable.pagination.previous")}
+          </button>
+          <span className="text-sm text-[#667085]">
+            {t("admin.fileTable.pagination.page", { page, totalPages })}
+          </span>
+          <button
+            type="button"
+            disabled={page >= totalPages || loading}
+            className="rounded-xl border border-[#e5e7eb] bg-white px-4 py-2 text-sm font-semibold text-[#344054] disabled:cursor-not-allowed disabled:opacity-50"
+            onClick={() => onPageChange(Math.min(totalPages, page + 1))}
+          >
+            {t("admin.fileTable.pagination.next")}
+          </button>
+        </nav>
+      ) : null}
     </section>
   );
 }

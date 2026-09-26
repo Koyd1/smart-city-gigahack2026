@@ -25,6 +25,7 @@ retriever = Retriever(
     similarity_threshold=settings.rag_sim_threshold,
     probes=settings.rag_retriever_probes,
     exact_scan_max_chunks=settings.rag_retriever_exact_scan_max_chunks,
+    primary_document_chunks=settings.rag_primary_document_chunks,
 )
 chat_fallback_models = [
     item.strip()

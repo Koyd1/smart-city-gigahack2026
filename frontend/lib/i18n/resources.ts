@@ -47,7 +47,7 @@ export const resources = {
           password: "Parolă"
         },
         placeholders: {
-          email: "admin@company.com",
+          email: "admin@civis.local",
           password: "••••••••"
         },
         validation: {
@@ -196,7 +196,13 @@ export const resources = {
           confirmDelete: "Ștergi {{name}} și toate chunk-urile indexate?",
           emptyTitle: "Nu există fișiere pentru filtrele selectate.",
           emptyDescription:
-            "Încarcă un document nou sau schimbă căutarea/sortarea pentru a vedea rezultate."
+            "Încarcă un document nou sau schimbă căutarea/sortarea pentru a vedea rezultate.",
+          pagination: {
+            label: "Navigare prin fișiere",
+            previous: "Anterioară",
+            next: "Următoarea",
+            page: "Pagina {{page}} / {{totalPages}}"
+          }
         },
         feedback: {
           title: "Feedback",
@@ -495,7 +501,7 @@ export const resources = {
           password: "Пароль"
         },
         placeholders: {
-          email: "admin@company.com",
+          email: "admin@civis.local",
           password: "••••••••"
         },
         validation: {
@@ -644,7 +650,13 @@ export const resources = {
           confirmDelete: "Удалить {{name}} и все индексированные фрагменты?",
           emptyTitle: "Нет файлов для выбранных фильтров.",
           emptyDescription:
-            "Загрузите новый документ или измените поиск/сортировку, чтобы увидеть результаты."
+            "Загрузите новый документ или измените поиск/сортировку, чтобы увидеть результаты.",
+          pagination: {
+            label: "Навигация по файлам",
+            previous: "Назад",
+            next: "Вперед",
+            page: "Страница {{page}} / {{totalPages}}"
+          }
         },
         feedback: {
           title: "Отзывы",
@@ -943,7 +955,7 @@ export const resources = {
           password: "Password"
         },
         placeholders: {
-          email: "admin@company.com",
+          email: "admin@civis.local",
           password: "••••••••"
         },
         validation: {
@@ -1091,7 +1103,13 @@ export const resources = {
           confirmDelete: "Delete {{name}} and all indexed chunks?",
           emptyTitle: "No files match the selected filters.",
           emptyDescription:
-            "Upload a new document or change the search/sort settings to see results."
+            "Upload a new document or change the search/sort settings to see results.",
+          pagination: {
+            label: "File navigation",
+            previous: "Previous",
+            next: "Next",
+            page: "Page {{page}} / {{totalPages}}"
+          }
         },
         feedback: {
           title: "Feedback",

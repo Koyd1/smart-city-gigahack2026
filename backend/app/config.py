@@ -29,6 +29,7 @@ class Settings(BaseSettings):
     rag_chunk_overlap: int = 100
     rag_retriever_probes: int = 20
     rag_retriever_exact_scan_max_chunks: int = 1000
+    rag_primary_document_chunks: int = 12
     max_chat_input_tokens: int = 12000
     health_openai_warn_ms: int = 1800
     health_hall_warn_threshold: float = 0.45

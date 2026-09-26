@@ -65,4 +65,4 @@ volumes:
 
 networks:
   default:
-    name: hrbot_network
+    name: civis_network

@@ -150,10 +150,10 @@ export function warmChatSuggestionCaches() {
   const prompts = getPromptEntry();
   const faq = getFaqEntry();
 
-  if (!prompts || !isFresh(prompts)) {
+  if (!prompts || prompts.items.length === 0 || !isFresh(prompts)) {
     void loadPromptTemplates({ force: true });
   }
-  if (!faq || !isFresh(faq)) {
+  if (!faq || faq.items.length === 0 || !isFresh(faq)) {
     void loadFaqItems({ force: true });
   }
 }

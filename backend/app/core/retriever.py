@@ -26,11 +26,13 @@ class Retriever:
         similarity_threshold: float,
         probes: int = 20,
         exact_scan_max_chunks: int = 1000,
+        primary_document_chunks: int = 12,
     ) -> None:
         self._top_k = top_k
         self._similarity_threshold = similarity_threshold
         self._probes = probes
         self._exact_scan_max_chunks = exact_scan_max_chunks
+        self._primary_document_chunks = primary_document_chunks
 
     async def retrieve(
         self,
@@ -96,6 +98,39 @@ class Retriever:
                 },
             )
             rows = fallback_result.mappings().all()
+
+        if (
+            rows
+            and self._primary_document_chunks > 0
+            and float(rows[0]["similarity"]) >= max(self._similarity_threshold, 0.45)
+        ):
+            primary_file_id = str(rows[0]["file_id"])
+            primary_result = await db.execute(
+                text(
+                    """
+                    SELECT
+                      file_id,
+                      content,
+                      metadata,
+                      1 - (embedding <=> CAST(:embedding AS vector)) AS similarity
+                    FROM vector_chunks
+                    WHERE file_id = :file_id
+                    ORDER BY created_at ASC
+                    LIMIT :limit
+                    """
+                ),
+                {
+                    "embedding": vector_literal,
+                    "file_id": primary_file_id,
+                    "limit": self._primary_document_chunks,
+                },
+            )
+            primary_rows = primary_result.mappings().all()
+            seen = {(str(row["file_id"]), str(row["content"])) for row in primary_rows}
+            rows = [
+                *primary_rows,
+                *(row for row in rows if (str(row["file_id"]), str(row["content"])) not in seen),
+            ]
 
         sources: list[RetrievedSource] = []
         for row in rows:

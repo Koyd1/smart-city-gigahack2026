@@ -4,12 +4,13 @@ import logging
 import mimetypes
 import re
 from pathlib import Path
+from typing import Literal
 from urllib.parse import quote
 from uuid import uuid4
 
-from fastapi import APIRouter, Depends, File, HTTPException, UploadFile, status
+from fastapi import APIRouter, Depends, File, HTTPException, Query, UploadFile, status
 from fastapi.responses import Response
-from sqlalchemy import delete, select
+from sqlalchemy import delete, func, or_, select
 from sqlalchemy.ext.asyncio import AsyncSession
 from sqlalchemy.orm import load_only
 
@@ -47,9 +48,40 @@ def _guess_mime_type(filename: str, explicit: str | None) -> str:
 
 
 @router.get("")
-async def list_ingested_files(db: AsyncSession = Depends(get_db)) -> dict[str, list[dict[str, str | int | None]]]:
-    result = await db.scalars(
-        select(KnowledgeFile)
+async def list_ingested_files(
+    page: int = Query(default=1, ge=1),
+    limit: int = Query(default=50, ge=10, le=100),
+    search: str = Query(default="", max_length=200),
+    sort: Literal["newest", "oldest"] = Query(default="newest"),
+    db: AsyncSession = Depends(get_db),
+) -> dict[str, object]:
+    title_query = (
+        select(VectorChunk.meta["title"].as_string())
+        .where(VectorChunk.file_id == KnowledgeFile.id)
+        .where(VectorChunk.meta["title"].as_string().is_not(None))
+        .limit(1)
+        .correlate(KnowledgeFile)
+        .scalar_subquery()
+    )
+    filters = []
+    normalized_search = search.strip()
+    if normalized_search:
+        search_pattern = f"%{normalized_search}%"
+        filters.append(
+            or_(
+                KnowledgeFile.filename.ilike(search_pattern),
+                title_query.ilike(search_pattern),
+            )
+        )
+
+    total = int(
+        await db.scalar(select(func.count(KnowledgeFile.id)).where(*filters)) or 0
+    )
+    total_pages = max(1, (total + limit - 1) // limit)
+    effective_page = min(page, total_pages)
+    ordering = KnowledgeFile.created_at.asc() if sort == "oldest" else KnowledgeFile.created_at.desc()
+    result = await db.execute(
+        select(KnowledgeFile, title_query.label("display_name"))
         .options(
             load_only(
                 KnowledgeFile.id,
@@ -63,16 +95,19 @@ async def list_ingested_files(db: AsyncSession = Depends(get_db)) -> dict[str, l
                 KnowledgeFile.ingest_error,
             )
         )
-        .order_by(KnowledgeFile.created_at.desc())
-        .limit(200)
+        .where(*filters)
+        .order_by(ordering)
+        .offset((effective_page - 1) * limit)
+        .limit(limit)
     )
-    files = list(result)
+    files = list(result.all())
 
     return {
         "items": [
             {
                 "id": file.id,
                 "filename": file.filename,
+                "displayName": display_name or file.filename,
                 "size": file.size,
                 "status": file.status,
                 "chunkCount": file.chunk_count,
@@ -81,8 +116,12 @@ async def list_ingested_files(db: AsyncSession = Depends(get_db)) -> dict[str, l
                 "ingestAttempts": file.ingest_attempts,
                 "ingestError": file.ingest_error,
             }
-            for file in files
-        ]
+            for file, display_name in files
+        ],
+        "total": total,
+        "page": effective_page,
+        "limit": limit,
+        "totalPages": total_pages,
     }
 
 
