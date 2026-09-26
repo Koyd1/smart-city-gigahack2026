@@ -1,0 +1,23 @@
+{
+  "category": "services",
+  "content": "# 23 Notificare în comerț\n\nÎnștiințare a APL privind iniţierea activităţii de comerţ  interior, incluzând comerțul cu amănuntul sau cu ridicata și prestarea serviciilor, conform  Clasificatorului activităţilor din economia Moldovei (CAEM).\n\n## Autoritatea emitentă\n\nAutoritatea publică locală, direcția comerț\n\n## Documente însoțitoare\n\n### Eliberare\n\n- Copia de pe regulamentul pieței și copia de pe decizia consiliului local de creare a pieţei (în cazul piețelor)\n- Copia actului care confirmă dreptul de proprietate sau de folosinţă, după caz, asupra terenului/încăperii proprietate publică (în cazul unităților comerciale amplasate pe un teren/într-o încăpere proprietate publică),  certificate prin semnătură de către comerciant sau de către reprezentantul său legal.\n### Reperfectare\n\n- Copia de pe regulamentul pieței și copia de pe decizia consiliului local de creare a pieţei (în cazul piețelor)\n- Copia actului care confirmă dreptul de proprietate sau de folosinţă, după caz, asupra terenului/încăperii proprietate publică (în cazul unităților comerciale amplasate pe un teren/într-o încăpere proprietate publică),  certificate prin semnătură de către comerciant sau de către reprezentantul său legal.\n\n## Cadrul legal\n\n- [Legea Nr.  231 din 23.09.2010 privind comerțul interior](http://lex.justice.md/md/336378/)\n\n## Procesul de eliberare\n\nSolicitantul (sau reprezentantul său legal) accesează sistemul – Portalul electronic al serviciilor publice – personal sau cu suportul recepționarului de la ghișeu.\n\nSolicitantul completează notificarea și încarcă documentele necesare, personal sau asistat de recepționarul de la ghișeu.\n\nSistemul generează automat documentul electronic de confirmare a primirii notificării și direcționează notificarea împreună cu setul de documente către autoritatea emitentă.\n\nAutoritatea emitentă (specialistul) deschide cazul, examinează notificarea și documentele anexate și verifică respectarea condițiilor legale.\n\nDacă notificarea este conformă, specialistul emite Înștiințarea de recepționare, iar sistemul generează Nota de plată. Sistemul transmite notificări pe e-mail, cu documentele atașate. Dacă dovada achitării nu este prezentată în termen de 3 zile lucrătoare, APL este în drept să anuleze Înștiințarea de recepționare.\n\nÎn caz de neconformitate, specialistul emite Înștiințarea de respingere, cu justificarea corespunzătoare în temeiul legislației.\n\n## Perioada de valabilitate\n\nNelimitată, cu excepția cazurilor de încetare prin decizie  judecătorească;\nPe durata evenimentelor speciale (dacă se solicită pentru târguri, competiții sportive, evenimente culturale, turistice, și alte evenimente speciale)\n\n## Taxa\n\n100 MDL\n\n## Durata de prestare\n\nComerțul poate începe din data depunerii notificării; dacă în decurs de 3 zile nu se emite nici o notă de respingere, se aplică regula aprobării tacite\n",
+  "content_sha256": "5ac07c982543a5008d1ca2f0dc9e0663ccfbb583739c0f5eae7da126c8fa2315",
+  "document_date": null,
+  "document_id": "doc_bd8024acc5d231124f2b",
+  "document_type": "json",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "actpermisiv-public-api",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "0190d1bbbeebee9aef7e17524ace74100e992d2d356348b1219bb617126f35ed",
+    "raw_path": "data/raw/actpermisiv/0190d1bbbeebee9aef7e17524ace74100e992d2d356348b1219bb617126f35ed.json",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T22:05:56.111497+00:00",
+  "source_url": "https://actpermisiv.gov.md/#/ep/permit/23",
+  "title": "23 Notificare în comerț",
+  "version_id": "ver_bd8024ac_5ac07c982543"
+}

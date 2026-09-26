@@ -1,0 +1,18 @@
+{
+  "category": "education",
+  "content_sha256": "a49417ea12e3bec003f7cc6fd40c96ce367504b98e6b0d6bd93e28d94af50e0c",
+  "final_url": "https://extrascolar.md/activities",
+  "headers": {
+    "Cache-Control": "no-cache, private",
+    "Content-Type": "text/html; charset=UTF-8",
+    "Date": "Fri, 25 Sep 2026 22:02:29 GMT",
+    "Server": "nginx",
+    "Set-Cookie": "XSRF-TOKEN=eyJpdiI6InVhTEJBUU5PUWQ2MHpKQ3BHTzBNcEE9PSIsInZhbHVlIjoibUdiUFFYbDVIZHhQUUR5Y3lNQ0ZzMXdKL3lqZE81MnZkaVpTRTVoN2xGQm5ySnFyYlZzcDZNcWszTGU3RjVYL05vRzFtWmFDa0hpWGUwSW5GTGxMN2pHN1crTk9ySlJwdmw2NHAySW5pK1pQeEFQWmcyU3RxbnlFa2R1eEhkNzciLCJtYWMiOiIzZjljMTNmMjRlODM4NTA5ZWRmMjBkOWEwMTVkZmVhNjQxOTlhZDllOTA0ODNhZDE3MjA4ZmI4MTZjM2RjOGVlIiwidGFnIjoiIn0%3D; expires=Sat, 25-Sep-2027 22:02:29 GMT; Max-Age=31536000; path=/; samesite=lax, xtrascolar_session=eyJpdiI6ImgvMDVNK0ZGRldRSHRvT1NoOExkUGc9PSIsInZhbHVlIjoiSXc5RVFySENTY1VDVzlpVnZjVk1RR2ZJanhpOEptUlo3eWVYZ0VvODdJQS81SHNscit4WEZGQm5wcFB1dWp0TnJWbTY3Q3B0ZmdueWFTNkg0dzN6Q3JOVUJjTFlybk16VWtMRFpzdEhaYWVvZFNiSWQ0OE5YQlJhZ3BBREk2UUEiLCJtYWMiOiJkZGE4MzFhMzZiZDlmODA0ZjU2NWFkZGY3MTllYmFlYWI0YTlkNTA3NTU0NWU1MzQ1N2FkY2M3NzY2MzEyZDQwIiwidGFnIjoiIn0%3D; expires=Sat, 25-Sep-2027 22:02:29 GMT; Max-Age=31536000; path=/; httponly; samesite=lax",
+    "X-Ray": "wn54067:0.060/wa54067:D=53353"
+  },
+  "raw_path": "data/raw/extrascolar-activities/a49417ea12e3bec003f7cc6fd40c96ce367504b98e6b0d6bd93e28d94af50e0c.html",
+  "requested_url": "https://extrascolar.md/activities",
+  "retrieved_at": "2026-09-25T22:02:29.327735+00:00",
+  "source_id": "extrascolar-activities",
+  "status": 200
+}

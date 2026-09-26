@@ -1,0 +1,23 @@
+{
+  "category": "services",
+  "content": "# 41 Autorizație a Republicii Moldova pentru transportatorii străini care efectuează rute regulate bilaterale sau tranzit pe teritoriul Republicii Moldova\n\nDocument care atestă dreptul operatorului de transport rutier străin de a efectua transport rutier contra cost de persoane prin servicii regulate pe un anumit traseu, conform graficului de circulaţie prestabilit şi programului de transport rutier, pe perioada sa de valabilitate\n\n## Autoritatea emitentă\n\nAgenția Națională Transport Auto (ANTA)\n\n## Documente însoțitoare\n\n### Eliberare\n\n- Tariful de transportare a persoanelor, coordonat cu ambii operatori de transport rutier parteneri;\n- Scrisoarea Ministerului Economiei și Infrastructurii al Republicii Moldova;\n- Schema rutei, cu indicarea punctelor de trecere a frontierei;\n- Graficul de circulație cu indicarea punctelor de îmbarcare / debarcare a persoanelor transportate;\n- Duratele de conducere care să permită controlul respectării perioadelor de conducere și odihnă ale conducătorilor auto;\n- Contractul, în limba română, încheiat cu un operator de transport rutier autohton în cazul când convențiile internaționale sau bilaterale prevăd obligativitatea efectuării curselor la paritate, pentru efectuarea curselor pe ruta solicitată;\n- Autorizațiile eliberate de către autoritățile competente ale statelor unde sunt situate capetele rutei pentru eliberarea autorizațiilor de tranzit și, autorizațiile de capăt pentru rutele bilaterale.\n\n## Cadrul legal\n\n- [Acorduri bilaterale în domeniu Transportului rutier](http://anta.gov.md/avize-internationale)\n- [Codul transporturilor rutiere nr. 150 din 17 iulie 2014](http://lex.justice.md/viewdoc.php?action=view&view=doc&id=354404&lang=1)\n\n## Procesul de eliberare\n\n1. Solicitantul (operatorul de transport străin dintr-o țară care are acorduri bilaterale cu RM, și care dorește să utilizeze  infrastructura rutieră a Republicii Moldova în vederea efectuării programului de transport rutier) se adresează Ministerului Transporturilor din țara sa cu solicitarea respectivă (cu anexarea pachetului de documente necesar).\n\n2. Ministerul Transporturilor din țara unde sunt situate capetele de rută solicită prin scrisoare (cu anexarea pachetului de documente necesar) Ministerului Economiei și Infrastructurii din Republica Moldova eliberarea autorizațiilor de capăt sau tranzit operatorul de transport străin.\n\n3. Ministerului Economiei și Infrastructurii remite documentele recepționate către ANTA pentru examinare și eliberarea autorizațiilor solicitate.\n\n4. ANTA examinează setul de documente recepționat și perfectează autorizațiile solicitate pe care le remite Ministerului Economiei și Infrastructurii pentru expediere către solicitant (Ministerele Transporturilor ale statelor de unde sunt situate capetele de rută).\n\n5. Ministerului Economiei și Infrastructurii din Republica Moldova scrie o scrisoare oficială Ministerului Transporturilor din țara respectivă, in care își exprimă acordul privind autorizarea (sau dezacordul în unele cazuri, cu justificarea respectivă) la care anexează autorizațiile solicitate.\n\n6. Ministerul Transporturilor din țara unde sunt situate capetele de rută remite autorizațiile solicitanților.\n\n## Perioada de valabilitate\n\n8 ani\n\n## Taxa\n\nGratuit\n\n## Durata de prestare\n\n10 zile lucrătoare\n",
+  "content_sha256": "5d2ce815832752b5ca97bfa3c5f871efb8c71688d5681f092bd6c1d904e19429",
+  "document_date": null,
+  "document_id": "doc_eafd1edc221a3bacff9a",
+  "document_type": "json",
+  "effective_from": null,
+  "effective_to": null,
+  "extraction": {
+    "method": "actpermisiv-public-api",
+    "page_count": null,
+    "quality": 1.0,
+    "raw_content_sha256": "edf8858ef3628184aa17365912b3b3f8fb7edc6acfe4f2a4a043bce8cef0e659",
+    "raw_path": "data/raw/actpermisiv/edf8858ef3628184aa17365912b3b3f8fb7edc6acfe4f2a4a043bce8cef0e659.json",
+    "structure_path": null
+  },
+  "language": "ro",
+  "retrieved_at": "2026-09-25T22:05:26.352830+00:00",
+  "source_url": "https://actpermisiv.gov.md/#/ep/permit/104",
+  "title": "41 Autorizație a Republicii Moldova pentru transportatorii străini care efectuează rute regulate bilaterale sau tranzit pe teritoriul Republicii Moldova",
+  "version_id": "ver_eafd1edc_5d2ce8158327"
+}

@@ -1,0 +1,37 @@
+# Activități extrașcolare
+
+###### Centrul de creație a copiilor ,,Ghiocel” este o opțiune pentru copii și părinți, doritori de a petrece timpul liber în mijlocul activităților distractiv-educative. SCOPUL nostru este ca fiecare copil: să-și dezvolte imaginația și creativitatea; să comunice liber cu semenii săi în diverse situații; să-și manifeste capacitățile și pasiunea pentru artă.
+
+##### Opțiune preț
+
+Gratuit
+
+##### Modalitate de desfășurare
+
+Cu prezența fizică
+
+##### Orar
+
+luni-sâmbătă
+
+##### Vârsta
+
+7 ani - 16 ani
+
+##### Adresa
+
+str.Alecu Russo, 57
+
+#### Instituția:
+
+###### Centrul de creație a copiilor ,,Ghiocel”
+
+##### Email
+
+ghiocel84@mail.ru
+
+##### Telefon
+
+022-33-13-87
+
+[Link de înregistrare](https://www.facebook.com/centrulcopiilor.ghiocel)

@@ -1,0 +1,13 @@
+{
+  "category": "services",
+  "content_sha256": "4ce25e8e15ffe1c71046dc86c561b7b2c4f4cd5e3771d34564c0577b0f34b6fd",
+  "final_url": "https://actpermisiv.gov.md/#/ep/permit/115",
+  "headers": {
+    "Content-Type": "application/vnd.civic-ai.actpermisiv+json"
+  },
+  "raw_path": "data/raw/actpermisiv/4ce25e8e15ffe1c71046dc86c561b7b2c4f4cd5e3771d34564c0577b0f34b6fd.json",
+  "requested_url": "https://actpermisiv.gov.md/api/public/data/PermitLex?page=0&start=0&limit=0&filter=%5B%7B%22value%22%3A115%2C%22property%22%3A%22PermitTypeId%22%7D%5D",
+  "retrieved_at": "2026-09-25T22:05:41.057570+00:00",
+  "source_id": "actpermisiv",
+  "status": 200
+}

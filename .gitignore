@@ -8,10 +8,10 @@ __pycache__/
 .ruff_cache/
 
 # Corpus artifacts can be large, contain duplicates and are reproducible.
-data/raw/**
-data/interim/extracted/**
-data/interim/normalized/**
-data/exports/**
+# data/raw/**
+# data/interim/extracted/**
+# data/interim/normalized/**
+# data/exports/**
 
 # Keep directory documentation/placeholders.
 !data/raw/.gitkeep
@@ -24,3 +24,8 @@ data/processed/**/*.local.*
 
 # Local PDF inspection output.
 tmp/
+.playwright-cli/console-2026-09-25T21-42-58-597Z.log
+.playwright-cli/console-2026-09-25T21-43-19-259Z.log
+.playwright-cli/page-2026-09-25T21-42-59-608Z.yml
+.playwright-cli/page-2026-09-25T21-43-20-013Z.yml
+.playwright-cli/page-2026-09-25T21-43-30-516Z.yml
