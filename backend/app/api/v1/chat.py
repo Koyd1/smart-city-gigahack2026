@@ -10,6 +10,10 @@ from pydantic import BaseModel, Field
 from sqlalchemy.ext.asyncio import AsyncSession
 from app.core.source_parser import parse_model_sources
 from app.core.hallucination import score_hallucination
+from app.core.chat_prompt import no_context_message
+from app.core.embedder import EmbeddingUnavailableError
+from app.core.token_estimation import count_tokens
+from app.config import settings
 from app.core.streamer import encode_sse, Source
 from app.db.models import KnowledgeFile
 from app.deps import chat_streamer, embedder, get_db, retriever
@@ -34,14 +38,24 @@ async def chat(request: ChatRequest, db: AsyncSession = Depends(get_db)) -> Stre
     if last_user is None:
         raise HTTPException(status_code=400, detail="At least one user message is required")
 
+    input_tokens = sum(
+        count_tokens(message.content, model=settings.openai_chat_model)
+        for message in request.messages
+    )
+    if input_tokens > settings.max_chat_input_tokens:
+        raise HTTPException(status_code=413, detail="Conversation history is too large")
+
     LOGGER.info(
         "chat.request_received",
         extra={"session_id": request.session_id, "messages_count": len(request.messages)},
     )
 
-    query_embeddings, embedding_telemetry = await embedder.embed_texts_with_telemetry([last_user.content])
+    try:
+        query_embeddings, embedding_telemetry = await embedder.embed_texts_with_telemetry([last_user.content])
+    except EmbeddingUnavailableError as exc:
+        raise HTTPException(status_code=503, detail="Semantic search is temporarily unavailable") from exc
     query_embedding = query_embeddings[0]
-    sources = await retriever.retrieve(db, query_embedding)
+    sources = await retriever.retrieve(db, query_embedding, last_user.content)
 #     sources = sorted(
 #     sources,
 #     key=lambda s: (
@@ -106,10 +120,7 @@ async def chat(request: ChatRequest, db: AsyncSession = Depends(get_db)) -> Stre
 
         if not sources:
             LOGGER.info("chat.no_context", extra={"session_id": request.session_id})
-            answer = (
-                "В базе знаний пока нет релевантной информация по этому вопросу. "
-                "Загрузите HR-документы в раздел Knowledge и повторите запрос."
-            )
+            answer = no_context_message(last_user.content)
             heuristic = score_hallucination(answer, [])
             yield encode_sse(
                 {

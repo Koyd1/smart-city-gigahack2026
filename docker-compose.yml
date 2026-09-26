@@ -5,6 +5,8 @@ services:
     command: redis-server --requirepass ${REDIS_PASSWORD}
     volumes:
       - redis_data:/data
+    ports:
+      - "127.0.0.1:6379:6379"
     healthcheck:
       test: ["CMD", "redis-cli", "--pass", "${REDIS_PASSWORD}", "ping"]
       interval: 10s
@@ -24,6 +26,7 @@ services:
       OPENAI_API_KEY: ${OPENAI_API_KEY}
     volumes:
       - ./backend:/app
+      - ./data:/data:ro
       - rag_tmp:/tmp/rag
     depends_on:
       redis:
@@ -35,6 +38,26 @@ services:
       interval: 20s
       timeout: 5s
       retries: 3
+
+  worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: dev
+    restart: unless-stopped
+    command: python -m arq app.worker.WorkerSettings
+    env_file: .env
+    environment:
+      DATABASE_URL: ${DATABASE_URL_ASYNC}
+      REDIS_URL: redis://:${REDIS_PASSWORD}@redis:6379/0
+      OPENAI_API_KEY: ${OPENAI_API_KEY}
+    volumes:
+      - ./backend:/app
+      - ./data:/data:ro
+      - rag_tmp:/tmp/rag
+    depends_on:
+      redis:
+        condition: service_healthy
 
 volumes:
   redis_data:

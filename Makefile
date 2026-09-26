@@ -1,7 +1,7 @@
 COMPOSE := docker compose
 COMPOSE_PROD := docker compose -f docker-compose.yml -f docker-compose.prod.yml
 
-.PHONY: dev stop build logs logs-backend migrate migrate-dev seed shell-backend shell-db prod-up prod-down prod-build prod-preflight
+.PHONY: dev stop build logs logs-backend migrate migrate-dev seed import-civic backup shell-backend shell-db prod-up prod-down prod-build prod-preflight
 
 dev:
 	$(COMPOSE) up --build
@@ -29,6 +29,12 @@ migrate-dev:
 seed:
 	cd frontend && node scripts/run-with-root-env.cjs npx prisma generate
 	cd frontend && node scripts/run-with-root-env.cjs npx prisma db seed
+
+import-civic:
+	$(COMPOSE) exec backend python scripts/import_civic_corpus.py --replace
+
+backup:
+	python3 scripts/backup_postgres.py
 
 shell-backend:
 	$(COMPOSE) exec backend sh

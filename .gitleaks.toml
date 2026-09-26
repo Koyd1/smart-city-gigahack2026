@@ -1,0 +1,12 @@
+title = "CIVIS secret scanning"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "Safe example placeholders"
+regexes = [
+  '''replace-with-[a-z0-9-]+''',
+  '''sk-proj-replace''',
+  '''<YOUR_TOKEN>'''
+]

@@ -17,7 +17,7 @@ export default async function HomePage() {
         <div className="text-center pt-16 pb-12">
           <div className="mb-6 flex justify-center">
             <img
-              src="/icons/hr_assistant_logo.svg"
+              src="/icons/civis_logo.svg"
               alt={t("home.title")}
               className="h-[104px] w-[104px] object-contain"
             />

@@ -12,6 +12,9 @@ class Settings(BaseSettings):
     openai_api_key: str = ""
     openai_embedding_model: str = "text-embedding-3-large"
     openai_embedding_dim: int = 3072
+    openai_timeout_seconds: float = 20.0
+    openai_max_retries: int = 2
+    allow_fake_embeddings: bool = False
     ingest_tmp_dir: str = "/tmp/rag"
     ingest_max_file_size_mb: int = 15
     ingest_image_max_file_size_mb: int = 5
@@ -22,8 +25,14 @@ class Settings(BaseSettings):
     openai_model_pricing_json: str = ""
     rag_top_k: int = 5
     rag_sim_threshold: float = 0.05
+    rag_chunk_size: int = 700
+    rag_chunk_overlap: int = 100
+    rag_retriever_probes: int = 20
+    rag_retriever_exact_scan_max_chunks: int = 1000
+    max_chat_input_tokens: int = 12000
     health_openai_warn_ms: int = 1800
     health_hall_warn_threshold: float = 0.45
+    health_cache_seconds: int = 120
 
     model_config = SettingsConfigDict(
         env_file=".env",

@@ -12,11 +12,29 @@ from app.core.usage import UsageTelemetry
 LOGGER = logging.getLogger(__name__)
 
 
+class EmbeddingUnavailableError(RuntimeError):
+    pass
+
+
 class Embedder:
-    def __init__(self, *, api_key: str, model: str, dimensions: int) -> None:
+    def __init__(
+        self,
+        *,
+        api_key: str,
+        model: str,
+        dimensions: int,
+        allow_fake_embeddings: bool = False,
+        timeout_seconds: float = 20.0,
+        max_retries: int = 2,
+    ) -> None:
         self._model = model
         self._dimensions = dimensions
-        self._client = AsyncOpenAI(api_key=api_key) if api_key else None
+        self._allow_fake_embeddings = allow_fake_embeddings
+        self._client = (
+            AsyncOpenAI(api_key=api_key, timeout=timeout_seconds, max_retries=max_retries)
+            if api_key
+            else None
+        )
 
     async def embed_texts(self, texts: Sequence[str]) -> list[list[float]]:
         embeddings, _ = await self.embed_texts_with_telemetry(texts)
@@ -29,7 +47,9 @@ class Embedder:
             return [], None
 
         if self._client is None:
-            return [self._fake_embedding(text) for text in texts], None
+            if self._allow_fake_embeddings:
+                return [self._fake_embedding(text) for text in texts], None
+            raise EmbeddingUnavailableError("Embedding provider is not configured")
 
         try:
             started = perf_counter()
@@ -49,11 +69,13 @@ class Embedder:
             )
             return [item.embedding for item in response.data], telemetry
         except Exception as exc:
-            LOGGER.warning(
+            LOGGER.exception(
                 "embedder.api_failed",
                 extra={"texts_count": len(texts), "error": str(exc)},
             )
-            return [self._fake_embedding(text) for text in texts], None
+            if self._allow_fake_embeddings:
+                return [self._fake_embedding(text) for text in texts], None
+            raise EmbeddingUnavailableError("Embedding provider is unavailable") from exc
 
     def _fake_embedding(self, text: str) -> list[float]:
         digest = hashlib.sha256(text.encode("utf-8")).digest()

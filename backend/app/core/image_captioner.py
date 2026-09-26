@@ -7,7 +7,7 @@ import logging
 from io import BytesIO
 from pathlib import Path
 
-from openai import OpenAI
+from openai import AsyncOpenAI
 
 LOGGER = logging.getLogger(__name__)
 
@@ -58,7 +58,7 @@ VISION_USER_PROMPT = "Extract and interpret all information from this image as s
 
 class ImageCaptioner:
     def __init__(self, api_key: str, model: str = "gpt-4o") -> None:
-        self._client = OpenAI(api_key=api_key)
+        self._client = AsyncOpenAI(api_key=api_key)
         self._model = model
 
     async def generate_caption(self, image_bytes: bytes) -> str:
@@ -72,38 +72,36 @@ class ImageCaptioner:
         media_type = f"image/{image_format.lower()}"
 
         try:
-            response = self._client.chat.completions.create(
+            response = await self._client.responses.create(
                 model=self._model,
-                messages=[
-                    {
-                        "role": "system",
-                        "content": VISION_SYSTEM_PROMPT,
-                    },
+                instructions=VISION_SYSTEM_PROMPT,
+                input=[
                     {
                         "role": "user",
                         "content": [
                             {
-                                "type": "image_url",
-                                "image_url": {
-                                    "url": f"data:{media_type};base64,{base64_image}",
-                                },
+                                "type": "input_image",
+                                "image_url": f"data:{media_type};base64,{base64_image}",
                             },
                             {
-                                "type": "text",
+                                "type": "input_text",
                                 "text": VISION_USER_PROMPT,
                             },
                         ],
                     },
                 ],
-                max_tokens=2000,
+                max_output_tokens=2000,
                 temperature=0.7,
             )
 
-            caption = response.choices[0].message.content
+            caption = response.output_text
             if not caption:
                 raise ValueError("Empty response from vision API")
 
-            LOGGER.info("image_caption.generated", extra={"tokens_used": response.usage.total_tokens})
+            LOGGER.info(
+                "image_caption.generated",
+                extra={"tokens_used": getattr(response.usage, "total_tokens", 0)},
+            )
             return caption
 
         except Exception as exc:

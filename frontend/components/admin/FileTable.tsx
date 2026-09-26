@@ -162,7 +162,58 @@ export default function FileTable({
         </div>
       </div>
 
-      <div className="overflow-x-auto rounded-2xl border border-[#edf0f5] bg-white">
+      <div className="space-y-3 md:hidden">
+        {files.map((file) => {
+          const status = statusPresentation(file.status);
+          const isBusy = busyId === file.id;
+          return (
+            <article key={file.id} className="rounded-2xl border border-[#edf0f5] bg-white p-4">
+              <div className="flex items-start justify-between gap-3">
+                <div className="min-w-0">
+                  <h3 className="m-0 break-words text-base font-semibold text-[#1f2937]">{file.filename}</h3>
+                  <p className="mt-1 text-sm text-[#667085]">
+                    {formatBytes(file.size)} · {formatDate(file.createdAt)}
+                  </p>
+                </div>
+                <span className={cn("shrink-0 rounded-full px-3 py-1 text-xs font-semibold", status.className)}>
+                  {status.label}
+                </span>
+              </div>
+              <p className="mt-3 text-sm text-[#667085]">
+                {t("admin.fileTable.columns.chunks")}: {file.chunkCount ?? "-"}
+              </p>
+              <div className="mt-4 grid grid-cols-3 gap-2">
+                <button type="button" disabled={isBusy} className="rounded-xl border border-[#e5e7eb] px-2 py-2 text-sm" onClick={() => void onReindex(file.id)}>
+                  {t("admin.fileTable.actions.reindex")}
+                </button>
+                <button type="button" disabled={isBusy} className="rounded-xl border border-[#e5e7eb] px-2 py-2 text-sm" onClick={() => void onDownload(file.id)}>
+                  {t("admin.fileTable.actions.save")}
+                </button>
+                <button
+                  type="button"
+                  disabled={isBusy}
+                  className="rounded-xl border border-red-200 px-2 py-2 text-sm text-[#b42318]"
+                  onClick={() => {
+                    if (window.confirm(t("admin.fileTable.confirmDelete", { name: file.filename }))) {
+                      void onDelete(file.id);
+                    }
+                  }}
+                >
+                  {t("admin.fileTable.actions.delete")}
+                </button>
+              </div>
+            </article>
+          );
+        })}
+        {files.length === 0 ? (
+          <div className="rounded-2xl border border-[#edf0f5] bg-white px-5 py-12 text-center">
+            <p className="m-0 font-semibold text-[#344054]">{t("admin.fileTable.emptyTitle")}</p>
+            <p className="mt-2 text-sm text-[#667085]">{t("admin.fileTable.emptyDescription")}</p>
+          </div>
+        ) : null}
+      </div>
+
+      <div className="hidden overflow-x-auto rounded-2xl border border-[#edf0f5] bg-white md:block">
         <div className="max-h-[410px] overflow-y-auto pr-1">
           <table className="w-full min-w-[740px] border-collapse">
             <thead className="sticky top-0 z-10 bg-[#fafbfe]">

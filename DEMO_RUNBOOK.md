@@ -13,6 +13,12 @@
 
 В корне проекта должен существовать файл `.env`.
 
+Для локальных URL создайте отдельный файл:
+
+```bash
+cp .env.development.local.example .env.development.local
+```
+
 Минимально проверь в `.env`:
 
 ```env
@@ -32,7 +38,7 @@ NEXTAUTH_URL=http://localhost:3000
 Если `ngrok` еще не привязан к аккаунту:
 
 ```bash
-ngrok config add-authtoken 3B------XVpsDxd
+ngrok config add-authtoken <YOUR_TOKEN>
 ```
 
 ## Первый запуск
@@ -52,7 +58,7 @@ cd ..
 ### Терминал 1: backend + redis
 
 ```bash
-cd /Users/alexandrmoroz/Peona-Orange-Systems-2026
+cd "$(git rev-parse --show-toplevel)"
 make dev
 ```
 
@@ -61,7 +67,7 @@ make dev
 Запускать после того, как `make dev` поднялся без ошибок.
 
 ```bash
-cd /Users/alexandrmoroz/Peona-Orange-Systems-2026
+cd "$(git rev-parse --show-toplevel)"
 make migrate
 make seed
 ```
@@ -71,7 +77,7 @@ make seed
 ### Терминал 3: frontend
 
 ```bash
-cd /Users/alexandrmoroz/Peona-Orange-Systems-2026/frontend
+cd "$(git rev-parse --show-toplevel)/frontend"
 npm run build
 PYTHON_BACKEND_URL=http://127.0.0.1:8000 npm run start -- -H 0.0.0.0 -p 3000
 ```
@@ -103,7 +109,7 @@ WEB_ORIGIN=https://example.ngrok-free.app
 После этого перезапусти frontend:
 
 ```bash
-cd /Users/alexandrmoroz/Peona-Orange-Systems-2026/frontend
+cd "$(git rev-parse --show-toplevel)/frontend"
 PYTHON_BACKEND_URL=http://127.0.0.1:8000 npm run start -- -H 0.0.0.0 -p 3000
 ```
 
@@ -124,21 +130,21 @@ PYTHON_BACKEND_URL=http://127.0.0.1:8000 npm run start -- -H 0.0.0.0 -p 3000
 Остановить docker-сервисы:
 
 ```bash
-cd /Users/alexandrmoroz/Peona-Orange-Systems-2026
+cd "$(git rev-parse --show-toplevel)"
 make stop
 ```
 
 ## Типовой порядок на каждый следующий запуск
 
 ```bash
-cd /Users/alexandrmoroz/Peona-Orange-Systems-2026
+cd "$(git rev-parse --show-toplevel)"
 make dev
 ```
 
 В новом терминале:
 
 ```bash
-cd /Users/alexandrmoroz/Peona-Orange-Systems-2026/frontend
+cd "$(git rev-parse --show-toplevel)/frontend"
 PYTHON_BACKEND_URL=http://127.0.0.1:8000 npm run start -- -H 0.0.0.0 -p 3000
 ```
 

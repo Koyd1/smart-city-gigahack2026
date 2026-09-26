@@ -21,17 +21,17 @@ export default async function AppHeader({
     <>
       <span className="inline-flex items-center justify-center w-10 h-10">
         <img
-          src="/icons/hr_assistant_logo.svg"
+          src="/icons/civis_logo.svg"
           alt={t("home.title")}
           className="w-10 h-10 object-contain"
         />
       </span>
-      {t("common.brand")}
+      <span className="hidden sm:inline">{t("common.brand")}</span>
     </>
   );
 
   return (
-    <header className="sticky top-0 z-50 flex items-center justify-between border-b border-border bg-card px-6 py-3">
+    <header className="sticky top-0 z-50 flex items-center justify-between gap-2 border-b border-border bg-card px-3 py-3 sm:px-6">
       {brandTransitionSkeleton ? (
         <TransitionLink href="/" skeleton={brandTransitionSkeleton} className={brandClassName}>
           {brandContent}
@@ -41,7 +41,7 @@ export default async function AppHeader({
           {brandContent}
         </Link>
       )}
-      <div className="flex items-center gap-3">
+      <div className="flex min-w-0 items-center gap-2 sm:gap-3">
         {actions}
         <LanguageSwitcher />
       </div>

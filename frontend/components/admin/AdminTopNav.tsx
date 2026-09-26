@@ -67,12 +67,12 @@ const navItems: NavItem[] = [
   },
 ];
 
-export default function AdminTopNav() {
+export default function AdminTopNav({ mobile = false }: { mobile?: boolean }) {
   const { t } = useAppTranslation();
   const pathname = usePathname();
 
   return (
-    <div className="flex items-center gap-1 whitespace-nowrap">
+    <div className={cn("flex gap-1", mobile ? "flex-col items-stretch" : "items-center whitespace-nowrap")}>
       {navItems.map((item) => {
         const active = item.isActive(pathname);
 
@@ -83,6 +83,7 @@ export default function AdminTopNav() {
             aria-current={active ? "page" : undefined}
             className={cn(
               "inline-flex items-center gap-2 rounded-lg px-3 py-2 text-[1.05rem] font-semibold no-underline transition-colors hover:no-underline",
+              mobile && "w-full",
               active
                 ? "text-orange-600"
                 : "text-gray-600 hover:bg-gray-100 hover:text-gray-900"

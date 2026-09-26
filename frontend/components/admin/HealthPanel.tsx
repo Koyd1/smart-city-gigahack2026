@@ -483,6 +483,20 @@ export function HealthPanel() {
     [p95SeriesLabel]: item.p95HallScore,
   }));
 
+  if (loading && !data) {
+    return (
+      <section className="space-y-4" aria-busy="true" aria-label={t("admin.healthPanel.badge.loading")}>
+        <div className="h-32 animate-pulse rounded-[30px] border border-[#e8eaf1] bg-white" />
+        <div className="grid gap-3 md:grid-cols-3">
+          {[0, 1, 2].map((item) => (
+            <div key={item} className="h-32 animate-pulse rounded-2xl border border-[#e9edf5] bg-white" />
+          ))}
+        </div>
+        <div className="h-80 animate-pulse rounded-[30px] border border-[#e8eaf1] bg-white" />
+      </section>
+    );
+  }
+
   return (
     <section className="space-y-7">
       <section className="rounded-[30px] border border-[#e8eaf1] bg-white px-5 py-6 shadow-[0_24px_60px_-48px_rgba(15,23,42,0.65)] md:px-7">
@@ -509,7 +523,7 @@ export function HealthPanel() {
           </div>
         ) : null}
 
-        {exactEmpty ? (
+        {data && exactEmpty ? (
           <div className="mb-4 rounded-2xl border border-[#fed7aa] bg-[#fff7ed] px-4 py-3 text-sm text-[#9a3412]">
             {t("admin.healthPanel.hero.emptyTelemetry")}
           </div>

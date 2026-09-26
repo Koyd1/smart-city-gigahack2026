@@ -19,7 +19,7 @@ async function ensureAdminUser(): Promise<void> {
 
   adminBootstrapPromise = (async () => {
     const defaultPassword = "Admin123456!";
-    const email = (process.env.ADMIN_EMAIL ?? "admin@hr.local").toLowerCase();
+    const email = (process.env.ADMIN_EMAIL ?? "admin@civis.local").toLowerCase();
     const password = process.env.ADMIN_PASSWORD ?? defaultPassword;
 
     if (process.env.NODE_ENV === "production") {

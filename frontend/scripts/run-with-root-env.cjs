@@ -7,14 +7,15 @@ const { loadEnvConfig } = require("@next/env");
 const frontendDir = path.resolve(__dirname, "..");
 const repoRootDir = path.resolve(frontendDir, "..");
 
-loadEnvConfig(repoRootDir);
-
 const [command, ...args] = process.argv.slice(2);
 
 if (!command) {
   console.error("Usage: node scripts/run-with-root-env.cjs <command> [args...]");
   process.exit(1);
 }
+
+const isDevelopment = command === "next" && args[0] === "dev";
+loadEnvConfig(repoRootDir, isDevelopment);
 
 const child = spawn(command, args, {
   stdio: "inherit",

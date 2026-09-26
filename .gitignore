@@ -1,5 +1,8 @@
 # Env
 .env
+.env.local
+.env.development.local
+.env.production.local
 
 tasks/
 .playwright-cli
@@ -20,3 +23,4 @@ __pycache__/
 # Docker local volumes/tmp
 *.log
 infra/certs/*.pem
+backups/

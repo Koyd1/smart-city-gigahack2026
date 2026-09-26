@@ -9,6 +9,14 @@ services:
       - "127.0.0.1:8000:8000"
     restart: always
 
+  worker:
+    build:
+      context: ./backend
+      dockerfile: Dockerfile
+      target: prod
+    volumes: !reset []
+    restart: always
+
   nginx:
     image: nginx:1.27-alpine
     restart: always
