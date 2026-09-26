@@ -15,7 +15,7 @@ configure_logging(
 )
 LOGGER = logging.getLogger(__name__)
 
-app = FastAPI(title="HR Bot Backend", version="0.1.0")
+app = FastAPI(title="CIVIS Backend", version="0.2.0")
 
 app.add_middleware(
     CORSMiddleware,

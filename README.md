@@ -1,13 +1,13 @@
 # Civic
 
-Монорепо HR-ассистента (Next.js + FastAPI + RAG + pgvector).
+Монорепо муниципального ассистента CIVIS (Next.js + FastAPI + RAG + pgvector).
 
 ## Состав
 
 - `frontend/` — Next.js 16 (BFF + UI), запускается на хосте
 - `backend/` — FastAPI (ingest/chat/health/evaluate), запускается в Docker
 - `infra/` — nginx конфиг для production reverse proxy
-- `tasks/` — декомпозиция и roadmap
+- `data/exports/rag/` — версия муниципального корпуса и исходные метаданные
 
 ## Возможности
 
@@ -17,7 +17,6 @@
   - Генерация качественного описания (caption) через gpt-4o
   - Индексирование капшенов в векторную базу
   - Полнотекстовый поиск по содержимому изображений
-  - Подробнее см. [IMAGE_CAPTIONING.md](IMAGE_CAPTIONING.md)
 
 ## Prerequisites
 
@@ -72,6 +71,45 @@ make migrate
 
 ```bash
 make seed
+```
+
+6. Проверить и импортировать подготовленный сайт-корпус:
+
+```bash
+make import-civic EXPORT=/data/exports/site-import/site-bundle-20260926T081707Z.zip
+```
+
+По умолчанию это только dry-run: архив и chunks проверяются, БД не меняется.
+Чтобы записать/обновить только документы из пакета, явно добавьте `APPLY=1`:
+
+```bash
+make import-civic \
+  EXPORT=/data/exports/site-import/site-bundle-20260926T081707Z.zip \
+  APPLY=1
+```
+
+Импорт использует embeddings настроенного провайдера и не очищает остальные
+записи БД. Повторный импорт той же версии пропускается. Для импорта одного сайта
+с несколькими версиями сохраняется только последняя по `retrieved_at`: в текущей
+схеме БД у документа одна активная запись. Сначала используйте тестовую БД:
+`APPLY=1` записывает данные в БД из `DATABASE_URL_ASYNC` текущего окружения.
+Для импорта одного сайта можно передать `--source-id` напрямую в backend CLI;
+без `--apply` CLI также работает только в режиме проверки.
+
+Для теста на одном документе задайте `DOCUMENT_ID`; команда сначала выполнит
+dry-run, а запись включается только с `APPLY=1`:
+
+```bash
+make import-civic \
+  EXPORT=/data/exports/site-import/site-bundle-20260926T081707Z.zip \
+  DOCUMENT_ID=doc_21dbd20083f871fc9383
+```
+
+```bash
+make import-civic \
+  EXPORT=/data/exports/site-import/site-bundle-20260926T081707Z.zip \
+  DOCUMENT_ID=doc_21dbd20083f871fc9383 \
+  APPLY=1
 ```
 
 Доступ:
@@ -154,8 +192,9 @@ make prod-down
 - `OPENAI_CHAT_FALLBACK_MODELS`
 - `OPENAI_JUDGE_MODEL`
 - `OPENAI_MODEL_PRICING_JSON`
-- `RAG_TOP_K`, `RAG_SIM_THRESHOLD`
-- `HEALTH_OPENAI_WARN_MS`, `HEALTH_HALL_WARN_THRESHOLD`
+- `RAG_TOP_K`, `RAG_SIM_THRESHOLD`, `RAG_CHUNK_SIZE`, `RAG_CHUNK_OVERLAP`, `RAG_PRIMARY_DOCUMENT_CHUNKS`
+- `DAILY_AI_BUDGET_USD`, `MONTHLY_AI_BUDGET_USD`, `MAX_CHAT_INPUT_TOKENS`
+- `HEALTH_OPENAI_WARN_MS`, `HEALTH_HALL_WARN_THRESHOLD`, `HEALTH_CACHE_SECONDS`
 - `LOG_LEVEL`, `LOG_JSON`, `LOG_TO_FILE`, `LOG_FILE_PATH`
 - `APP_DOMAIN`
 
@@ -163,20 +202,8 @@ make prod-down
 
 Workflow: `.github/workflows/ci.yml`
 
-Пайплайн:
-
-1. `quality`:
-- frontend typecheck
-- frontend production build
-- backend compile check
-
-2. `migrations-smoke`:
-- PostgreSQL + pgvector service
-- `prisma migrate deploy`
-- `alembic upgrade head`
-
-3. `docker-build`:
-- сборка production образов (`backend`, `nginx`)
+Пайплайн проверяет секреты полной историей Gitleaks, frontend audit/typecheck/tests/build,
+backend compile/tests и корректность Docker Compose.
 
 ## Optional dependencies
 
@@ -186,7 +213,9 @@ Workflow: `.github/workflows/ci.yml`
 ## Health/Quality контроль
 
 - `GET /api/health` (frontend proxy)
-- `GET /api/v1/health/detailed` (backend)
+- `GET /api/v1/health/live` (liveness)
+- `GET /api/v1/health/ready` (PostgreSQL + Redis readiness)
+- `GET /api/v1/health/metrics` (кэшированные admin-метрики)
 - `POST /api/v1/evaluate` (hallucination judge)
 - Admin UI: `/admin/health`
 - Dashboard включает service health, usage/cost по моделям, legacy estimates, hallucination analytics и coverage warnings
@@ -201,6 +230,8 @@ Workflow: `.github/workflows/ci.yml`
 - `https://<domain>/healthz`
 - `https://<domain>/api/health`
 - login + chat smoke-flow
+
+Резервное копирование и восстановление описаны в [docs/OPERATIONS.md](docs/OPERATIONS.md).
 
 ## Rollback checklist
 

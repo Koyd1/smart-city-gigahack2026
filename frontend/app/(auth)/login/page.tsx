@@ -23,11 +23,17 @@ export default async function LoginPage({ searchParams }: PageProps) {
     const password = String(formData.get("password") ?? "");
 
     try {
-      await signIn("credentials", {
+      const result = await signIn("credentials", {
         email,
         password,
-        redirectTo: "/admin",
+        redirect: false,
       });
+
+      if (typeof result === "string" && new URL(result, "http://localhost").searchParams.has("error")) {
+        redirect("/login?error=credentials");
+      }
+
+      redirect("/admin");
     } catch (error) {
       if (error instanceof AuthError) {
         redirect("/login?error=credentials");
@@ -45,7 +51,7 @@ export default async function LoginPage({ searchParams }: PageProps) {
       <Card className="w-full max-w-[420px] p-8 text-center shadow-hover">
         <div className="flex justify-center mb-3">
           <img
-            src="/icons/hr_assistant_logo.svg"
+            src="/icons/civis_logo.svg"
             alt={t("home.title")}
             className="h-[88px] w-[88px] object-contain"
           />

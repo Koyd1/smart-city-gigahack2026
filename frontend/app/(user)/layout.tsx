@@ -18,7 +18,7 @@ export default async function UserLayout({ children }: { children: ReactNode }) 
         actions={
           session ? (
             <>
-              <span className="text-sm text-gray-500">{session.user.email}</span>
+              <span className="hidden max-w-48 truncate text-sm text-gray-500 md:inline">{session.user.email}</span>
               <LogoutButton />
               {session.user.role === "ADMIN" ? (
                 <Link href="/admin" className={buttonVariants({ variant: "secondary", size: "sm" })}>
@@ -33,7 +33,7 @@ export default async function UserLayout({ children }: { children: ReactNode }) 
           )
         }
       />
-      <main className="max-w-[960px] mx-auto px-6 py-6">
+      <main className="mx-auto max-w-[960px] px-3 py-5 sm:px-6 sm:py-6">
         {children}
       </main>
     </>

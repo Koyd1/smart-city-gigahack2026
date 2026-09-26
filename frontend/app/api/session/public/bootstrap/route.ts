@@ -3,9 +3,7 @@ import { cookies } from "next/headers";
 
 import { auth } from "@/lib/auth";
 import {
-  createAppSession,
-  ensurePublicUserId,
-  findEmptyActiveSession,
+  createPublicSession,
   isSessionActive
 } from "@/lib/session";
 import {
@@ -13,23 +11,37 @@ import {
   PUBLIC_SESSION_COOKIE_NAME,
   verifyPublicSessionCookieValue
 } from "@/lib/public-session";
+import { publicUrl, shouldUseSecureCookies } from "@/lib/request-origin";
+import { consumeRateLimit, requestIp } from "@/lib/rate-limit";
 
-function setPublicSessionCookie(response: NextResponse, sessionId: string): void {
+function setPublicSessionCookie(response: NextResponse, request: Request, sessionId: string): void {
   response.cookies.set({
     name: PUBLIC_SESSION_COOKIE_NAME,
     value: encodePublicSessionCookieValue(sessionId),
     httpOnly: true,
     sameSite: "lax",
-    secure: process.env.NODE_ENV === "production",
+    secure: shouldUseSecureCookies(request),
     path: "/",
     maxAge: 60 * 60 * 24 * 30
   });
 }
 
 export async function GET(request: Request) {
+  const limit = await consumeRateLimit({
+    key: `bootstrap:${requestIp(request)}`,
+    capacity: 20,
+    refillPerSecond: 20 / 60
+  });
+  if (!limit.allowed) {
+    return NextResponse.json(
+      { error: "Too many session requests" },
+      { status: 429, headers: { "retry-after": String(limit.retryAfterSeconds) } }
+    );
+  }
+
   const signedIn = await auth();
   if (signedIn?.sessionId && (await isSessionActive(signedIn.sessionId))) {
-    return NextResponse.redirect(new URL(`/chat?sid=${signedIn.sessionId}`, request.url));
+    return NextResponse.redirect(publicUrl(request, `/chat?sid=${signedIn.sessionId}`));
   }
 
   const cookieStore = await cookies();
@@ -40,12 +52,10 @@ export async function GET(request: Request) {
   if (currentSessionId && (await isSessionActive(currentSessionId))) {
     sessionId = currentSessionId;
   } else {
-    const userId = await ensurePublicUserId();
-    const existing = await findEmptyActiveSession(userId);
-    sessionId = existing?.id ?? (await createAppSession(userId, true)).id;
+    sessionId = (await createPublicSession()).id;
   }
 
-  const response = NextResponse.redirect(new URL(`/chat?sid=${sessionId}`, request.url));
-  setPublicSessionCookie(response, sessionId);
+  const response = NextResponse.redirect(publicUrl(request, `/chat?sid=${sessionId}`));
+  setPublicSessionCookie(response, request, sessionId);
   return response;
 }

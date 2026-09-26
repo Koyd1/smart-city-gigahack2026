@@ -4,6 +4,7 @@ import { z } from "zod";
 
 import { findUserByEmail, verifyUserPassword } from "@/lib/user-store";
 import { createAppSession } from "@/lib/session";
+import { consumeRateLimit, requestIp } from "@/lib/rate-limit";
 
 function asSessionId(value: unknown): string | undefined {
   return typeof value === "string" ? value : undefined;
@@ -27,7 +28,14 @@ export const { handlers, auth, signIn, signOut } = NextAuth({
         email: { label: "Email", type: "email" },
         password: { label: "Password", type: "password" }
       },
-      async authorize(rawCredentials) {
+      async authorize(rawCredentials, request) {
+        const loginLimit = await consumeRateLimit({
+          key: `login:${requestIp(request)}`,
+          capacity: 8,
+          refillPerSecond: 8 / (15 * 60)
+        });
+        if (!loginLimit.allowed) return null;
+
         const parsed = z
           .object({
             email: z.string().email(),

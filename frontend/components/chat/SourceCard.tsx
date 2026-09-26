@@ -7,6 +7,7 @@ export type ChatSource = {
   filename?: string;
   similarity?: number;
   snippet?: string;
+  url?: string;
 };
 
 export default function SourceCard({
@@ -28,7 +29,9 @@ export default function SourceCard({
         {href ? (
           <a
             href={href}
-            download
+            download={href.startsWith("/") ? true : undefined}
+            target={href.startsWith("http") ? "_blank" : undefined}
+            rel={href.startsWith("http") ? "noreferrer" : undefined}
             className="text-sm font-semibold text-slate-800 decoration-slate-300 underline-offset-4 hover:text-slate-900 hover:underline"
           >
             {filename}

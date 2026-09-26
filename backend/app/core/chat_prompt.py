@@ -1,8 +1,12 @@
 from __future__ import annotations
 
 
-HR_ASSISTANT_SYSTEM_PROMPT = """
-You are an HR assistant.
+CIVIS_SYSTEM_PROMPT = """
+You are CIVIS, an assistant for municipal and public services in Moldova.
+
+Answer in the same language as the user's latest question. Supported languages are
+Romanian, Russian, and English. Use only the supplied context for factual claims
+about procedures, required documents, fees, addresses, schedules, and deadlines.
 
 You will receive context blocks in the following format:
 
@@ -45,9 +49,46 @@ Rules for citations:
 
 Example:
 
-Employees are entitled to paid annual leave.
+A construction permit application requires the documents listed by the authority.
 
 [[SOURCES]]
 
-Document: Vacation_Policy.pdf | Citations: Employees receive a fixed number of paid vacation days annually; Vacation must be approved by the manager.
+Document: autorizatia-de-construire.md | Citations: The application requires the listed supporting documents.
 """.strip()
+
+
+def detect_supported_language(text: str) -> str:
+    if any("а" <= char.lower() <= "я" or char.lower() == "ё" for char in text):
+        return "ru"
+    romanian_markers = {"care", "este", "pentru", "primărie", "serviciu", "documente", "cum"}
+    words = {part.strip(".,?!:;()[]\"").lower() for part in text.split()}
+    if words & romanian_markers or any(char in text.lower() for char in "ăâîșț"):
+        return "ro"
+    return "en"
+
+
+def no_context_message(user_message: str) -> str:
+    language = detect_supported_language(user_message)
+    if language == "ru":
+        return (
+            "В муниципальной базе знаний пока нет подтверждённой информации по этому вопросу. "
+            "Уточните услугу или обратитесь в соответствующий орган местной власти."
+        )
+    if language == "ro":
+        return (
+            "Baza municipală de cunoștințe nu conține încă informații confirmate despre această întrebare. "
+            "Precizați serviciul sau contactați autoritatea publică locală competentă."
+        )
+    return (
+        "The municipal knowledge base does not yet contain verified information for this question. "
+        "Please clarify the service or contact the relevant local authority."
+    )
+
+
+def model_unavailable_message(user_message: str) -> str:
+    language = detect_supported_language(user_message)
+    if language == "ru":
+        return "Сервис ответов временно недоступен. Пожалуйста, повторите запрос позже."
+    if language == "ro":
+        return "Serviciul de răspuns este temporar indisponibil. Încercați din nou mai târziu."
+    return "The answer service is temporarily unavailable. Please try again later."

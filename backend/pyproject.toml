@@ -1,7 +1,7 @@
 [project]
-name = "hr-bot-backend"
+name = "civis-backend"
 version = "0.1.0"
-description = "HR Bot FastAPI backend"
+description = "CIVIS municipal services assistant backend"
 readme = "README.md"
 requires-python = ">=3.12"
 

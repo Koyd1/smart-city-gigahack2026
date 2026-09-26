@@ -4,6 +4,7 @@ import { PrismaClientKnownRequestError } from "@prisma/client/runtime/library";
 
 import { prisma } from "@/lib/db";
 import { resolveRequestSession } from "@/lib/request-session";
+import { consumeRateLimit, requestIp } from "@/lib/rate-limit";
 
 const bodySchema = z.object({
   sessionId: z.string().min(8).optional(),
@@ -13,6 +14,18 @@ const bodySchema = z.object({
 });
 
 export async function POST(request: Request) {
+  const limit = await consumeRateLimit({
+    key: `feedback:${requestIp(request)}`,
+    capacity: 20,
+    refillPerSecond: 20 / 60
+  });
+  if (!limit.allowed) {
+    return NextResponse.json(
+      { error: "Too many feedback requests" },
+      { status: 429, headers: { "retry-after": String(limit.retryAfterSeconds) } }
+    );
+  }
+
   const parsed = bodySchema.safeParse(await request.json().catch(() => null));
   if (!parsed.success) {
     return NextResponse.json({ error: "Invalid payload" }, { status: 400 });

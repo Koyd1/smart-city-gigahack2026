@@ -5,7 +5,7 @@ from typing import Any
 
 import tiktoken
 
-from app.core.chat_prompt import HR_ASSISTANT_SYSTEM_PROMPT
+from app.core.chat_prompt import CIVIS_SYSTEM_PROMPT
 
 
 def _encoding_for_model(model: str):
@@ -50,7 +50,7 @@ def estimate_legacy_chat_usage(
         if isinstance(snippet, str) and snippet.strip():
             source_snippets.append(snippet.strip())
 
-    prompt_parts = [HR_ASSISTANT_SYSTEM_PROMPT, user_message.strip(), *source_snippets]
+    prompt_parts = [CIVIS_SYSTEM_PROMPT, user_message.strip(), *source_snippets]
     prompt_tokens = count_tokens("\n\n".join(part for part in prompt_parts if part), model=model)
     completion_tokens = count_tokens(assistant_message.strip(), model=model)
     total_tokens = prompt_tokens + completion_tokens

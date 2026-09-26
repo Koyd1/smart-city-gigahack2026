@@ -4,9 +4,11 @@ import asyncio
 import logging
 import tempfile
 from dataclasses import dataclass
+from datetime import datetime
 from pathlib import Path
 from uuid import uuid4
 
+import tiktoken
 from sqlalchemy import delete, select
 from sqlalchemy.ext.asyncio import async_sessionmaker
 
@@ -33,14 +35,19 @@ class RAGIngestPipeline:
         embedder: Embedder,
         image_captioner: ImageCaptioner,
         tmp_dir: str,
+        chunk_size: int = 700,
+        chunk_overlap: int = 100,
     ) -> None:
         self._session_factory = session_factory
         self._embedder = embedder
         self._image_captioner = image_captioner
         self._tmp_dir = tmp_dir
+        self._chunk_size = max(100, chunk_size)
+        self._chunk_overlap = min(max(0, chunk_overlap), self._chunk_size - 1)
+        self._encoding = tiktoken.get_encoding("cl100k_base")
         Path(self._tmp_dir).mkdir(parents=True, exist_ok=True)
 
-    async def run(self, file_id: str) -> None:
+    async def run(self, file_id: str, attempt: int = 1) -> None:
         async with self._session_factory() as session:
             file = await session.scalar(select(KnowledgeFile).where(KnowledgeFile.id == file_id))
             if file is None:
@@ -48,10 +55,15 @@ class RAGIngestPipeline:
                 return
 
             file.status = "PROCESSING"
+            file.ingest_attempts = max(file.ingest_attempts, attempt)
+            file.ingest_error = None
+            file.processing_started_at = datetime.utcnow()
+            file.heartbeat_at = datetime.utcnow()
             await session.commit()
 
         try:
             chunks = await self._extract_chunks(file_id)
+            await self._heartbeat(file_id)
             embeddings = await self._embedder.embed_texts(chunks)
 
             async with self._session_factory() as session:
@@ -76,15 +88,27 @@ class RAGIngestPipeline:
 
                 file.chunk_count = len(chunks)
                 file.status = "READY"
+                file.ingest_error = None
+                file.heartbeat_at = datetime.utcnow()
                 await session.commit()
 
-        except Exception:
-            LOGGER.exception("ingest.failed", extra={"file_id": file_id})
+        except Exception as exc:
+            LOGGER.exception("ingest.failed", extra={"file_id": file_id, "attempt": attempt})
             async with self._session_factory() as session:
                 file = await session.scalar(select(KnowledgeFile).where(KnowledgeFile.id == file_id))
                 if file:
                     file.status = "ERROR"
+                    file.ingest_error = str(exc)[:2000]
+                    file.heartbeat_at = datetime.utcnow()
                     await session.commit()
+            raise
+
+    async def _heartbeat(self, file_id: str) -> None:
+        async with self._session_factory() as session:
+            file = await session.scalar(select(KnowledgeFile).where(KnowledgeFile.id == file_id))
+            if file:
+                file.heartbeat_at = datetime.utcnow()
+                await session.commit()
 
     async def _extract_chunks(self, file_id: str) -> list[str]:
         async with self._session_factory() as session:
@@ -147,17 +171,22 @@ class RAGIngestPipeline:
 
         raise ValueError(f"Unsupported extension: {ext}")
 
-    def _split_text(self, text: str, chunk_size: int = 1200, overlap: int = 150) -> list[str]:
-        clean = " ".join(text.split())
+    def _split_text(self, text: str) -> list[str]:
+        # Preserve paragraph boundaries before applying a token limit.
+        paragraphs = [" ".join(part.split()) for part in text.split("\n") if part.strip()]
+        clean = "\n\n".join(paragraphs)
         if not clean:
             return []
 
+        tokens = self._encoding.encode(clean)
         chunks: list[str] = []
         start = 0
-        while start < len(clean):
-            end = min(start + chunk_size, len(clean))
-            chunks.append(clean[start:end])
-            if end >= len(clean):
+        while start < len(tokens):
+            end = min(start + self._chunk_size, len(tokens))
+            chunk = self._encoding.decode(tokens[start:end]).strip()
+            if chunk:
+                chunks.append(chunk)
+            if end >= len(tokens):
                 break
-            start = max(0, end - overlap)
+            start = end - self._chunk_overlap
         return chunks

@@ -23,8 +23,8 @@ type KnowledgeDoc = {
 };
 
 function getSourceDownloadUrl(source: ChatSource): string | undefined {
-  if (typeof (source as { url?: string }).url === "string") {
-    return (source as { url?: string }).url;
+  if (typeof source.url === "string") {
+    return source.url;
   }
 
   if (typeof source.fileId === "string" && /^(https?:)?\/\//.test(source.fileId)) {

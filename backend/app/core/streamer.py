@@ -9,7 +9,7 @@ from typing import Awaitable, Callable
 
 from openai import AsyncOpenAI
 
-from app.core.chat_prompt import HR_ASSISTANT_SYSTEM_PROMPT
+from app.core.chat_prompt import CIVIS_SYSTEM_PROMPT, model_unavailable_message
 from app.core.usage import UsageTelemetry
 
 LOGGER = logging.getLogger(__name__)
@@ -71,32 +71,30 @@ class ChatStreamer:
                     started = perf_counter()
                     final_usage: UsageTelemetry | None = None
 
-                    stream = await self._client.chat.completions.create(
+                    stream = await self._client.responses.create(
                         model=model_name,
                         stream=True,
-                        stream_options={"include_usage": True},
                         temperature=0.2,
-                        messages=[
-                            {"role": "system", "content": HR_ASSISTANT_SYSTEM_PROMPT},
-                            {"role": "system", "content": f"Context:\n{context_text}"},
+                        input=[
+                            {"role": "developer", "content": f"Context:\n{context_text}"},
                             {"role": "user", "content": user_message},
                         ],
+                        instructions=CIVIS_SYSTEM_PROMPT,
                     )
 
-                    async for chunk in stream:
-                        if getattr(chunk, "usage", None) is not None:
-                            usage = chunk.usage
+                    async for event in stream:
+                        if event.type == "response.completed":
+                            usage = event.response.usage
                             final_usage = UsageTelemetry(
                                 operation="chat",
                                 model=model_name,
-                                prompt_tokens=int(getattr(usage, "prompt_tokens", 0) or 0),
-                                completion_tokens=int(getattr(usage, "completion_tokens", 0) or 0),
+                                prompt_tokens=int(getattr(usage, "input_tokens", 0) or 0),
+                                completion_tokens=int(getattr(usage, "output_tokens", 0) or 0),
                                 total_tokens=int(getattr(usage, "total_tokens", 0) or 0),
                                 latency_ms=int((perf_counter() - started) * 1000),
                             )
-                        delta = chunk.choices[0].delta.content if chunk.choices else None
-                        if delta:
-                            yield delta
+                        elif event.type == "response.output_text.delta":
+                            yield event.delta
 
                     if final_usage is not None and usage_callback is not None:
                         maybe_awaitable = usage_callback(final_usage)
@@ -122,11 +120,7 @@ class ChatStreamer:
                 yield token
 
     def _fallback_answer(self, user_message: str, sources: list[Source]) -> str:
-        return (
-            "Сейчас не удалось сгенерировать ответ моделью. "
-            "Попробуйте повторить запрос позже. "
-            f"Ваш запрос: {user_message}"
-        )
+        return model_unavailable_message(user_message)
 
     async def _fallback_tokens(
         self,

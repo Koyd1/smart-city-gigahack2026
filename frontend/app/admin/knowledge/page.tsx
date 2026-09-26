@@ -12,6 +12,9 @@ const POLLABLE_STATUSES = new Set<KnowledgeFileRow["status"]>(["PENDING", "PROCE
 
 type ListResponse = {
   items: KnowledgeFileRow[];
+  total: number;
+  page: number;
+  totalPages: number;
 };
 
 type LoadFilesOptions = {
@@ -50,6 +53,7 @@ function filesAreEqual(current: KnowledgeFileRow[], next: KnowledgeFileRow[]): b
     return (
       file.id === candidate.id &&
       file.filename === candidate.filename &&
+      file.displayName === candidate.displayName &&
       file.size === candidate.size &&
       file.status === candidate.status &&
       file.chunkCount === candidate.chunkCount &&
@@ -66,28 +70,16 @@ export default function AdminKnowledgePage() {
   const [busyId, setBusyId] = useState<string | null>(null);
   const [error, setError] = useState<string | null>(null);
   const [search, setSearch] = useState("");
+  const [debouncedSearch, setDebouncedSearch] = useState("");
   const [sortOrder, setSortOrder] = useState<"newest" | "oldest">("newest");
+  const [page, setPage] = useState(1);
+  const [totalCount, setTotalCount] = useState(0);
+  const [totalPages, setTotalPages] = useState(1);
 
   const hasPollableRows = useMemo(
     () => files.some((file) => POLLABLE_STATUSES.has(file.status)),
     [files]
   );
-  const filteredFiles = useMemo(() => {
-    const normalized = search.trim().toLowerCase();
-    const filtered = normalized
-      ? files.filter((file) => file.filename.toLowerCase().includes(normalized))
-      : files;
-
-    return [...filtered].sort((left, right) => {
-      const leftDate = new Date(left.createdAt).getTime();
-      const rightDate = new Date(right.createdAt).getTime();
-      if (sortOrder === "oldest") {
-        return leftDate - rightDate;
-      }
-      return rightDate - leftDate;
-    });
-  }, [files, search, sortOrder]);
-
   const loadFiles = useCallback(async ({ silent = false }: LoadFilesOptions = {}) => {
     if (!silent) {
       setLoading(true);
@@ -95,13 +87,25 @@ export default function AdminKnowledgePage() {
     }
 
     try {
-      const response = await fetch("/api/upload", { cache: "no-store" });
+      const params = new URLSearchParams({
+        page: String(page),
+        limit: "50",
+        search: debouncedSearch,
+        sort: sortOrder
+      });
+      const response = await fetch(`/api/upload?${params.toString()}`, { cache: "no-store" });
       if (!response.ok) {
         throw new Error(t("admin.knowledge.loadFailed"));
       }
       const payload = (await response.json()) as ListResponse;
       const nextFiles = payload.items ?? [];
+      setError(null);
       setFiles((current) => (filesAreEqual(current, nextFiles) ? current : nextFiles));
+      setTotalCount(payload.total ?? nextFiles.length);
+      setTotalPages(payload.totalPages ?? 1);
+      if (payload.page && payload.page !== page) {
+        setPage(payload.page);
+      }
     } catch {
       if (!silent) {
         setError(t("admin.knowledge.loadFailed"));
@@ -111,7 +115,15 @@ export default function AdminKnowledgePage() {
         setLoading(false);
       }
     }
-  }, []);
+  }, [debouncedSearch, page, sortOrder, t]);
+
+  useEffect(() => {
+    const timer = window.setTimeout(() => {
+      setPage(1);
+      setDebouncedSearch(search.trim());
+    }, 300);
+    return () => window.clearTimeout(timer);
+  }, [search]);
 
   useEffect(() => {
     void loadFiles();
@@ -249,12 +261,18 @@ export default function AdminKnowledgePage() {
 
       <div className="pt-14">
         <FileTable
-          files={filteredFiles}
-          totalCount={files.length}
+          files={files}
+          totalCount={totalCount}
           loading={loading}
           busyId={busyId}
           sortOrder={sortOrder}
-          onSortOrderChange={setSortOrder}
+          onSortOrderChange={(value) => {
+            setPage(1);
+            setSortOrder(value);
+          }}
+          page={page}
+          totalPages={totalPages}
+          onPageChange={setPage}
           onDownload={handleDownload}
           onDelete={handleDelete}
           onReindex={handleReindex}

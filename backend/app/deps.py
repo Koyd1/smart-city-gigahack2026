@@ -16,10 +16,16 @@ embedder = Embedder(
     api_key=settings.openai_api_key,
     model=settings.openai_embedding_model,
     dimensions=settings.openai_embedding_dim,
+    allow_fake_embeddings=settings.allow_fake_embeddings,
+    timeout_seconds=settings.openai_timeout_seconds,
+    max_retries=settings.openai_max_retries,
 )
 retriever = Retriever(
     top_k=settings.rag_top_k,
     similarity_threshold=settings.rag_sim_threshold,
+    probes=settings.rag_retriever_probes,
+    exact_scan_max_chunks=settings.rag_retriever_exact_scan_max_chunks,
+    primary_document_chunks=settings.rag_primary_document_chunks,
 )
 chat_fallback_models = [
     item.strip()
@@ -44,6 +50,8 @@ ingest_pipeline = RAGIngestPipeline(
     embedder=embedder,
     image_captioner=image_captioner,
     tmp_dir=settings.ingest_tmp_dir,
+    chunk_size=settings.rag_chunk_size,
+    chunk_overlap=settings.rag_chunk_overlap,
 )
 
 

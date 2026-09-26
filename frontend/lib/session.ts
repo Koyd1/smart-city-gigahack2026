@@ -1,4 +1,5 @@
 import { prisma } from "@/lib/db";
+import { randomUUID } from "crypto";
 
 const SIX_HOURS_MS = 6 * 60 * 60 * 1000;
 const ONE_HOUR_MS = 60 * 60 * 1000;
@@ -49,19 +50,43 @@ async function withDbRetry<T>(operation: () => Promise<T>): Promise<T> {
   throw lastError instanceof Error ? lastError : new Error("Database query failed");
 }
 
-export async function ensurePublicUserId(): Promise<string> {
-  const guest = await prisma.user.upsert({
-    where: { email: "guest@public.local" },
-    update: { role: "USER" },
-    create: {
-      email: "guest@public.local",
-      passwordHash: "__public_access__",
-      role: "USER"
-    },
-    select: { id: true }
+export function createPublicIdentity(): { email: string; passwordHash: string } {
+  return {
+    email: `guest+${randomUUID()}@public.local`,
+    passwordHash: "__public_access__"
+  };
+}
+
+export async function createPublicSession(): Promise<AppSession> {
+  const identity = createPublicIdentity();
+  const expiresAt = new Date(Date.now() + SIX_HOURS_MS);
+
+  const created = await prisma.$transaction(async (tx) => {
+    const user = await tx.user.create({
+      data: {
+        ...identity,
+        role: "USER"
+      },
+      select: { id: true }
+    });
+
+    return tx.session.create({
+      data: {
+        userId: user.id,
+        persistent: true,
+        expiresAt
+      },
+      select: {
+        id: true,
+        userId: true,
+        persistent: true,
+        expiresAt: true,
+        terminatedAt: true
+      }
+    });
   });
 
-  return guest.id;
+  return toAppSession(created);
 }
 
 function toAppSession(row: {

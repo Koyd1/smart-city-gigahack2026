@@ -49,13 +49,12 @@ class HallucinationJudge:
         try:
             context_text = "\n\n".join(context_blocks[:8])[:12000]
             started = perf_counter()
-            response = await self._client.chat.completions.create(
+            response = await self._client.responses.create(
                 model=self._model,
                 temperature=0,
-                response_format={"type": "json_object"},
-                messages=[
+                input=[
                     {
-                        "role": "system",
+                        "role": "developer",
                         "content": (
                             "You are a nuanced RAG grounding-risk judge. "
                             "Return only JSON: {\"hallScore\": float, \"reason\": string}. "
@@ -66,13 +65,29 @@ class HallucinationJudge:
                             "Do not over-penalize reasonable paraphrase."
                         ),
                     },
-                    {"role": "system", "content": f"Context:\n{context_text}"},
+                    {"role": "developer", "content": f"Context:\n{context_text}"},
                     {"role": "user", "content": f"Answer:\n{answer}"},
                 ],
+                text={
+                    "format": {
+                        "type": "json_schema",
+                        "name": "grounding_risk",
+                        "strict": True,
+                        "schema": {
+                            "type": "object",
+                            "properties": {
+                                "hallScore": {"type": "number", "minimum": 0, "maximum": 1},
+                                "reason": {"type": "string"},
+                            },
+                            "required": ["hallScore", "reason"],
+                            "additionalProperties": False,
+                        },
+                    }
+                },
             )
             latency_ms = int((perf_counter() - started) * 1000)
 
-            raw = response.choices[0].message.content if response.choices else None
+            raw = response.output_text
             if not raw:
                 return {
                     "hallScore": 0.5,
@@ -111,8 +126,16 @@ def _usage_payload(*, response_usage: Any, model: str) -> dict[str, Any]:
     telemetry = UsageTelemetry(
         operation="judge",
         model=model,
-        prompt_tokens=int(getattr(response_usage, "prompt_tokens", 0) or 0),
-        completion_tokens=int(getattr(response_usage, "completion_tokens", 0) or 0),
+        prompt_tokens=int(
+            getattr(response_usage, "input_tokens", None)
+            or getattr(response_usage, "prompt_tokens", 0)
+            or 0
+        ),
+        completion_tokens=int(
+            getattr(response_usage, "output_tokens", None)
+            or getattr(response_usage, "completion_tokens", 0)
+            or 0
+        ),
         total_tokens=int(getattr(response_usage, "total_tokens", 0) or 0),
     )
     return telemetry.as_payload()

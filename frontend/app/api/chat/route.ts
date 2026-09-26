@@ -3,6 +3,11 @@ import { NextResponse } from "next/server";
 import { calculateUsageCosts, type PersistableUsageEvent } from "@/lib/aiUsage";
 import { prisma } from "@/lib/db";
 import { resolveRequestSession } from "@/lib/request-session";
+import {
+  acquireConcurrencyLease,
+  consumeRateLimit,
+  requestIp
+} from "@/lib/rate-limit";
 
 export const runtime = "nodejs";
 
@@ -24,6 +29,7 @@ type SourcePayload = {
   filename?: string;
   similarity?: number;
   snippet?: string;
+  url?: string;
 };
 
 type TelemetryPayload = {
@@ -239,7 +245,7 @@ async function backfillHallScore(params: {
 
 async function persistDoneFromSSE(
   stream: ReadableStream<Uint8Array>,
-  ctx: SessionContext & { userMessage: string }
+  ctx: SessionContext & { userMessage: string; releaseLeases: () => Promise<void> }
 ) {
   const reader = stream.getReader();
   const decoder = new TextDecoder();
@@ -352,7 +358,30 @@ async function persistDoneFromSSE(
     return;
   } finally {
     reader.releaseLock();
+    await ctx.releaseLeases();
   }
+}
+
+async function budgetAvailable(): Promise<boolean> {
+  const dailyLimit = Number(process.env.DAILY_AI_BUDGET_USD ?? "5");
+  const monthlyLimit = Number(process.env.MONTHLY_AI_BUDGET_USD ?? "100");
+  const now = new Date();
+  const dayStart = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), now.getUTCDate()));
+  const monthStart = new Date(Date.UTC(now.getUTCFullYear(), now.getUTCMonth(), 1));
+  const [daily, monthly] = await Promise.all([
+    prisma.aiUsageEvent.aggregate({
+      where: { createdAt: { gte: dayStart } },
+      _sum: { costTotalUsd: true }
+    }),
+    prisma.aiUsageEvent.aggregate({
+      where: { createdAt: { gte: monthStart } },
+      _sum: { costTotalUsd: true }
+    })
+  ]);
+  return (
+    (daily._sum.costTotalUsd ?? 0) < dailyLimit &&
+    (monthly._sum.costTotalUsd ?? 0) < monthlyLimit
+  );
 }
 
 async function resolveSessionContext(request: Request, bodySessionId?: unknown): Promise<SessionContext | null> {
@@ -425,6 +454,43 @@ export async function POST(request: Request) {
     return NextResponse.json({ error: "Session is not active" }, { status: 401 });
   }
 
+  const ip = requestIp(request);
+  const [ipLimit, sessionLimit, hasBudget] = await Promise.all([
+    consumeRateLimit({ key: `chat-ip:${ip}`, capacity: 30, refillPerSecond: 30 / 60 }),
+    consumeRateLimit({
+      key: `chat-session:${ctx.sessionId}`,
+      capacity: 12,
+      refillPerSecond: 12 / 60
+    }),
+    budgetAvailable()
+  ]);
+  if (!ipLimit.allowed || !sessionLimit.allowed) {
+    const retryAfter = Math.max(ipLimit.retryAfterSeconds, sessionLimit.retryAfterSeconds);
+    return NextResponse.json(
+      { error: "Too many chat requests" },
+      { status: 429, headers: { "retry-after": String(retryAfter) } }
+    );
+  }
+  if (!hasBudget) {
+    return NextResponse.json(
+      { error: "The AI usage budget has been reached. Please try again later." },
+      { status: 503 }
+    );
+  }
+
+  const sessionLease = await acquireConcurrencyLease(`session:${ctx.sessionId}`, 1);
+  if (!sessionLease.acquired) {
+    return NextResponse.json({ error: "A response is already being generated" }, { status: 429 });
+  }
+  const ipLease = await acquireConcurrencyLease(`ip:${ip}`, 3);
+  if (!ipLease.acquired) {
+    await sessionLease.release();
+    return NextResponse.json({ error: "Too many concurrent responses" }, { status: 429 });
+  }
+  const releaseLeases = async () => {
+    await Promise.all([sessionLease.release(), ipLease.release()]);
+  };
+
   const messages = payload.messages ?? [];
   const lastUserMessage = [...messages].reverse().find((msg) => msg.role === "user")?.content ?? "";
 
@@ -441,6 +507,7 @@ export async function POST(request: Request) {
       })
     });
   } catch (error) {
+    await releaseLeases();
     const maybeCode =
       error && typeof error === "object" && "cause" in error
         ? (error as { cause?: { code?: string } }).cause?.code
@@ -458,6 +525,7 @@ export async function POST(request: Request) {
 
   if (!upstream.ok || !upstream.body) {
     const text = await upstream.text();
+    await releaseLeases();
     return new Response(text || "Chat backend error", { status: upstream.status || 500 });
   }
 
@@ -469,7 +537,8 @@ export async function POST(request: Request) {
     email: ctx.email,
     role: ctx.role,
     persistent: ctx.persistent,
-    expiresAt: ctx.expiresAt
+    expiresAt: ctx.expiresAt,
+    releaseLeases
   });
 
   return new Response(clientStream, {

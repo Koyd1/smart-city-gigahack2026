@@ -8,14 +8,34 @@ from fastapi import APIRouter, Depends, HTTPException
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
 from sqlalchemy.ext.asyncio import AsyncSession
-from app.core.source_parser import parse_model_sources
+from app.core.source_parser import parse_model_sources, resolve_source_name
 from app.core.hallucination import score_hallucination
+from app.core.chat_prompt import no_context_message
+from app.core.embedder import EmbeddingUnavailableError
+from app.core.token_estimation import count_tokens
+from app.config import settings
 from app.core.streamer import encode_sse, Source
 from app.db.models import KnowledgeFile
 from app.deps import chat_streamer, embedder, get_db, retriever
 
 router = APIRouter(prefix="/chat", tags=["chat"])
 LOGGER = logging.getLogger(__name__)
+
+
+def _source_display_name(source, fallback: str) -> str:
+    metadata = source.metadata if isinstance(source.metadata, dict) else {}
+    title = metadata.get("title")
+    if isinstance(title, str) and title.strip():
+        return title.strip()
+    return fallback
+
+
+def _source_url(source) -> str | None:
+    metadata = source.metadata if isinstance(source.metadata, dict) else {}
+    url = metadata.get("source_url")
+    if isinstance(url, str) and url.startswith(("https://", "http://")):
+        return url
+    return None
 
 
 class ChatMessage(BaseModel):
@@ -34,22 +54,24 @@ async def chat(request: ChatRequest, db: AsyncSession = Depends(get_db)) -> Stre
     if last_user is None:
         raise HTTPException(status_code=400, detail="At least one user message is required")
 
+    input_tokens = sum(
+        count_tokens(message.content, model=settings.openai_chat_model)
+        for message in request.messages
+    )
+    if input_tokens > settings.max_chat_input_tokens:
+        raise HTTPException(status_code=413, detail="Conversation history is too large")
+
     LOGGER.info(
         "chat.request_received",
         extra={"session_id": request.session_id, "messages_count": len(request.messages)},
     )
 
-    query_embeddings, embedding_telemetry = await embedder.embed_texts_with_telemetry([last_user.content])
+    try:
+        query_embeddings, embedding_telemetry = await embedder.embed_texts_with_telemetry([last_user.content])
+    except EmbeddingUnavailableError as exc:
+        raise HTTPException(status_code=503, detail="Semantic search is temporarily unavailable") from exc
     query_embedding = query_embeddings[0]
-    sources = await retriever.retrieve(db, query_embedding)
-#     sources = sorted(
-#     sources,
-#     key=lambda s: (
-#         s.similarity,
-#         query_overlap_score(s.content, last_user.content)
-#     ),
-#     reverse=True
-# )
+    sources = await retriever.retrieve(db, query_embedding, last_user.content)
     LOGGER.info(
         "chat.sources_retrieved",
         extra={"session_id": request.session_id, "sources_count": len(sources)},
@@ -75,7 +97,10 @@ async def chat(request: ChatRequest, db: AsyncSession = Depends(get_db)) -> Stre
             files_map = {str(row[0]): str(row[1]) for row in result.all()}
             
             for source in sources:
-                source.filename = files_map.get(source.file_id, "unknown")
+                source.filename = _source_display_name(
+                    source,
+                    files_map.get(source.file_id, "unknown"),
+                )
             filename_to_similarity: dict[str, float] = {}
             filename_to_fileid: dict[str, str] = {}
             for source in sources:
@@ -87,29 +112,12 @@ async def chat(request: ChatRequest, db: AsyncSession = Depends(get_db)) -> Stre
                     filename_to_similarity[fname] = sim
                     filename_to_fileid[fname] = source.file_id
 
-        # We used to send the retrieved chunks as sources here (from the DB).
-        #
-        # sources_payload = [
-        #     {
-        #         "fileId": source.file_id,
-        #         "filename": getattr(source, 'filename', files_map.get(source.file_id, "unknown")),
-        #         "similarity": round(source.similarity, 4)
-        #         if isinstance(source.similarity, float) and math.isfinite(source.similarity)
-        #         else 0.0,
-        #         "snippet": source.content[:220],
-        #     }
-        #     for source in sources
-        # ]
-        # yield encode_sse({"type": "sources", "data": sources_payload})
         for telemetry in pending_telemetry:
             yield encode_sse({"type": "telemetry", "data": telemetry})
 
         if not sources:
             LOGGER.info("chat.no_context", extra={"session_id": request.session_id})
-            answer = (
-                "В базе знаний пока нет релевантной информация по этому вопросу. "
-                "Загрузите HR-документы в раздел Knowledge и повторите запрос."
-            )
+            answer = no_context_message(last_user.content)
             heuristic = score_hallucination(answer, [])
             yield encode_sse(
                 {
@@ -130,7 +138,7 @@ async def chat(request: ChatRequest, db: AsyncSession = Depends(get_db)) -> Stre
             Source(
                 file_id=source.file_id,
                 content=source.content,
-                filename=getattr(source, 'filename', files_map.get(source.file_id, "unknown"))
+                filename=source.filename or files_map.get(source.file_id, "unknown")
             )
             for source in sources
         ]
@@ -154,13 +162,17 @@ async def chat(request: ChatRequest, db: AsyncSession = Depends(get_db)) -> Stre
 
         filename_to_max_similarity: dict[str, float] = {}
         filename_to_fileid: dict[str, str] = {}
+        filename_to_url: dict[str, str] = {}
         for source in sources:
-            filename = getattr(source, 'filename', files_map.get(source.file_id, "unknown"))
+            filename = source.filename or files_map.get(source.file_id, "unknown")
             sim = source.similarity or 0.0
             current_max = filename_to_max_similarity.get(filename, 0.0)
             if sim > current_max:
                 filename_to_max_similarity[filename] = sim
                 filename_to_fileid[filename] = source.file_id
+                url = _source_url(source)
+                if url:
+                    filename_to_url[filename] = url
         
         # Build sources from model answer with fileId included
         model_sources_payload = []
@@ -172,15 +184,20 @@ async def chat(request: ChatRequest, db: AsyncSession = Depends(get_db)) -> Stre
                 )
                 continue
             
-            max_similarity = filename_to_max_similarity.get(doc_name, 0.0)
+            matched_name = resolve_source_name(doc_name, list(filename_to_max_similarity))
+            canonical_name = matched_name or doc_name
+            max_similarity = filename_to_max_similarity.get(canonical_name, 0.0)
             payload: dict[str, object] = {
-                "filename": doc_name,
+                "filename": canonical_name,
                 "similarity": round(max_similarity, 4) if isinstance(max_similarity, float) and math.isfinite(max_similarity) else 0.0,
                 "snippet": citations,  # Citations from model
             }
-            file_id = filename_to_fileid.get(doc_name)
+            file_id = filename_to_fileid.get(canonical_name)
             if file_id:
                 payload["fileId"] = file_id
+            source_url = filename_to_url.get(canonical_name)
+            if source_url:
+                payload["url"] = source_url
             model_sources_payload.append(payload)
         
         if model_sources_payload:

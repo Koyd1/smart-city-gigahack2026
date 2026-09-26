@@ -1,5 +1,7 @@
 from __future__ import annotations
 
+import asyncio
+import json
 import logging
 import time
 from datetime import datetime, timedelta
@@ -27,8 +29,38 @@ WINDOWS: dict[str, timedelta] = {
 
 @router.get("/detailed")
 async def detailed_health(db: AsyncSession = Depends(get_db)) -> dict[str, Any]:
-    openai_data = await _check_openai()
-    redis_data = await _check_redis()
+    cached = await _read_cached_metrics()
+    if cached is not None:
+        return cached
+
+    payload = await _compute_detailed_health(db)
+    await _cache_metrics(payload)
+    return payload
+
+
+@router.get("/metrics")
+async def admin_metrics(db: AsyncSession = Depends(get_db)) -> dict[str, Any]:
+    return await detailed_health(db)
+
+
+@router.get("/live")
+async def live() -> dict[str, str]:
+    return {"status": "ok"}
+
+
+@router.get("/ready")
+async def ready(db: AsyncSession = Depends(get_db)) -> dict[str, Any]:
+    redis_data, database_data = await asyncio.gather(_check_redis(), _check_database(db))
+    ready_ok = redis_data["ok"] and database_data["ok"]
+    return {
+        "status": "ok" if ready_ok else "error",
+        "timestamp": datetime.utcnow().isoformat(),
+        "services": {"redis": redis_data, "database": database_data},
+    }
+
+
+async def _compute_detailed_health(db: AsyncSession) -> dict[str, Any]:
+    openai_data, redis_data = await asyncio.gather(_check_openai(), _check_redis())
     database_data = await _check_database(db)
     analytics = await _build_analytics(db)
 
@@ -80,6 +112,31 @@ async def detailed_health(db: AsyncSession = Depends(get_db)) -> dict[str, Any]:
             **analytics["coverage"],
         },
     }
+
+
+async def _read_cached_metrics() -> dict[str, Any] | None:
+    client = redis_from_url(settings.redis_url, decode_responses=True)
+    try:
+        raw = await client.get("civis:health:metrics")
+        return json.loads(raw) if raw else None
+    except Exception:
+        return None
+    finally:
+        await client.aclose()
+
+
+async def _cache_metrics(payload: dict[str, Any]) -> None:
+    client = redis_from_url(settings.redis_url, decode_responses=True)
+    try:
+        await client.set(
+            "civis:health:metrics",
+            json.dumps(payload, ensure_ascii=False),
+            ex=settings.health_cache_seconds,
+        )
+    except Exception:
+        LOGGER.warning("health.cache_write_failed")
+    finally:
+        await client.aclose()
 
 
 def _section_status(ok: bool, *, warn: bool) -> str:

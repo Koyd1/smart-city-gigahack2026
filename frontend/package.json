@@ -1,12 +1,13 @@
 {
-  "name": "hr-bot-frontend",
+  "name": "civis-frontend",
   "version": "0.1.0",
   "private": true,
   "scripts": {
     "dev": "node scripts/run-with-root-env.cjs next dev",
     "build": "node scripts/run-with-root-env.cjs next build",
     "start": "node scripts/run-with-root-env.cjs next start",
-    "typecheck": "tsc --noEmit"
+    "typecheck": "tsc --noEmit",
+    "test": "tsx --test tests/*.test.ts"
   },
   "dependencies": {
     "@prisma/client": "^5.22.0",
@@ -15,25 +16,27 @@
     "clsx": "^2.1.1",
     "i18next": "^25.6.0",
     "lucide-react": "^0.577.0",
-    "next": "^16.1.7",
-    "next-auth": "^5.0.0-beta.25",
-    "react": "^19.0.0",
-    "react-dom": "^19.0.0",
+    "next": "^16.3.6",
+    "next-auth": "^5.0.0-beta.32",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
     "react-i18next": "^15.7.3",
     "recharts": "^2.15.4",
+    "redis": "^6.2.1",
     "tailwind-merge": "^3.5.0",
     "zod": "^3.23.8"
   },
   "devDependencies": {
-    "@tailwindcss/postcss": "^4.2.1",
+    "@tailwindcss/postcss": "^4.3.3",
     "@types/bcryptjs": "^2.4.6",
     "@types/node": "^22.10.2",
     "@types/react": "^19.0.1",
     "@types/react-dom": "^19.0.1",
-    "postcss": "^8.5.8",
+    "esbuild": "^0.28.1",
+    "postcss": "^8.5.28",
     "prisma": "^5.22.0",
-    "tailwindcss": "^4.2.1",
-    "tsx": "^4.19.2",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.15",
     "typescript": "^5.7.2"
   },
   "prisma": {

@@ -39,6 +39,10 @@ class KnowledgeFile(Base):
         nullable=False,
     )
     chunk_count: Mapped[int | None] = mapped_column(Integer, nullable=True)
+    ingest_attempts: Mapped[int] = mapped_column(Integer, nullable=False, default=0)
+    ingest_error: Mapped[str | None] = mapped_column(Text, nullable=True)
+    processing_started_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)
+    heartbeat_at: Mapped[datetime | None] = mapped_column(DateTime, nullable=True)
     uploaded_by: Mapped[str] = mapped_column(String, nullable=False)
     created_at: Mapped[datetime] = mapped_column(
         DateTime,
