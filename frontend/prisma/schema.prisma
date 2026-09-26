@@ -1,0 +1,149 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum Role {
+  ADMIN
+  USER
+}
+
+enum IndexStatus {
+  PENDING
+  PROCESSING
+  READY
+  ERROR
+}
+
+model User {
+  id           String    @id @default(cuid())
+  email        String    @unique
+  passwordHash String    @map("password_hash")
+  role         Role      @default(USER)
+  sessions     Session[]
+  feedbacks    Feedback[]
+  createdAt    DateTime  @default(now()) @map("created_at")
+
+  @@map("users")
+}
+
+model Session {
+  id           String    @id @default(cuid())
+  userId       String    @map("user_id")
+  user         User      @relation(fields: [userId], references: [id], onDelete: Cascade)
+  persistent   Boolean   @default(true)
+  expiresAt    DateTime  @map("expires_at")
+  terminatedAt DateTime? @map("terminated_at")
+  messages     Message[]
+  createdAt    DateTime  @default(now()) @map("created_at")
+
+  @@index([userId])
+  @@map("sessions")
+}
+
+model Message {
+  id              String         @id @default(cuid())
+  sessionId       String         @map("session_id")
+  session         Session        @relation(fields: [sessionId], references: [id], onDelete: Cascade)
+  role            String
+  content         String
+  sources         Json?
+  hallScore       Float?         @map("hall_score")
+  hallReason      String?        @map("hall_reason")
+  hallJudgeModel  String?        @map("hall_judge_model")
+  hallScoreSource String?        @map("hall_score_source")
+  hallEvaluatedAt DateTime?      @map("hall_evaluated_at")
+  feedback        Feedback?
+  usageEvents     AiUsageEvent[]
+  createdAt       DateTime       @default(now()) @map("created_at")
+
+  @@index([sessionId, createdAt])
+  @@map("messages")
+}
+
+model AiUsageEvent {
+  id                String    @id @default(cuid())
+  sessionId         String?   @map("session_id")
+  messageId         String?   @map("message_id")
+  message           Message?  @relation(fields: [messageId], references: [id], onDelete: Cascade)
+  operation         String
+  model             String
+  provider          String
+  usageSource       String    @default("exact") @map("usage_source")
+  promptTokens      Int       @default(0) @map("prompt_tokens")
+  completionTokens  Int       @default(0) @map("completion_tokens")
+  totalTokens       Int       @default(0) @map("total_tokens")
+  latencyMs         Int?      @map("latency_ms")
+  costInputUsd      Float?    @map("cost_input_usd")
+  costOutputUsd     Float?    @map("cost_output_usd")
+  costTotalUsd      Float?    @map("cost_total_usd")
+  status            String    @default("ok")
+  errorCode         String?   @map("error_code")
+  createdAt         DateTime  @default(now()) @map("created_at")
+
+  @@index([sessionId, createdAt])
+  @@index([messageId])
+  @@index([operation, createdAt])
+  @@index([model, createdAt])
+  @@map("ai_usage_events")
+}
+
+model Feedback {
+  id        String   @id @default(cuid())
+  messageId String   @unique @map("message_id")
+  message   Message  @relation(fields: [messageId], references: [id], onDelete: Cascade)
+  userId    String   @map("user_id")
+  user      User     @relation(fields: [userId], references: [id], onDelete: Cascade)
+  rating    Int
+  comment   String?
+  createdAt DateTime @default(now()) @map("created_at")
+
+  @@index([userId, createdAt])
+  @@map("feedbacks")
+}
+
+model KnowledgeFile {
+  id          String      @id @default(cuid())
+  filename    String
+  mimeType    String      @map("mime_type")
+  size        Int
+  storagePath String      @map("storage_path")
+  status      IndexStatus @default(PENDING)
+  chunkCount  Int?        @map("chunk_count")
+  uploadedBy  String      @map("uploaded_by")
+  createdAt   DateTime    @default(now()) @map("created_at")
+  updatedAt   DateTime    @updatedAt @map("updated_at")
+
+  @@index([status])
+  @@map("knowledge_files")
+}
+
+model PromptTemplate {
+  id        String   @id @default(cuid())
+  title     String
+  content   String
+  category  String?
+  order     Int      @default(0)
+  isActive  Boolean  @default(true) @map("is_active")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@index([isActive, order])
+  @@map("prompt_templates")
+}
+
+model FaqItem {
+  id        String   @id @default(cuid())
+  question  String
+  answer    String
+  category  String?
+  order     Int      @default(0)
+  isActive  Boolean  @default(true) @map("is_active")
+  updatedAt DateTime @updatedAt @map("updated_at")
+
+  @@index([isActive, order])
+  @@map("faq_items")
+}

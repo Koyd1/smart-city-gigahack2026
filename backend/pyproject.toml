@@ -1,0 +1,9 @@
+[project]
+name = "hr-bot-backend"
+version = "0.1.0"
+description = "HR Bot FastAPI backend"
+readme = "README.md"
+requires-python = ">=3.12"
+
+[tool.alembic]
+script_location = "alembic"
